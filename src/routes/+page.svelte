@@ -1,5 +1,6 @@
 <script>
   import { page } from "$app/stores"
+  import { base } from "$app/paths"
   let { sites } = $page.data
   console.log("data:", sites)
 </script>
@@ -9,7 +10,7 @@
   <ul>
     {#each sites as post}
       <li>
-        <a href={`/${post.fields.slug}`}>{post.fields.title}</a>
+        <a href={`${base}/${post.fields.slug}`}>{post.fields.title}</a>
         <p>{post.fields.date}</p>
       </li>
     {/each}

@@ -2,7 +2,7 @@
 
 import FusionCollection from 'fusionable/FusionCollection';
 
-export const ssr = false;
+export const prerender = true;
 export function load() {
   const collection = new FusionCollection()
     .loadFromDir('src/content/text')

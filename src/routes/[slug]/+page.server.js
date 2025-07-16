@@ -1,6 +1,14 @@
 import FusionCollection from 'fusionable/FusionCollection';
 
-export const ssr = false;
+export const prerender = true;
+
+export function entries() {
+  const collection = new FusionCollection().loadFromDir('src/content/text');
+  const posts = collection.getItemsArray();
+  return posts.map((post) => ({
+    slug: post.fields.slug
+  }));
+}
 
 export function load({ params }) {
   const collection = new FusionCollection().loadFromDir('src/content/text');
