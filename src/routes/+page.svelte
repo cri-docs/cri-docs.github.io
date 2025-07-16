@@ -2,7 +2,6 @@
   import { page } from "$app/stores"
   import { base } from "$app/paths"
   let { sites } = $page.data
-  console.log("data:", sites)
 </script>
 
 <main>
