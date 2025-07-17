@@ -1,14 +1,11 @@
-// src/routes/+page.server.js
+// // src/routes/+page.server.js
+// import FusionCollection from 'fusionable/FusionCollection';
 
-import FusionCollection from 'fusionable/FusionCollection';
+// export function load() {
+//   const collection = new FusionCollection()
+//     .loadFromDir('src/content/text')
+//     .orderBy('date', 'desc');
 
-export const prerender = true;
-export function load() {
-  const collection = new FusionCollection()
-    .loadFromDir('src/content/text')
-    .orderBy('date', 'desc');
-
-  const sites = collection.getItemsArray();
-  console.log('sites loaded:', sites);
-  return { sites };
-}
+//   const sites = collection.getItemsArray();
+//   return { sites };
+// }

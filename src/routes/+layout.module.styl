@@ -1,0 +1,30 @@
+.container
+  position relative
+  min-height 100vh
+  transition background-color 0.3s ease, color 0.3s ease
+  &.color
+    color white
+    background-color var(--color)
+  main
+    position relative
+    display flex
+    justify-content center
+    align-items flex-start
+    section
+      flex-shrink 0
+      width (100/3)vw
+      max-width 700px
+  header
+    position: -webkit-sticky; /* Safari */  
+    position sticky
+    top 0
+    padding var(--padding)
+    z-index 10
+    h1
+      position relative
+      width 100vw
+      margin 0
+    nav
+      position absolute
+      bottom 0
+      transform translateY(100%)

@@ -1,0 +1,6 @@
+/* 
+:root {
+  --small-font: 500 var(--small-font-size)/var(--small-line-height) var(--font-family);
+  --normal-font: 500 var(--normal-font-size)/var(--normal-line-height) var(--font-family);
+  --big-font: 400 var(--big-font-size)/var(--big-line-height) var(--font-family);
+} */

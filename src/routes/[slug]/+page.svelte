@@ -1,10 +1,11 @@
-<script lang="ts">
-  import type { PageData } from "./$types"
-  let { data }: { data: PageData } = $props()
+<script>
+  import { marked } from "marked"
+  import styles from "./page.module.styl"
+  let { data } = $props()
 </script>
 
-<article>
+<section class={styles.container}>
   <h1>{data.post.fields.title}</h1>
   <p>{data.post.fields.date}</p>
-  {@html data.post.content}
-</article>
+  {@html marked(data.post.content)}
+</section>
