@@ -1,5 +1,5 @@
 ---
-title: **Lösungsansätze aus den Sammlungen**
+title: "**Lösungsansätze aus den Sammlungen**"
 slug: Lösungsansätze_aus_den_Sammlungen
 layout: page
 order: 240

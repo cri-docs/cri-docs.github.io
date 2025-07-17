@@ -8,7 +8,6 @@
 
   const activePage = $derived.by(() => {
     const slug = $page.params.slug || "home"
-    console.log("Current Slug:", slug)
     if (!sites || !sites.length) return null
     if (slug === "home") return "home" // Default to the first site
     const site = sites.find((s) => s.fields.slug === slug)
