@@ -13,6 +13,7 @@ const config = {
 		prerender: {
 			// handleMissingId: 'warn',
 			handleMissingId: 'ignore',
+			handleHttpError: 'warn'
 			// handleHttpError: ({ path, referrer, message }) => {
 			// 	// ignore deliberate link to shiny 404 page
 			// 	if (path === '/not-found' && referrer === '/blog/how-we-built-our-404-page') {
@@ -26,7 +27,7 @@ const config = {
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
-			fallback: '/404.html',
+			fallback: '404.html',
 			precompress: false,
 			strict: true
 		}),
