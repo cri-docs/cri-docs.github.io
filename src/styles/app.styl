@@ -3,6 +3,9 @@
 // @import url('./raw.css')
 
 :root 
+  --text-width clamp(500px, (100/3)vw, 700px)
+  --nav-width calc((100vw - var(--text-width)) / 2)
+
   --padding 2.6rem
 
   --color blue
@@ -64,6 +67,7 @@ body
   width 100vw
 
 body
+  font-size 1.6rem
   margin 0
   padding 0
 

@@ -1,8 +1,11 @@
 <script>
   import { page } from "$app/stores"
-  import { base } from "$app/paths"
+
+  import Menu from "$lib/Menu/menu.svelte"
+
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
+
   let { sites } = $page.data
   let { children } = $props()
 
@@ -26,16 +29,7 @@
         für die Praxis mit besonderem Fokus auf den Anti-Schwarzen-Rassismus
       </a>
     </h1>
-    <nav>
-      <ul>
-        {#each sites as post}
-          <li>
-            <a href={`${base}/${post.fields.slug}`}>{post.fields.title}</a>
-            <p>{post.fields.date}</p>
-          </li>
-        {/each}
-      </ul>
-    </nav>
+    <Menu {sites} />
   </header>
   <main>
     {@render children()}
