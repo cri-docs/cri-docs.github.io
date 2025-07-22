@@ -6,8 +6,6 @@
   import { page } from "$app/stores"
 
   const { sites } = $props()
-
-  console.log($page)
 </script>
 
 <nav>
