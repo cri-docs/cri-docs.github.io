@@ -1,0 +1,79 @@
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The font file(s) should be placed relative to the regular CSS file.
+ *
+ */
+
+/*
+ * Legal Disclaimer for Trial Licence licence
+ *
+ * Trial Licence
+ *
+ * Trial Web License for evaluation, testing and presentation purposes on internal domains without public access only.
+ * 
+ * The font files may not be distributed, published or used on any other domain(s).
+ * 
+ * Any further use is strictly prohibited.
+ *
+ * For internal test and presentation use only.
+ * For both print use and web / electronic use on internal domains without public access. Licencee may create documents / visuals / web pages etc. for the purpose of evaluation and presentation to clients or other interested parties.
+ * Any further use is strictly prohibited. The font files may not be distributed, published or used on any other domain(s).
+ *
+ */
+
+/* complete */
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-Light";
+  src: url("LetteraTextLLTrialWeb-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-LightItalic";
+  src: url("LetteraTextLLTrialWeb-LightItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-Regular";
+  src: url("LetteraTextLLTrialWeb-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-Italic";
+  src: url("LetteraTextLLTrialWeb-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-Medium";
+  src: url("LetteraTextLLTrialWeb-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-MediumItalic";
+  src: url("LetteraTextLLTrialWeb-MediumItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-Bold";
+  src: url("LetteraTextLLTrialWeb-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-BoldItalic";
+  src: url("LetteraTextLLTrialWeb-BoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-Black";
+  src: url("LetteraTextLLTrialWeb-Black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LetteraTextLLTrialWeb-BlackItalic";
+  src: url("LetteraTextLLTrialWeb-BlackItalic.woff2") format("woff2");
+}
+
+

@@ -23,7 +23,6 @@
             {post.fields.title}
           </a>
         </div>
-        {console.log($page.params.slug, post.fields.slug)}
         {#if post.fields.toc && $page.params.slug === post.fields.slug}
           <ul>
             {#each post.fields.toc as item}

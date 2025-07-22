@@ -1,9 +1,9 @@
 
-// @import url('./fonts.styl');
+@import url('./fonts.styl');
 // @import url('./raw.css')
 
 :root 
-  --text-width clamp(500px, (100/3)vw, 700px)
+  --text-width clamp(450px, (100/3)vw, 600px)
   --nav-width calc((100vw - var(--text-width)) / 2)
 
   --padding 2.6rem
@@ -67,9 +67,15 @@ body
   width 100vw
 
 body
+  font-family 'LetteraTextLLTrialWeb', sans-serif
+  font-weight 500
+  font-style normal
   font-size 1.6rem
   margin 0
   padding 0
+
+p
+  hyphens auto
 
 
 // @media (hover:hover)
