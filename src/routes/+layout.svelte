@@ -29,9 +29,9 @@
         für die Praxis mit besonderem Fokus auf den Anti-Schwarzen-Rassismus
       </a>
     </h1>
-    <Menu {sites} />
   </header>
   <main>
+    <Menu {sites} />
     {@render children()}
   </main>
 </div>
