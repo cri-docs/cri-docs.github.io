@@ -1,11 +1,11 @@
----
+<!-- ---
 title: "Infobox"
 slug: "infobox"
 order: 10
 color: "blue"
 toc:
 
----
+--- -->
 
 **Umgang mit Sprache und Bildern**
 

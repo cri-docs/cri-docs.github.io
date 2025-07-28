@@ -3,7 +3,6 @@
   import { page } from "$app/stores"
 
   import footnotesData from "|/content/text/footnotes.json"
-  import Duplication from "$lib/Duplication/Duplication.svelte"
   import { currentFootnote } from "$lib/state.svelte.js"
 
   import styles from "./main.module.styl"
@@ -28,13 +27,11 @@
 
 <svelte:window bind:scrollY={y} />
 
-<Duplication>
-  <div class={styles.container}>
-    {#if footnotesData[$currentFootnote]}
-      <div class={styles.footnote}>
-        <!-- <h2>Footnote {$currentFootnote}</h2> -->
-        <p>{$currentFootnote} – {@html footnotesData[$currentFootnote]}</p>
-      </div>
-    {/if}
-  </div>
-</Duplication>
+<div class={styles.container}>
+  {#if footnotesData[$currentFootnote]}
+    <div class={styles.footnote}>
+      <!-- <h2>Footnote {$currentFootnote}</h2> -->
+      <p>{$currentFootnote} – {@html footnotesData[$currentFootnote]}</p>
+    </div>
+  {/if}
+</div>

@@ -38,11 +38,7 @@
   <h1>{data.post.fields.title}</h1>
   <p>{data.post.fields.date}</p>
   {#if mark}
-    {#if data.post.fields.type === "external"}
-      <External {mark} />
-    {:else}
-      {@html mark}
-    {/if}
+    {@html mark}
   {:else}
     <p>Loading content...</p>
   {/if}

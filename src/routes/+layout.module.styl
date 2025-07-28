@@ -1,6 +1,7 @@
 .container
   position relative
   min-height 100vh
+  padding-top var(--header-height-collapsed)
   transition background-color 0.3s ease, color 0.3s ease
   &.color
     color white
@@ -10,17 +11,16 @@
     display flex
     justify-content center
     align-items flex-start
-
-
-  header
-    position: -webkit-sticky; /* Safari */  
-    position sticky
-    top 0
-    padding var(--padding)
-    z-index 10
-    background-color var(--color)
-    color white
-    h1
-      position relative
+    flex-direction column
+    img
+      height calc(100vh + var(--header-height-collapsed))
       width 100vw
-      margin 0
+      object-fit cover
+      object-position center center
+    .content
+      display flex
+      align-items flex-start
+      justify-content center
+
+
+

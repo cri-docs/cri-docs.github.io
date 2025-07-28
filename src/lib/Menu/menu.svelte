@@ -1,7 +1,6 @@
 <script>
   import { base } from "$app/paths"
 
-  import Duplication from "$lib/Duplication/Duplication.svelte"
   import { slugify } from "$lib/utils.js"
 
   import styles from "./main.module.styl"
@@ -49,40 +48,38 @@
   })
 </script>
 
-<Duplication>
-  <nav>
-    <ul>
-      {#each sites as post, index}
-        <li>
-          <div class={styles.label}>
-            <div>{index}</div>
-            <a
-              href={`/${post.fields.slug}`}
-              class:active={$page.params.slug === `${post.fields.slug}`}
-            >
-              {post.fields.title}
-            </a>
-          </div>
-          {#if post.fields.toc && $page.params.slug === post.fields.slug}
-            <ul>
-              {#each post.fields.toc as item}
-                <li>
-                  <a
-                    href={`/${post.fields.slug}?sub=${slugify(item.title)}`}
-                    style={`padding-left: ${(item.level - 1) * 1.5}em;`}
-                    onclick={(e) =>
-                      handleAnchorClick({
-                        link: `${slugify(item.title)}`,
-                      })}
-                  >
-                    {@html marked.parseInline(item.title)}
-                  </a>
-                </li>
-              {/each}
-            </ul>
-          {/if}
-        </li>
-      {/each}
-    </ul>
-  </nav>
-</Duplication>
+<nav>
+  <ul>
+    {#each sites as post, index}
+      <li>
+        <div class={styles.label}>
+          <div>{index}</div>
+          <a
+            href={`/${post.fields.slug}`}
+            class:active={$page.params.slug === `${post.fields.slug}`}
+          >
+            {post.fields.title}
+          </a>
+        </div>
+        {#if post.fields.toc && $page.params.slug === post.fields.slug}
+          <ul>
+            {#each post.fields.toc as item}
+              <li>
+                <a
+                  href={`/${post.fields.slug}?sub=${slugify(item.title)}`}
+                  style={`padding-left: ${(item.level - 1) * 1.5}em;`}
+                  onclick={(e) =>
+                    handleAnchorClick({
+                      link: `${slugify(item.title)}`,
+                    })}
+                >
+                  {@html marked.parseInline(item.title)}
+                </a>
+              </li>
+            {/each}
+          </ul>
+        {/if}
+      </li>
+    {/each}
+  </ul>
+</nav>

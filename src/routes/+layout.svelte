@@ -1,5 +1,6 @@
 <script>
   import { page } from "$app/stores"
+  import Header from "$lib/Header/header.svelte"
 
   import Menu from "$lib/Menu/menu.svelte"
 
@@ -22,16 +23,15 @@
 </script>
 
 <div class={[styles.container, isColored ? styles.color : ""].join(" ")}>
-  <header>
-    <h1 class={styles.title}>
-      <a href="/">
-        Sammlungsdokumentation im Fokus<br />Ein rassismuskritisches Handbuch
-        für die Praxis mit besonderem Fokus auf den Anti-Schwarzen-Rassismus
-      </a>
-    </h1>
-  </header>
+  <Header />
   <main>
-    <Menu {sites} />
-    {@render children()}
+    <img
+      src="/images/pexels-sagui-andrea-200115-618833.jpg"
+      alt="Sunset behind some mountains"
+    />
+    <div class={styles.content}>
+      <Menu {sites} />
+      {@render children()}
+    </div>
   </main>
 </div>
