@@ -25,11 +25,13 @@
 <div class={[styles.container, isColored ? styles.color : ""].join(" ")}>
   <Header />
   <main>
-    <img
-      src="/images/pexels-sagui-andrea-200115-618833.jpg"
-      alt="Sunset behind some mountains"
-      class={$page?.params?.slug === "Editorial" ? styles.isHome : ""}
-    />
+    {#if $page?.params?.slug === "Editorial"}
+      <img
+        src="/images/pexels-sagui-andrea-200115-618833.jpg"
+        alt="Sunset behind some mountains"
+        class={$page?.params?.slug === "Editorial" ? styles.isHome : ""}
+      />
+    {/if}
     <div class={styles.content}>
       <Menu {sites} />
       {@render children()}
