@@ -32,6 +32,11 @@
     }
   }
 
+  const navigate = (e, url) => {
+    e.preventDefault()
+    goto(url, { noScroll: true })
+  }
+
   onMount(() => {
     const sub = $page.url.searchParams.get("sub")
     if (sub) {
@@ -58,6 +63,8 @@
             href={`/${post.fields.slug}`}
             class:active={$page.params.slug === `${post.fields.slug}`}
           >
+            <!-- data-sveltekit-noscroll -->
+            <!-- onclick={(e) => navigate(e, `/${post.fields.slug}`)} -->
             {post.fields.title}
           </a>
         </div>
