@@ -1,7 +1,7 @@
 <script>
   import { base } from "$app/paths"
 
-  import Dublication from "$lib/Dublication/dublication.svelte"
+  import Duplication from "$lib/Duplication/Duplication.svelte"
   import { slugify } from "$lib/utils.js"
 
   import styles from "./main.module.styl"
@@ -9,10 +9,10 @@
   import { page } from "$app/stores"
   import { goto, replaceState } from "$app/navigation"
   import { onMount } from "svelte"
+  // import { markdown } from "$lib/markdownRenderer"
+  import { marked } from "marked"
 
   const { sites } = $props()
-
-  let y = $state(0)
 
   const handleAnchorClick = ({ link }) => {
     event.preventDefault()
@@ -47,23 +47,9 @@
       }
     }
   })
-  // $effect(() => {
-  //   if (y) {
-  //     const url = new URL(window.location.href)
-  //     url.searchParams.delete("sub")
-  //     setTimeout(() => {
-  //       goto(url.pathname + url.search, {
-  //         noScroll: true,
-  //         replaceState: true,
-  //       })
-  //     }, 2000)
-  //   }
-  // })
 </script>
 
-<svelte:window bind:scrollY={y} />
-
-<Dublication>
+<Duplication>
   <nav>
     <ul>
       {#each sites as post, index}
@@ -83,13 +69,13 @@
                 <li>
                   <a
                     href={`/${post.fields.slug}?sub=${slugify(item.title)}`}
-                    style={`margin-left: ${(item.level - 1) * 1.5}em;`}
+                    style={`padding-left: ${(item.level - 1) * 1.5}em;`}
                     onclick={(e) =>
                       handleAnchorClick({
                         link: `${slugify(item.title)}`,
                       })}
                   >
-                    {item.title}
+                    {@html marked.parseInline(item.title)}
                   </a>
                 </li>
               {/each}
@@ -99,4 +85,4 @@
       {/each}
     </ul>
   </nav>
-</Dublication>
+</Duplication>

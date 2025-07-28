@@ -2,10 +2,6 @@ import { marked } from "marked"
 import { mount, unmount } from "svelte"
 import { slugify } from "./utils"
 
-/**
- * Creates a custom marked renderer with footnote support
- * @returns {Object} Configured marked renderer
- */
 export function createMarkedRenderer() {
   const renderer = {
     heading({text, depth, raw, type}) {
@@ -35,38 +31,23 @@ export function createMarkedRenderer() {
   return renderer
 }
 
-/**
- * Processes custom blocks in markdown content before marked parsing
- * @param {string} content - Raw markdown content
- * @returns {string} Processed markdown content
- */
 function processCustomBlocks(content) {
-  // Replace [[blockStart]]...[[blockEnd]] with a special div wrapper
   return content.replace(/\[\[blockStart\]\]([\s\S]*?)\[\[blockEnd\]\]/g, (match, blockContent) => {
     return `<div class="blockQuote">\n\n${blockContent.trim()}\n\n</div>`
   })
 }
 
-/**
- * Configures marked with custom renderer
- * @returns {Function} Configured marked parser with custom block preprocessing
- */
-export function setupMarked() {
+
+export function markdown() {
   const renderer = createMarkedRenderer()
   marked.use({ renderer })
   
-  // Return a function that preprocesses content before parsing
   return function(content) {
     const processedContent = processCustomBlocks(content)
     return marked(processedContent)
   }
 }
 
-/**
- * Mounts Svelte components embedded in HTML content
- * @param {Object} componentRegistry - Registry of available Svelte components
- * @returns {Function} Cleanup function to unmount components
- */
 export function mountEmbeddedComponents(componentRegistry) {
   const placeholders = document.querySelectorAll("[data-svelte-component]")
   const mountedComponents = []
@@ -77,7 +58,6 @@ export function mountEmbeddedComponents(componentRegistry) {
 
     if (Component) {
       try {
-        // Decode HTML entities in the props data
         const propsData = placeholder.dataset.props || "{}"
         const decodedProps = propsData
           .replace(/&quot;/g, '"')
@@ -112,11 +92,6 @@ export function mountEmbeddedComponents(componentRegistry) {
   }
 }
 
-/**
- * Decodes HTML entities in a string
- * @param {string} html - HTML string to decode
- * @returns {string} Decoded string
- */
 export function decodeHtmlEntities(html) {
   return html
     .replace(/&quot;/g, '"')

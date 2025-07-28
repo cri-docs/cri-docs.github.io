@@ -7,7 +7,7 @@
   let fields = $derived($page?.data?.post?.fields)
 </script>
 
-<div class={`${styles.dublicationContainer} dubli`}>
+<div class={`${styles.duplicationContainer} dupli`}>
   {@render children?.()}
 </div>
 {#if fields?.color !== "blue" && !!fields}

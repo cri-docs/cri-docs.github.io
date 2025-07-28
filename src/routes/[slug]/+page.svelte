@@ -8,15 +8,13 @@
   import Menu from "$lib/Menu/menu.svelte"
   import { page } from "$app/stores"
 
-  import {
-    setupMarked,
-    mountEmbeddedComponents,
-  } from "$lib/markdownRenderer.js"
+  import { markdown, mountEmbeddedComponents } from "$lib/markdownRenderer.js"
   import External from "./types/External.svelte"
 
   let { data } = $props()
 
-  const marked = setupMarked()
+  const marked = markdown()
+
   const mark = $derived.by(() => {
     if (typeof window === "undefined") {
       return undefined
