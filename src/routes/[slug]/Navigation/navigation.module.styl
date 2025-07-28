@@ -1,3 +1,18 @@
 
 .navigation
-  opacity 0.5
+  display flex
+  align-items center
+  justify-content center
+  position fixed
+  bottom 0
+  left 0
+  width 100vw
+  background-color blue
+  color white
+  padding .5rem
+  gap 5rem
+  z-index 10
+  transform translateY(100%)
+  transition transform 0.3s ease
+  &.scrolled
+    transform translateY(0)

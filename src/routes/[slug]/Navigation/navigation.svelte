@@ -3,6 +3,7 @@
   import { page } from "$app/stores"
   let { data } = $props()
 
+  let scrollY = $state(0)
   const nextPost = $derived.by(() => {
     const posts = $page?.data?.sites
     const currentIndex = posts.findIndex(
@@ -20,13 +21,16 @@
   })
 </script>
 
-<div class={styles.navigation}>
+<svelte:window bind:scrollY />
+
+<div
+  class={[styles.navigation, scrollY > 200 ? styles.scrolled : ""].join(" ")}
+>
   {#if previousPost}
     <a href={previousPost.fields.slug}>prev</a>
   {:else}
     <span>prev</span>
   {/if}
-  –
   {#if nextPost}
     <a href={nextPost.fields.slug}>next</a>
   {:else}

@@ -28,6 +28,7 @@
     <img
       src="/images/pexels-sagui-andrea-200115-618833.jpg"
       alt="Sunset behind some mountains"
+      class={$page.params.slug === "Editorial" ? styles.isHome : ""}
     />
     <div class={styles.content}>
       <Menu {sites} />

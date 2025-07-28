@@ -8,10 +8,9 @@
   let lastY = $state(null)
   let isOpen = $state(false)
 
-  const isScrolled = $derived(scrollY > 2)
+  const isScrolled = $derived(scrollY > 20 || $page.params.slug !== "Editorial")
 
   const handleClick = () => {
-    console.log("Header clicked")
     isOpen = !isOpen
     lastY = scrollY
   }
