@@ -10,6 +10,7 @@
 
   import { markdown, mountEmbeddedComponents } from "$lib/markdownRenderer.js"
   import External from "./types/External.svelte"
+  import { fly } from "svelte/transition"
 
   let { data } = $props()
 
@@ -34,7 +35,11 @@
   })
 </script>
 
-<section class={styles.container}>
+<section
+  class={styles.container}
+  transition:fly={{ y: 200 }}
+  key={data.post.fields.slug}
+>
   <h1>{data.post.fields.title}</h1>
   <p>{data.post.fields.date}</p>
   {#if mark}

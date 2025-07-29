@@ -4,11 +4,12 @@
   import { page } from "$app/stores"
   import styles from "./main.module.styl"
 
-  let scrollY = $state(0)
+  let scrollY = $state(null)
   let lastY = $state(null)
   let isOpen = $state(false)
+  let hasBeenScrolled = $state(false)
 
-  const isScrolled = $derived(scrollY > 20 || $page.params.slug !== "Editorial")
+  const isScrolled = $derived(scrollY > 0)
 
   const handleClick = () => {
     isOpen = !isOpen
@@ -19,12 +20,15 @@
     if (lastY !== null && Math.abs(lastY - scrollY) > 100) {
       isOpen = false
     }
+    if (isScrolled) {
+      hasBeenScrolled = true
+    }
   })
 </script>
 
 <svelte:window bind:scrollY />
 
-<header class={isScrolled && !isOpen ? styles.isOpen : ""}>
+<header class={hasBeenScrolled && !isOpen ? styles.isCollapsed : ""}>
   <div class={styles.headerContent} inert={isScrolled}>
     <a href="/">
       <h1 class={styles.title}>
