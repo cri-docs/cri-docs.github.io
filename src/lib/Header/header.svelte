@@ -24,12 +24,21 @@
       hasBeenScrolled = true
     }
   })
+
+  const handleClickOutside = (event) => {
+    if (!event.target.closest("header")) {
+      isOpen = false
+    }
+  }
 </script>
 
-<svelte:window bind:scrollY />
+<svelte:window bind:scrollY onclick={handleClickOutside} />
 
 <header class={hasBeenScrolled && !isOpen ? styles.isCollapsed : ""}>
-  <div class={styles.headerContent} inert={isScrolled}>
+  <div
+    class={styles.headerContent}
+    inert={hasBeenScrolled && !isOpen ? true : false}
+  >
     <a href="/">
       <h1 class={styles.title}>
         Sammlungs- <br /> dokumentation <br /> im Fokus
@@ -40,7 +49,11 @@
       den Anti-Schwarzen-Rassismus
     </h2>
   </div>
-  <button class={styles.smallTitle} inert={!isScrolled} onclick={handleClick}>
+  <button
+    class={styles.smallTitle}
+    inert={hasBeenScrolled && !isOpen ? false : true}
+    onclick={handleClick}
+  >
     Sammlungsdokumentation im Fokus
   </button>
   <div class={styles.infoBox}>Infobox</div>
