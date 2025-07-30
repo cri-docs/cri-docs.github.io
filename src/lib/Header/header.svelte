@@ -1,7 +1,9 @@
 <script>
+  import { goto } from "$app/navigation"
   import { base } from "$app/paths"
 
   import { page } from "$app/stores"
+  import XLg from "$lib/icones/x-lg.svelte"
   import { headerIsOpen } from "$lib/state.svelte"
   import styles from "./main.module.styl"
 
@@ -11,6 +13,8 @@
   let hasBeenScrolled = $state(false)
 
   const isScrolled = $derived(scrollY > 0)
+
+  let lastPage = $state(null)
 
   const handleClick = () => {
     headerIsOpen.set(!$headerIsOpen)
@@ -30,6 +34,33 @@
     if (!event.target.closest("header")) {
       headerIsOpen.set(false)
     }
+  }
+
+  const openInfobox = (event) => {
+    event.preventDefault()
+    headerIsOpen.set(false)
+    lastPage = $page.url.pathname
+    goto("/infobox", {
+      noScroll: true,
+      replaceState: true,
+    })
+  }
+
+  const goBack = (event) => {
+    event.preventDefault()
+    if (lastPage) {
+      if (lastPage === "/Editorial") {
+        headerIsOpen.set(true)
+      }
+      goto(lastPage, {
+        noScroll: true,
+        replaceState: true,
+      })
+    } else {
+      headerIsOpen.set(true)
+      window.location.href = "/Editorial"
+    }
+    lastPage = null
   }
 </script>
 
@@ -54,5 +85,11 @@
   >
     Sammlungsdokumentation im Fokus
   </button>
-  <div class={styles.infoBox}>Infobox</div>
+  <div class={styles.infoBox}>
+    {#if $page.url.pathname !== "/infobox"}
+      <a href="/infobox" onclick={openInfobox}>Infobox</a>
+    {:else}
+      <a href="/" onclick={goBack}><XLg /></a>
+    {/if}
+  </div>
 </header>
