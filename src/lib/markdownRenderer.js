@@ -17,7 +17,6 @@ export function createMarkedRenderer() {
           content: text.replace("[", "").replace("]", ""),
           id: text.replace("[", "").replace("]", ""),
         })
-        console.log("link", href, text, props)
         return `<span data-svelte-component="CustomFootnotes" data-props='${props}'></span>`
       }
       const baseUrl = window.location.origin

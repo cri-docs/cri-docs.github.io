@@ -13,27 +13,33 @@ header
   justify-content space-between
   align-items flex-end
   .headerContent
-    padding var(--padding)
+    flex-shrink 1
     display flex
     flex-direction column
     justify-content flex-end
     align-items flex-start
+    height 100%
+    padding var(--padding)
+    padding-top calc(var(--padding) - .5rem)
     transition padding 0.5s
     h1
       position relative
       margin 0
-      min-width 800px
+      // min-width 800px
       font-size var(--title-font-size)
-      line-height 1
+      line-height 0.98
+      letter-spacing 1px
       font-weight 900
       hyphens auto
     h2
       width 30%
       min-width 400px
       margin 0
-      font-size 3rem
+      margin-bottom auto
       font-size var(--small-title-font-size)
+      line-height 1.1
   .infoBox
+    flex-shrink 0
     display flex
     justify-content center
     align-items center
@@ -58,7 +64,8 @@ header
   &.isCollapsed
     height var(--header-height-collapsed)
     .headerContent
-      padding var(--header-height-collapsed)
+      height 50vh
+      // padding var(--header-height-collapsed)
     .infoBox
       height calc(var(--header-height-collapsed) + 0lh)
       padding-block 0
