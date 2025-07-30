@@ -12,11 +12,10 @@ export function load({ url }) {
   const sites = collection.getItemsArray()
   if (url.pathname === "/") {
     // Redirect to /editorial if the path is root
-    console.log(sites[0].fields.slug)
-    let redirectPath = sites[0].fields.slug
-    if (redirectPath) {
-      redirect(307, `/${redirectPath}`)
-    }
+    // let redirectPath = sites[0].fields.slug
+    // if (redirectPath) {
+    //   redirect(307, `/${redirectPath}`)
+    // }
   }
   return { sites }
 }
