@@ -27,7 +27,7 @@
     // let hue = Math.random() * 360 // Start near blue
     let hue = 240 // Start at blue
     let animationFrame
-    const speed = 0.02 // Adjust this value for speed (higher = faster)
+    const speed = 0.001 // Adjust this value for speed (higher = faster)
     function animateColor() {
       hue = hue + (speed % 360)
       document.documentElement.style.setProperty(
