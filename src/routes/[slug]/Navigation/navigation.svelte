@@ -1,6 +1,8 @@
 <script>
   import styles from "./navigation.module.styl"
   import { page } from "$app/stores"
+  import { headerIsOpen } from "$lib/state.svelte"
+
   let { data } = $props()
 
   let scrollY = $state(0)
@@ -24,7 +26,7 @@
 <svelte:window bind:scrollY />
 
 <div
-  class={[styles.navigation, scrollY > 200 ? styles.scrolled : ""].join(" ")}
+  class={[styles.navigation, !$headerIsOpen ? styles.scrolled : ""].join(" ")}
 >
   {#if previousPost}
     <a href={previousPost.fields.slug}>prev</a>

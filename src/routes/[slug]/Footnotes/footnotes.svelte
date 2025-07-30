@@ -30,8 +30,7 @@
 <div class={styles.container}>
   {#if footnotesData[$currentFootnote]}
     <div class={styles.footnote}>
-      <!-- <h2>Footnote {$currentFootnote}</h2> -->
-      <p>{$currentFootnote} – {@html footnotesData[$currentFootnote]}</p>
+      <p>{$currentFootnote} –<br /> {@html footnotesData[$currentFootnote]}</p>
     </div>
   {/if}
 </div>

@@ -6,6 +6,7 @@
   let { content = "", id = "" } = $props()
 
   const setFootnote = () => {
+    console.log("set footnote", id, content)
     currentFootnote.set(id)
   }
 </script>

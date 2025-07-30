@@ -15,8 +15,9 @@ export function createMarkedRenderer() {
       if (isFootnote) {
         const props = JSON.stringify({
           content: text.replace("[", "").replace("]", ""),
-          id: href.split("-")[1],
+          id: text.replace("[", "").replace("]", ""),
         })
+        console.log("link", href, text, props)
         return `<span data-svelte-component="CustomFootnotes" data-props='${props}'></span>`
       }
       const baseUrl = window.location.origin

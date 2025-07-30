@@ -6,7 +6,7 @@
   width calc(100vw - calc(var(--nav-width) - var(--padding) * 1))
   padding-bottom calc(var(--padding) * 3)
   hyphens auto
-  --color rgb(178, 178, 255)
+  --color rgba(255, 89, 0, 0.85)
   > * 
     width var(--text-width)
   // texts
@@ -14,11 +14,13 @@
     margin 0
   :global(.blockQuote)
     background-color var(--color)
-    width 100%
+    width 100vw
     display flex
     flex-direction column
-    align-items center
+    align-items flex-start
+    padding-left calc((var(--nav-width) - var(--padding) * 1))
     // color white
+    transform translateX(calc((var(--nav-width) - var(--padding) * 1) * -1))
     > *
       width var(--text-width)
   p

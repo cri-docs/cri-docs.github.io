@@ -2,23 +2,24 @@
   import { base } from "$app/paths"
 
   import { page } from "$app/stores"
+  import { headerIsOpen } from "$lib/state.svelte"
   import styles from "./main.module.styl"
 
   let scrollY = $state(null)
-  let lastY = $state(null)
-  let isOpen = $state(false)
+  let lastY = $state(0)
+
   let hasBeenScrolled = $state(false)
 
   const isScrolled = $derived(scrollY > 0)
 
   const handleClick = () => {
-    isOpen = !isOpen
+    headerIsOpen.set(!$headerIsOpen)
     lastY = scrollY
   }
 
   $effect(() => {
     if (lastY !== null && Math.abs(lastY - scrollY) > 100) {
-      isOpen = false
+      headerIsOpen.set(false)
     }
     if (isScrolled) {
       hasBeenScrolled = true
@@ -27,18 +28,15 @@
 
   const handleClickOutside = (event) => {
     if (!event.target.closest("header")) {
-      isOpen = false
+      headerIsOpen.set(false)
     }
   }
 </script>
 
 <svelte:window bind:scrollY onclick={handleClickOutside} />
 
-<header class={hasBeenScrolled && !isOpen ? styles.isCollapsed : ""}>
-  <div
-    class={styles.headerContent}
-    inert={hasBeenScrolled && !isOpen ? true : false}
-  >
+<header class={!$headerIsOpen ? styles.isCollapsed : ""}>
+  <div class={styles.headerContent} inert={!$headerIsOpen ? true : false}>
     <a href="/">
       <h1 class={styles.title}>
         Sammlungs- <br /> dokumentation <br /> im Fokus
@@ -51,7 +49,7 @@
   </div>
   <button
     class={styles.smallTitle}
-    inert={hasBeenScrolled && !isOpen ? false : true}
+    inert={!$headerIsOpen ? false : true}
     onclick={handleClick}
   >
     Sammlungsdokumentation im Fokus
