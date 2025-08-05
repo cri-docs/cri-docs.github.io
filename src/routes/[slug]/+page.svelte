@@ -35,11 +35,9 @@
   })
 </script>
 
-<section
-  class={styles.container}
-  transition:fly={{ y: 200 }}
-  key={data.post.fields.slug}
->
+<section class={styles.container}>
+  <!-- key={data.post.fields.slug} -->
+  <!-- transition:fly={{ y: 200 }} -->
   <h1>{data.post.fields.title}</h1>
   <p>{data.post.fields.date}</p>
   {#if mark}

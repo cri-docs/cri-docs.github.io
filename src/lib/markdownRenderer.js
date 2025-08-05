@@ -32,8 +32,8 @@ export function createMarkedRenderer() {
 }
 
 function processCustomBlocks(content) {
-  return content.replace(/\[\[blockStart\]\]([\s\S]*?)\[\[blockEnd\]\]/g, (match, blockContent) => {
-    return `<div class="blockQuote">\n\n${blockContent.trim()}\n\n</div>`
+  return content.replace(/\[\[([a-zA-Z0-9_-]+):start\]\]([\s\S]*?)\[\[\1:end\]\]/g, (match, blockType, blockContent) => {
+    return `<div class="${blockType}">\n\n${blockContent.trim()}\n\n</div>`
   })
 }
 
