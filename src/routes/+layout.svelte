@@ -51,11 +51,11 @@
 <div class={[styles.container, isColored ? styles.color : ""].join(" ")}>
   <Header />
   <main>
-    {#if $page?.params?.slug === "Editorial"}
+    {#if $page?.params?.slug === "editorial"}
       <img
         src="/images/intro.jpg"
         alt="Sunset behind some mountains"
-        class={`${$page?.params?.slug === "Editorial" ? styles.isHome : ""} ${styles.hero}`}
+        class={`${$page?.params?.slug === "editorial" ? styles.isHome : ""} ${styles.hero}`}
       />
     {/if}
     <div class={styles.content}>

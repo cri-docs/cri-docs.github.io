@@ -49,7 +49,7 @@
   const goBack = (event) => {
     event.preventDefault()
     if (lastPage) {
-      if (lastPage === "/Editorial") {
+      if (lastPage === "/editorial") {
         headerIsOpen.set(true)
       }
       goto(lastPage, {
@@ -58,7 +58,7 @@
       })
     } else {
       headerIsOpen.set(true)
-      window.location.href = "/Editorial"
+      window.location.href = "/editorial"
     }
     lastPage = null
   }
