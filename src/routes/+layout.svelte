@@ -40,7 +40,7 @@
       )
       animationFrame = requestAnimationFrame(animateColor)
     }
-    animateColor()
+    // animateColor()
 
     return () => {
       cancelAnimationFrame(animationFrame)
@@ -53,7 +53,7 @@
   <main>
     {#if $page?.params?.slug === "Editorial"}
       <img
-        src="/images/pexels-sagui-andrea-200115-618833.jpg"
+        src="/images/intro.jpg"
         alt="Sunset behind some mountains"
         class={`${$page?.params?.slug === "Editorial" ? styles.isHome : ""} ${styles.hero}`}
       />

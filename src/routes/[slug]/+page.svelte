@@ -7,10 +7,11 @@
   import { writable } from "svelte/store"
   import Menu from "$lib/Menu/menu.svelte"
   import { page } from "$app/stores"
-
   import { markdown, mountEmbeddedComponents } from "$lib/markdownRenderer.js"
+  import { isLoading } from "$lib"
   import External from "./types/External.svelte"
   import { fly } from "svelte/transition"
+  import { navigating } from "$app/state"
 
   let { data } = $props()
 
@@ -35,15 +36,44 @@
   })
 </script>
 
-<section class={styles.container}>
-  <!-- key={data.post.fields.slug} -->
-  <!-- transition:fly={{ y: 200 }} -->
-  <h1>{data.post.fields.title}</h1>
-  <p>{data.post.fields.date}</p>
-  {#if mark}
-    {@html mark}
+<section
+  class={styles.container}
+  key={data.post.fields.slug}
+  transition:fly={{ y: 200 }}
+>
+  {#if $isLoading}
+    <div class={styles.loading}>
+      <svg class={styles.loader} width="40" height="40" viewBox="0 0 40 40">
+        <circle
+          cx="20"
+          cy="20"
+          r="16"
+          stroke="currentColor"
+          stroke-width="4"
+          fill="none"
+          stroke-linecap="round"
+          stroke-dasharray="100"
+          stroke-dashoffset="60"
+        >
+          <animateTransform
+            attributeName="transform"
+            type="rotate"
+            from="0 20 20"
+            to="360 20 20"
+            dur="1s"
+            repeatCount="indefinite"
+          />
+        </circle>
+      </svg>
+    </div>
   {:else}
-    <p>Loading content...</p>
+    <h2>{data.post.fields.title}</h2>
+    <p>{data.post.fields.date}</p>
+    {#if mark}
+      {@html mark}
+    {:else}
+      <p>Loading content...</p>
+    {/if}
   {/if}
   <Navigation {data} />
 </section>

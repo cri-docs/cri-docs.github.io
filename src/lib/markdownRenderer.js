@@ -6,7 +6,8 @@ export function createMarkedRenderer() {
   const renderer = {
     heading({text, depth, raw, type}) {
       const id = slugify(text)
-      return `<h${depth} id="${id}">${text}</h${depth}>`
+      const _depth = depth + 1
+      return `<h${_depth} id="${id}">${text}</h${_depth}>`
     },
     link({ href, title, text }) {
       const titleAttr = title ? ` title="${title}"` : ""
@@ -32,9 +33,15 @@ export function createMarkedRenderer() {
 }
 
 function processCustomBlocks(content) {
-  return content.replace(/\[\[([a-zA-Z0-9_-]+):start\]\]([\s\S]*?)\[\[\1:end\]\]/g, (match, blockType, blockContent) => {
-    return `<div class="${blockType}">\n\n${blockContent.trim()}\n\n</div>`
-  })
+  const regex = /\[\[([a-zA-Z0-9_-]+):start\]\]([\s\S]*?)\[\[\1:end\]\]/g
+  let prevContent
+  do {
+    prevContent = content
+    content = content.replace(regex, (match, blockType, blockContent) => {
+      return `<div class="${blockType}">\n\n${blockContent.trim()}\n\n</div>`
+    })
+  } while (regex.test(content))
+  return content
 }
 
 

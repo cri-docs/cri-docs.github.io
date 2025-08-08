@@ -1,26 +1,39 @@
 .container
-  // flex-shrink 0
   display flex
   flex-direction column
   align-items flex-start
   width calc(100vw - calc(var(--nav-width) - var(--padding) * 1))
   padding-bottom calc(var(--padding) * 3)
   hyphens auto
-  // --color-secondary rgba(255, 89, 0, 0.85)
   > * 
     width var(--text-width)
+  .loading
+    width var(--text-width)
+    height calc(100vh - 300px)
+    display flex
+    align-items center
+    justify-content center
+    font-size 2rem
+    color var(--color-secondary)
+    background-color var(--color-background)
   // texts
+  // [[blocks:start]]
+  p
+    margin 0
+    padding-bottom 1lh
   hr
     margin 0
+    margin-bottom 1lh
   :global(.block)
     background-color var(--color-secondary)
     width 100vw
     display flex
     flex-direction column
     align-items flex-start
+    padding-block var(--padding)
     padding-left calc((var(--nav-width) - var(--padding) * 1))
-    // color white
     transform translateX(calc((var(--nav-width) - var(--padding) * 1) * -1))
+    font-family var(--font) !important
     > *
       width var(--text-width)
   :global(.fullimage)
@@ -30,6 +43,15 @@
       height 100%
       object-fit cover
       object-position center
+  :global(.external)
+    font-family var(--font-external)
+    font-weight 400
+    > p
+      text-indent 30px
+      width 85%
+      > * 
+        text-indent 0
+  // blocks:end
   p
     line-height 1.3
     letter-spacing 0.2px

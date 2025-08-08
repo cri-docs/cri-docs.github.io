@@ -74,7 +74,7 @@
               <li>
                 <a
                   href={`/${post.fields.slug}?sub=${slugify(item.title)}`}
-                  style={`padding-left: ${(item.level - 1) * 1.5}em;`}
+                  style={`padding-left: ${(item.level - 1) * 2}ch;`}
                   onclick={(e) =>
                     handleAnchorClick({
                       link: `${slugify(item.title)}`,

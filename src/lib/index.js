@@ -1,6 +1,6 @@
-// place files you want to import through the `$lib` alias in this folder.
-// import XLg from './icons/XLg.svelte';
+import { navigating } from "$app/stores";
+import { derived } from "svelte/store";
 
-// export default {
-//   XLg
-// };
+export const isLoading = derived(navigating, ($navigating) => {
+  return $navigating !== null
+});
