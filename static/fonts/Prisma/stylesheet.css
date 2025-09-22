@@ -1,0 +1,144 @@
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The font file(s) should be placed relative to the regular CSS file.
+ *
+ */
+
+/*
+ * Legal Disclaimer for Trial Licence licence
+ *
+ * Trial Licence
+ *
+ * Trial Web License for evaluation, testing and presentation purposes on internal domains without public access only.
+ * 
+ * The font files may not be distributed, published or used on any other domain(s).
+ * 
+ * Any further use is strictly prohibited.
+ *
+ * For internal test and presentation use only.
+ * For both print use and web / electronic use on internal domains without public access. Licencee may create documents / visuals / web pages etc. for the purpose of evaluation and presentation to clients or other interested parties.
+ * Any further use is strictly prohibited. The font files may not be distributed, published or used on any other domain(s).
+ *
+ */
+
+/* complete */
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Five";
+  src: url("PrismaLLTrialWeb-Five.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-FiveX";
+  src: url("PrismaLLTrialWeb-FiveX.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Three";
+  src: url("PrismaLLTrialWeb-Three.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-ThreeX";
+  src: url("PrismaLLTrialWeb-ThreeX.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Two";
+  src: url("PrismaLLTrialWeb-Two.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-TwoX";
+  src: url("PrismaLLTrialWeb-TwoX.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-One";
+  src: url("PrismaLLTrialWeb-One.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Outline";
+  src: url("PrismaLLTrialWeb-Outline.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Stencil";
+  src: url("PrismaLLTrialWeb-Stencil.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Solid";
+  src: url("PrismaLLTrialWeb-Solid.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Inline";
+  src: url("PrismaLLTrialWeb-Inline.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-InlineAlternate";
+  src: url("PrismaLLTrialWeb-InlineAlternate.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Fatline";
+  src: url("PrismaLLTrialWeb-Fatline.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-FatlineAlternate";
+  src: url("PrismaLLTrialWeb-FatlineAlternate.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Carved";
+  src: url("PrismaLLTrialWeb-Carved.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-CarvedAM";
+  src: url("PrismaLLTrialWeb-CarvedAM.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-CarvedPM";
+  src: url("PrismaLLTrialWeb-CarvedPM.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Crystal";
+  src: url("PrismaLLTrialWeb-Crystal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Diamond";
+  src: url("PrismaLLTrialWeb-Diamond.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Ebony";
+  src: url("PrismaLLTrialWeb-Ebony.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Ivory";
+  src: url("PrismaLLTrialWeb-Ivory.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-Contrast";
+  src: url("PrismaLLTrialWeb-Contrast.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PrismaLLTrialWeb-ContrastAlternate";
+  src: url("PrismaLLTrialWeb-ContrastAlternate.woff2") format("woff2");
+}
+
+

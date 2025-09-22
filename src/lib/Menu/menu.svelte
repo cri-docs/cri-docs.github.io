@@ -58,7 +58,13 @@
     {#each sites as post, index}
       <li>
         <div class={styles.label}>
-          <div>{index}</div>
+          <div class={styles.index}>
+            {#if index !== 0}
+              {index}
+            {:else}
+              <span>–</span>
+            {/if}
+          </div>
           <a
             href={`/${post.fields.slug}`}
             class:active={$page.params.slug === `${post.fields.slug}`}
@@ -72,16 +78,18 @@
           <ul>
             {#each post.fields.toc as item}
               <li>
-                <a
-                  href={`/${post.fields.slug}?sub=${slugify(item.title)}`}
-                  style={`padding-left: ${(item.level - 1) * 2}ch;`}
-                  onclick={(e) =>
-                    handleAnchorClick({
-                      link: `${slugify(item.title)}`,
-                    })}
-                >
-                  {@html marked.parseInline(item.title)}
-                </a>
+                <div class={styles.label}>
+                  <a
+                    href={`/${post.fields.slug}?sub=${slugify(item.title)}`}
+                    style={`padding-left: ${(item.level - 1) * 2 + 3}ch;`}
+                    onclick={(e) =>
+                      handleAnchorClick({
+                        link: `${slugify(item.title)}`,
+                      })}
+                  >
+                    {@html marked.parseInline(item.title)}
+                  </a>
+                </div>
               </li>
             {/each}
           </ul>

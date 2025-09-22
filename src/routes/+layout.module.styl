@@ -2,7 +2,7 @@
   position relative
   min-height 100vh
   padding-top var(--header-height-collapsed)
-  transition background-color 0.3s ease, color 0.3s ease
+  transition background-color 0.5s ease, color 0.5s ease
   &.color
     color white
     background-color var(--color)
@@ -13,12 +13,18 @@
     align-items flex-start
     flex-direction column
     .hero
-      height 50vh
+      --padding-hero 30vh
+      height 0
       width 100vw
+      transition margin 0.5s ease, height 0.5s ease
       object-fit cover
       object-position center center
       &.isHome
         height calc(100vh + var(--header-height-collapsed))
+        height calc(100vh + var(--header-height-collapsed) - var(--padding-hero))
+        margin-top var(--padding-hero)
+      &.headerIsCollapsed
+        margin-top 0
     .content
       display flex
       align-items flex-start

@@ -12,33 +12,39 @@ header
   display flex
   justify-content space-between
   align-items flex-end
+  overflow hidden
   .headerContent
     flex-shrink 1
     display flex
     flex-direction column
-    justify-content flex-end
-    align-items flex-start
+    justify-content center
+    align-items center
+    text-align center
     height 100%
+    width 100vw
     padding var(--padding)
+    gap var(--padding)
     padding-top calc(var(--padding) - .5rem)
     transition padding 0.5s
     h1
       position relative
       margin 0
-      // min-width 800px
       font-size var(--title-font-size)
       line-height 0.98
       letter-spacing 1px
-      font-weight 900
       hyphens auto
+      font-family var(--font-header)
+      font-weight 100
     h2
-      width 30%
-      min-width 400px
+      width 400px
       margin 0
-      margin-bottom auto
-      font-size var(--small-title-font-size)
+      font-size var(--subtitle-font-size)
+      font-weight 500
       line-height 1.1
   .infoBox
+    position absolute
+    right 1rem
+    bottom 0
     flex-shrink 0
     display flex
     justify-content center
@@ -56,7 +62,7 @@ header
     top 0
     left 50%
     height var(--header-height-collapsed)
-    font-size 2rem
+    font-size var(--small-title-font-size)
     transform translate(-50%, -100%)
     transition transform 0.3s
     cursor pointer
@@ -69,6 +75,6 @@ header
     .infoBox
       height calc(var(--header-height-collapsed) + 0lh)
       padding-block 0
-      font-size 2rem
+      font-size var(--small-title-font-size)
     .smallTitle
       transform translate(-50%, 0)

@@ -1,9 +1,12 @@
 <script>
-  import { page } from "$app/stores"
-  import Header from "$lib/Header/header.svelte"
-
-  import Menu from "$lib/Menu/menu.svelte"
   import { onMount } from "svelte"
+
+  import { page } from "$app/stores"
+
+  import Header from "$lib/Header/header.svelte"
+  import Menu from "$lib/Menu/menu.svelte"
+
+  import { headerIsOpen } from "$lib/state.svelte"
 
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
@@ -51,13 +54,15 @@
 <div class={[styles.container, isColored ? styles.color : ""].join(" ")}>
   <Header />
   <main>
-    {#if $page?.params?.slug === "editorial"}
-      <img
-        src="/images/intro.jpg"
-        alt="Sunset behind some mountains"
-        class={`${$page?.params?.slug === "editorial" ? styles.isHome : ""} ${styles.hero}`}
-      />
-    {/if}
+    <!-- {#if $page?.params?.slug === "editorial"} -->
+    <img
+      src="/images/B0011881.jpg"
+      alt="Sunset behind some mountains"
+      class={`${
+        $page?.params?.slug === "editorial" ? styles.isHome : ""
+      } ${styles.hero} ${!$headerIsOpen ? styles.headerIsCollapsed : ""}`}
+    />
+    <!-- {/if} -->
     <div class={styles.content}>
       <Menu {sites} />
       {@render children()}
