@@ -8,7 +8,6 @@
   import { page } from "$app/stores"
   import { goto, replaceState } from "$app/navigation"
   import { onMount } from "svelte"
-  // import { markdown } from "$lib/markdownRenderer"
   import { marked } from "marked"
 
   const { sites } = $props()

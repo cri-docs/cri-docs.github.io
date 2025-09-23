@@ -1,7 +1,6 @@
 <script>
-  import { goto } from "$app/navigation"
+  import { goto, pushState } from "$app/navigation"
   import { base } from "$app/paths"
-
   import { page } from "$app/stores"
   import XLg from "$lib/icones/x-lg.svelte"
   import { headerIsOpen } from "$lib/state.svelte"
@@ -36,13 +35,12 @@
     }
   }
 
-  const openInfobox = (event) => {
+  const openSubPage = (event, subPage) => {
     event.preventDefault()
     headerIsOpen.set(false)
     lastPage = $page.url.pathname
-    goto("/infobox", {
-      noScroll: true,
-      replaceState: true,
+    pushState(`?${subPage}`, {
+      [subPage]: true,
     })
   }
 
@@ -86,8 +84,15 @@
     Sammlungsdokumentation im Fokus
   </button>
   <div class={styles.infoBox}>
-    {#if $page.url.pathname !== "/infobox"}
-      <a href="/infobox" onclick={openInfobox}>Infobox</a>
+    {#if $page.url.pathname !== "/infobox" && $page.url.pathname !== "/about"}
+      <a
+        href={`${$page.url.pathname}?infobox`}
+        onclick={(e) => openSubPage(e, "infobox")}>Infobox</a
+      >
+      <a
+        href={`${$page.url.pathname}?about`}
+        onclick={(e) => openSubPage(e, "about")}>About</a
+      >
     {:else}
       <a href="/" onclick={goBack}><XLg /></a>
     {/if}

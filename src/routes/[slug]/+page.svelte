@@ -5,7 +5,6 @@
   import CustomFootnotes from "./Footnotes/CustomFootnotes/CustomFootnotes.svelte"
   import Navigation from "./Navigation/navigation.svelte"
   import { writable } from "svelte/store"
-  import Menu from "$lib/Menu/menu.svelte"
   import { page } from "$app/stores"
   import { markdown, mountEmbeddedComponents } from "$lib/markdownRenderer.js"
   import { isLoading } from "$lib"

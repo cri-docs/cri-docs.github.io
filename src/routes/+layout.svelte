@@ -10,6 +10,7 @@
 
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
+  import Overlay from "$lib/Overlay/overlay.svelte"
 
   let { sites } = $page.data
   let { children } = $props()
@@ -53,6 +54,7 @@
 
 <div class={[styles.container, isColored ? styles.color : ""].join(" ")}>
   <Header />
+  <Overlay />
   <main>
     <!-- {#if $page?.params?.slug === "editorial"} -->
     <img

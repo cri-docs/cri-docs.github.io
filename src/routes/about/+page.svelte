@@ -6,6 +6,6 @@
 </script>
 
 <div class={styles.container}>
-  <h2>Infobox</h2>
+  <h2>Über uns</h2>
   <p>{@html marked(aboutData.about)}</p>
 </div>
