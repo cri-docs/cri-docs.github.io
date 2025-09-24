@@ -6,6 +6,7 @@
   import { currentFootnote } from "$lib/state.svelte.js"
 
   import styles from "./main.module.styl"
+  import { marked } from "marked"
   const props = $props()
   let y = $state(0)
 
@@ -30,7 +31,10 @@
 <div class={styles.container}>
   {#if footnotesData[$currentFootnote]}
     <div class={styles.footnote}>
-      <p>{$currentFootnote} –<br /> {@html footnotesData[$currentFootnote]}</p>
+      <p>
+        {$currentFootnote} –<br />
+        {@html marked.parseInline(footnotesData[$currentFootnote])}
+      </p>
     </div>
   {/if}
 </div>

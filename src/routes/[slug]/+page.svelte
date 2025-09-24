@@ -35,11 +35,7 @@
   })
 </script>
 
-<section
-  class={styles.container}
-  key={data.post.fields.slug}
-  transition:fly={{ y: 200 }}
->
+<section class={styles.container} key={data.post.fields.slug}>
   {#if $isLoading}
     <div class={styles.loading}>
       <svg class={styles.loader} width="40" height="40" viewBox="0 0 40 40">
@@ -74,7 +70,7 @@
       <p>Loading content...</p>
     {/if}
   {/if}
-  <Navigation {data} />
+  <!-- <Navigation {data} /> -->
 </section>
 
 <Footnotes {data} {currentFootnote} />

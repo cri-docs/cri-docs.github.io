@@ -3,11 +3,15 @@
 // @import url('./raw.css')
 
 :root 
-  --text-width clamp(450px, (100/2)vw, 680px)
-  --nav-width calc((100vw - var(--text-width)) / 2)
+  --text-width clamp(600px, (100/2)vw, 900px)
 
-  --header-height-full 50vh
+  --header-height-full 100vh
+  --header-width-full 50vw
   --header-height-collapsed 4rem
+
+  --index-width 700px
+
+  --buttons-width 4rem
 
   --padding 2.6rem
 
@@ -63,7 +67,20 @@
     background: #fff
     border: none
 
-
+button
+  border none
+  background none
+  padding 0
+  margin 0
+  font-family inherit
+  font-size inherit
+  line-height inherit
+  color inherit
+  text-align inherit
+  text-decoration none
+  display inherit
+  align-items inherit
+  justify-content inherit
 
 a
   all: unset;
@@ -82,7 +99,7 @@ body
   font-family var(--font), sans-serif
   font-weight 500
   font-style normal
-  font-size 1.8rem
+  font-size 2.3rem
   margin 0
   padding 0
 

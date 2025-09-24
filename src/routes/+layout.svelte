@@ -6,7 +6,7 @@
   import Header from "$lib/Header/header.svelte"
   import Menu from "$lib/Menu/menu.svelte"
 
-  import { headerIsOpen } from "$lib/state.svelte"
+  import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
 
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
@@ -52,9 +52,15 @@
   })
 </script>
 
-<div class={[styles.container, isColored ? styles.color : ""].join(" ")}>
+<div
+  class={[
+    styles.container,
+    isColored ? styles.color : "",
+    !$menuIsOpen ? styles.collapsed : "",
+  ].join(" ")}
+>
   <Header />
-  <Overlay />
+  <!-- <Overlay /> -->
   <main>
     <!-- {#if $page?.params?.slug === "editorial"} -->
     <img
@@ -66,7 +72,7 @@
     />
     <!-- {/if} -->
     <div class={styles.content}>
-      <Menu {sites} />
+      <!-- <Menu {sites} /> -->
       {@render children()}
     </div>
   </main>

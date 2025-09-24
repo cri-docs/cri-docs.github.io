@@ -1,31 +1,48 @@
-header
+.container
   position fixed
   top 0
   left 0
   height var(--header-height-full)
-  width 100vw
+  width calc(var(--header-width-full) + var(--index-width))
   font-size 5rem
   z-index 10
   background-color var(--color)
   color white
-  transition height 0.5s
+  transition left 0.5s
   display flex
   justify-content space-between
-  align-items flex-end
+  align-items flex-start
   overflow hidden
-  .headerContent
-    flex-shrink 1
+  .icon
+    --border-width 1px
+    background-color var(--color)
+    position fixed
+    top var(--buttons-width)
+    left var(--buttons-width)
+    z-index 15
+    height calc(1em +var(--border-width))
+    width calc(1em +var(--border-width))
+    padding 0.1em
+    border-radius 100%
+    border solid 2px white
+    box-shadow 4px 4px 10px 2px #00000033
+    transform translate(-50%, -25%)    
+    transition left 0.5s
+    &.isCollapsedFully
+      // left calc(var(--header-width-full) + 1rem)
+  header
+    width var(--header-width-full)
+    height var(--header-height-full)
     display flex
     flex-direction column
     justify-content center
     align-items center
     text-align center
-    height 100%
-    width 100vw
     padding var(--padding)
+    // padding-top calc(var(--padding) * 2 + 4rem)
+    padding-bottom calc(var(--padding) * 4 + 4rem)
     gap var(--padding)
-    padding-top calc(var(--padding) - .5rem)
-    transition padding 0.5s
+    border-right 1px solid white
     h1
       position relative
       margin 0
@@ -41,40 +58,11 @@ header
       font-size var(--subtitle-font-size)
       font-weight 500
       line-height 1.1
-  .infoBox
-    position absolute
-    right 1rem
-    bottom 0
-    flex-shrink 0
-    display flex
-    justify-content center
-    align-items center
-    padding var(--padding)
-    height calc(var(--header-height-collapsed) + 1lh)
-    font-size 3rem
-    transition padding 0.5s, font-size 0.5s, height 0.5s
-  .smallTitle
-    all unset
-    display flex
-    justify-content center
-    align-items center
-    position absolute
-    top 0
-    left 50%
-    height var(--header-height-collapsed)
-    font-size var(--small-title-font-size)
-    transform translate(-50%, -100%)
-    transition transform 0.3s
-    cursor pointer
 
   &.isCollapsed
-    height var(--header-height-collapsed)
+    left calc(-1 * var(--header-width-full))
     .headerContent
       height 50vh
-      // padding var(--header-height-collapsed)
-    .infoBox
-      height calc(var(--header-height-collapsed) + 0lh)
-      padding-block 0
-      font-size var(--small-title-font-size)
-    .smallTitle
-      transform translate(-50%, 0)
+  &.isCollapsedFully
+    left calc(-1 * var(--header-width-full) - var(--index-width) + var(--buttons-width))
+
