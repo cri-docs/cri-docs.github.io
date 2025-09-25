@@ -25,7 +25,6 @@
 		]
 	},
 	"dependencies": {
-		"@azt/responsive": "^0.1.14",
 		"@lottiefiles/dotlottie-web": "^0.52.2",
 		"@lottiefiles/svelte-lottie-player": "^0.3.1",
 		"fusionable": "^0.1.3",
