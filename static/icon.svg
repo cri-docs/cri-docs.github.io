@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 13px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <line class="cls-1" x1="120" y1="162.46" x2="198.66" y2="71.84"/>
+  </g>
+  <g id="Layer_9" data-name="Layer 9">
+    <line class="cls-1" x1="120" y1="162.46" x2="240" y2="162.46"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <line class="cls-1" x1="120" y1="162.46" x2="88.81" y2="46.55"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <line class="cls-1" x1="120" y1="162.46" y2="162.46"/>
+  </g>
+  <g id="Layer_10" data-name="Layer 10">
+    <line class="cls-1" x1="120" y1="162.46" x2="41.34" y2="71.84"/>
+  </g>
+  <g id="Layer_7" data-name="Layer 7">
+    <line class="cls-1" x1="229.85" y1="114.08" x2="120" y2="162.46"/>
+  </g>
+  <g id="Layer_11" data-name="Layer 11">
+    <line class="cls-1" x1="10.15" y1="114.09" x2="120" y2="162.46"/>
+  </g>
+  <g id="Layer_8" data-name="Layer 8">
+    <line class="cls-1" x1="151.19" y1="46.55" x2="120" y2="162.46"/>
+  </g>
+</svg>

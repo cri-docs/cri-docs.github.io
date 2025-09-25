@@ -5,13 +5,18 @@
   import XLg from "$lib/icones/x-lg.svelte"
   import Menu from "$lib/Menu/menu.svelte"
   import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
+  import { onMount } from "svelte"
   import styles from "./main.module.styl"
 
+  import { DotLottie } from "@lottiefiles/dotlottie-web"
+  import { useResize } from "$lib/useResize"
+
   let { sites } = $page.data
+  const { isMobile } = useResize
 
   let scrollY = $state(null)
   let lastY = $state(0)
-
+  let dotLottie = $state(null)
   let hasBeenScrolled = $state(false)
 
   const isScrolled = $derived(scrollY > 0)
@@ -20,9 +25,23 @@
   let lastPage = $state(null)
 
   const handleClick = () => {
-    headerIsOpen.set(!$headerIsOpen)
-    menuIsOpen.set(true)
-    lastY = scrollY
+    if (!$isMobile) {
+      headerIsOpen.set(!$headerIsOpen)
+      menuIsOpen.set(true)
+      lastY = scrollY
+    } else {
+      if (dotLottie) {
+        if ($headerIsOpen) {
+          dotLottie.setMode("reverse")
+          dotLottie.play()
+        } else {
+          dotLottie.setMode("normal")
+          dotLottie.play()
+        }
+      }
+      headerIsOpen.set(!$headerIsOpen)
+      lastY = scrollY
+    }
   }
 
   $effect(() => {
@@ -35,7 +54,6 @@
   })
 
   const handleClickOutside = (event) => {
-    console.log(event.target.closest(".frame"))
     if (!event.target.closest(".frame")) {
       headerIsOpen.set(false)
     }
@@ -66,6 +84,47 @@
     }
     lastPage = null
   }
+
+  $effect(() => {
+    if (
+      $page.url.searchParams.has("infobox") ||
+      $page.url.searchParams.has("about")
+    ) {
+      headerIsOpen.set(false)
+    }
+  })
+
+  const lottieSettings = {
+    autoplay: false,
+    loop: false,
+    speed: 1.5,
+    src: "/icon.lottie",
+  }
+
+  $effect(() => {
+    if ($isMobile) {
+      dotLottie = new DotLottie({
+        ...lottieSettings,
+        canvas: document.querySelector("#dotlottie-canvas"),
+      })
+      // dotLottie.setFrame(15)
+    }
+  })
+
+  onMount(() => {
+    if (typeof window === "undefined" || !$isMobile) return
+    dotLottie = new DotLottie({
+      ...lottieSettings,
+      canvas: document.querySelector("#dotlottie-canvas"),
+    })
+    dotLottie.addEventListener("load", () => {
+      if (headerIsOpen) {
+        dotLottie.setFrame(29)
+      } else {
+        dotLottie.setFrame(0)
+      }
+    })
+  })
 </script>
 
 <svelte:window bind:scrollY onclick={handleClickOutside} />
@@ -78,13 +137,27 @@
   ].join(" ")}
 >
   <header>
-    <XLg
-      onclick={handleClick}
-      class={[
-        styles.icon,
-        isFullyCollapsed ? styles.isCollapsedFully : "",
-      ].join(" ")}
-    />
+    {#if !$isMobile}
+      <img
+        src="/icon.svg"
+        class={[
+          styles.icon,
+          styles.svg,
+          isFullyCollapsed ? styles.isCollapsedFully : "",
+        ].join(" ")}
+        alt="logo for Sammlungsdokumentation im Fokus"
+        onclick={handleClick}
+      />
+    {:else}
+      <canvas
+        id="dotlottie-canvas"
+        class={[
+          styles.icon,
+          isFullyCollapsed ? styles.isCollapsedFully : "",
+        ].join(" ")}
+        onclick={handleClick}
+      ></canvas>
+    {/if}
     <a href="/">
       <h1 class={styles.title}>
         Sammlungs- <br /> dokumentation <br /> im Fokus

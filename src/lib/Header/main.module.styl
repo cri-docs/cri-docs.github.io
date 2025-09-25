@@ -13,6 +13,11 @@
   justify-content space-between
   align-items flex-start
   overflow hidden
+  @media _mobile
+    font-size 5rem
+    flex-direction column
+    width 100vw
+    height auto
   .icon
     --border-width 1px
     background-color var(--color)
@@ -23,12 +28,22 @@
     height calc(1em +var(--border-width))
     width calc(1em +var(--border-width))
     padding 0.1em
+    padding-top 0.05em
     border-radius 100%
     border solid 2px white
     box-shadow 4px 4px 10px 2px #00000033
     transform translate(-50%, -25%)    
+    cursor pointer
     transition left 0.5s
+    @media _mobile
+      top 1rem
+      left calc(100vw - 1rem)
+      transform translate(-100%, 0%)
+    &.svg
+      padding-top 2px
     &.isCollapsedFully
+      @media _mobile
+        left var(--buttons-width)
       // left calc(var(--header-width-full) + 1rem)
   header
     width var(--header-width-full)
@@ -43,6 +58,8 @@
     padding-bottom calc(var(--padding) * 4 + 4rem)
     gap var(--padding)
     border-right 1px solid white
+    @media _mobile
+      height auto
     h1
       position relative
       margin 0
@@ -65,4 +82,3 @@
       height 50vh
   &.isCollapsedFully
     left calc(-1 * var(--header-width-full) - var(--index-width) + var(--buttons-width))
-

@@ -6,7 +6,7 @@
   --text-width clamp(600px, (100/2)vw, 900px)
 
   --header-height-full 100vh
-  --header-width-full 50vw
+  --header-width-full clamp(300px,50vw, 700px)
   --header-height-collapsed 4rem
 
   --index-width 700px
@@ -18,12 +18,13 @@
   --color blue
   --color-secondary lightsalmon
 
-  --title-font-size clamp(5rem, (100/8)vh, 13rem)
+  --title-font-size clamp(5rem, (100/8)vh, 8rem)
   --subtitle-font-size clamp(2rem, (100/60)vh, 3.5rem)
   --small-title-font-size 1.4rem
 
   --font-external "KleischLLTrialWeb", serif
-  --font-header "Prisma", sans-serif
+  --font-header "Supremus", sans-serif
+  // --font-header "ABCGalapagosAC", sans-serif
   --font "ABCFavorit", sans-serif
 
 @media _medium
@@ -43,6 +44,12 @@
 @media _mobile
   :root
     --col-amount 1
+
+    --header-width-full 100vw
+
+    --title-font-size 2.5rem
+    --subtitle-font-size 1.8rem
+
 
 
 
