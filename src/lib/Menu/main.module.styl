@@ -1,7 +1,6 @@
 .container
   display flex
   width calc(var(--index-width))
-  font-size 2rem
   transition width 0.5s
   &.isClosed
     width var(--buttons-width)
@@ -40,6 +39,7 @@
   .subContainer
     flex-shrink 0
     width calc(var(--index-width) - var(--buttons-width))
+    max-width 500px
     height 100vh
     padding var(--padding)
     padding-top calc(var(--padding) * 2 + 4rem )
@@ -56,6 +56,7 @@
       margin 0
       padding 0
       list-style none
+      gap 0.11rem
       .label
         display flex
         align-items flex-start

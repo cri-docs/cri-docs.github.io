@@ -4,7 +4,6 @@
   left 0
   height var(--header-height-full)
   width calc(var(--header-width-full) + var(--index-width))
-  font-size 5rem
   z-index 10
   background-color var(--color)
   color white
@@ -14,7 +13,6 @@
   align-items flex-start
   overflow hidden
   @media _mobile
-    font-size 5rem
     flex-direction column
     width 100vw
     height auto
@@ -25,10 +23,10 @@
     top var(--buttons-width)
     left var(--buttons-width)
     z-index 15
-    height calc(1em +var(--border-width))
-    width calc(1em +var(--border-width))
-    padding 0.1em
-    padding-top 0.05em
+    height calc(5rem +var(--border-width))
+    width calc(5rem +var(--border-width))
+    padding 1rem
+    padding-bottom 0.5rem
     border-radius 100%
     border solid 2px white
     box-shadow 4px 4px 10px 2px #00000033
@@ -50,31 +48,34 @@
     height var(--header-height-full)
     display flex
     flex-direction column
-    justify-content center
-    align-items center
-    text-align center
+    justify-content flex-start
+    align-items flex-start
+    text-align left
     padding var(--padding)
-    // padding-top calc(var(--padding) * 2 + 4rem)
+    padding-top calc(var(--padding) * 2 + 4rem)
     padding-bottom calc(var(--padding) * 4 + 4rem)
     gap var(--padding)
-    border-right 1px solid white
+    line-height 0.95
     @media _mobile
       height auto
     h1
       position relative
       margin 0
       font-size var(--title-font-size)
-      line-height 0.98
+      // line-height 0.98
       letter-spacing 1px
       hyphens auto
       font-family var(--font-header)
       font-weight 100
     h2
-      width 400px
+      // width 400px
       margin 0
+      font-family var(--font-header)
       font-size var(--subtitle-font-size)
+      font-size var(--title-font-size)
       font-weight 500
-      line-height 1.1
+      // line-height 1
+      hyphens auto
 
   &.isCollapsed
     left calc(-1 * var(--header-width-full))
