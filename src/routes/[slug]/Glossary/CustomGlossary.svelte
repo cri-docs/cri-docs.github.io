@@ -10,8 +10,6 @@
 
   const _id = id.toLowerCase().replaceAll("_", "-")
 
-  console.log(glossaryData, _id, "id")
-
   const goToLink = () => {
     window.open(`/glossar#${id}`, "_blank")
   }

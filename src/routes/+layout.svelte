@@ -2,6 +2,7 @@
   import { onMount } from "svelte"
 
   import { page } from "$app/stores"
+  import { intro } from "$lib/constants"
 
   import Header from "$lib/Header/header.svelte"
   import Menu from "$lib/Menu/menu.svelte"
@@ -62,12 +63,11 @@
   <Header />
   <!-- <Overlay /> -->
   <main>
-    <!-- {#if $page?.params?.slug === "editorial"} -->
     <img
-      src="/images/B0011881.jpg"
+      src="/images/Intro.jpg"
       alt="Sunset behind some mountains"
       class={`${
-        $page?.params?.slug === "editorial" ? styles.isHome : ""
+        $page?.params?.slug === intro ? styles.isHome : ""
       } ${styles.hero} ${!$headerIsOpen ? styles.headerIsCollapsed : ""}`}
     />
     <!-- {/if} -->

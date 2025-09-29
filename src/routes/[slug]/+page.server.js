@@ -5,19 +5,19 @@ export const prerender = true;
 
 export function entries() {
   const collection = new FusionCollection().loadFromDir('src/content/text');
-  const posts = collection.getItemsArray();
-  return posts.map((post) => ({
-    slug: post.fields.slug
+  const sites = collection.getItemsArray();
+  return sites.map((site) => ({
+    slug: site.fields.slug
   }));
 }
 
 export function load({ params }) {
   // isLoading.set(true);
   const collection = new FusionCollection().loadFromDir('src/content/text');
-  const post = collection.getOneBySlug(params.slug);
-  if (!post) {
-    throw new Error('Post not found');
+  const site = collection.getOneBySlug(params.slug);
+  if (!site) {
+    throw new Error('site not found');
   }
   // isLoading.set(false);
-  return { post: post.getItem() };
+  return { site: site.getItem() };
 }

@@ -24,7 +24,7 @@
     color var(--color-secondary)
     background-color var(--color-background)
   // texts
-  // [[blocks:start]]
+  // [[start:blocks]]
   p
     margin 0
     padding-bottom 1lh
@@ -33,6 +33,7 @@
     margin-bottom 1lh
   :global(.block)
     --p clamp(var(--current-index-width), 100vw, var(--l))
+    color white
     background-color var(--color-secondary)
     width 100vw
     display flex
@@ -59,7 +60,7 @@
       width 85%
       > * 
         text-indent 0
-  // blocks:end
+  // [[end:blocks]]
   p
     letter-spacing 0.2px
   h2
@@ -69,6 +70,21 @@
     font-family var(--font-header)
     font-weight 100
     max-width 80%
+  h4
+    font-weight inherit
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6
+    position relative
+  :global(.headingIndex)
+    position absolute
+    right 100%
+    text-align right
+    padding-right 2rem
+    display inline
   ol
   ul
     padding-inline 0

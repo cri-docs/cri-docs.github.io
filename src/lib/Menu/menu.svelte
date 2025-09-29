@@ -2,6 +2,10 @@
   import { base } from "$app/paths"
 
   import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
+  import aboutData from "|/content/text/about.json"
+  import imprintData from "|/content/text/imprint.json"
+  import infoboxData from "|/content/text/infobox.json"
+
   import { slugify } from "$lib/utils.js"
 
   import styles from "./main.module.styl"
@@ -53,7 +57,6 @@
   const setSubPage = (page) => {
     activeSubPage = page
     menuIsOpen.set(true)
-    console.log("true")
   }
 
   onMount(() => {
@@ -102,44 +105,42 @@
   {#if activeSubPage === "infobox"}
     <div class={[styles.infoBox, styles.subContainer].join(" ")}>
       <h2>Info Box</h2>
-      <p>This is an example of an info box.</p>
-      <p>You can put any content you want here.</p>
-      <p>Use it to highlight important information.</p>
+      {@html marked.parse(infoboxData.infobox)}
     </div>
   {:else if activeSubPage === "about"}
     <div class={[styles.infoBox, styles.subContainer].join(" ")}>
       <h2>About</h2>
-      <p>This is a sample SvelteKit application.</p>
-      <p>It demonstrates a dynamic menu and content rendering.</p>
-      <p>Feel free to explore and modify the code!</p>
+      {@html marked.parse(aboutData.about)}
+      <h2>Imprint</h2>
+      {@html marked.parse(imprintData.imprint)}
     </div>
   {:else}
     <nav class={styles.subContainer}>
       <ul>
-        {#each sites as post, index}
+        {#each sites as site, index}
           <li>
             <div class={styles.label}>
               <div class={styles.circle}>
                 <div
-                  class:active={$page.params.slug === post.fields.slug}
+                  class:active={$page.params.slug === site.fields.slug}
                 ></div>
               </div>
               <a
-                href={`/${post.fields.slug}`}
-                class:active={$page.params.slug === post.fields.slug}
+                href={`/${site.fields.slug}`}
+                class:active={$page.params.slug === site.fields.slug}
               >
                 <!-- data-sveltekit-noscroll -->
-                <!-- onclick={(e) => navigate(e, `/${post.fields.slug}`)} -->
-                {post.fields.title}
+                <!-- onclick={(e) => navigate(e, `/${site.fields.slug}`)} -->
+                {site.fields.title}
               </a>
             </div>
-            {#if post.fields.toc && $page.params.slug === post.fields.slug}
+            {#if site.fields.toc && $page.params.slug === site.fields.slug}
               <ul>
-                {#each post.fields.toc as item}
+                {#each site.fields.toc as item}
                   <li>
                     <div class={styles.label}>
                       <a
-                        href={`/${post.fields.slug}?sub=${slugify(item.title)}`}
+                        href={`/${site.fields.slug}?sub=${slugify(item.title)}`}
                         style={`padding-left: ${(item.level - 1) * 2 + 3}ch;`}
                         onclick={(e) =>
                           handleAnchorClick({

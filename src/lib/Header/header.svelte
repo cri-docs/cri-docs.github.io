@@ -2,6 +2,7 @@
   import { goto, pushState } from "$app/navigation"
   import { base } from "$app/paths"
   import { page } from "$app/stores"
+  import { intro } from "$lib/constants"
   import XLg from "$lib/icones/x-lg.svelte"
   import Menu from "$lib/Menu/menu.svelte"
   import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
@@ -71,7 +72,7 @@
   const goBack = (event) => {
     event.preventDefault()
     if (lastPage) {
-      if (lastPage === "/editorial") {
+      if (lastPage === intro) {
         headerIsOpen.set(true)
       }
       goto(lastPage, {
@@ -80,7 +81,7 @@
       })
     } else {
       headerIsOpen.set(true)
-      window.location.href = "/editorial"
+      window.location.href = `/${intro}`
     }
     lastPage = null
   }

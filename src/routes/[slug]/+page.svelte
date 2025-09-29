@@ -15,13 +15,13 @@
 
   let { data } = $props()
 
-  const marked = markdown()
+  const marked = markdown({ pageIndex: data?.site?.fields?.order / 20 - 3 })
 
   const mark = $derived.by(() => {
     if (typeof window === "undefined") {
       return undefined
     } else {
-      return marked(data.post.content)
+      return marked(data.site.content)
     }
   })
   const currentFootnote = writable(null)
@@ -37,7 +37,7 @@
   })
 </script>
 
-<section class={styles.container} key={data.post.fields.slug}>
+<section class={styles.container} key={data.site.fields.slug}>
   {#if $isLoading}
     <div class={styles.loading}>
       <svg class={styles.loader} width="40" height="40" viewBox="0 0 40 40">
@@ -64,15 +64,16 @@
       </svg>
     </div>
   {:else}
-    <h2>{data.post.fields.title}</h2>
-    <p>{data.post.fields.date}</p>
+    <h2>
+      <div class="number">{data?.site?.fields?.order / 20 - 3}</div>
+      {data.site.fields.title}
+    </h2>
     {#if mark}
       {@html mark}
     {:else}
       <p>Loading content...</p>
     {/if}
   {/if}
-  <!-- <Navigation {data} /> -->
 </section>
 
 <Footnotes {data} {currentFootnote} />

@@ -2,12 +2,28 @@ import { marked } from "marked"
 import { mount, unmount } from "svelte"
 import { slugify } from "./utils"
 
-export function createMarkedRenderer() {
+
+export function createMarkedRenderer(page) {
+  console.log(page.pageIndex)
+  const pageIndex = page?.pageIndex || 0
   const renderer = {
     heading({text, depth, raw, type}) {
       const id = slugify(text)
       const _depth = depth + 1
-      return `<h${_depth} id="${id}">${text}</h${_depth}>`
+      const headings = renderer._headings || (renderer._headings = [])
+      // Calculate hierarchical index like 1, 1.1, 1.2, 2, 2.1, etc.
+      const levels = renderer._levels || (renderer._levels = [])
+      levels[depth - 1] = (levels[depth - 1] || 0) + 1
+      levels.length = depth // truncate deeper levels
+      const index = levels.slice(0, depth).join(".")
+      headings.push({ text, depth, id, index })
+      {console.log("Rendering heading:", {text, index})}
+
+      // Get page index from renderer if available
+      return `<h${_depth} id="${id}">
+                <div class="headingIndex">${pageIndex}${index}</div>
+                  ${text}
+                </h${_depth}>`
     },
     link({ href, title, text }) {
       const titleAttr = title ? ` title="${title}"` : ""
@@ -20,7 +36,6 @@ export function createMarkedRenderer() {
         return `<span data-svelte-component="CustomFootnotes" data-props='${props}'></span>`
       }
       if (isGlossary) {
-        console.log(href, "text")
         const props = JSON.stringify({
           content: text.replace("[", "").replace("]", ""),
           id: href.replace("#_", "").toLowerCase(),
@@ -33,14 +48,14 @@ export function createMarkedRenderer() {
         return `<a href="${href}"${titleAttr} target="_blank" rel="noopener noreferrer">${text}</a>`
       }
       return `<a href="${href}"${titleAttr}>${text}</a>`
-    },
+    }
   }
 
   return renderer
 }
 
 function processCustomBlocks(content) {
-  const regex = /\[\[([a-zA-Z0-9_-]+):start\]\]([\s\S]*?)\[\[\1:end\]\]/g
+  const regex = /\[\[start:([a-zA-Z0-9_-]+)\]\]([\s\S]*?)\[\[\end:\1\]\]/g
   let prevContent
   do {
     prevContent = content
@@ -52,8 +67,8 @@ function processCustomBlocks(content) {
 }
 
 
-export function markdown() {
-  const renderer = createMarkedRenderer()
+export function markdown(page) {
+  const renderer = createMarkedRenderer(page)
   marked.use({ renderer })
   
   return function(content) {
@@ -65,7 +80,6 @@ export function markdown() {
 export function mountEmbeddedComponents(componentRegistry) {
   const placeholders = document.querySelectorAll("[data-svelte-component]")
   const mountedComponents = []
-  console.log("Mounting embedded components...", componentRegistry, componentRegistry)
   placeholders.forEach((placeholder) => {
     const componentName = placeholder.dataset.svelteComponent
     const Component = componentRegistry[componentName]
