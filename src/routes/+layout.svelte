@@ -64,7 +64,7 @@
   <!-- <Overlay /> -->
   <main>
     <img
-      src="/images/Intro.jpg"
+      src="/images/landing.jpg"
       alt="Sunset behind some mountains"
       class={`${
         $page?.params?.slug === intro ? styles.isHome : ""
