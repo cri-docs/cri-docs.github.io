@@ -7,18 +7,24 @@ export function createMarkedRenderer(page) {
   console.log(page.pageIndex)
   const pageIndex = page?.pageIndex || 0
   const renderer = {
+    image({ href, title, text, ...attrs }) {
+      console.log(attrs)
+      const titleAttr = title ? ` title="${title}"` : ""
+      console.log("Rendering image:", { href, title, text })
+      return `<figure>
+                <img src="${href}" alt="${text}"/>
+                <figcaption>${text}</figcaption>
+              </figure>`
+    },
     heading({text, depth, raw, type}) {
       const id = slugify(text)
       const _depth = depth + 1
       const headings = renderer._headings || (renderer._headings = [])
-      // Calculate hierarchical index like 1, 1.1, 1.2, 2, 2.1, etc.
       const levels = renderer._levels || (renderer._levels = [])
       levels[depth - 1] = (levels[depth - 1] || 0) + 1
       levels.length = depth // truncate deeper levels
       const index = levels.slice(0, depth).join(".")
       headings.push({ text, depth, id, index })
-      {console.log("Rendering heading:", {text, index})}
-
       // Get page index from renderer if available
       return `<h${_depth} id="${id}">
                 <div class="headingIndex">${pageIndex}${index}</div>

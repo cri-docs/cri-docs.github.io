@@ -41,7 +41,7 @@ S**truktureller Rassismus** ist eine Form von Rassismus, die sich in gesellschaf
 
 Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrundeliegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[18]](#footnote-19)
 
-![Eine Person in eineme Museeum (test)](/images/image001.jpg)Figure 1: Eine Person in eineme Museeum (test)
+![Eine Person in eineme Museeum (test)](/images/image001.jpg)
 
 [[start:block]]
 
