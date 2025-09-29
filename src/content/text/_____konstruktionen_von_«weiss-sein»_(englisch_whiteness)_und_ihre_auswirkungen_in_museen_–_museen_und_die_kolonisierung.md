@@ -39,7 +39,7 @@ Dieser Ausschluss kann explizit sein, ist aber oft implizit. Beispiele dafür, w
 
 Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden, sondern tun dies nicht zuletzt durch das Definieren einer hauptsächlich *weissen* Zielgruppe. An ihr orientiert sich die Ausstellungskultur, das Bildungs- und Vermittlungsangebot, die Dokumentationspraxis, der Umgang mit Sammlungen, die Inhalte und die Sprachen sowie die von der Institution gelebte Kultur.
 
-![](/images/image007.jpg)
+![](/images/image006.jpg)
 
 **Auswirkungen von geweissten Räumen**
 

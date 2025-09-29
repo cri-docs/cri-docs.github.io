@@ -35,7 +35,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 ## 10.1 Fallbeispiel 1
 
-![](/images/image019.jpg)
+![](/images/image018.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -95,7 +95,7 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[183]
 
 ## 10.2 Fallbeispiel 2
 
-![](/images/image020.jpg)
+![](/images/image019.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -139,7 +139,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläuter
 
 ## 10.3 **Fallbeispiel** 3
 
-![](/images/image021.jpg)
+![](/images/image020.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -177,7 +177,7 @@ Inhaltshinweis: «Abwertende Sprache»
 
 Bei diesem Objekt handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901-1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.
 
-![C:\Users\snmchug\Downloads\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png](/images/image022.jpg)
+![C:\Users\snmchug\Downloads\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png](/images/image021.jpg)
 
 Abbildung 1: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons
 
@@ -203,7 +203,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.4 **Fallbeispiel** 4
 
-![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg](/images/image023.jpg)
+![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg](/images/image022.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -263,7 +263,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.5 **Fallbeispiel** 5
 
-![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg](/images/image024.jpg)
+![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg](/images/image023.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -317,9 +317,9 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.6 **Fallbeispiel** 6
 
-![](/images/image025.jpg)
+![](/images/image024.jpg)
 
-![](/images/image026.jpg)
+![](/images/image025.jpg)
 
 Institution: Stiftung für Kunst, Kultur und Geschichte (SKKG), Winterthur
 
@@ -354,7 +354,7 @@ Das Objekt ist, verknüpft mit dem Haupteintrag und den übrigen Teilobjekten, i
 
 ## 10.7 **Fallbeispiel** 7
 
-![](/images/image027.jpg)
+![](/images/image026.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -400,7 +400,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum Objekt erläutert (s
 
 ## 10.8 **Fallbeispiel** 8
 
-![Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung](/images/image028.jpg)
+![Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung](/images/image027.jpg)
 
 **© The Herbert Matter Estate/Fotostiftung Schweiz**
 
@@ -476,7 +476,7 @@ Das Objekt wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwort
 
 ## 10.9 **Fallbeispiel** 9
 
-![](/images/image029.jpg)
+![](/images/image028.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -522,7 +522,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum Objekt erläutert (s
 
 ## 10.10 **Fallbeispiel** 10
 
-![](/images/image030.jpg)
+![](/images/image029.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -580,7 +580,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.11 **Fallbeispiel** 11
 
-![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg](/images/image031.jpg)
+![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg](/images/image030.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -636,7 +636,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.12 **Fallbeispiel** 12
 
-![Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung](/images/image032.jpg)
+![Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung](/images/image031.jpg)
 
 **© Fotostiftung Schweiz**
 
