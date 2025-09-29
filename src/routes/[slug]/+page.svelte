@@ -3,6 +3,7 @@
   import styles from "./page.module.styl"
   import Footnotes from "./Footnotes/footnotes.svelte"
   import CustomFootnotes from "./Footnotes/CustomFootnotes/CustomFootnotes.svelte"
+  import CustomGlossary from "./Glossary/CustomGlossary.svelte"
   import Navigation from "./Navigation/navigation.svelte"
   import { writable } from "svelte/store"
   import { page } from "$app/stores"
@@ -27,6 +28,7 @@
 
   const componentRegistry = {
     CustomFootnotes: CustomFootnotes,
+    CustomGlossary: CustomGlossary,
   }
 
   onMount(() => {

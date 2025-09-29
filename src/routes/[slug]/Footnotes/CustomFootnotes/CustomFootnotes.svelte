@@ -3,10 +3,10 @@
 
   import { currentFootnote } from "$lib/state.svelte.js"
 
-  let { content = "", id = "" } = $props()
+  let { content = "" } = $props()
 
   const setFootnote = () => {
-    currentFootnote.set(id)
+    currentFootnote.set(content)
   }
 </script>
 

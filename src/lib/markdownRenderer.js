@@ -12,13 +12,20 @@ export function createMarkedRenderer() {
     link({ href, title, text }) {
       const titleAttr = title ? ` title="${title}"` : ""
       const isFootnote = href.startsWith("#footnote-")
-
+      const isGlossary = href.startsWith("#_")
       if (isFootnote) {
         const props = JSON.stringify({
           content: text.replace("[", "").replace("]", ""),
-          id: text.replace("[", "").replace("]", ""),
         })
         return `<span data-svelte-component="CustomFootnotes" data-props='${props}'></span>`
+      }
+      if (isGlossary) {
+        console.log(href, "text")
+        const props = JSON.stringify({
+          content: text.replace("[", "").replace("]", ""),
+          id: href.replace("#_", "").toLowerCase(),
+        })
+        return `<span data-svelte-component="CustomGlossary" data-props='${props}'></span>`
       }
       const baseUrl = window.location.origin
       const isExternal = /^https?:\/\//.test(href) && !href.startsWith(baseUrl)
@@ -58,10 +65,11 @@ export function markdown() {
 export function mountEmbeddedComponents(componentRegistry) {
   const placeholders = document.querySelectorAll("[data-svelte-component]")
   const mountedComponents = []
-
+  console.log("Mounting embedded components...", componentRegistry, componentRegistry)
   placeholders.forEach((placeholder) => {
     const componentName = placeholder.dataset.svelteComponent
     const Component = componentRegistry[componentName]
+    // console.log("Found placeholders:", componentName, Component)
 
     if (Component) {
       try {

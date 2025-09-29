@@ -1,0 +1,34 @@
+.glossary
+  all unset
+  position relative
+  color red
+  cursor pointer
+  .popup
+    --lines 10
+    display flex
+    flex-direction column
+    align-items flex-start
+    position absolute
+    background-color white
+    bottom 0
+    // left 50%
+    width 500px
+    gap .5lh
+    margin-top .5rem
+    padding .5rem 1rem
+    transform translate(-1rem, -3rem)
+    color var(--color)
+    border 1px solid var(--color)
+    box-shadow 0 -3px 8px rgba(0, 0, 255, 0.2)
+    border-radius 4px
+    z-index 5
+    .text
+      width 100%
+      max-height calc( 1l * var(--lines) + 1rem )
+      font-size 1.4rem
+      text-overflow ellipsis
+      display -webkit-box
+      -webkit-box-orient vertical
+      -webkit-line-clamp var(--lines)
+      overflow hidden
+      line-clamp var(--lines)
