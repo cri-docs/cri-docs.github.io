@@ -7,14 +7,6 @@ color: "default"
 toc:
   - level: 2
     title: "10.1 Fallbeispiel 1"
-  - level: 3
-    title: "10.1.1 Kontext"
-  - level: 3
-    title: "10.1.2 Bearbeitung in der Datenbank:"
-  - level: 4
-    title: "10.1.2.1 Bezeichnung:"
-  - level: 4
-    title: "10.1.2.2 Deklaration als rassistisches Objekt:"
   - level: 2
     title: "10.2 Fallbeispiel 2"
   - level: 2
@@ -95,7 +87,7 @@ Metadaten des bereinigten Datensatzes:
 
 [[end:metadata]]
 
-### 10.1.1 Kontext
+### Kontext
 
 Die Figur wurde unter der intern vergebenen Bezeichnung «Mohrenautomat» geführt. In diesem Beispiel wird der Begriff «M\*» zweifach relevant. Einerseits im ikonografischen Inhalt der Figur und andererseits wegen des Wappens, das den Schild, den die Figur in der Hand hält, ziert. Die Diskussion um die Umbenennung dieses Objekts war eine der ersten, die im SNM geführt wurde – und durch die Rückmeldung einer Besucherin vor Ort, die auf die in der Ausstellung präsentierten Figur und deren rassistische Bezeichnung hinwies, befeuert. Hier standen sich verschiedene Positionen gegenüber. Die Bezeichnung «M\*automat» ist seit geraumer Zeit die interne Namensgebung des Objekts. Ursprünge davon lassen sich darüber hinaus in externen Quellen z.B. in der Zürcher Wochenchronik von 1913[[178]](#footnote-179) nachzeichnen. Im ersten Inventarbucheintrag zum Objekt wird die Figur als «Standuhr / einen aus Holz geschnitzten, auf / einem schwarzen Postament stehenden / Mohren [sic!] darstellend, auf der Brust ein silbernes Zifferblatt, / mit Wappen Rahn + Umschrift» aufgeführt. Daraus lässt sich schliessen, dass die Figur erst durch ihre Rezeptionsgeschichte zu dieser Bezeichnung gekommen ist. Sie steht also in einer langen historischen Tradition, die eng mit der Ausstellungsgeschichte des Objekts in Verbindung steht. Wenn man die etymologische Dimension des «M\*»-Begriffs beizieht (siehe weiter unten in diesem Beispiel) können Vermutungen darüber angestellt werden, welchen ikonografischen Ursprung die Figur zu ihrem Herstellungszeitpunkt hatte. Im 16. bis 18. Jh. festigte sich die Bedeutung des Worts «M\*» im deutschen Sprachraum als eine Fremdbezeichnung für Menschen Schwarzer Hautfarbe mit Herkunft aus afrikanischen oder auch anderen aussereuropäischen Ländern. In diesem Zeitraum beruhte die Hervorhebung Schwarzer Hautfarbe weniger auf ‹natürlichen›, körperlichen Eigenschaften als auf einer graduellen Wahrnehmung von ‹Fremdheit›, welche auf eine gestaffelte Wahrnehmung von Unterschieden in Religion und religiösen Riten, gesellschaftlicher Organisation und kulturellen Orientierungen bezogen war. Noch bis zum Ende des 18. Jh. wurden «M\*» von der weissen Gesellschaft nicht als ein «ganz Anderes», sondern eher als «graduell Anderes» wahrgenommen. Gegen Ende des 18. Jh. begannen der «Aufklärung» verpflichtete deutsche Naturforscher und Philosophen, «Rassen» anhand physischer Merkmale in einer «hierarchisch gegliederten Kette der menschlichen Lebewesen» einzuordnen, wobei sie «M\*» auf der niedersten Stufe verorteten und in die Nähe von Affen rückten. Mit der Aufklärung löste sich der «M\*» mehr und mehr aus seiner Einbettung in biblisch-religiöse Sinnkontexte. Stattdessen wurde er in «Rasse»-Theorien integriert. Ein zunehmend verfestigtes kolonial-rassistisches Gedankengut zeigte sich im 19. Jh. unter anderem in den Verwendungen des «M\*» in Sprichwörtern. In der pädagogischen Gebrauchsgrafik und der Kinderliteratur des 18. und 19. Jh. erfuhr der Begriff eine zunehmend rassistische Verwendung. Weitgehend Einigkeit besteht darüber, dass der «M\*» im Kontext der «Rasse»-Theorien der Aufklärung eine rassistische Konnotation erhalten hat. Das frühneuzeitliche europäische Verständnis des «M\*» exotisierte Schwarze Menschen. Die Wahrnehmung von etwas «Fremden» als exotisch verweist auf eine Stereotypisierung, die mit einer Mischung aus positiven und negativen Bewertungen einhergeht.[[179]](#footnote-180)
 
@@ -103,13 +95,13 @@ Beim Objekt handelt es sich um ein Geschenk des Zürcher Rates 1646 an den Bürg
 
 [[start:block]]
 
-### 10.1.2 Bearbeitung in der Datenbank:
+### Bearbeitung in der Datenbank:
 
-#### 10.1.2.1 Bezeichnung:
+#### Bezeichnung:
 
 Die Bezeichnung des Objekts wird in der **Änderungshistorie**[[182]](#footnote-183) **gespeichert und anschliessend angepasst. Sie lautet nun: «Auf Sockel stehende Schwarze männliche Figur, auf der Brust ein Zifferblatt, Schild in der Hand. Die Darstellung ist stark stereotypisiert und exotisiert».**
 
-#### 10.1.2.2 Deklaration als rassistisches Objekt:
+#### Deklaration als rassistisches Objekt:
 
 Das Objekt wird mit den Inhaltshinweisen «Rassifizierung» und dem Schlagwort «Mohr ‹Heraldik›» markiert.
 
