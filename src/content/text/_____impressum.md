@@ -7,44 +7,44 @@ color: "default"
 toc:
 ---
 
-Projektleitung
+Projektleitung  
 
-Schweizerisches Nationalmuseum, Céline Hug und Dario Donati
+Schweizerisches Nationalmuseum, Céline Hug und Dario Donati  
 
-Mitwirkende Institutionen:
+Mitwirkende Institutionen:  
 
-Bernisches Historisches Museum, Barbara Weber
+Bernisches Historisches Museum, Barbara Weber  
 
-ETH-Bibliothek, Sammlungen und Archive, ETH Zürich, Roberta Spano und Stephanie Willi
+ETH-Bibliothek, Sammlungen und Archive, ETH Zürich, Roberta Spano und Stephanie Willi  
 
-Historisches Museum Basel, Patrick Moser und Andrea Arnold
+Historisches Museum Basel, Patrick Moser und Andrea Arnold  
 
-Kunsthaus Zürich, Ruth Kistler
+Kunsthaus Zürich, Ruth Kistler  
 
-Museum für Kommunikation, Bern, Jonas Bürgi
+Museum für Kommunikation, Bern, Jonas Bürgi  
 
-Schweizerische Fotostiftung, Michèle Dick
+Schweizerische Fotostiftung, Michèle Dick  
 
-Schweizerisches Nationalmuseum, Céline Hug und Dario Donati
+Schweizerisches Nationalmuseum, Céline Hug und Dario Donati  
 
-Stiftung für Kunst, Kultur und Geschichte (SKKG), Sonja Gasser
+Stiftung für Kunst, Kultur und Geschichte (SKKG), Sonja Gasser  
 
-Konzept- und Projektbegleitung:
+Konzept- und Projektbegleitung:  
 
-Danielle Isler
+Danielle Isler  
 
-Textbeiträge:
+Textbeiträge:  
 
-Dr. Chonja Lee, Dr. Monique Ligtenberg, Danielle Isler, Noemie Etienne
+Dr. Chonja Lee, Dr. Monique Ligtenberg, Danielle Isler, Noemie Etienne  
 
-Fotos
+Fotos  
 
-Siehe Copyright-Angaben
+Siehe Copyright-Angaben  
 
-Design/Realisation
+Design/Realisation  
 
--
+-  
 
-Lektorat
+Lektorat  
 
 -

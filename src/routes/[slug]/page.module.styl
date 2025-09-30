@@ -95,11 +95,18 @@
   :global(.external)
     font-family var(--font-external)
     font-weight 400
+    padding calc(var(--padding) * 2)
+    padding-left calc(var(--padding) + clamp(var(--current-index-width), 100vw, var(--l)))
+    padding-right calc(var(--padding) * 3)
+    margin-left calc(var(--padding) * 3 * -1)
     background-color black
     color white
+    width 100vw
+    margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
     > p
       text-indent 30px
       width 85%
+      width calc(var(--text-width) * 0.8)
       > * 
         text-indent 0
   // [[end:blocks]]

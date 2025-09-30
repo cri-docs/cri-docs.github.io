@@ -46,19 +46,12 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer:** DEP-2443  
-
 **Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
-
 **Beschreibung:** Aus Holz geschnitzten, auf schwarzem Postament stehenden Mohren darstellend, auf der Brust ein silbernes Zifferblatt mit Wappen Rahn und Umschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646». Der Mohr bewegt die Augen im Sekundentakt, der Unterkiefer klappert im Stundenschlag.  
-
 **Klassifikation:** Figurenuhr  
-
 **Datierung:** 1646  
-
 **Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-
 **Schlagworte:** Personenwappen, Hans Rudolf Rahn  
-
 **Herstellung:** Augsburg  
 
 [[end:before]]
@@ -69,17 +62,11 @@ Metadaten des bereinigten Datensatzes:
 
 **Inventarnummer:** DEP-2443  
 **Bezeichnung:** Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
-
 **Klassifikation:** Figurenuhr  
-
 **Datierung:** 1646  
-
 **Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-
 **Schlagworte:** Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
-
 **Herstellung:** Augsburg  
-
 **Inhaltshinweis[[177]](#footnote-178):** «Rassifizierung»  
 
 [[end:after]]
@@ -128,7 +115,7 @@ Institution: Bernisches Historisches Museum
 **Verschlagwortung:** «Rassistischer Inhalt/Darstellung»  
 **Forschung:** Festhalten des historischen Kontexts/Problematik (s.u. Kontext)  
 
-**Kontext**  
+### Kontext  
 
 Beim Objekt mit Inv. Nr. H/47660 handelt es sich um eine mechanische Sparbüchse in Form einer Büste eines karikierten, Schwarzen Mannes. Im Inventarbuch des Bernischen Historischen Museums wurde das Objekt erstmals als «Sparkasse, grössere männliche Negerbüste» mit Verwendung des herabwürdigenden Begriffes «N\*» verzeichnet. Auf die geöffnete Hand der Figur wird eine Münze gelegt und danach ein Hebel an der Schulter betätigt. Darauf hebt sich der Arm, platziert die Münze auf der ausgestreckten Zunge und das Geldstück wird ins Innere der Büchse befördert. Dabei rollen die Augen der Figur. Diese Art von Sparbüchsen, oftmals als «Jolly N\* Bank», «Jolly Boy Bank» o. Ä. bezeichnet, stellt die rassistische Karikatur eines Schwarzen Menschen dar. Die Darstellungsweise, die den Mann grinsend und in eleganter Kleidung zeigt, repräsentiert das rassistische Stereotyp des «Coon». Dieser taucht in den 1830er-Jahren erstmals in den Liedern der Minstrel-Shows auf und ist eine Verhöhnung Schwarzer Menschen[[184]](#footnote-185)￼ Die Schauspieler in den Minstrel-Shows waren überwiegend *weisse* Männer, die mit schwarz geschminkten Gesichtern, übertrieben betonten Lippen und rollenden Augen auftraten.  
 
@@ -155,13 +142,9 @@ Institution: Schweizerisches Nationalmuseum ©SNM
 Metadaten des unbereinigten Datensatzes:  
 
 Inventarnummer: LM-99968  
-
 Bezeichnung: Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
-
 Klassifikation: Stickvorlage  
-
 Datierung: Um 1900  
-
 Inschrift (Titel): «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
 
 Schlagworte: -  
@@ -210,7 +193,7 @@ Für die Präsentation des Objekts in der Sammlung Online nach der Überarbeitun
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
-## 10.4 **Fallbeispiel** 4  
+## 10.4 Fallbeispiel 4  
 
 ![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg, extra:  ](/images/image021.jpg)
 
@@ -270,7 +253,7 @@ Das Objekt wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache�
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
-## 10.5 **Fallbeispiel** 5  
+## 10.5 Fallbeispiel 5  
 
 ![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg, extra:  ](/images/image022.jpg)
 
@@ -324,7 +307,7 @@ Das Objekt wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Ra
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
-## 10.6 **Fallbeispiel** 6  
+## 10.6 Fallbeispiel 6  
 
 ![alt:, extra:  ](/images/image023.jpg)
 
