@@ -86,7 +86,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC[[25]](#footnote-26)](#_BIPoC)- sowie migrantischen Communities an? Welche Stimmen fehlen?
 * Wie werden neu gewonnene Erkenntnisse (z.B. durch den Austausch mit Herkunftsgemeinschaften) in der Datenbank festgehalten?
 
-![alt:Das ist eine text description, extra:Figure 2: Austellung in einem Museeum](/images/image002.jpg)
+![alt:Austellung mit Statuen und einem Video mit einer Person., extra:Figure 2: Austellung in einem Museeum](/images/image002.jpg)
 
 |  |
 | --- |
