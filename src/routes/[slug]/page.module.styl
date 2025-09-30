@@ -1,18 +1,21 @@
 .container
-  --w calc(var(--text-width) + var(--padding) * 2)
+  --w calc(var(--text-width))
   --l calc(50vw - var(--w) / 2)
+  --font-size 2.6rem
+  --small-font-size 1.4rem
   display flex
   flex-direction column
   align-items flex-start
   width var(--w)
   margin-left clamp(var(--current-index-width),100vw, var(--l))
   padding-bottom calc(var(--padding) * 3)
-  padding-inline calc(var(--padding) + 30px) // update
+  padding-inline calc(var(--padding)) // update
+  padding-left calc(var(--padding) * 3)
   hyphens auto
   transition margin 0.5s, width 0.5s
   > * 
-    width var(--text-width)
-    font-size 2.6rem
+    width calc(var(--text-width) - 3 * var(--padding))
+    font-size var(--font-size)
     line-height 1.2
   .loading
     width var(--text-width)
@@ -20,11 +23,12 @@
     display flex
     align-items center
     justify-content center
-    font-size 2rem
+    font-size var(--font-size)
     color var(--color-secondary)
     background-color var(--color-background)
   // texts
-  // [[start:blocks]]
+  > p, > h1, > h2 , > h3 , > h4 , > h5
+    position relative
   p
     margin 0
     padding-bottom 1lh
@@ -36,7 +40,6 @@
     flex-direction column
     justify-content center
     align-items center
-    width 100%
     margin 0
     img
       width 80%
@@ -46,8 +49,9 @@
     figcaption
       width 80%
       padding-top 0.3lh
-      font-size 1.4rem
-  :global(.block)
+      font-size var(--small-font-size)
+  // [[start:blocks]]
+  :global(.literature)
     --p clamp(var(--current-index-width), 100vw, var(--l))
     // color white
     // background-color var(--color-secondary)
@@ -59,10 +63,28 @@
     padding-left var(--p)
     transform translateX(calc(var(--p) * -1))
     font-family var(--font) !important
-    font-size 1.5rem
+    font-size var(--small-font-size)
     > *
       width var(--text-width)
       width calc(var(--text-width) * 0.6)
+  :global(.block)
+    padding 1rem
+    border 1px solid var(--color)
+    margin-bottom 1lh
+  :global(.metadata)
+    display flex
+    flex-wrap wrap
+    margin-bottom 2lh
+    gap 1rem 2rem
+    padding 1rem
+    border 1px solid var(--color)
+    font-size var(--small-font-size)
+    > *
+      flex-shrink 0
+      width 100%
+    :global(.before)
+    :global(.after)
+      width calc(50% - 1rem)
   :global(.fullimage)
     width calc(100vw - (var(--nav-width) - var(--padding) * 1))
     img
@@ -73,6 +95,8 @@
   :global(.external)
     font-family var(--font-external)
     font-weight 400
+    background-color black
+    color white
     > p
       text-indent 30px
       width 85%
@@ -89,24 +113,21 @@
     font-weight 100
     max-width 80%
   h4
-    font-weight inherit
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6
-    position relative
+  h5
+    // font-weight inherit
+    margin-top 0
+    margin-bottom 1lh
   :global([data-number])::before
     content attr(data-number)
     position absolute
     right 100%
     text-align right
-    padding-right 2rem
     display inline
+    padding-right 1rem
+    // transform translateX(calc(var(--padding) * 2 - 1rem))
   ol
   ul
-    padding-inline 0
+    padding-right 0
     li
       position relative
       padding-bottom .5lh

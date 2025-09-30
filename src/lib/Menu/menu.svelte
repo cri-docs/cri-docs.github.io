@@ -139,17 +139,20 @@
                 {#each site.fields.toc as item}
                   <li
                     class={styles.label}
-                    class:active={$activeHeader === slugify(item.title)}
+                    class:active={$activeHeader ===
+                      slugify(item.title.replace(/^[^ ]* /, ""))}
                   >
                     <a
-                      href={`/${site.fields.slug}?sub=${slugify(item.title)}`}
+                      href={`/${site.fields.slug}?sub=${slugify(item.title.replace(/^[^ ]* /, ""))}`}
                       style={`padding-left: ${(item.level - 1) * 2 + 3}ch;`}
                       onclick={(e) =>
                         handleAnchorClick({
-                          link: `${slugify(item.title)}`,
+                          link: `${slugify(item.title.replace(/^[^ ]* /, ""))}`,
                         })}
                     >
-                      {@html marked.parseInline(item.title)}
+                      {@html marked.parseInline(
+                        item.title.replace(/^[^ ]* /, "")
+                      )}
                     </a>
                   </li>
                 {/each}

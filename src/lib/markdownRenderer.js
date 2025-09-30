@@ -3,25 +3,26 @@ import { mount, unmount } from "svelte"
 import { slugify } from "./utils"
 
 export function createMarkedRenderer(pageInfo) {
-  const headings = []
   const renderer = {
     image({ href, title, text, ...attrs }) {
-      console.log(attrs)
-      const titleAttr = title ? ` title="${title}"` : ""
-      console.log("Rendering image:", { href, title, text })
+      let _text = text.replaceAll("alt:", "")
+      let [altText, extraText] = _text.split(", extra:")
+      extraText =  extraText ? extraText?.split?.(":")?.[1] : ""
       return `<figure>
-                <img src="${href}" alt="${text}"/>
-                <figcaption>${text}</figcaption>
+                <img src="${href}" alt="${altText}"/>
+                ${extraText ? `<figcaption>${extraText}</figcaption>` : ""}
               </figure>`
     },
     heading({text, depth, raw, type}) {
-      const id = slugify(text)
+      // const id = slugify(text)
       const _depth = depth + 1
       const headingNumberMatch = text.match(/^[\d.]+/)
       const headingNumber = headingNumberMatch ? headingNumberMatch[0] : null
       const headingText = headingNumber ? text.replace(headingNumber, "").trim() : text
+      const id = slugify(headingText)
+      const plainText = headingText.replace(/[#_*~`[\]()>#+\-=|{}.!]/g, "")
       return `<h${_depth} id="${id}" data-number="${headingNumber || ""}">
-            ${headingText}
+            ${plainText}
             </h${_depth}>`
     },
     link({ href, title, text }) {
