@@ -10,15 +10,11 @@ toc:
   - level: 3
     title: "10.1.1 Kontext"
   - level: 3
-    title: "10.1.2 start:block"
-  - level: 3
-    title: "10.1.3 Bearbeitung in der Datenbank:"
+    title: "10.1.2 Bearbeitung in der Datenbank:"
   - level: 4
-    title: "10.1.3.1 Bezeichnung:"
+    title: "10.1.2.1 Bezeichnung:"
   - level: 4
-    title: "10.1.3.2 Deklaration als rassistisches Objekt:"
-  - level: 3
-    title: "10.1.4 end:block"
+    title: "10.1.2.2 Deklaration als rassistisches Objekt:"
   - level: 2
     title: "10.2 Fallbeispiel 2"
   - level: 2
@@ -97,7 +93,7 @@ Metadaten des bereinigten Datensatzes:
 
 [[end:after]]
 
-**[[end:metadata]]**
+[[end:metadata]]
 
 ### 10.1.1 Kontext
 
@@ -105,21 +101,21 @@ Die Figur wurde unter der intern vergebenen Bezeichnung «Mohrenautomat» gefüh
 
 Beim Objekt handelt es sich um ein Geschenk des Zürcher Rates 1646 an den Bürgermeister Hans Rudolf Rahn das er in Zusammenhang eines Kuraufenthaltes in Banden erhielt. Seit dem 16. Jh. führt die Familie Rahn die stereotype Abbildung eines Schwarzen Mannes in ihrem Familienwappen (einem sogenannten «M\*»).[[180]](#footnote-181) Solche Darstellungen finden sich seit dem Mittelalter, verbreiten sich aber im Kontext der europäischen Expansion, des Kolonialismus und dem transatlantischen Sklavenhandel und werden damit zunehmend mit exotisierenden Attributen aufgeladen. Seit dem 12. Jh. taucht der «M\*» auf Darstellungen und Wappen in Europa auf, um die vermeintliche Überlegenheit über die muslimischen Feinde darzustellen. Im Spätmittelalter verwenden europäische adlige und reiche Familien diese Darstellungen, um Reichtum und Weltläufigkeit zu demonstrieren. So vermischen sich Formen rassistischer Diskriminierung.[[181]](#footnote-182) Ob und inwiefern die Darstellung dieses Objekts damals rassistisch motiviert und mit exotisierenden Komponenten aufgeladen war, kann nicht endgültig beantwortet werden. Nichtsdestotrotz widerspiegelt sie im heutigen Kontext eine auf ikonografischer sowie sprachlicher Ebene rassistische Repräsentationspraktik. In den internen Diskussionen wurde deshalb entschieden, die Namensgebung zu ändern. Dies aber mit dem Vorbehalt, dass die historischen Bezeichnungen in der internen Datenbank weiterhin hinterlegt sind und diese nicht unwiderruflich gelöscht werden. Zudem war es ein zentrales Anliegen, die bildsprachliche Ebene, die vor allem durch die heraldischen Symbole des «M\*», die an verschiedenen Stellen des Objekts zu sehen sind, durch Schlagworte zu kennzeichnen, so dass das Objekt im Kontext von Recherchearbeiten zu diesen Symbolen in der Datenbank auffindbar ist. Bei der Neubezeichnung des Objekts taten sich wiederum neue Fragen auf, z. B.: Welche Alternativen bieten sich an, wenn die Figur eine historisch konstruierte Imagination von europäischen Männern in der Zeit um die Mitte des 17. Jh. einer nichteuropäische Bevölkerungsgruppe widerspiegelt? Kann man in diesem Fall heutige Selbstbezeichnungen wie zum Beispiel «Schwarze:r » oder «BIPoC» adaptieren? Wie bereits erahnt werden kann, schieden sich hier die Geister. Den historischen Begriff mehrfach (weil er ja bereits in der Verschlagwortung benannt wird) zu reproduzieren, kam jedoch nicht in Frage, weshalb man sich dazu entschieden hat, die Schreibweise «Schwarz» (Grossschreibung) trotz aller Vorbehalte zu übernehmen.
 
-### 10.1.2 [[start:block]]
+[[start:block]]
 
-### 10.1.3 Bearbeitung in der Datenbank:
+### 10.1.2 Bearbeitung in der Datenbank:
 
-#### 10.1.3.1 Bezeichnung:
+#### 10.1.2.1 Bezeichnung:
 
 Die Bezeichnung des Objekts wird in der **Änderungshistorie**[[182]](#footnote-183) **gespeichert und anschliessend angepasst. Sie lautet nun: «Auf Sockel stehende Schwarze männliche Figur, auf der Brust ein Zifferblatt, Schild in der Hand. Die Darstellung ist stark stereotypisiert und exotisiert».**
 
-#### 10.1.3.2 Deklaration als rassistisches Objekt:
+#### 10.1.2.2 Deklaration als rassistisches Objekt:
 
 Das Objekt wird mit den Inhaltshinweisen «Rassifizierung» und dem Schlagwort «Mohr ‹Heraldik›» markiert.
 
 Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[183]](#footnote-184) freigeschaltet.
 
-### 10.1.4 [[end:block]
+[[end:block]]
 
 ## 10.2 Fallbeispiel 2
 
