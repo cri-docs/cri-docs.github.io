@@ -7,6 +7,18 @@ color: "default"
 toc:
   - level: 2
     title: "10.1 Fallbeispiel 1"
+  - level: 3
+    title: "10.1.1 Kontext"
+  - level: 3
+    title: "10.1.2 start:block"
+  - level: 3
+    title: "10.1.3 Bearbeitung in der Datenbank:"
+  - level: 4
+    title: "10.1.3.1 Bezeichnung:"
+  - level: 4
+    title: "10.1.3.2 Deklaration als rassistisches Objekt:"
+  - level: 3
+    title: "10.1.4 end:block"
   - level: 2
     title: "10.2 Fallbeispiel 2"
   - level: 2
@@ -37,61 +49,77 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 ![](/images/image018.jpg)
 
-Institution: Schweizerisches Nationalmuseum ©SNM
+[[start:metadata]]
+
+**Institution:** Schweizerisches Nationalmuseum ©SNM
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:
 
-Inventarnummer: DEP-2443
+**Inventarnummer:** DEP-2443
 
-Bezeichnung: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand
+**Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand
 
-Beschreibung: Aus Holz geschnitzten, auf schwarzem Postament stehenden Mohren darstellend, auf der Brust ein silbernes Zifferblatt mit Wappen Rahn und Umschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646». Der Mohr bewegt die Augen im Sekundentakt, der Unterkiefer klappert im Stundenschlag.
+**Beschreibung:** Aus Holz geschnitzten, auf schwarzem Postament stehenden Mohren darstellend, auf der Brust ein silbernes Zifferblatt mit Wappen Rahn und Umschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646». Der Mohr bewegt die Augen im Sekundentakt, der Unterkiefer klappert im Stundenschlag.
 
-Klassifikation: Figurenuhr
+**Klassifikation:** Figurenuhr
 
-Datierung: 1646
+**Datierung:** 1646
 
-Inschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646»
+**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»
 
-Schlagworte: Personenwappen, Hans Rudolf Rahn
+**Schlagworte:** Personenwappen, Hans Rudolf Rahn
 
-Herstellung: Augsburg
+**Herstellung:** Augsburg
+
+[[end:before]]
+
+[[start:after]]
 
 Metadaten des bereinigten Datensatzes:
 
-Inventarnummer: DEP-2443
+**Inventarnummer:** DEP-2443
 
-Bezeichnung: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.
+**Bezeichnung:** Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.
 
-Klassifikation: Figurenuhr
+**Klassifikation:** Figurenuhr
 
-Datierung: 1646
+**Datierung:** 1646
 
-Inschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646»
+**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»
 
-Schlagworte: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»
+**Schlagworte:** Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»
 
-Herstellung: Augsburg
+**Herstellung:** Augsburg
 
-Inhaltshinweis[[177]](#footnote-178): «Rassifizierung»
+**Inhaltshinweis[[177]](#footnote-178):** «Rassifizierung»
 
-**Kontext**
+[[end:after]]
+
+**[[end:metadata]]**
+
+### 10.1.1 Kontext
 
 Die Figur wurde unter der intern vergebenen Bezeichnung «Mohrenautomat» geführt. In diesem Beispiel wird der Begriff «M\*» zweifach relevant. Einerseits im ikonografischen Inhalt der Figur und andererseits wegen des Wappens, das den Schild, den die Figur in der Hand hält, ziert. Die Diskussion um die Umbenennung dieses Objekts war eine der ersten, die im SNM geführt wurde – und durch die Rückmeldung einer Besucherin vor Ort, die auf die in der Ausstellung präsentierten Figur und deren rassistische Bezeichnung hinwies, befeuert. Hier standen sich verschiedene Positionen gegenüber. Die Bezeichnung «M\*automat» ist seit geraumer Zeit die interne Namensgebung des Objekts. Ursprünge davon lassen sich darüber hinaus in externen Quellen z.B. in der Zürcher Wochenchronik von 1913[[178]](#footnote-179) nachzeichnen. Im ersten Inventarbucheintrag zum Objekt wird die Figur als «Standuhr / einen aus Holz geschnitzten, auf / einem schwarzen Postament stehenden / Mohren [sic!] darstellend, auf der Brust ein silbernes Zifferblatt, / mit Wappen Rahn + Umschrift» aufgeführt. Daraus lässt sich schliessen, dass die Figur erst durch ihre Rezeptionsgeschichte zu dieser Bezeichnung gekommen ist. Sie steht also in einer langen historischen Tradition, die eng mit der Ausstellungsgeschichte des Objekts in Verbindung steht. Wenn man die etymologische Dimension des «M\*»-Begriffs beizieht (siehe weiter unten in diesem Beispiel) können Vermutungen darüber angestellt werden, welchen ikonografischen Ursprung die Figur zu ihrem Herstellungszeitpunkt hatte. Im 16. bis 18. Jh. festigte sich die Bedeutung des Worts «M\*» im deutschen Sprachraum als eine Fremdbezeichnung für Menschen Schwarzer Hautfarbe mit Herkunft aus afrikanischen oder auch anderen aussereuropäischen Ländern. In diesem Zeitraum beruhte die Hervorhebung Schwarzer Hautfarbe weniger auf ‹natürlichen›, körperlichen Eigenschaften als auf einer graduellen Wahrnehmung von ‹Fremdheit›, welche auf eine gestaffelte Wahrnehmung von Unterschieden in Religion und religiösen Riten, gesellschaftlicher Organisation und kulturellen Orientierungen bezogen war. Noch bis zum Ende des 18. Jh. wurden «M\*» von der weissen Gesellschaft nicht als ein «ganz Anderes», sondern eher als «graduell Anderes» wahrgenommen. Gegen Ende des 18. Jh. begannen der «Aufklärung» verpflichtete deutsche Naturforscher und Philosophen, «Rassen» anhand physischer Merkmale in einer «hierarchisch gegliederten Kette der menschlichen Lebewesen» einzuordnen, wobei sie «M\*» auf der niedersten Stufe verorteten und in die Nähe von Affen rückten. Mit der Aufklärung löste sich der «M\*» mehr und mehr aus seiner Einbettung in biblisch-religiöse Sinnkontexte. Stattdessen wurde er in «Rasse»-Theorien integriert. Ein zunehmend verfestigtes kolonial-rassistisches Gedankengut zeigte sich im 19. Jh. unter anderem in den Verwendungen des «M\*» in Sprichwörtern. In der pädagogischen Gebrauchsgrafik und der Kinderliteratur des 18. und 19. Jh. erfuhr der Begriff eine zunehmend rassistische Verwendung. Weitgehend Einigkeit besteht darüber, dass der «M\*» im Kontext der «Rasse»-Theorien der Aufklärung eine rassistische Konnotation erhalten hat. Das frühneuzeitliche europäische Verständnis des «M\*» exotisierte Schwarze Menschen. Die Wahrnehmung von etwas «Fremden» als exotisch verweist auf eine Stereotypisierung, die mit einer Mischung aus positiven und negativen Bewertungen einhergeht.[[179]](#footnote-180)
 
 Beim Objekt handelt es sich um ein Geschenk des Zürcher Rates 1646 an den Bürgermeister Hans Rudolf Rahn das er in Zusammenhang eines Kuraufenthaltes in Banden erhielt. Seit dem 16. Jh. führt die Familie Rahn die stereotype Abbildung eines Schwarzen Mannes in ihrem Familienwappen (einem sogenannten «M\*»).[[180]](#footnote-181) Solche Darstellungen finden sich seit dem Mittelalter, verbreiten sich aber im Kontext der europäischen Expansion, des Kolonialismus und dem transatlantischen Sklavenhandel und werden damit zunehmend mit exotisierenden Attributen aufgeladen. Seit dem 12. Jh. taucht der «M\*» auf Darstellungen und Wappen in Europa auf, um die vermeintliche Überlegenheit über die muslimischen Feinde darzustellen. Im Spätmittelalter verwenden europäische adlige und reiche Familien diese Darstellungen, um Reichtum und Weltläufigkeit zu demonstrieren. So vermischen sich Formen rassistischer Diskriminierung.[[181]](#footnote-182) Ob und inwiefern die Darstellung dieses Objekts damals rassistisch motiviert und mit exotisierenden Komponenten aufgeladen war, kann nicht endgültig beantwortet werden. Nichtsdestotrotz widerspiegelt sie im heutigen Kontext eine auf ikonografischer sowie sprachlicher Ebene rassistische Repräsentationspraktik. In den internen Diskussionen wurde deshalb entschieden, die Namensgebung zu ändern. Dies aber mit dem Vorbehalt, dass die historischen Bezeichnungen in der internen Datenbank weiterhin hinterlegt sind und diese nicht unwiderruflich gelöscht werden. Zudem war es ein zentrales Anliegen, die bildsprachliche Ebene, die vor allem durch die heraldischen Symbole des «M\*», die an verschiedenen Stellen des Objekts zu sehen sind, durch Schlagworte zu kennzeichnen, so dass das Objekt im Kontext von Recherchearbeiten zu diesen Symbolen in der Datenbank auffindbar ist. Bei der Neubezeichnung des Objekts taten sich wiederum neue Fragen auf, z. B.: Welche Alternativen bieten sich an, wenn die Figur eine historisch konstruierte Imagination von europäischen Männern in der Zeit um die Mitte des 17. Jh. einer nichteuropäische Bevölkerungsgruppe widerspiegelt? Kann man in diesem Fall heutige Selbstbezeichnungen wie zum Beispiel «Schwarze:r » oder «BIPoC» adaptieren? Wie bereits erahnt werden kann, schieden sich hier die Geister. Den historischen Begriff mehrfach (weil er ja bereits in der Verschlagwortung benannt wird) zu reproduzieren, kam jedoch nicht in Frage, weshalb man sich dazu entschieden hat, die Schreibweise «Schwarz» (Grossschreibung) trotz aller Vorbehalte zu übernehmen.
 
-**Bearbeitung in der Datenbank:**
+### 10.1.2 [[start:block]]
 
-Bezeichnung:
+### 10.1.3 Bearbeitung in der Datenbank:
+
+#### 10.1.3.1 Bezeichnung:
 
 Die Bezeichnung des Objekts wird in der **Änderungshistorie**[[182]](#footnote-183) **gespeichert und anschliessend angepasst. Sie lautet nun: «Auf Sockel stehende Schwarze männliche Figur, auf der Brust ein Zifferblatt, Schild in der Hand. Die Darstellung ist stark stereotypisiert und exotisiert».**
 
-Deklaration als rassistisches Objekt:
+#### 10.1.3.2 Deklaration als rassistisches Objekt:
 
 Das Objekt wird mit den Inhaltshinweisen «Rassifizierung» und dem Schlagwort «Mohr ‹Heraldik›» markiert.
 
 Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[183]](#footnote-184) freigeschaltet.
+
+### 10.1.4 [[end:block]
 
 ## 10.2 Fallbeispiel 2
 

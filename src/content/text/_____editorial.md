@@ -9,7 +9,7 @@ toc:
     title: "1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs"
 ---
 
-Das Thema [Dekolonisierung[[1]](#footnote-2)](#_Dekolonisierung_und_Dekolonialismus) und die damit verbundene kritische Reflexion der eigenen Sammlungs- und Dokumentationspraxis hat in den letzten Jahren zunehmend an Bedeutung gewonnen. Die Restitution von geraubtem Kulturerbe in der Schweiz hat eine lange Geschichte[[2]](#footnote-3), die durch die Provenienzforschung, der im Kontext des Nationalsozialismus geraubten Kulturgüter ihren Höhepunkt erreichte. Diese Erforschung leistete wichtige Vorarbeit für die Fragen, die sich ethnologische und ethnografische Sammlungen und Museen in Zusammenhang mit Provenienzen aus kolonialen Kontexten stellten. Die daraus erstarkten Diskussionen um [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus) haben in den letzten Jahren weitere Museen und Sammlungen erfasst und werden zunehmend auch in naturhistorischen[[3]](#footnote-4) Sammlungen und Museen geführt.
+Das Thema [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus) [[1]](#footnote-2) und die damit verbundene kritische Reflexion der eigenen Sammlungs- und Dokumentationspraxis hat in den letzten Jahren zunehmend an Bedeutung gewonnen. Die Restitution von geraubtem Kulturerbe in der Schweiz hat eine lange Geschichte[[2]](#footnote-3), die durch die Provenienzforschung, der im Kontext des Nationalsozialismus geraubten Kulturgüter ihren Höhepunkt erreichte. Diese Erforschung leistete wichtige Vorarbeit für die Fragen, die sich ethnologische und ethnografische Sammlungen und Museen in Zusammenhang mit Provenienzen aus kolonialen Kontexten stellten. Die daraus erstarkten Diskussionen um [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus) haben in den letzten Jahren weitere Museen und Sammlungen erfasst und werden zunehmend auch in naturhistorischen[[3]](#footnote-4) Sammlungen und Museen geführt.
 
 Auch wenn sich GLAM-Institutionen (**G**alleries, **L**ibraries, **A**rchives, **M**useums) je nach Institutionstyp und Sammlungskontext unterscheiden, stehen sie doch vor ähnlichen Herausforderungen: dem verantwortungsvollen Umgang mit kulturellem Erbe.
 
@@ -17,7 +17,7 @@ Mitarbeiter:innen solcher Gedächtnisinstitutionen haben die Aufgabe, dieses Erb
 
 Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunktion ein: Sie verknüpft Forschung, Ausstellung, Vermittlung und partizipative Projekte und sichert deren Inhalte langfristig. Dabei ist sie eng mit anderen musealen Handlungsfeldern verbunden und beeinflusst massgeblich, welche Geschichten erzählt werden und für wen das Museum einladend und relevant ist. Denn Sammeln und Dokumentieren sind stets selektive Prozesse, die bestimmten Perspektiven Sichtbarkeit verleihen und andere ausblenden. Dadurch prägen sie nicht nur die institutionelle Erzählung, sondern auch das Selbstverständnis und die gesellschaftliche Rolle des Museums – insbesondere in Bezug auf Repräsentation und Teilhabe.
 
-[[start:block]]
+[[start:literature]]
 
 Weiterführende Literatur:
 
@@ -61,7 +61,7 @@ Europeana (Hg.): DE-BIAS - Detecting and cur(at)ing harmful language in cultural
 
 National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025.
 
-[[end:block]]
+[[end:literature]]
 
 ## 1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs
 
