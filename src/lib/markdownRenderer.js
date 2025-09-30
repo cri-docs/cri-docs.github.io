@@ -2,28 +2,18 @@ import { marked } from "marked"
 import { mount, unmount } from "svelte"
 import { slugify } from "./utils"
 
-
-export function createMarkedRenderer(page) {
-  console.log(page.pageIndex)
-  const pageIndex = page?.pageIndex || 0
+export function createMarkedRenderer(pageInfo) {
+  const headings = []
   const renderer = {
     heading({text, depth, raw, type}) {
       const id = slugify(text)
       const _depth = depth + 1
-      const headings = renderer._headings || (renderer._headings = [])
-      // Calculate hierarchical index like 1, 1.1, 1.2, 2, 2.1, etc.
-      const levels = renderer._levels || (renderer._levels = [])
-      levels[depth - 1] = (levels[depth - 1] || 0) + 1
-      levels.length = depth // truncate deeper levels
-      const index = levels.slice(0, depth).join(".")
-      headings.push({ text, depth, id, index })
-      {console.log("Rendering heading:", {text, index})}
-
-      // Get page index from renderer if available
-      return `<h${_depth} id="${id}">
-                <div class="headingIndex">${pageIndex}${index}</div>
-                  ${text}
-                </h${_depth}>`
+      const headingNumberMatch = text.match(/^[\d.]+/)
+      const headingNumber = headingNumberMatch ? headingNumberMatch[0] : null
+      const headingText = headingNumber ? text.replace(headingNumber, "").trim() : text
+      return `<h${_depth} id="${id}" data-number="${headingNumber || ""}">
+            ${headingText}
+            </h${_depth}>`
     },
     link({ href, title, text }) {
       const titleAttr = title ? ` title="${title}"` : ""
@@ -67,10 +57,10 @@ function processCustomBlocks(content) {
 }
 
 
-export function markdown(page) {
-  const renderer = createMarkedRenderer(page)
-  marked.use({ renderer })
-  
+export function markdown(pageInfo = {}) {
+  const renderer = createMarkedRenderer(pageInfo)
+  marked.use({ renderer });
+
   return function(content) {
     const processedContent = processCustomBlocks(content)
     return marked(processedContent)

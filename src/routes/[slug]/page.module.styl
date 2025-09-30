@@ -7,7 +7,7 @@
   width var(--w)
   margin-left clamp(var(--current-index-width),100vw, var(--l))
   padding-bottom calc(var(--padding) * 3)
-  padding-inline var(--padding)
+  padding-inline calc(var(--padding) + 30px) // update
   hyphens auto
   transition margin 0.5s, width 0.5s
   > * 
@@ -79,7 +79,8 @@
   h5,
   h6
     position relative
-  :global(.headingIndex)
+  :global([data-number])::before
+    content attr(data-number)
     position absolute
     right 100%
     text-align right

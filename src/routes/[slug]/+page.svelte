@@ -12,10 +12,14 @@
   import External from "./types/External.svelte"
   import { fly } from "svelte/transition"
   import { navigating } from "$app/state"
+  import { activeHeader } from "$lib/state.svelte"
 
   let { data } = $props()
 
-  const marked = markdown({ pageIndex: data?.site?.fields?.order / 20 - 3 })
+  const marked = markdown({
+    pageIndex: data?.site?.fields?.index,
+    data: data.site.fields,
+  })
 
   const mark = $derived.by(() => {
     if (typeof window === "undefined") {
@@ -29,6 +33,36 @@
   const componentRegistry = {
     CustomFootnotes: CustomFootnotes,
     CustomGlossary: CustomGlossary,
+  }
+
+  import { browser } from "$app/environment"
+
+  if (browser) {
+    onMount(() => {
+      const headers = Array.from(
+        document.querySelectorAll("h1, h2, h3, h4, h5, h6")
+      )
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              activeHeader.set(entry.target.id || entry.target.textContent)
+            }
+          })
+        },
+        {
+          rootMargin: "0px 0px -80% 0px",
+          threshold: 0.1,
+        }
+      )
+      headers.forEach((header) => {
+        observer.observe(header)
+      })
+      return () => {
+        headers.forEach((header) => observer.unobserve(header))
+        observer.disconnect()
+      }
+    })
   }
 
   onMount(() => {
@@ -65,7 +99,11 @@
     </div>
   {:else}
     <h2>
-      <div class="number">{data?.site?.fields?.order / 20 - 3}</div>
+      {#if data?.site?.fields?.index >= 0}
+        <div class="number">
+          {data?.site?.fields?.index + 1}
+        </div>
+      {/if}
       {data.site.fields.title}
     </h2>
     {#if mark}

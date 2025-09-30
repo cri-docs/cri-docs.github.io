@@ -1,7 +1,7 @@
 <script>
   import { base } from "$app/paths"
 
-  import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
+  import { activeHeader, headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import aboutData from "|/content/text/about.json"
   import imprintData from "|/content/text/imprint.json"
   import infoboxData from "|/content/text/infobox.json"
@@ -137,19 +137,20 @@
             {#if site.fields.toc && $page.params.slug === site.fields.slug}
               <ul>
                 {#each site.fields.toc as item}
-                  <li>
-                    <div class={styles.label}>
-                      <a
-                        href={`/${site.fields.slug}?sub=${slugify(item.title)}`}
-                        style={`padding-left: ${(item.level - 1) * 2 + 3}ch;`}
-                        onclick={(e) =>
-                          handleAnchorClick({
-                            link: `${slugify(item.title)}`,
-                          })}
-                      >
-                        {@html marked.parseInline(item.title)}
-                      </a>
-                    </div>
+                  <li
+                    class={styles.label}
+                    class:active={$activeHeader === slugify(item.title)}
+                  >
+                    <a
+                      href={`/${site.fields.slug}?sub=${slugify(item.title)}`}
+                      style={`padding-left: ${(item.level - 1) * 2 + 3}ch;`}
+                      onclick={(e) =>
+                        handleAnchorClick({
+                          link: `${slugify(item.title)}`,
+                        })}
+                    >
+                      {@html marked.parseInline(item.title)}
+                    </a>
                   </li>
                 {/each}
               </ul>
