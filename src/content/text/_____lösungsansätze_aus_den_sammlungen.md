@@ -68,7 +68,6 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des bereinigten Datensatzes:
 
 **Inventarnummer:** DEP-2443
-
 **Bezeichnung:** Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.
 
 **Klassifikation:** Figurenuhr
@@ -115,25 +114,19 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[183]
 
 Institution: Bernisches Historisches Museum
 
-Metadaten des unbereinigten Datensatzes:
+#### Metadaten des unbereinigten Datensatzes:
 
-Inventarnummer: H/57166
+**Inventarnummer:** H/57166
+**Titel:** Sparkasse, grössere männliche Negerbüste
+**Datierung:** um 1900 (Herstellung)
 
-Titel: Sparkasse, grössere männliche Negerbüste
+#### Metadaten des bereinigten Datensatzes:
 
-Datierung: um 1900 (Herstellung)
-
-Metadaten des bereinigten Datensatzes:
-
-Inventarnummer: H/57166
-
-Titel: Sparbüchse in Form einer Karikatur eines Schwarzen Mannes
-
-Datierung: um 1900 (Herstellung)
-
-Verschlagwortung: «Rassistischer Inhalt/Darstellung»
-
-Forschung: Festhalten des historischen Kontexts/Problematik (s.u. Kontext)
+**Inventarnummer:** H/57166
+**Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes
+**Datierung:** um 1900 (Herstellung)
+**Verschlagwortung:** «Rassistischer Inhalt/Darstellung»
+**Forschung:** Festhalten des historischen Kontexts/Problematik (s.u. Kontext)
 
 **Kontext**
 
