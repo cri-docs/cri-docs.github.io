@@ -5,6 +5,15 @@ import { slugify } from "./utils"
 export function createMarkedRenderer(pageInfo) {
   const headings = []
   const renderer = {
+    image({ href, title, text, ...attrs }) {
+      console.log(attrs)
+      const titleAttr = title ? ` title="${title}"` : ""
+      console.log("Rendering image:", { href, title, text })
+      return `<figure>
+                <img src="${href}" alt="${text}"/>
+                <figcaption>${text}</figcaption>
+              </figure>`
+    },
     heading({text, depth, raw, type}) {
       const id = slugify(text)
       const _depth = depth + 1

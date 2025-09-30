@@ -139,7 +139,7 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren.
 * Anpassungen im Frontend der Online-Sammlung
 
-![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](/images/image008.jpg)
+![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](/images/image007.jpg)
 
 ### 7.2.2 (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -158,8 +158,8 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 * Anpassungen im Frontend der Online-Sammlung
 * Definition von Kriterien für Platzhalter
 
-![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](/images/image009.jpg)
- ![](/images/image010.jpg)
+![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](/images/image008.jpg)
+ ![](/images/image009.jpg)
 
 ### 7.2.3 (3) Titel neu formulieren
 
@@ -180,7 +180,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
   + ob der Titel von der:dem Kunstschaffenden historisch belegt oder nachträglich vergeben wurde
   + zur Definierung eines neuen, deskriptiven Titels.
 
-![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp](/images/image011.jpg)
+![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp](/images/image010.jpg)
 
 ### 7.2.4 (4) Individuelle Inhaltswarnungen
 
@@ -200,8 +200,8 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 * Definition von Kriterien für Warnungen
 * Erstellung begleitender Erläuterungen
 
-![](/images/image012.jpg) ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp](/images/image013.jpg)
-![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp](/images/image014.jpg)
+![](/images/image011.jpg) ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp](/images/image012.jpg)
+![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp](/images/image013.jpg)
 
 ### 7.2.5 (5) Allgemeine Inhaltswarnung für die gesamte Sammlung
 
@@ -220,7 +220,7 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 * Anpassungen im Frontend der Online-Sammlung
 * Formulierung einer allgemeinen Warnung
 
-![](/images/image015.jpg)
+![](/images/image014.jpg)
 
 **Zusammenfassung:**
 

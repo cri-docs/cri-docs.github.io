@@ -33,7 +33,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 ### 2.1.1 Rassismus auf der individuellen Ebene
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz_%2F_weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[14]](#footnote-15) Wenn rassistische Überzeugungen von rassifizierten[[15]](#footnote-16)Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus[[16]](#footnote-17)
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz_%252F_weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[14]](#footnote-15) Wenn rassistische Überzeugungen von rassifizierten[[15]](#footnote-16)Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus[[16]](#footnote-17)
 
 ### 2.1.2 ****Struktureller Rassismus****
 
@@ -41,7 +41,7 @@ S**truktureller Rassismus** ist eine Form von Rassismus, die sich in gesellschaf
 
 Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrundeliegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[18]](#footnote-19)
 
-![](/images/image002.jpg)
+![Eine Person in eineme Museeum (test)](/images/image001.jpg)
 
 [[start:block]]
 
@@ -98,7 +98,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Sind die Hersteller:innen der Objekte bekannt und werden diese mit Namen genannt? Was sind die Gründe dafür, falls sie nicht genannt werden, sind es rassistische Motive oder gibt es [[24]](#footnote-25)?
 * In welchen Fällen muss bei unbekannten Hersteller:innen darauf hingewiesen werden, warum diese nicht genannt werden (können)?
 * Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC[[25]](#footnote-26)](#_BIPoC)- sowie migrantischen Communities an? Welche Stimmen fehlen?
-* Wie werden neu gewonnene Erkenntnisse (z.B. durch den Austausch mit Herkunftsgemeinschaften) in der Datenbank festgehalten?![](/images/image003.jpg)
+* Wie werden neu gewonnene Erkenntnisse (z.B. durch den Austausch mit Herkunftsgemeinschaften) in der Datenbank festgehalten?![](/images/image002.jpg)
 
 |  |
 | --- |
@@ -106,13 +106,13 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ### 2.2.4 Selbstverständlichkeit der Verschlagwortung
 
-Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines Objekts oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz_%2F_weiss)*»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz_%2F_weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotential.
+Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines Objekts oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz_%252F_weiss)*»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz_%252F_weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotential.
 
 * Gibt es Attribute eines Objektes oder Bildinhalte, die je nach abgebildetem geografischem Ort anders beschlagwortet werden (z.B. Architektur: Haus oder Hütte oder Wohnhaus oder Behausung)?
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z.B. primitiv, wild, einfach, Natur)?
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?
 * Beispiel Kleidung: Wie sind Kleidungstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus_%2F_exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus_%252F_exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?
 
 ### 2.2.5 Denkanstoss: Institutionelle Positionierung
 
@@ -124,7 +124,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Gibt es innerhalb der Institution das Bedürfnis, eine gemeinsame Position in Bezug auf Rassismusbekämpfung und Diskriminierungsschutz zu formulieren?
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?
 
-![](/images/image004.jpg)
+![](/images/image003.jpg)
 
 |  |
 | --- |
