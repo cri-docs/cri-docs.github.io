@@ -51,7 +51,7 @@ Ein zweites wichtiges Projekt war die Ausstellung «Koloniale Spuren – Sammlun
 
 Ein drittes Projekt umfasst die Denkmäler der ETH Zürich. Über 100 Gedenkobjekte auf dem gesamten Campus wurden auf ihre historischen Kontexte hin untersucht. Eine 2022 in Auftrag gegebene Studie zeigte, dass rund zwei Drittel der geehrten Persönlichkeiten koloniale, rassistische oder sexistische Positionen vertraten oder von kolonialen Strukturen profitierten. Diese Ergebnisse führten zur Entwicklung der «ETH Decol Initiative», die bis 2029 sowohl neue Forschungsprojekte zur Geschichte der Institution als auch Massnahmen zur kritischen Kontextualisierung von Denkmälern vorsieht. Erste Schritte beinhalten erläuternde Informationstafeln vor Ort sowie einen digitalen Rundgang[[170]](#footnote-171), der vertiefte Informationen zu den gewürdigten Personen bietet. Langfristig sollen künstlerische Interventionen neue Perspektiven auf die Erinnerungskultur eröffnen.
 
-![](/images/image015.jpg)
+![alt:, extra:](/images/image014.jpg)
 
 ## 8.3 Fotostiftung Schweiz
 
@@ -96,7 +96,7 @@ In der Folge liessen Céline Hug und Dario Donati in der Datenbank die notwendig
 
 Das SNM hat sich entschlossen, die von sensiblen Inhalten betroffenen Objekte vorerst aus der Sammlung Online zu entfernen und gegebenenfalls nach deren kritischen Aufarbeitung wieder anzuzeigen.
 
-![](/images/image016.jpg)
+![alt:, extra:](/images/image015.jpg)
 
 ## 8.7 Stiftung für Kunst, Kultur und Geschichte
 
@@ -108,4 +108,4 @@ Die Sammlung im Umfang von rund 100'000 Kunstwerken und historischen Objekten wu
 
 ## 8.8 Kunsthaus
 
-![](/images/image017.jpg)
+![alt:, extra:](/images/image016.jpg)

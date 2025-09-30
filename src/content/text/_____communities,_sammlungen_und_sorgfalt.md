@@ -41,7 +41,7 @@ Das Überwinden kolonialer Gedanken und Termini in kulturellen Institutionen erf
 
 Denis Pourawa schlug eine Umbenennung des Objekts in *Nââkweta* vor. Der Begriff kommt aus der *Xârâcùù* Sprache, einer von achtundzwanzig Sprachen in Neukaledonien. Zudem ordnete er das Objekt neu als Symbol des Hauptredners einer Zeremonie ein.[[110]](#footnote-111) Dank dieser neuen Bedeutungsebene veränderte sich auch die Präsentationsform des Objekts. Wurde es ursprünglich stets horizontal ausgestellt, wird es nun vertikal gezeigt. In dieser Präsentationform erinnert es noch weniger an eine Monstranz. Der Austausch mit Denis Pourawa veränderte die Art und Weise wie das Objekt benannt, dokumentiert und gezeigt wird (Abb. 1). Auch im Humboldt Forum, wo sich ein ähnliches Objekt befindet, wurde diese Darstellungs- und Präsentationsform übernommen. Dies sind nur zwei Beispiele einer angepassten Objektdokumentation, doch finden sich in vielen europäischen Sammlungen noch immer Objekte mit dem erfundenen Namen.
 
-![](/images/image005.jpg)
+![alt:, extra:](/images/image005.jpg)
 
 Abb. 1: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet.
 
