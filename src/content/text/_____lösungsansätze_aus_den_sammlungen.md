@@ -46,12 +46,19 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer:** DEP-2443  
+
 **Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
+
 **Beschreibung:** Aus Holz geschnitzten, auf schwarzem Postament stehenden Mohren darstellend, auf der Brust ein silbernes Zifferblatt mit Wappen Rahn und Umschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646». Der Mohr bewegt die Augen im Sekundentakt, der Unterkiefer klappert im Stundenschlag.  
+
 **Klassifikation:** Figurenuhr  
+
 **Datierung:** 1646  
+
 **Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+
 **Schlagworte:** Personenwappen, Hans Rudolf Rahn  
+
 **Herstellung:** Augsburg  
 
 [[end:before]]
@@ -62,11 +69,17 @@ Metadaten des bereinigten Datensatzes:
 
 **Inventarnummer:** DEP-2443  
 **Bezeichnung:** Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
+
 **Klassifikation:** Figurenuhr  
+
 **Datierung:** 1646  
+
 **Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+
 **Schlagworte:** Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+
 **Herstellung:** Augsburg  
+
 **Inhaltshinweis[[177]](#footnote-178):** «Rassifizierung»  
 
 [[end:after]]
@@ -104,18 +117,24 @@ Institution: Bernisches Historisches Museum
 #### Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer:** H/57166  
+
 **Titel:** Sparkasse, grössere männliche Negerbüste  
+
 **Datierung:** um 1900 (Herstellung)  
 
 #### Metadaten des bereinigten Datensatzes:  
 
 **Inventarnummer:** H/57166  
+
 **Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes  
+
 **Datierung:** um 1900 (Herstellung)  
+
 **Verschlagwortung:** «Rassistischer Inhalt/Darstellung»  
+
 **Forschung:** Festhalten des historischen Kontexts/Problematik (s.u. Kontext)  
 
-### Kontext  
+**Kontext**  
 
 Beim Objekt mit Inv. Nr. H/47660 handelt es sich um eine mechanische Sparbüchse in Form einer Büste eines karikierten, Schwarzen Mannes. Im Inventarbuch des Bernischen Historischen Museums wurde das Objekt erstmals als «Sparkasse, grössere männliche Negerbüste» mit Verwendung des herabwürdigenden Begriffes «N\*» verzeichnet. Auf die geöffnete Hand der Figur wird eine Münze gelegt und danach ein Hebel an der Schulter betätigt. Darauf hebt sich der Arm, platziert die Münze auf der ausgestreckten Zunge und das Geldstück wird ins Innere der Büchse befördert. Dabei rollen die Augen der Figur. Diese Art von Sparbüchsen, oftmals als «Jolly N\* Bank», «Jolly Boy Bank» o. Ä. bezeichnet, stellt die rassistische Karikatur eines Schwarzen Menschen dar. Die Darstellungsweise, die den Mann grinsend und in eleganter Kleidung zeigt, repräsentiert das rassistische Stereotyp des «Coon». Dieser taucht in den 1830er-Jahren erstmals in den Liedern der Minstrel-Shows auf und ist eine Verhöhnung Schwarzer Menschen[[184]](#footnote-185)￼ Die Schauspieler in den Minstrel-Shows waren überwiegend *weisse* Männer, die mit schwarz geschminkten Gesichtern, übertrieben betonten Lippen und rollenden Augen auftraten.  
 
