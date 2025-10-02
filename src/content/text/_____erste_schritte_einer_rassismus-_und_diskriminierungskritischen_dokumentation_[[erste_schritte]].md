@@ -1,7 +1,7 @@
 ---
-title: "Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation"
+title: "Erste Schritte einer rassismus und diskriminierungskritischen Dokumentation"
 short_title: "Erste Schritte"
-slug: "erste_schritte_einer_rassismus-_und_diskriminierungskritischen_dokumentation"
+slug: "erste_schritte_einer_rassismus_und_diskriminierungskritischen_dokumentation"
 order: 70
 index: 1
 color: "default"

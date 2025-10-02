@@ -1,6 +1,6 @@
 ---
-title: "**Lösungsansätze aus den Sammlungen**"
-short_title: "**Lösungsansätze aus den Sammlungen**"
+title: "Lösungsansätze aus den Sammlungen"
+short_title: "Lösungsansätze aus den Sammlungen"
 slug: "lösungsansätze_aus_den_sammlungen"
 order: 150
 index: 9
