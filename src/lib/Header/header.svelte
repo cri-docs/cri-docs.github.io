@@ -4,7 +4,7 @@
   import { page } from "$app/stores"
   import { intro } from "$lib/constants"
   import XLg from "$lib/icones/x-lg.svelte"
-  import Menu from "$lib/Menu/menu.svelte"
+  import Menu from "$lib/Header/Menu/menu.svelte"
   import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import { onMount } from "svelte"
   import styles from "./main.module.styl"
@@ -19,6 +19,7 @@
   let lastY = $state(0)
   let dotLottie = $state(null)
   let hasBeenScrolled = $state(false)
+  let activeSubPage = $state($isMobile ? "welcome" : "index")
 
   const isScrolled = $derived(scrollY > 0)
   const isFullyCollapsed = $derived(!$headerIsOpen && !$menuIsOpen)
@@ -46,6 +47,7 @@
   }
 
   $effect(() => {
+    if ($isMobile) return
     if (lastY !== null && Math.abs(lastY - scrollY) > 100) {
       headerIsOpen.set(false)
     }
@@ -55,35 +57,15 @@
   })
 
   const handleClickOutside = (event) => {
+    if ($isMobile) return
     if (!event.target.closest(".frame")) {
       headerIsOpen.set(false)
     }
   }
 
-  const openSubPage = (event, subPage) => {
-    event.preventDefault()
-    headerIsOpen.set(false)
-    lastPage = $page.url.pathname
-    pushState(`?${subPage}`, {
-      [subPage]: true,
-    })
-  }
-
-  const goBack = (event) => {
-    event.preventDefault()
-    if (lastPage) {
-      if (lastPage === intro) {
-        headerIsOpen.set(true)
-      }
-      goto(lastPage, {
-        noScroll: true,
-        replaceState: true,
-      })
-    } else {
-      headerIsOpen.set(true)
-      window.location.href = `/${intro}`
-    }
-    lastPage = null
+  const setSubPage = (page) => {
+    activeSubPage = page
+    menuIsOpen.set(true)
   }
 
   $effect(() => {
@@ -129,7 +111,7 @@
 </script>
 
 <svelte:window bind:scrollY onclick={handleClickOutside} />
-<div
+<header
   class={[
     "frame",
     styles.container,
@@ -137,54 +119,41 @@
     isFullyCollapsed ? styles.isCollapsedFully : "",
   ].join(" ")}
 >
-  <header>
-    {#if !$isMobile}
-      <img
-        src="/icon.svg"
-        class={[
-          styles.icon,
-          styles.svg,
-          isFullyCollapsed ? styles.isCollapsedFully : "",
-        ].join(" ")}
-        alt="logo for Sammlungsdokumentation im Fokus"
-        onclick={handleClick}
-      />
-    {:else}
-      <canvas
-        id="dotlottie-canvas"
-        class={[
-          styles.icon,
-          isFullyCollapsed ? styles.isCollapsedFully : "",
-        ].join(" ")}
-        onclick={handleClick}
-      ></canvas>
-    {/if}
-    <a href="/">
-      <h1 class={styles.title}>
-        Sammlungs- <br /> dokumentation <br /> im Fokus
-      </h1>
-    </a>
-    <h2>
-      Ein rassismuskritisches Handbuch für die Praxis mit besonderem Fokus auf
-      den Anti-Schwarzen-Rassismus
-    </h2>
-    <!-- 
-    <div class={styles.infoBox}>
-      {#if $page.url.pathname !== "/infobox" && $page.url.pathname !== "/about"}
-        <a
-          href={`${$page.url.pathname}?infobox`}
-          onclick={(e) => openSubPage(e, "infobox")}>Infobox</a
-        >
-        <a
-          href={`${$page.url.pathname}?about`}
-          onclick={(e) => openSubPage(e, "about")}>About</a
-        >
-      {:else}
-        <a href="/" onclick={goBack}><XLg /></a>
-      {/if}
-    </div> -->
-  </header>
+  {#if !$isMobile}
+    <img
+      src="/icon.svg"
+      class={[
+        styles.icon,
+        styles.svg,
+        isFullyCollapsed ? styles.isCollapsedFully : "",
+      ].join(" ")}
+      alt="logo for Sammlungsdokumentation im Fokus"
+      onclick={handleClick}
+    />
+  {:else}
+    <canvas
+      id="dotlottie-canvas"
+      class={[
+        styles.icon,
+        isFullyCollapsed ? styles.isCollapsedFully : "",
+      ].join(" ")}
+      onclick={handleClick}
+    ></canvas>
+  {/if}
+  {#if !$isMobile || activeSubPage == "welcome"}
+    <div class={styles.weclomeText}>
+      <a href="/">
+        <h1 class={styles.title}>
+          Sammlungs- <br /> dokumentation <br /> im Fokus
+        </h1>
+      </a>
+      <h2>
+        Ein rassismuskritisches Handbuch für die Praxis mit besonderem Fokus auf
+        den Anti-Schwarzen-Rassismus
+      </h2>
+    </div>
+  {/if}
   <div class={styles.infoContainer}>
-    <Menu {sites} />
+    <Menu {sites} {setSubPage} {activeSubPage} />
   </div>
-</div>
+</header>

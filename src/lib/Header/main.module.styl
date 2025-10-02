@@ -15,7 +15,10 @@
   @media _mobile
     flex-direction column
     width 100vw
-    height auto
+    height 100dvh
+    overflow-y scroll
+    overflow-x visible
+    overscroll-behavior contain
   .icon
     --border-width 1px
     background-color var(--color)
@@ -23,8 +26,8 @@
     top var(--buttons-width)
     left var(--buttons-width)
     z-index 15
-    height calc(5rem +var(--border-width))
-    width calc(5rem +var(--border-width))
+    height calc(5rem + var(--border-width))
+    width calc(5rem + var(--border-width))
     padding 1rem
     padding-bottom 0.5rem
     border-radius 100%
@@ -36,6 +39,8 @@
     @media _mobile
       top 1rem
       left calc(100vw - 1rem)
+      padding 0.9rem
+      padding-bottom 1rem
       transform translate(-100%, 0%)
     &.svg
       padding-top 2px
@@ -43,7 +48,7 @@
       @media _mobile
         left var(--buttons-width)
       // left calc(var(--header-width-full) + 1rem)
-  header
+  .weclomeText
     width var(--header-width-full)
     height var(--header-height-full)
     display flex
@@ -61,7 +66,7 @@
     h1
       position relative
       margin 0
-      font-size var(--title-font-size)
+      font-size var(--weclome-font-size)
       // line-height 0.98
       letter-spacing 1px
       hyphens auto
@@ -71,8 +76,7 @@
       // width 400px
       margin 0
       font-family var(--font-header)
-      font-size var(--subtitle-font-size)
-      font-size var(--title-font-size)
+      font-size var(--weclome-font-size)
       font-weight 500
       // line-height 1
       hyphens auto

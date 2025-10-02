@@ -18,9 +18,14 @@
   --color #4E00FF
   --color-secondary red
 
-  --title-font-size clamp(5rem, (100/8)vh, 8rem)
+  --font-size 1.8rem
+  --text-font-size 2.6rem
+  --small-font-size 1.6rem
+  --weclome-font-size clamp(5rem, (100/8)vh, 8rem)
+  --title-font-size 7rem
   --subtitle-font-size clamp(2rem, (100/60)vh, 3.5rem)
   --small-title-font-size 1.4rem
+
 
   --font-external "KleischLLTrialWeb", serif
   --font-header "Supremus", sans-serif
@@ -47,8 +52,20 @@
 
     --header-width-full 100vw
 
-    --title-font-size 2.5rem
+    --text-width 100vw
+    --index-width 100vw
+
+
+    --font-size 2rem
+    --text-font-size 2rem
+    --small-font-size 1.4rem
+
+    --weclome-font-size 4rem
+    --title-font-size var(--text-font-size)
     --subtitle-font-size 1.8rem
+
+    --padding 1.6rem
+
 
 
 
@@ -95,18 +112,18 @@ a
   
 html
   font-size 62.5%
-  overflow-x hidden
 
   
 html
 body
+  overflow-x hidden
   width 100vw
 
 body
   font-family var(--font), sans-serif
   font-weight 500
   font-style normal
-  font-size 1.8rem
+  font-size var(--font-size)
   line-height 1.15
   margin 0
   padding 0

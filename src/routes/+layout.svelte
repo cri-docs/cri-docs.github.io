@@ -5,7 +5,6 @@
   import { intro } from "$lib/constants"
 
   import Header from "$lib/Header/header.svelte"
-  import Menu from "$lib/Menu/menu.svelte"
 
   import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
 
@@ -72,7 +71,6 @@
     />
     <!-- {/if} -->
     <div class={styles.content}>
-      <!-- <Menu {sites} /> -->
       {@render children()}
     </div>
   </main>
