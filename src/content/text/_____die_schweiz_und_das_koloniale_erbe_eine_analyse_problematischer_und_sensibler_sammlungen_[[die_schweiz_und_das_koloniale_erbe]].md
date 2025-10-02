@@ -1,7 +1,7 @@
 ---
 title: "Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen"
 short_title: "Die Schweiz und das koloniale Erbe"
-slug: "die_schweiz_und_das_koloniale_erbe_eine_analyse_problematischer_und_sensibler_sammlungen"
+slug: "die_schweiz_und_das_koloniale_erbe"
 order: 90
 index: 3
 color: "default"
