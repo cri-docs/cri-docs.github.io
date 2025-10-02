@@ -1,5 +1,6 @@
 ---
 title: "Nachwort"
+short_title: "Nachwort"
 slug: "nachwort"
 order: 200
 index: 14

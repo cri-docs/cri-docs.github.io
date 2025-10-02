@@ -1,5 +1,6 @@
 ---
 title: "Vertiefungen"
+short_title: "Vertiefungen"
 slug: "vertiefungen"
 order: 160
 index: 10

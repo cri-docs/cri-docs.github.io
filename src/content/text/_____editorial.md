@@ -1,5 +1,6 @@
 ---
 title: "Editorial"
+short_title: "Editorial"
 slug: "editorial"
 order: 60
 index: 0

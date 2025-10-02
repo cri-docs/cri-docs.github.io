@@ -1,5 +1,6 @@
 ---
 title: "Impressum"
+short_title: "Impressum"
 slug: "impressum"
 order: 220
 index: 16

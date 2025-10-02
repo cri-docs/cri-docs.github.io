@@ -16,25 +16,16 @@ Unsere Sammlungen sind unser innerster Kern und die dazugehörigen Dokumentation
 Die im September 2022 ins Leben gerufene Arbeitsgruppe «Critical GLAM» ist für uns ein wichtiger Schritt auf diesem Weg. Das von ihr erarbeitete Handbuch soll Gedächtnisinstitutionen Orientierung bieten und den Einstieg in die Auseinandersetzung mit der zugegebenermassen komplexen Thematik erleichtern. Der Arbeitsgruppe, die sich in den letzten drei Jahren mit ausserordentlichem Engagement und auch gegen Widerstände für das Projekt eingesetzt hat, gilt unser ganzer Dank.  
 
 Oktober 2025  
-
 Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen  
 
 Bernisches Historisches Museum  
-
 ETH-Bibliothek, Sammlungen und Archive, ETH Zürich  
-
 Historisches Museum Basel  
-
 Kunsthaus Zürich  
-
 Museum für Kommunikation, Bern  
-
 Schweizerische Fotostiftung  
-
 Schweizerisches Nationalmuseum  
-
 Stiftung für Kunst, Kultur und Geschichte (SKKG)  
 
 Entwurf: Patrick Moser, Historisches Museum Basel  
-
 Datum: 22. Juli 2025 (Version 2.0)

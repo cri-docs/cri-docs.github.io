@@ -1,5 +1,6 @@
 ---
-title: "Lösungsansätze aus den Sammlungen"
+title: "**Lösungsansätze aus den Sammlungen**"
+short_title: "**Lösungsansätze aus den Sammlungen**"
 slug: "lösungsansätze_aus_den_sammlungen"
 order: 150
 index: 9
@@ -37,9 +38,9 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 ![alt:, extra:  ](/images/image017.jpg)
 
-[[start:metadata]]
-
 **Institution:** Schweizerisches Nationalmuseum ©SNM  
+
+[[start:metadata]]
 
 [[start:before]]
 
@@ -48,17 +49,11 @@ Metadaten des unbereinigten Datensatzes:
 **Inventarnummer:** DEP-2443  
 
 **Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
-
 **Beschreibung:** Aus Holz geschnitzten, auf schwarzem Postament stehenden Mohren darstellend, auf der Brust ein silbernes Zifferblatt mit Wappen Rahn und Umschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646». Der Mohr bewegt die Augen im Sekundentakt, der Unterkiefer klappert im Stundenschlag.  
-
 **Klassifikation:** Figurenuhr  
-
 **Datierung:** 1646  
-
 **Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-
 **Schlagworte:** Personenwappen, Hans Rudolf Rahn  
-
 **Herstellung:** Augsburg  
 
 [[end:before]]
@@ -69,17 +64,11 @@ Metadaten des bereinigten Datensatzes:
 
 **Inventarnummer:** DEP-2443  
 **Bezeichnung:** Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
-
 **Klassifikation:** Figurenuhr  
-
 **Datierung:** 1646  
-
 **Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-
 **Schlagworte:** Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
-
 **Herstellung:** Augsburg  
-
 **Inhaltshinweis[[177]](#footnote-178):** «Rassifizierung»  
 
 [[end:after]]

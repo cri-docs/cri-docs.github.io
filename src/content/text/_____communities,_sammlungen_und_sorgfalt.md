@@ -1,5 +1,6 @@
 ---
 title: "Communities, Sammlungen und Sorgfalt"
+short_title: "Communities, Sammlungen und Sorgfalt"
 slug: "communities,_sammlungen_und_sorgfalt"
 order: 100
 index: 4

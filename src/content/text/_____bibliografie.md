@@ -1,5 +1,6 @@
 ---
 title: "Bibliografie"
+short_title: "Bibliografie"
 slug: "bibliografie"
 order: 210
 index: 15

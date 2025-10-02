@@ -1,5 +1,6 @@
 ---
-title: "Geschichte des AntiSchwarzenRassismus in der Schweiz"
+title: "Geschichte des Anti-Schwarzen-Rassismus in der Schweiz"
+short_title: "Geschichte des Anti-Schwarzen-Rassismus in der Schweiz"
 slug: "geschichte_des_anti-schwarzen-rassismus_in_der_schweiz"
 order: 180
 index: 12

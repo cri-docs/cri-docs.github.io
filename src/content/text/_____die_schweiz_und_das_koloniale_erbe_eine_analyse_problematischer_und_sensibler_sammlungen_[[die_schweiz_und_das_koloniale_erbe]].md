@@ -1,5 +1,6 @@
 ---
 title: "Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen"
+short_title: "Die Schweiz und das koloniale Erbe"
 slug: "die_schweiz_und_das_koloniale_erbe_eine_analyse_problematischer_und_sensibler_sammlungen"
 order: 90
 index: 3
@@ -73,6 +74,8 @@ Koloniale Sammlungsbestände und problematische Erwerbskontexte müssen erforsch
 
 Die Auseinandersetzung mit der kolonialen Vergangenheit ist ein wichtiger Schritt, um die gegenwärtige Fortsetzung kolonialer Repräsentations- und Sammlungspraktiken zu überwinden.  
 
+[[start:literature]]
+
 **Literatur**  
 
 Boscani Leoni, Simona; Baumgartner, Sarah; Knittel, Meike: Connecting Territories. Exploring People and Nature, 1700-1850, Leiden 2021.  
@@ -140,5 +143,7 @@ Weber, Cornelia: ‹Sensible› Objekte in Universitätssammlungen. Zum Stand de
 Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des Deutschen Museums, 05.11.2020, <<https://blog.deutsches-museum.de/2020/11/05/die-dunkle-seite-der-technik-koloniale-materialien>>, Stand: 08.05.2024.  
 
 Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
+
+[[end:literature]]
 
 [[end:external]]

@@ -1,5 +1,6 @@
 ---
 title: "Glossar"
+short_title: "Glossar"
 slug: "glossar"
 order: 190
 index: 13
