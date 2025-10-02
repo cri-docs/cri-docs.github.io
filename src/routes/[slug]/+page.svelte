@@ -1,13 +1,12 @@
 <script>
-  import { onMount } from "svelte"
+  import { onMount, tick } from "svelte"
   import styles from "./page.module.styl"
   import Footnotes from "./Footnotes/footnotes.svelte"
-  import CustomFootnotes from "./Footnotes/CustomFootnotes/CustomFootnotes.svelte"
-  import CustomGlossary from "./Glossary/CustomGlossary.svelte"
   import Navigation from "./Navigation/navigation.svelte"
+  import Text from "./Text.svelte"
   import { writable } from "svelte/store"
   import { page } from "$app/stores"
-  import { markdown, mountEmbeddedComponents } from "$lib/markdownRenderer.js"
+  import { markdown } from "$lib/markdownRenderer.js"
   import { isLoading } from "$lib"
   import External from "./types/External.svelte"
   import { fly } from "svelte/transition"
@@ -29,11 +28,6 @@
     }
   })
   const currentFootnote = writable(null)
-
-  const componentRegistry = {
-    CustomFootnotes: CustomFootnotes,
-    CustomGlossary: CustomGlossary,
-  }
 
   import { browser } from "$app/environment"
 
@@ -64,11 +58,6 @@
       }
     })
   }
-
-  onMount(() => {
-    const cleanup = mountEmbeddedComponents(componentRegistry)
-    return cleanup
-  })
 </script>
 
 <section class={styles.container} key={data.site.fields.slug}>
@@ -107,7 +96,7 @@
       {data.site.fields.title}
     </h2>
     {#if mark}
-      {@html mark}
+      <Text {mark} />
     {:else}
       <p>Loading content...</p>
     {/if}

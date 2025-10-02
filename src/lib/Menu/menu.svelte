@@ -104,18 +104,15 @@
   </div>
   {#if activeSubPage === "infobox"}
     <div class={[styles.infoBox, styles.subContainer].join(" ")}>
-      <h2>Info Box</h2>
       {@html marked.parse(infoboxData.infobox)}
     </div>
   {:else if activeSubPage === "about"}
     <div class={[styles.infoBox, styles.subContainer].join(" ")}>
-      <h2>About</h2>
       {@html marked.parse(aboutData.about)}
-      <h2>Imprint</h2>
       {@html marked.parse(imprintData.imprint)}
     </div>
   {:else}
-    <nav class={styles.subContainer}>
+    <nav class={styles.menuSubContainer}>
       <ul>
         {#each sites as site, index}
           <li>
@@ -148,7 +145,7 @@
                   >
                     <a
                       href={`/${site.fields.slug}?sub=${slugify(item.title.replace(/^[^ ]* /, ""))}`}
-                      style={`padding-left: ${(item.level - 1) * 2 + 3}ch;`}
+                      style={`padding-left: ${(item.level - 1) * 2 + 2}ch;`}
                       onclick={(e) =>
                         handleAnchorClick({
                           link: `${slugify(item.title.replace(/^[^ ]* /, ""))}`,

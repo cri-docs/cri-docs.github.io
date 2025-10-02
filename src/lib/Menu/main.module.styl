@@ -37,6 +37,7 @@
   &.isClosed .toggle
     right calc(-1 * var(--buttons-width))
   .subContainer
+  .menuSubContainer
     flex-shrink 0
     width calc(var(--index-width) - var(--buttons-width))
     max-width 500px
@@ -48,6 +49,17 @@
     z-index 5
     overflow-y auto
     overscroll-behavior contain
+  .subContainer
+    hyphens auto
+    h2
+      font-size inherit
+    ul
+      padding-inline-start: 2rem
+    table
+      font-size 0.8em
+      th
+        display none
+  .menuSubContainer
     ul
       display flex
       flex-direction column

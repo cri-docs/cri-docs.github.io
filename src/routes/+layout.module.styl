@@ -3,11 +3,10 @@
   position relative
   min-height 100vh
   transition background-color 0.5s ease, color 0.5s ease
+  @media _mobile
+    width 100vw
   &.collapsed
     --current-index-width var(--buttons-width)
-  // &.color
-  //   color white
-  //   background-color var(--color)
   main
     position relative
     display flex
@@ -23,9 +22,6 @@
       object-position center center
       &.isHome
         height calc(100vh - var(--padding-hero))
-        // height 100vh
-        // height calc(100vh + var(--header-height-collapsed) - var(--padding-hero))
-        // margin-top var(--padding-hero)
       &.headerIsCollapsed
         margin-top 0
     .content
