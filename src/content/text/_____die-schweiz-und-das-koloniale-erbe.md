@@ -16,8 +16,6 @@ Monique Ligtenberg (sie/ihr) ist promovierte Historikerin und hat die Ausstellun
 
 Der vorliegende Beitrag zeigt, welche Kriterien eine Sammlung zu einer kolonialen machen. Dabei werden die Begriffe der problematischen/sensiblen sowie primär und sekundär kolonialen Sammlungen und das koloniale Rezeptionsobjekt definiert. Die Definitionen werden jeweils von historischen Beispielen begleitet. Der Beitrag legt dar, wieso die Aufarbeitung der kolonialen Vergangenheit wichtig ist, und präsentiert Strategien für den Umgang mit kolonialen Sammlungen.  
 
----  
-
 [[start:external]]
 
 Die Schweiz herrschte zu keinem Zeitpunkt formal über eigene Kolonien und war dennoch in die kolonialen Projekte anderer europäischer Staaten involviert.[[75]](#footnote-76) Das schlägt sich bis heute in Schweizer Museen und Sammlungen nieder, die massgeblich vom Kolonialismus profitierten. Hunderttausende Kunstwerke, Alltagsgegenstände oder naturhistorische Präparate aus kolonialen Kontexten werden in Schweizer Sammlungen aufbewahrt. Aufgrund kolonialer Sammlungstätigkeiten liegt heute ein Grossteil des Kulturerbes ehemaliger Kolonien in westlichen Museen und Sammlungen. Dadurch werden bis heute in der Kolonialzeit entstandene Asymmetrien und Denkmuster weitergetragen.[[76]](#footnote-77)  
