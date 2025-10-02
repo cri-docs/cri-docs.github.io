@@ -128,10 +128,14 @@
               <a
                 href={`/${site.fields.slug}`}
                 class:active={$page.params.slug === site.fields.slug}
+                data-sveltekit-noscroll
               >
                 <!-- data-sveltekit-noscroll -->
                 <!-- onclick={(e) => navigate(e, `/${site.fields.slug}`)} -->
-                {site.fields.title}
+                {site.fields.short_title
+                  ? site.fields.short_title
+                  : site.fields.title}
+                <!-- {site.fields.title} -->
               </a>
             </div>
             {#if site.fields.toc && $page.params.slug === site.fields.slug}

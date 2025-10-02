@@ -8,10 +8,11 @@
   align-items flex-start
   width var(--w)
   margin-left clamp(var(--current-index-width),100vw, var(--l))
-  padding-bottom calc(var(--padding) * 3)
+  // padding-bottom calc(var(--padding) * 3)
   padding-inline calc(var(--padding)) // update
   padding-left calc(var(--padding) * 3)
   hyphens auto
+  font-size var(--font-size)
   transition margin 0.5s, width 0.5s
   > * 
     width calc(var(--text-width) - 5 * var(--padding))
@@ -61,12 +62,13 @@
     font-weight 100
     max-width 80%
   h3
+  h4
+  h5
+    font-size inherit
     margin-bottom .5lh
   h4
   h5
-    // font-weight inherit
     margin-top 0
-    margin-bottom .5lh
   :global([data-number])::before
     content attr(data-number)
     position absolute
@@ -163,8 +165,7 @@
     flex-wrap wrap
     margin-bottom 2lh
     gap 1rem 2rem
-    padding 1rem
-    border 1px solid var(--color)
+    // padding 1rem
     font-size var(--small-font-size)
     > *
       flex-shrink 0
@@ -207,7 +208,7 @@
     padding-left calc(var(--padding) + clamp(var(--current-index-width), 100vw, var(--l)))
     padding-right calc(var(--padding) * 3)
     margin-left calc(var(--padding) * 3 * -1)
-    background-color black
+    background-color var(--color-secondary)
     color white
     width 100vw
     margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
