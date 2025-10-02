@@ -83,6 +83,8 @@
 
   &.isCollapsed
     left calc(-1 * var(--header-width-full))
+    @media _mobile
+      overflow visible
     .headerContent
       height 50vh
   &.isCollapsedFully
