@@ -28,7 +28,7 @@ S**truktureller Rassismus** ist eine Form von Rassismus, die sich in gesellschaf
 
 Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrundeliegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[18]](#footnote-19)  
 
-![alt:Eine Person in eineme Museeum (test), extra:Figure 1: Eine Person in eineme Museeum (test)  ](/images/image001.jpg)
+![alt:Eine Person in eineme Museeum (test), extra:Figure 1: Eine Person in eineme Museeum (test)](/images/image001.jpg)  
 
 [[start:literature]]
 
@@ -87,7 +87,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC[[25]](#footnote-26)](#_BIPoC)- sowie migrantischen Communities an? Welche Stimmen fehlen?  
 * Wie werden neu gewonnene Erkenntnisse (z.B. durch den Austausch mit Herkunftsgemeinschaften) in der Datenbank festgehalten?  
 
-![alt:Austellung mit Statuen und einem Video mit einer Person., extra:Figure 2: Austellung in einem Museeum  ](/images/image002.jpg)
+![alt:Austellung mit Statuen und einem Video mit einer Person., extra:Figure 2: Austellung in einem Museeum](/images/image002.jpg)  
 
 |  |  
 | --- |  
@@ -113,7 +113,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Gibt es innerhalb der Institution das Bedürfnis, eine gemeinsame Position in Bezug auf Rassismusbekämpfung und Diskriminierungsschutz zu formulieren?  
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
-![alt:, extra:  ](/images/image003.jpg)
+![alt:, extra:](/images/image003.jpg)  
 
 |  |  
 | --- |  
