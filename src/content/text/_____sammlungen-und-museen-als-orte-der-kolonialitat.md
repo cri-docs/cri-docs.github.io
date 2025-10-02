@@ -16,8 +16,6 @@ Dr. Chonja Lee (sie/ihr) ist Dozentin für Kunstgeschichte der Frühen Neuzeit a
 
 In die Entstehung von Sammlungen jeglicher Art spielt der Zeitgeist hinein. Dieser spiegelt sich demnach auch im Inventarisieren, Katalogisieren, Klassifizieren, Ordnen, Beschreiben und Auswerten von Objekten und Archivalien wieder. Unter dem Gesichtspunkt einer antirassistischen Dokumentationspraxis ist es wichtig, sich mit der Geschichte von Sammlungen und damit verbundener Wissenspraxen zu befassen. Der Text von Chonja Lee beschreibt die Anfänge europäischer Sammlungen und ordnet diese in die imperialistisch-kolonialen Strukturen und rassistischen Ideologien ein.  
 
----  
-
 [[start:external]]
 
 Sammlungen sind nie neutral. Sie sind das Resultat von Entscheidungen darüber, was überhaupt sammlungs- und erhaltungswürdig ist. Schon indem Sammler:innen und Institutionen wie Museen sammeln, haben sie und ihre Akteur:innen die Macht, Objekte für relevant zu erklären. Durch diese Entscheidungen wird auch mitgeprägt, welches und wessen Wissen in die zukünftige Wissens- und Erinnerungskultur einfliesst.[[26]](#footnote-27)  
