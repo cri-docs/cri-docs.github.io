@@ -1,7 +1,7 @@
 ---
 title: "Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen"
 short_title: "Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen"
-slug: "grundsätze_in_der_überarbeitung_von_rassistischen_und_sensiblen_datensätzen"
+slug: "grundsatze-in-der-uberarbeitung-von-rassistischen-und-sensiblen-datensatzen"
 order: 140
 index: 8
 color: "default"
