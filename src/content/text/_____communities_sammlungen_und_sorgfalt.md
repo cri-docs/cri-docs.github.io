@@ -1,7 +1,7 @@
 ---
 title: "Communities, Sammlungen und Sorgfalt"
 short_title: "Communities, Sammlungen und Sorgfalt"
-slug: "communitiessammlungenundsorgfalt"
+slug: "communities_sammlungen_und_sorgfalt"
 order: 100
 index: 4
 color: "default"
