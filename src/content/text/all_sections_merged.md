@@ -1,3 +1,10 @@
+---
+title: "Print"
+slug: "print"
+order: 0
+index: -1
+---
+
 **Rassismuskritische Dokumentation – Ein Handbuch für GLAM-Institutionen**
 
 ![alt:, extra:](/images/image000.jpg)
