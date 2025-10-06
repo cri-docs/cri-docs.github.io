@@ -1,7 +1,7 @@
 ---
 title: "Geschichte des AntiSchwarzenRassismus in der Schweiz"
 short_title: "Geschichte des AntiSchwarzenRassismus in der Schweiz"
-slug: "geschichte-des-antischwarzenrassismus-in-der-schweiz"
+slug: "geschichtedesantischwarzenrassismusinderschweiz"
 order: 180
 index: 12
 color: "default"

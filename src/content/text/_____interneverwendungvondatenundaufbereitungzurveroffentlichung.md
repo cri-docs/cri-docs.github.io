@@ -1,7 +1,7 @@
 ---
 title: "Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung"
 short_title: "Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung"
-slug: "interne-verwendung-von-daten-und-aufbereitung-zur-veroffentlichung"
+slug: "interneverwendungvondatenundaufbereitungzurveroffentlichung"
 order: 120
 index: 6
 color: "default"
