@@ -59,7 +59,9 @@
     !$menuIsOpen ? styles.collapsed : "",
   ].join(" ")}
 >
-  <Header />
+  {#if $page?.route?.id !== "/print"}
+    <Header />
+  {/if}
   <!-- <Overlay /> -->
   <main>
     <img
