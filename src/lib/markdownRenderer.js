@@ -20,7 +20,7 @@ export function createMarkedRenderer(pageInfo) {
       const headingNumber = headingNumberMatch ? headingNumberMatch[0] : null
       const headingText = headingNumber ? text.replace(headingNumber, "").trim() : text
       const id = slugify(headingText)
-      const plainText = headingText.replace(/[#_*~`[\]()>#+\-=|{}.!]/g, "")
+      const plainText = headingText.replace(/[#_*~`[\]()>#+\=|{}.]/g, "")
       return `<h${_depth} id="${id}" data-number="${headingNumber || ""}">
             ${plainText}
             </h${_depth}>`
