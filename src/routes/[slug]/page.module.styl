@@ -18,10 +18,26 @@
     padding var(--padding)
     padding-left 3rem
     margin 0
+  @media print
+    display flex
+    flex-direction column
+    align-items center
+    justify-content center
+    width 100%
+    height 100%
+    max-width calc(700px + 2 * var(--padding))
+    margin 0 auto
+    padding calc(var(--padding))
+    background-color var(--kd-color-background)
+    color var(--kd-color-text)
+    font-size inherit
   > * 
     width var(--text-width)
     font-size var(--text-font-size)
     line-height 1.2
+    @media print
+      width 100%
+      font-size inherit
   .loading
     width var(--text-width)
     height calc(100vh - 300px)
@@ -37,6 +53,7 @@
   p
     margin 0
     padding-bottom 1lh
+    letter-spacing 0.2px
   hr
     margin 0
     margin-bottom 1lh
@@ -56,9 +73,6 @@
       width 80%
       padding-top 0.3lh
       font-size var(--small-font-size)
-
-  p
-    letter-spacing 0.2px
   h2
     text-align left
     font-size var(--title-font-size)
@@ -66,6 +80,10 @@
     font-family var(--font-header)
     font-weight 700
     max-width 80%
+    break-before page
+    @media print
+      font-size calc(var(--title-font-size) * 0.8)
+      max-width 100%
   h3
   h4
   h5
@@ -120,8 +138,7 @@
         margin-bottom .5lh
         margin-top .5lh
     td
-      padding-top .5lh
-      padding-bottom .5lh
+      padding-top .2lh
     td:nth-child(1)
     th:nth-child(1)
       width 40%
@@ -146,92 +163,99 @@
         td:nth-child(1)
           padding-right .5rem
 
-
-  // [[start:blocks]]
-  :global(.literature)
-    --p clamp(var(--current-index-width), 100vw, var(--l))
-    // color white
-    // background-color var(--color-secondary)
-    // width 100vw
-    // display flex
-    // flex-direction column
-    // align-items flex-start
-    // padding-block var(--padding)
-    // padding-left var(--p)
-    // transform translateX(calc(var(--p) * -1))
-    // font-family var(--font) !important
-    font-size var(--small-font-size)
-    > *
-      width calc(var(--text-width) * 0.6)
-      @media _mobile
-        width calc(100%)
-      &first-child
-        font-weight bold
-  :global(.block)
-    padding 1rem
-    border 1px solid var(--color)
-    margin-bottom 1lh
-  :global(.metadata)
-    display flex
-    flex-wrap wrap
-    margin-bottom 2lh
-    gap 1rem 2rem
-    // padding 1rem
-    font-size var(--small-font-size)
-    > *
-      flex-shrink 0
-      width 100%
-    :global(.before)
-    :global(.after)
-      width calc(50% - 1rem)
-  :global(.fullimage)
-    width calc(100vw - (var(--nav-width) - var(--padding) * 1))
-    img
-      width 80%
-      height 100%
-      object-fit cover
-      object-position center
-  :global(.comp)
-    display flex
-    font-size var(--small-font-size)
-    gap 3rem
+// [[start:blocks]]
+:global(.literature)
+  --p clamp(var(--current-index-width), 100vw, var(--l))
+  font-size var(--small-font-size)
+  > *
+    width calc(var(--text-width) * 0.6)
+    // &first-child
+    //   font-weight bold
+    @media _mobile
+      width calc(100%)
+:global(.block)
+  padding 1rem
+  border 1px solid var(--color)
+  margin-bottom 1lh
+:global(.metadata)
+  display flex
+  flex-wrap wrap
+  margin-bottom 2lh
+  gap 1rem 2rem
+  // padding 1rem
+  font-size var(--small-font-size)
+  > *
+    flex-shrink 0
+    width 100%
+  :global(.before)
+  :global(.after)
+    width calc(50% - 1rem)
+:global(.fullimage)
+  width calc(100vw - (var(--nav-width) - var(--padding) * 1))
+  img
     width 80%
-    :global(.plus)
-    :global(.minus)
-      flex-shrink 0
-      width 50%
-    :global(.plus)
-      li
-        list-style initial
-        list-style-type: "+ ";
-        &:before
-          display none
-    :global(.minus)
-      li
-        list-style initial
-        list-style-type: "– ";
-        &:before
-          display none
-  :global(.external)
-    font-family var(--font-external)
-    font-weight 400
-    padding calc(var(--padding) * 2)
-    padding-left calc(clamp(var(--current-index-width), 100vw, var(--l)))
-    padding-right calc(var(--padding) * 3)
-    margin-left calc(var(--padding) * 3 * -1)
-    background-color var(--background-color-secondary)
-    color var(--color-secondary)
-    width 100vw
-    margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
-    figure
-      align-items: flex-start
-    > p
-      text-indent 30px
-      width calc(var(--text-width) * 0.85)
-      > * 
-        text-indent 0
-  :global(.bib)
-    padding-left 2ch
-    text-indent -2ch
-      
-  // [[end:blocks]]
+    height 100%
+    object-fit cover
+    object-position center
+:global(.comp)
+  display flex
+  font-size var(--small-font-size)
+  gap 3rem
+  width 80%
+  :global(.plus)
+  :global(.minus)
+    flex-shrink 0
+    width 50%
+  :global(.plus)
+    li
+      list-style initial
+      list-style-type: "+ ";
+      &:before
+        display none
+  :global(.minus)
+    li
+      list-style initial
+      list-style-type: "– ";
+      &:before
+        display none
+:global(.external)
+  font-family var(--font-external)
+  font-weight 400
+  padding calc(var(--padding) * 2)
+  padding-left calc(clamp(var(--current-index-width), 100vw, var(--l)))
+  padding-right calc(var(--padding) * 3)
+  margin-left calc(var(--padding) * 3 * -1)
+  background-color var(--background-color-secondary)
+  color var(--color-secondary)
+  width 100vw
+  margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
+  @media print
+    display flex
+    flex-direction column
+    align-items center
+    margin 0
+    padding-inline 0
+    // margin 0
+  figure
+    align-items: flex-start
+    @media print
+      align-items: center
+      max-width 700px
+      margin-right calc(var(--padding) * 2)
+  > p
+    text-indent 30px
+    width calc(var(--text-width) * 0.85)
+    @media print
+      width calc(700px - var(--padding) * 2)
+      margin-right calc(var(--padding) * 2)
+    > * 
+      text-indent 0
+:global(.bib)
+  padding-left 2ch
+  text-indent -2ch
+    
+// [[end:blocks]]
+
+:global(.toc)
+  @media print
+    display none

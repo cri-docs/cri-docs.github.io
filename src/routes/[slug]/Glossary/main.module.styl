@@ -3,6 +3,8 @@
   position relative
   color var(--color-secondary)
   cursor pointer
+  @media print
+    color var(--color)
   .popup
     --lines 10
     display flex
@@ -33,6 +35,8 @@
       overscroll-behavior contain
       transform translate(-50%, -50%)
       z-index 50
+    @media print
+      display none
     .text
       width 100%
       max-height calc( 1l * var(--lines) + 1rem )

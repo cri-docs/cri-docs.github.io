@@ -5,7 +5,8 @@
   import CustomGlossary from "|/routes/[slug]/Glossary/CustomGlossary.svelte"
   import { markdown } from "$lib/markdownRenderer"
   // import aboutData from "|/content/text/about.json"
-  import styles from "./main.module.styl"
+  // import styles from "./main.module.styl"
+  import styles from "|/routes/[slug]/page.module.styl"
   const { data } = $props()
 
   const componentRegistry = {

@@ -47,7 +47,6 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer:** DEP-2443  
-
 **Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
 **Beschreibung:** Aus Holz geschnitzten, auf schwarzem Postament stehenden Mohren darstellend, auf der Brust ein silbernes Zifferblatt mit Wappen Rahn und Umschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646». Der Mohr bewegt die Augen im Sekundentakt, der Unterkiefer klappert im Stundenschlag.  
 **Klassifikation:** Figurenuhr  
