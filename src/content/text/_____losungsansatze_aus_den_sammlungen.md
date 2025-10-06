@@ -11,7 +11,7 @@ toc:
   - level: 2
     title: "10.2 Fallbeispiel 2"
   - level: 2
-    title: "10.3 Fallbeispiel 3"
+    title: "10.3 **Fallbeispiel** 3"
   - level: 2
     title: "10.4 Fallbeispiel 4"
   - level: 2
@@ -19,17 +19,17 @@ toc:
   - level: 2
     title: "10.6 Fallbeispiel 6"
   - level: 2
-    title: "10.7 Fallbeispiel 7"
+    title: "10.7 **Fallbeispiel** 7"
   - level: 2
-    title: "10.8 Fallbeispiel 8"
+    title: "10.8 **Fallbeispiel** 8"
   - level: 2
-    title: "10.9 Fallbeispiel 9"
+    title: "10.9 **Fallbeispiel** 9"
   - level: 2
-    title: "10.10 Fallbeispiel 10"
+    title: "10.10 **Fallbeispiel** 10"
   - level: 2
-    title: "10.11 Fallbeispiel 11"
+    title: "10.11 **Fallbeispiel** 11"
   - level: 2
-    title: "10.12 Fallbeispiel 12"
+    title: "10.12 **Fallbeispiel** 12"
 ---
 
 Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen werden in den folgenden Abschnitten rassistische Begriffe und Bilder reproduziert.[[176]](#footnote-177) Die Beispiele aus den Institutionen bilden die Recherchen, teilweise auch Diskussionen und Prozesse ab, die zu den Entscheidungen bezüglich der Eingriffe in die Datensätze führten. Diese werden jeweils unter dem «Kontext» beschrieben.  

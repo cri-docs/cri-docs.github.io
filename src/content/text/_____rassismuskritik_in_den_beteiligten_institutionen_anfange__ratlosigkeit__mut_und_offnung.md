@@ -9,7 +9,7 @@ toc:
   - level: 2
     title: "8.1 Bernisches Historisches Museum"
   - level: 2
-    title: "8.2 ETHBibliothek, ETH Zürich"
+    title: "8.2 ETH-Bibliothek, ETH Zürich"
   - level: 2
     title: "8.3 Fotostiftung Schweiz"
   - level: 2

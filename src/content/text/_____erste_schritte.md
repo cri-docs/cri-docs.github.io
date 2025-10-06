@@ -7,9 +7,9 @@ index: 1
 color: "default"
 toc:
   - level: 2
-    title: "2.1 Was ist Rassismus?"
+    title: "2.1 ****Was ist Rassismus?****"
   - level: 2
-    title: "2.2 Wie weiter in der Praxis?"
+    title: "2.2 ****Wie weiter in der Praxis?****"
 ---
 
 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, **Rassismen zu erkennen**, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Die Umsetzung einer antirassisistischen Dokumentationspraxis ist ein kontinuierlicher Prozess, der nie abgeschlossen ist und stets erneut kritisch hinterfragt und angepasst werden muss. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus zu klären, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben sowie Lösungsansätze zu präsentieren.  
