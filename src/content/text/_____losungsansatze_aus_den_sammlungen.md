@@ -1,7 +1,7 @@
 ---
 title: "Lösungsansätze aus den Sammlungen"
 short_title: "Lösungsansätze aus den Sammlungen"
-slug: "losungsansatze-aus-den-sammlungen"
+slug: "losungsansatze_aus_den_sammlungen"
 order: 150
 index: 9
 color: "default"

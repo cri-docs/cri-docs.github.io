@@ -1,7 +1,7 @@
 ---
 title: "Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung"
 short_title: "Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung"
-slug: "rassismuskritik-in-den-beteiligten-institutionen-anfange-ratlosigkeit-mut-und-offnung"
+slug: "rassismuskritik_in_den_beteiligten_institutionen_anfange__ratlosigkeit__mut_und_offnung"
 order: 130
 index: 7
 color: "default"
@@ -9,7 +9,7 @@ toc:
   - level: 2
     title: "8.1 Bernisches Historisches Museum"
   - level: 2
-    title: "8.2 ETHBibliothek, ETH Zürich"
+    title: "8.2 ETH-Bibliothek, ETH Zürich"
   - level: 2
     title: "8.3 Fotostiftung Schweiz"
   - level: 2

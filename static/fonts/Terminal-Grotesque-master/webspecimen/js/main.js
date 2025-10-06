@@ -28,7 +28,6 @@ function showletter(){
     click = 0;
     textsize = 50;
   }
-  console.log(click, $letters.length, textsize+'vh');
   click++;
   textsize = textsize / 1.1  + .6;
 }

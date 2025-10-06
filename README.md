@@ -41,5 +41,5 @@ You can preview the production build with `npm run preview`.
 <!-- todos -->
 
 - (+ -) elements
-- comlex lists
+- complex lists
 - images

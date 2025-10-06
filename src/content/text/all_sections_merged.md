@@ -45,7 +45,7 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe (AG) «Critical G
 * Rassistische, diskriminierende Begriffe in Originaltiteln sowie historische Zitate werden bei der Erstzitierung ausgeschrieben, aber durch Anführungs- und Schlusszeichen gekennzeichnet.
 * Bei der Zweitnennung rassistischer und diskriminierender Begriffe werden sie jeweils nur mit dem Anfangsbuchstaben und einem Asterisk (\*) geschrieben, um die Begriffe in der weiteren Analyse nicht zu reproduzieren.
 * Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.
-* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz_%252525252F_weiss) (Grossschreibung) und[*weiss*](#_Schwarz_%252525252F_weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.
+* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz_%25252525252F_weiss) (Grossschreibung) und[*weiss*](#_Schwarz_%25252525252F_weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.
 * Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – sind im [Glossar](#_Glossar) im Kapitel 13 des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
 
 [[end:infobox]]
@@ -304,7 +304,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 ### Rassismus auf der individuellen Ebene
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz_%252525252F_weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[14]](#footnote-15) Wenn rassistische Überzeugungen von rassifizierten[[15]](#footnote-16)Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus[[16]](#footnote-17)
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz_%25252525252F_weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[14]](#footnote-15) Wenn rassistische Überzeugungen von rassifizierten[[15]](#footnote-16)Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus[[16]](#footnote-17)
 
 ### ****Struktureller Rassismus****
 
@@ -379,13 +379,13 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ### Selbstverständlichkeit der Verschlagwortung
 
-Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines Objekts oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz_%252525252F_weiss)*»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz_%252525252F_weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotential.
+Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines Objekts oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz_%25252525252F_weiss)*»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz_%25252525252F_weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotential.
 
 * Gibt es Attribute eines Objektes oder Bildinhalte, die je nach abgebildetem geografischem Ort anders beschlagwortet werden (z.B. Architektur: Haus oder Hütte oder Wohnhaus oder Behausung)?
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z.B. primitiv, wild, einfach, Natur)?
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?
 * Beispiel Kleidung: Wie sind Kleidungstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus_%252525252F_exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus_%25252525252F_exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?
 
 ### Denkanstoss: Institutionelle Positionierung
 
@@ -437,9 +437,7 @@ Die sich etablierende industrielle Gesellschaft verfestigte schliesslich den Dis
 
 Die Herausforderung der Museen besteht heute darin, die Geschichte und das epistemologische Fundament einer Sammlung zu vermitteln, das heisst aufzuzeigen, wer unter welchen Voraussetzungen, mit welchen Methoden und mit welchen Zielen Wissen produzierte. Dabei besteht die Schwierigkeit darin, überkommene Machtkonstellationen nicht gleichzeitig zu replizieren oder Objekte auf ihre Rolle innerhalb dieser wissenschaftstheoretischen Geschichte zu reduzieren.[[62]](#footnote-63) Fundamental für eine Dekolonialisierung des Museums[[63]](#footnote-64) ist zudem die Sichtbarmachung von Absenzen, wie das Fehlen von Dingen, Wissen[[64]](#footnote-65) und Narrativen benachteiligter, häufig auch intersektional[[65]](#footnote-66) diskriminierter Gruppen, die ausserhalb der eurozentrischen Geschichtsschreibung standen und stehen.[[66]](#footnote-67) Kolonialität versteckt sich häufig im Detail. Eine «angewandte Sammlungsgeschichte»[[67]](#footnote-68) untersucht deshalb auch die «kleinen Werkzeuge des Wissens»[[68]](#footnote-69): Modi der Präparation, Zeichnung, Verwahrung, Katalogisierung und Präsentation, die sich in die «Biographien der Objekte»[[69]](#footnote-70) eingeschrieben und sie zu «Wissensgegenständen»[[70]](#footnote-71) oder «Epistemologica»[[71]](#footnote-72) gemacht haben.[[72]](#footnote-73) Die Selbstreflexion, Hinterfragung der eigenen Arbeit und Institution, das «Verlernen»[[73]](#footnote-74) überkommener Grundlagen sind aufwändige, kostspielige und teilweise auch schmerzhafte Prozesse, die deshalb häufig innerhalb von Sonderausstellungen oder künstlerischen Kollaborationen stattfinden. Es ist wünschenswert, dass hierbei erprobte Strategien wie beispielsweise jene der Selbstverortung, Transparenz, Kooperation mit Herkunftsgesellschaften, geteilten Kurator:innenschaft, Neuorganisation, Umbenennung und so weiter, wo immer möglich auch in die Bereiche der permanenten Sammlungsausstellungen, digitalen Museumsauftritte und der Vermittlung diffundieren.
 
-![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Arbeitsgruppe_Diversität in Datenbank, Sammlungs-und Dokumentationspraxis\AG_DIV&DB_Glossar\Projekt_ Handbuch\Abb 1_Lee.jpg, extra:](/images/image004.jpg)
-
-Abb. 1: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf
+![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Arbeitsgruppe_Diversität in Datenbank, Sammlungs-und Dokumentationspraxis\AG_DIV&DB_Glossar\Projekt_ Handbuch\Abb 1_Lee.jpg, extra:Figure 3: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf](/images/image004.jpg)
 
 Ein Beispiel für eine Neugestaltung einer problematischen musealen Inszenierung ist die Performance «Wayward Dust» (2020) der Künstlerin Monilola Olayemi Ilupeju. Sie entstaubte im wörtlichen Sinne ein veraltetes Museumsdispositiv des Deutschen Technikmuseums, bevor dieses abgebaut und entsorgt wurde, da es eine rassistische Sicht auf versklavte Menschen in einem Frachtraum replizierte (Abb. 1). Der von der Künstlerin sichergestellte Staub hatte sich in den letzten Jahrzehnten auf den nackten, Schwarzen Körpern der lebensgrossen Ausstellungspuppen angesammelt. Staub im Museum ist ein praktisches Problem, berührt aber auch Fragen von Besitzverhältnissen, Materialität sowie Zeitlichkeit.[[74]](#footnote-75) Er versinnbildlicht die Musealisierung selbst, den Wandel von Objekten zu Erinnerungs- und Bedeutungsträgern innerhalb des Museums, sowie die im Laufe der Zeit stets neu zu hinterfragenden Praktiken der Konstruktion und Vermittlung von Wissen.
 
@@ -2093,6 +2091,8 @@ Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über kons
 
 # Bibliografie
 
+[[start:bib]]
+
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.
 
 Apraku, Josephine: Mein Workbook zu Rassismus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023.
@@ -2307,6 +2307,8 @@ Thiel, Sonja; Bernhardt, Johannes C. (Hg.): AI in Museums: Reflections, Perspect
 
 Verband der Museen der Schweiz: Webdossier: KI im Museum, museums.ch, <https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html>, Stand: 18.08.2025.
 
+[[end:bib]]
+
 # Impressum
 
 Projektleitung:
@@ -2346,7 +2348,7 @@ Lektorat
 2. Siehe z.B. den Kulturgüterstreit zwischen Zürich und St. Gallen. Im Verlauf des Zweiten Villmergerkrieges wurden 19712 verschiedene Kulturgüter aus der Stiftsbibliothek St. Gallen nach Zürich gebracht. 1996 ersuchte der St. Galler Regierungsrat die Rückgabe (vgl. hierzu: Newsservice Bund: Kulturgüterstreit St. Gallen - Zürich: Erfolgreicher Abschluss der Vermittlung des Bundes vom 27. April 2006, <[news.admin.ch/de/nsb?id=4853](https://www.news.admin.ch/de/nsb?id=4853)>, Stand 28.08.2025.). [↑](#footnote-ref-3)
 3. Das Museum für Naturkunde Berlin wird im Jahr 2025 einen Leitfaden für den Umgang mit naturhistorischen Sammlungen und kolonialen Kontexten herausgeben, siehe: Museum für Naturkunde Berlin: Leitfaden zum Umgang mit naturkundlichem Sammlungsgut aus kolonialen Kontexten, <<https://www.museumfuernaturkunde.berlin/de/wissenschaft/leitfaden-zum-umgang-mit-naturkundlichem-sammlungsgut-aus-kolonialen-kontexten>>, Stand: 28.08.25. [↑](#footnote-ref-4)
 4. Schweizerisches Nationalmuseum ̶ Bernisches Historisches Museum ̶ ETH-Bibliothek ̶ Fotostiftung Schweiz ̶ Historisches Museum Basel ̶ Kunsthaus Zürich ̶ Museum für Kommunikation, Bern ̶ Stiftung für Kunst, Kultur und Geschichte. [↑](#footnote-ref-5)
-5. Die Mitglieder der AG sind mehrheitlich [*weisse*](#_Schwarz_%252525252F_weiss) Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich [*weisse*](#_Schwarz_%252525252F_weiss) Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen. [↑](#footnote-ref-6)
+5. Die Mitglieder der AG sind mehrheitlich [*weisse*](#_Schwarz_%25252525252F_weiss) Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich [*weisse*](#_Schwarz_%25252525252F_weiss) Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen. [↑](#footnote-ref-6)
 6. Dieser Fokus ergibt sich aus den in den Institutionen verwendeten Beispielen in diesem Handbuch. Weitere Diskriminierungsformen werden in diesem Handbuch nicht oder nur ansatzweise diskutiert. [↑](#footnote-ref-7)
 7. vgl. Glossareintrag «Objekt» im Kapitel 13. [↑](#footnote-ref-8)
 8. Im «Leitfaden zum Umgang mit Sammlungsgut aus kolonialen Kontexten» vom Deutschen Museumbund wird für kolonial geprägte Objekte der Begriff «Rezeptionsobjekte» verwendet: «Das Objekt spiegelt koloniales Denken wider oder transportiert Stereotype, denen koloniale Rassismen unterliegen.», vgl. Deutscher Museumsbund e.V. (Hg.): Leitfaden Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 20213, S. 39. [↑](#footnote-ref-9)

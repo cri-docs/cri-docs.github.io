@@ -3,7 +3,7 @@
 // @import url('./raw.css')
 
 :root 
-  --text-width clamp(800px, 60vw, 1000px)
+  --text-container-width clamp(800px, 60vw, 1000px)
 
   --header-height-full 100vh
   --header-width-full clamp(300px,50vw, 700px)
@@ -16,7 +16,9 @@
   --padding 2.6rem
 
   --color #4E00FF
-  --color-secondary red
+  --color-light #4E00FF11
+  --background-color-secondary #EBEBEB
+  --color-secondary #000
 
   --font-size 1.8rem
   --text-font-size 2.6rem
@@ -28,9 +30,11 @@
 
 
   --font-external "KleischLLTrialWeb", serif
+  --font-external "Sentient-Variable", sans-serif
   --font-header "Supremus", sans-serif
   --font-header "Ufficio_TRIAL", sans-serif
   --font-header "KleischLLTrialWeb", sans-serif
+  --font-header var(--font-external)
 
   // --font-header "ABCGalapagosAC", sans-serif
   --font "ABCFavorit", sans-serif
@@ -55,7 +59,7 @@
 
     --header-width-full 100vw
 
-    --text-width 100vw
+    --text-container-width 100vw
     --index-width 100vw
 
 
@@ -80,7 +84,7 @@
   -moz-osx-font-smoothing: grayscale;
   box-sizing border-box
   font-stretch 100%
-  scrollbar-color: rgba(0,0,0,1) #fff
+  scrollbar-color: var(--color-light) #fff
   scrollbar-width: thin
   vertical-align: baseline
   &::-webkit-scrollbar
@@ -123,14 +127,15 @@ body
   width 100vw
 
 body
+  min-height calc(100vh + 0.5px)
+  margin 0
+  padding 0
   font-family var(--font), sans-serif
   font-weight 500
   font-style normal
   font-size var(--font-size)
   line-height 1.15
-  margin 0
-  padding 0
-  color #4E00FF
+  color var(--color)
 
 p
   hyphens auto

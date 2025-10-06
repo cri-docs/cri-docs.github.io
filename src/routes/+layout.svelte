@@ -11,6 +11,7 @@
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
   import Overlay from "$lib/Overlay/overlay.svelte"
+  import Navigation from "./[slug]/Navigation/navigation.svelte"
 
   let { sites } = $page.data
   let { children } = $props()
@@ -61,6 +62,7 @@
 >
   {#if $page?.route?.id !== "/print"}
     <Header />
+    <Navigation {sites} />
   {/if}
   <!-- <Overlay /> -->
   <main>

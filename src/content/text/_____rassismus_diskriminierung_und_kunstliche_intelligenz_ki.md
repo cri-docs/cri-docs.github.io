@@ -1,7 +1,7 @@
 ---
 title: "Rassismus, Diskriminierung und Künstliche Intelligenz KI"
 short_title: "Rassismus, Diskriminierung und Künstliche Intelligenz KI"
-slug: "rassismus-diskriminierung-und-kunstliche-intelligenz-ki"
+slug: "rassismus_diskriminierung_und_kunstliche_intelligenz_ki"
 order: 170
 index: 11
 color: "default"

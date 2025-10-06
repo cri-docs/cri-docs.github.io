@@ -8,6 +8,8 @@ color: "default"
 toc:
 ---
 
+[[start:bib]]
+
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.  
 
 Apraku, Josephine: Mein Workbook zu Rassismus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023.  
@@ -220,4 +222,6 @@ Cordell, Ryan : Machine Learning + Libraries: A Report on the State of the Field
 
 Thiel, Sonja; Bernhardt, Johannes C. (Hg.): AI in Museums: Reflections, Perspectives and Applications, 2023. Online: <https://doi.org/10.1515/9783839467107>, Stand: 18.08.2025.  
 
-Verband der Museen der Schweiz: Webdossier: KI im Museum, museums.ch, <https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html>, Stand: 18.08.2025.
+Verband der Museen der Schweiz: Webdossier: KI im Museum, museums.ch, <https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html>, Stand: 18.08.2025.  
+
+[[end:bib]]

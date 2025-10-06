@@ -17,6 +17,7 @@
   import BiChevronDoubleLeft from "$lib/icones/BiChevronDoubleLeft.svelte"
   import BiChevronLeft from "$lib/icones/BiChevronLeft.svelte"
   import { useResize } from "$lib/useResize"
+  import Navigation from "../../../routes/[slug]/Navigation/navigation.svelte"
 
   const { sites, activeSubPage, setSubPage } = $props()
   const { isMobile } = useResize
@@ -40,9 +41,12 @@
     }
   }
 
-  const navigate = (e, url) => {
-    e.preventDefault()
-    goto(url, { noScroll: true })
+  const navigate = (e) => {
+    if (isMobile) {
+      if ($headerIsOpen) headerIsOpen.set(false)
+    } else {
+      if ($headerIsOpen) headerIsOpen.set(false)
+    }
   }
 
   const toggle = () => {
@@ -124,18 +128,16 @@
               </div>
               <a
                 href={`/${site.fields.slug}`}
+                onclick={navigate}
                 class:active={$page.params.slug === site.fields.slug}
                 data-sveltekit-noscroll
               >
-                <!-- data-sveltekit-noscroll -->
-                <!-- onclick={(e) => navigate(e, `/${site.fields.slug}`)} -->
                 {site.fields.short_title
                   ? site.fields.short_title
                   : site.fields.title}
-                <!-- {site.fields.title} -->
               </a>
             </div>
-            {#if site.fields.toc && $page.params.slug === site.fields.slug}
+            {#if site.fields.toc && $page.params.slug === site.fields.slug && !$isMobile}
               <ul>
                 {#each site.fields.toc as item}
                   <li
