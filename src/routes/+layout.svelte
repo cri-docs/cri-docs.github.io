@@ -11,6 +11,7 @@
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
   import Overlay from "$lib/Overlay/overlay.svelte"
+  import Navigation from "./[slug]/Navigation/navigation.svelte"
 
   let { sites } = $page.data
   let { children } = $props()
@@ -60,6 +61,7 @@
   ].join(" ")}
 >
   <Header />
+  <Navigation {sites} />
   <!-- <Overlay /> -->
   <main>
     <img

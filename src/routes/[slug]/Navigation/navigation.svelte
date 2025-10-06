@@ -1,41 +1,37 @@
 <script>
   import styles from "./navigation.module.styl"
   import { page } from "$app/stores"
-  import { headerIsOpen } from "$lib/state.svelte"
+  import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
+  import BiChevronLeft from "$lib/icones/BiChevronLeft.svelte"
+  import BiChevronRight from "$lib/icones/BiChevronRight.svelte"
 
-  let { data } = $props()
+  let { sites } = $props()
 
-  let scrollY = $state(0)
+  const isFullyCollapsed = $derived(!$headerIsOpen && !$menuIsOpen)
   const nextPost = $derived.by(() => {
-    const posts = $page?.data?.sites
-    const currentIndex = posts.findIndex(
-      (post) => post.fields.slug === data.post.fields.slug
+    const currentIndex = sites.findIndex(
+      (site) => site.fields.slug === $page.data.site.fields.slug
     )
-    return currentIndex < posts.length - 1 ? posts[currentIndex + 1] : null
+    return currentIndex < sites.length - 1 ? sites[currentIndex + 1] : undefined
   })
 
   const previousPost = $derived.by(() => {
-    const posts = $page?.data?.sites
-    const currentIndex = posts.findIndex(
-      (post) => post.fields.slug === data.post.fields.slug
+    const currentIndex = sites.findIndex(
+      (site) => site.fields.slug === $page.data.site.fields.slug
     )
-    return currentIndex > 0 ? posts[currentIndex - 1] : null
+    return currentIndex > 0 ? sites[currentIndex - 1] : undefined
   })
 </script>
 
-<svelte:window bind:scrollY />
+<!-- <svelte:window bind:scrollY /> -->
 
-<div
-  class={[styles.navigation, !$headerIsOpen ? styles.scrolled : ""].join(" ")}
->
-  {#if previousPost}
-    <a href={previousPost.fields.slug}>prev</a>
-  {:else}
-    <span>prev</span>
-  {/if}
-  {#if nextPost}
-    <a href={nextPost.fields.slug}>next</a>
-  {:else}
-    <span>next</span>
-  {/if}
+<div class={[styles.navigation, isFullyCollapsed ? styles.show : ""].join(" ")}>
+  <a href={previousPost?.fields?.slug} disabled={!previousPost}
+    ><BiChevronLeft /></a
+  >
+  <a
+    href={nextPost?.fields?.slug}
+    class:disabled={!nextPost}
+    disabled={!nextPost ? "true" : "false"}><BiChevronRight /></a
+  >
 </div>

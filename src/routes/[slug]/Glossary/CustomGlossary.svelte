@@ -1,26 +1,59 @@
 <script>
   import { goto } from "$app/navigation"
+  import { useResize } from "$lib/useResize"
+  import { onMount } from "svelte"
   import styles from "./main.module.styl"
 
   import glossaryData from "|/content/text/glossary.json"
+  import XLg from "$lib/icones/x-lg.svelte"
 
   const { content, id } = $props()
-
+  const { isMobile } = useResize
   let showPopup = $state(false)
 
-  const _id = id.toLowerCase().replaceAll("_", "-")
+  const _id = id.toLowerCase()
 
-  const goToLink = () => {
-    window.open(`/glossar#${id}`, "_blank")
+  const goToLink = (e) => {
+    if (!$isMobile) {
+      window.open(`/glossar#${id}`, "_blank")
+    } else {
+      if (showPopup) {
+        if (e.target.closest(`#close-popup`)) {
+          showPopup = false
+        }
+      } else {
+        showPopup = true
+      }
+    }
   }
+
+  const mouseEnter = () => {
+    if ($isMobile) return
+    showPopup = true
+  }
+
+  const mouseLeave = () => {
+    if ($isMobile) return
+    showPopup = false
+  }
+
+  const handleClickOutside = (event) => {
+    if (!$isMobile) return
+    if (!event.target.closest(`.${styles.glossary}`)) {
+      showPopup = false
+    }
+  }
+  onMount(() => {
+    document.addEventListener("click", handleClickOutside)
+  })
 </script>
 
 <button
   class={styles.glossary}
   type="button"
   onclick={goToLink}
-  onmouseenter={() => (showPopup = true)}
-  onmouseleave={() => (showPopup = false)}
+  onmouseenter={mouseEnter}
+  onmouseleave={mouseLeave}
 >
   {content}
   {#if showPopup}
@@ -29,6 +62,11 @@
       <span class={styles.text}>
         {glossaryData?.[_id]?.content || ""}
       </span>
+      {#if !$isMobile}
+        <div class={styles.more}>ganzer Text</div>
+      {:else}
+        <div id="close-popup" class={styles.more}><XLg /></div>
+      {/if}
     </div>
   {/if}
 </button>

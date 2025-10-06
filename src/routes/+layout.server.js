@@ -9,7 +9,10 @@ export function load({ url }) {
     .loadFromDir("src/content/text")
     .orderBy("order", "asc")
 
-  const sites = collection.getItemsArray()
+  const array = collection.getItemsArray()
+  const sites = array.filter(site => {
+    return site.filename !== "all_sections_merged.md"}
+  )
   if (url.pathname === "/") {
     // Redirect to /editorial if the path is root
     // let redirectPath = sites[0].fields.slug

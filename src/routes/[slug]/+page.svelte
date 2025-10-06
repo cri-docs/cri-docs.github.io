@@ -1,5 +1,7 @@
 <script>
   import { onMount, tick } from "svelte"
+  import { browser } from "$app/environment"
+
   import styles from "./page.module.styl"
   import Footnotes from "./Footnotes/footnotes.svelte"
   import Navigation from "./Navigation/navigation.svelte"
@@ -11,7 +13,7 @@
   import External from "./types/External.svelte"
   import { fly } from "svelte/transition"
   import { navigating } from "$app/state"
-  import { activeHeader } from "$lib/state.svelte"
+  import { activeHeader, headerIsOpen } from "$lib/state.svelte"
 
   let { data } = $props()
 
@@ -29,7 +31,25 @@
   })
   const currentFootnote = writable(null)
 
-  import { browser } from "$app/environment"
+  $effect(() => {
+    if ($page) {
+      if ($page?.url.hash) {
+        const hash = $page.url.hash
+        tick().then(() => {
+          const el = document.querySelector(hash)
+          if (el) {
+            el.scrollIntoView({ behavior: "instant", block: "start" })
+            window.scrollBy(0, -50)
+            history.replaceState(
+              null,
+              "",
+              window.location.pathname + window.location.search
+            )
+          }
+        })
+      }
+    }
+  })
 
   if (browser) {
     onMount(() => {
