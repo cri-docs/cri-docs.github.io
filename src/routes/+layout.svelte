@@ -13,6 +13,7 @@
   import Overlay from "$lib/Overlay/overlay.svelte"
   import Navigation from "./[slug]/Navigation/navigation.svelte"
   import { goto, pushState, replaceState } from "$app/navigation"
+  import BiPrinter from "$lib/icones/BiPrinter.svelte"
 
   let { sites } = $page.data
   let { children } = $props()
@@ -27,6 +28,10 @@
   const isColored = $derived.by(
     () => activePage?.fields?.color === "blue" || activePage === "home"
   )
+
+  const printPDF = () => {
+    window.open("http://" + $page.url.host + "/print.pdf", "_blank")
+  }
 
   onMount(() => {
     // 240
@@ -85,6 +90,7 @@
     <Header />
     <Navigation {sites} />
   {/if}
+  <BiPrinter class={styles.print} onclick={printPDF} />
   <!-- <Overlay /> -->
   <main>
     <img

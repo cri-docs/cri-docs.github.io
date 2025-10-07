@@ -29,7 +29,7 @@
     max-width var(--w)
     margin 0 0 0 0.8cm
     padding calc(var(--padding))
-    background-color var(--kd-color-background)
+    // background-color var(--kd-color-background)
     color var(--kd-color-text)
   > * 
     width var(--text-width)
@@ -68,11 +68,11 @@
       width 100%
     img
       width 80%
-      max-height 60vh
+      max-height 50vh
       object-fit contain
       object-position left center
       @media print
-        max-height 18cm
+        max-height 13cm
         object-fit contain
         object-position center center
     figcaption
@@ -118,6 +118,9 @@
       padding-bottom .5lh
   ul
     li
+      max-width 80%
+      // padding-left 2ch
+      // text-indent -2ch
       list-style none
       &:before
         --size 1.2rem
@@ -173,6 +176,16 @@
 :global(.literature)
   --p clamp(var(--current-index-width), 100vw, var(--l))
   font-size var(--small-font-size)
+  ul
+    padding-left 2ch
+    // text-indent -2ch
+    li
+      max-width unset
+      list-style none
+      &:before
+        content ""
+        --size .8ch
+        transform translateY(calc(.5lh - (var(--height) / 2)))
   > *
     width calc(var(--text-container-width) * 0.6)
     &:first-child p
@@ -185,13 +198,14 @@
   padding 1rem
   border 1px solid var(--color)
   margin-bottom 1lh
+  break-inside avoid
 :global(.metadata)
   display flex
   flex-wrap wrap
   margin-bottom 2lh
   gap 1rem 2rem
-  // padding 1rem
   font-size var(--small-font-size)
+  break-inside avoid
   > *
     flex-shrink 0
     width 100%
@@ -252,6 +266,7 @@
       max-width var(--text-container-width)
       margin-right calc(var(--padding) * 2)
   > p
+  > div
     text-indent 30px
     width calc(var(--text-width) * 0.85)
     @media print
