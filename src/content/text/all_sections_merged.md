@@ -19,7 +19,7 @@ Arbeitsgruppe «Critical GLAM»
 
 [[start:preface]]
 
-# Vorwort
+## Vorwort
 
 In den letzten Jahren nahmen die politische Polarisierung und die gesellschaftlichen Diskussionen über Migration, kulturelle Vielfalt und Rassismus weiter zu. Dies verlieh auch der Auseinandersetzung mit entsprechenden Fragestellungen in den Schweizer Gedächtnisinstitutionen einen Schub: Wie gehen wir als Institution(en) zusammen mit unseren Mitarbeitenden mit diesen Themen um? Welche Haltung nehmen wir zu Diskriminierung und Krieg ein und sind wir bereit, dies öffentlich zu kommunizieren? Auf welche Art fördern wir die Teilhabe diverser Gruppen der Gesellschaft? Wie können wir unsere Ausstellungs- und Vermittlungspraxis kritisch reflektieren und unsere Sammlungen dekolonisieren? Kurz: Welche gesellschaftliche Verantwortung kommt uns als Gedächtnisinstitutionen zu?  
 
@@ -47,9 +47,6 @@ Datum: 22. Juli 2025 (Version 2.0)
 [[end:preface]]
 
 [[start:infobox]]
-
-# Infobox
-
 ## Umgang mit Sprache und Bildern  
 
 Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe (AG) «Critical GLAM» zu folgendem Umgang mit Sprache und Bildern entschieden:  
@@ -63,9 +60,6 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe (AG) «Critical G
 [[end:infobox]]
 
 [[start:about]]
-
-# Über dieses Dokument
-
 ## Die Arbeitsgruppe  
 
 Die Arbeitsgruppe «Critical GLAM» wurde im Jahr 2022 ins Leben gerufen und besteht aus Vertreter:innen acht Schweizer GLAM-Institutionen. Ziel der AG ist und war es ein Netzwerk und eine Austauschplattform zu schaffen, die es ermöglicht über die Verantwortungen, Herangehensweisen und Herausforderungen in Bezug auf sensibles und historisch belastetes Kulturerbe zu diskutieren. Die Arbeit der AG startete mit dem Lancieren des Handbuchs «Rassismuskritische Dokumentation» jedoch sieht die AG damit ihre Arbeit nicht als abgeschlossen. Vielmehr soll das Handbuch das hier als erste Fassung vorliegt, als Basis gelten und die Türen öffnen für in die vielseitige Auseinandersetzung «kritischer» Museumsarbeit, der Anerkennung und Aufarbeitung multipler diskriminierender Praxen unserer Institutionen in der Vergangenheit wie in der Gegenwart und der Sensibilisierung zu diesen Themen dienen. Die AG freut sich über weiterführende Projekte und Initiativen in diesem Bereich und bietet mit dieser Webseite Vernetzungsmöglichkeiten und Aushandlungsräume an. In diesem Zusammenhang freut sich die AG freut sich über konstruktive Rückmeldungen oder Anfragen unter: [Mailadresse o.Ä.]  
@@ -86,9 +80,6 @@ Die Arbeitsgruppe «Critical GLAM» wurde im Jahr 2022 ins Leben gerufen und bes
 [[end:about]]
 
 [[start:imprint]]
-
-# Impressum
-
 ## Impressum
 [[end:imprint]]
 
