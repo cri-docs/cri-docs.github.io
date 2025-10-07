@@ -19,25 +19,24 @@
     padding-left 3rem
     margin 0
   @media print
+    --w calc(var(--text-container-width) + 2 * var(--padding))
     display flex
     flex-direction column
-    align-items center
+    align-items flex-start
     justify-content center
     width 100%
     height 100%
-    max-width calc(700px + 2 * var(--padding))
-    margin 0 auto
+    max-width var(--w)
+    margin 0 0 0 0.8cm
     padding calc(var(--padding))
     background-color var(--kd-color-background)
     color var(--kd-color-text)
-    font-size inherit
   > * 
     width var(--text-width)
     font-size var(--text-font-size)
     line-height 1.2
     @media print
       width 100%
-      font-size inherit
   .loading
     width var(--text-width)
     height calc(100vh - 300px)
@@ -62,13 +61,20 @@
     flex-direction column
     justify-content center
     align-items center
-    margin 0
     width var(--text-width)
+    margin 0
+    padding-right 2rem
+    @media print
+      width 100%
     img
       width 80%
-      max-height 70vh
+      max-height 60vh
       object-fit contain
       object-position left center
+      @media print
+        max-height 18cm
+        object-fit contain
+        object-position center center
     figcaption
       width 80%
       padding-top 0.3lh
@@ -168,11 +174,13 @@
   --p clamp(var(--current-index-width), 100vw, var(--l))
   font-size var(--small-font-size)
   > *
-    width calc(var(--text-width) * 0.6)
-    // &first-child
-    //   font-weight bold
+    width calc(var(--text-container-width) * 0.6)
+    &:first-child p
+      font-weight bold
     @media _mobile
       width calc(100%)
+    @media print
+      width calc(var(--text-container-width) * 0.8)
 :global(.block)
   padding 1rem
   border 1px solid var(--color)
@@ -233,6 +241,7 @@
     display flex
     flex-direction column
     align-items center
+    width 100%
     margin 0
     padding-inline 0
     // margin 0
@@ -240,13 +249,13 @@
     align-items: flex-start
     @media print
       align-items: center
-      max-width 700px
+      max-width var(--text-container-width)
       margin-right calc(var(--padding) * 2)
   > p
     text-indent 30px
     width calc(var(--text-width) * 0.85)
     @media print
-      width calc(700px - var(--padding) * 2)
+      width calc(var(--text-container-width) - var(--padding) * 2)
       margin-right calc(var(--padding) * 2)
     > * 
       text-indent 0

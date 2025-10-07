@@ -12,6 +12,7 @@
   import styles from "./+layout.module.styl"
   import Overlay from "$lib/Overlay/overlay.svelte"
   import Navigation from "./[slug]/Navigation/navigation.svelte"
+  import { goto, pushState, replaceState } from "$app/navigation"
 
   let { sites } = $page.data
   let { children } = $props()
@@ -45,48 +46,32 @@
       )
       animationFrame = requestAnimationFrame(animateColor)
     }
-    // animateColor()
-    const printPdf = function (url) {
-      // var iframe = this._printIframe
-      if (document) {
-        let iframe = document.createElement("iframe")
-        document.body.appendChild(iframe)
-        iframe.src = url
-        iframe.style.display = "none"
-        iframe.onload = function () {
-          setTimeout(function () {
-            iframe.focus()
-            iframe.contentWindow.print()
-          }, 1)
-        }
-      }
-    }
-    if ($page.url.searchParams.get("print")) {
-      printPdf("http://" + $page.url.host + "/CircularXX-Bold.pdf")
-    }
 
-    const printEvent = (event) => {
-      window.location.href = $page.url + "?print=true"
-      return null
-    }
-    // addEventListener("beforeprint", printEvent)
-    // addEventListener("afterprint", () => {
-    //   const iframes = document.querySelectorAll("iframe")
-    //   iframes.forEach((iframe) => {
-    //     if (iframe && iframe.parentNode) {
-    //       iframe.parentNode.removeChild(iframe)
-    //     }
+    // const printEvent = (event) => {
+    //   if ($page.route.id === "/print") return
+    //   goto($page.url.pathname + "?print=true", {
+    //     replaceState: true,
     //   })
-    //   const url = new URL(window.location.href)
-    //   url.searchParams.delete("print")
-    //   window.history.replaceState({}, document.title, url.toString())
-    // })
+    // }
+
+    // addEventListener("beforeprint", printEvent)
 
     return () => {
       cancelAnimationFrame(animationFrame)
-      removeEventListener("beforeprint", printEvent)
+      // removeEventListener("beforeprint", printEvent)
     }
   })
+
+  // $effect(() => {
+  //   if ($page.url.searchParams.get("print")) {
+  //     window.open("http://" + $page.url.host + "/print.pdf", "_blank")
+  //     goto($page.url.pathname, {
+  //       replaceState: true,
+  //       keepfocus: true,
+  //       noscroll: true,
+  //     })
+  //   }
+  // })
 </script>
 
 <div

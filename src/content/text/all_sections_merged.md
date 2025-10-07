@@ -5,6 +5,8 @@ order: 0
 index: -1  
 ---  
 
+[[start:heading]]
+
 **Rassismuskritische Dokumentation – Ein Handbuch für GLAM-Institutionen**  
 
 ![alt:, extra:](/images/image000.jpg)  
@@ -13,7 +15,9 @@ Version 1.7, September 2025
 
 Arbeitsgruppe «Critical GLAM»  
 
-[[start:preface]]  
+[[end:heading]]
+
+[[start:preface]]
 
 ## **Vorwort**  
 
@@ -40,9 +44,9 @@ Stiftung für Kunst, Kultur und Geschichte (SKKG)
 Entwurf: Patrick Moser, Historisches Museum Basel  
 Datum: 22. Juli 2025 (Version 2.0)  
 
-[[end:preface]]  
+[[end:preface]]
 
-[[start:infobox]]  
+[[start:infobox]]
 
 ## Umgang mit Sprache und Bildern  
 
@@ -55,9 +59,9 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe (AG) «Critical G
 * Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz_%25252525252F_weiss) (Grossschreibung) und[*weiss*](#_Schwarz_%25252525252F_weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
 * Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – sind im [Glossar](#_Glossar) im Kapitel 13 des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).  
 
-[[end:infobox]]  
+[[end:infobox]]
 
-[[start:about]]  
+[[start:about]]
 
 ## Die Arbeitsgruppe  
 
@@ -77,15 +81,15 @@ Die Arbeitsgruppe «Critical GLAM» wurde im Jahr 2022 ins Leben gerufen und bes
 | Schweizerisches Nationalmuseum | Dario Donati (Projektleitung)  Céline Hug (Projektleitung) |  
 | Stiftung für Kunst, Kultur und Geschichte (SKKG) | Sonja Gasser |  
 
-[[end:about]]  
+[[end:about]]
 
-[[start:imprint]]  
+[[start:imprint]]
 
-**Impressum**  
+## Impressum  
 
-[[end:imprint]]  
+[[end:imprint]]
 
-[[start:toc]]  
+[[start:toc]]
 
 Inhalt  
 
@@ -231,7 +235,7 @@ Inhalt
 
 [16 Impressum 67](#_Toc1679636825)  
 
-[[end:toc]]  
+[[end:toc]]
 
 # Editorial  
 
@@ -243,7 +247,7 @@ Mitarbeiter:innen solcher Gedächtnisinstitutionen haben die Aufgabe, dieses Erb
 
 Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunktion ein: Sie verknüpft Forschung, Ausstellung, Vermittlung und partizipative Projekte und sichert deren Inhalte langfristig. Dabei ist sie eng mit anderen musealen Handlungsfeldern verbunden und beeinflusst massgeblich, welche Geschichten erzählt werden und für wen das Museum einladend und relevant ist. Denn Sammeln und Dokumentieren sind stets selektive Prozesse, die bestimmten Perspektiven Sichtbarkeit verleihen und andere ausblenden. Dadurch prägen sie nicht nur die institutionelle Erzählung, sondern auch das Selbstverständnis und die gesellschaftliche Rolle des Museums – insbesondere in Bezug auf Repräsentation und Teilhabe.  
 
-[[start:literature]]  
+[[start:literature]]
 
 Weiterführende Literatur:  
 
@@ -287,7 +291,7 @@ Europeana (Hg.): DE-BIAS - Detecting and cur(at)ing harmful language in cultural
 
 National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025.  
 
-[[end:literature]]  
+[[end:literature]]
 
 ## Eckpfeiler und Rahmenbedingungen des Handbuchs  
 
@@ -321,7 +325,7 @@ Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Ku
 
 ![alt:Eine Person in eineme Museeum (test), extra:Figure 1: Eine Person in eineme Museeum (test)](/images/image001.jpg)  
 
-[[start:literature]]  
+[[start:literature]]
 
 **Weiterführende Literatur[[19]](#footnote-20)**  
 
@@ -331,7 +335,7 @@ Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Ku
 * El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021  
 * Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <https://www.frb.admin.ch/de/publikationen>  
 
-[[end:literature]]  
+[[end:literature]]
 
 ## ****Wie weiter in der Praxis?****  
 
@@ -355,7 +359,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Mit welchen Stereotypen war ich während meiner Schulzeit, in der Ausbildung sowie im Privatleben konfrontiert? Und inwiefern haben diese mein Handeln und Denken beeinflusst?  
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
-[[start:literature]]  
+[[start:literature]]
 
 * **Weiterführende Literatur**  
 * Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023  
@@ -364,7 +368,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021  
 * Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018  
 
-[[end:literature]]  
+[[end:literature]]
 
 ### Wer dokumentiert was/wen/wessen Geschichte?  
 
@@ -420,7 +424,7 @@ Dr. Chonja Lee (sie/ihr) ist Dozentin für Kunstgeschichte der Frühen Neuzeit a
 
 In die Entstehung von Sammlungen jeglicher Art spielt der Zeitgeist hinein. Dieser spiegelt sich demnach auch im Inventarisieren, Katalogisieren, Klassifizieren, Ordnen, Beschreiben und Auswerten von Objekten und Archivalien wieder. Unter dem Gesichtspunkt einer antirassistischen Dokumentationspraxis ist es wichtig, sich mit der Geschichte von Sammlungen und damit verbundener Wissenspraxen zu befassen. Der Text von Chonja Lee beschreibt die Anfänge europäischer Sammlungen und ordnet diese in die imperialistisch-kolonialen Strukturen und rassistischen Ideologien ein.  
 
-[[start:external]]  
+[[start:external]]
 
 Sammlungen sind nie neutral. Sie sind das Resultat von Entscheidungen darüber, was überhaupt sammlungs- und erhaltungswürdig ist. Schon indem Sammler:innen und Institutionen wie Museen sammeln, haben sie und ihre Akteur:innen die Macht, Objekte für relevant zu erklären. Durch diese Entscheidungen wird auch mitgeprägt, welches und wessen Wissen in die zukünftige Wissens- und Erinnerungskultur einfliesst.[[26]](#footnote-27)  
 
@@ -606,7 +610,7 @@ Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindu
 
 Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.  
 
-[[end:external]]  
+[[end:external]]
 
 # Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen [[Die Schweiz und das koloniale Erbe]]  
 
@@ -618,7 +622,7 @@ Monique Ligtenberg (sie/ihr) ist promovierte Historikerin und hat die Ausstellun
 
 Der vorliegende Beitrag zeigt, welche Kriterien eine Sammlung zu einer kolonialen machen. Dabei werden die Begriffe der problematischen/sensiblen sowie primär und sekundär kolonialen Sammlungen und das koloniale Rezeptionsobjekt definiert. Die Definitionen werden jeweils von historischen Beispielen begleitet. Der Beitrag legt dar, wieso die Aufarbeitung der kolonialen Vergangenheit wichtig ist, und präsentiert Strategien für den Umgang mit kolonialen Sammlungen.  
 
-[[start:external]]  
+[[start:external]]
 
 Die Schweiz herrschte zu keinem Zeitpunkt formal über eigene Kolonien und war dennoch in die kolonialen Projekte anderer europäischer Staaten involviert.[[75]](#footnote-76) Das schlägt sich bis heute in Schweizer Museen und Sammlungen nieder, die massgeblich vom Kolonialismus profitierten. Hunderttausende Kunstwerke, Alltagsgegenstände oder naturhistorische Präparate aus kolonialen Kontexten werden in Schweizer Sammlungen aufbewahrt. Aufgrund kolonialer Sammlungstätigkeiten liegt heute ein Grossteil des Kulturerbes ehemaliger Kolonien in westlichen Museen und Sammlungen. Dadurch werden bis heute in der Kolonialzeit entstandene Asymmetrien und Denkmuster weitergetragen.[[76]](#footnote-77)  
 
@@ -674,7 +678,7 @@ Koloniale Sammlungsbestände und problematische Erwerbskontexte müssen erforsch
 
 Die Auseinandersetzung mit der kolonialen Vergangenheit ist ein wichtiger Schritt, um die gegenwärtige Fortsetzung kolonialer Repräsentations- und Sammlungspraktiken zu überwinden.  
 
-**[[start:literature]]**  
+[[start:literature]]
 
 **Literatur**  
 
@@ -744,9 +748,9 @@ Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des
 
 Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
 
-**[[end:literature]]**  
+[[end:literature]]
 
-[[end:external]]  
+[[end:external]]
 
 # Communities, Sammlungen und Sorgfalt  
 
@@ -762,7 +766,7 @@ Ruby Satele Asiata (sie/ihr) ist Anthropologin, Museologin und Universitätsassi
 
 Die Dokumentation von Objekten ist nie neutral, sondern spiegelt die vorherrschenden Machtgefüge wider. Diskriminierungskritische Museumsarbeit erfordert eine Erweiterung des Wissens um die Objekte und deren Einbettung in ihren kulturellen Kontext. Die Autorinnen zeigen anhand zweier Ausstellungen auf, wie das kritische Hinterfragen sowie die Erweiterung des Wissens um die Objektgeschichte die Deutung, Präsentation und Wahrnehmung des kulturellen Erbes beeinflusst und verändert.  
 
-[[start:external]]  
+[[start:external]]
 
 Worte spiegeln Vorstellungen wider. Sie formen Identitäten und kreieren neue Realitäten. Oftmals gibt es mehr als nur einen Begriff, um etwas zu beschreiben. Beschreiben und Dokumentieren sind zentrale Mittel für das Verständnis von Sammlungen und die Arbeit mit Datenbanken. Die vermeintliche Neutralität der Dokumentation ist jedoch in den Fokus aktueller post- und dekolonialer Debatten geraten.[[98]](#footnote-99) So scheinen Datenbanken, Depots und Restaurierungslabors zeitlos zu sein und eine vermeintliche Objektivität auszustrahlen. Aktuelle Diskussionen, experimentelle Praktiken und community-basierte Projekte verdeutlichen jedoch, dass die Wahl der verwendeten Begriffe und die Priorisierung bestimmter Sprachformen stets auch eine Reflexion gesellschaftlicher und kultureller Machtverhältnisse ist.  
 
@@ -796,7 +800,7 @@ Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im
 
 Dabei geht die Frage nach der Inklusion über die Übersetzung hinaus und der Fokus liegt auf der Re-Indigenisierung von Wissen und Konzepten in musealen Räumen. Wir sollten die indigene Perspektive und Sprache als Ausgangspunkt nehmen, anstatt englische oder deutsche Texte und Konzepte in indigene Sprachen übersetzen zu lassen. Darüber hinaus ist es bei der Dekolonisierung des Museums wichtig, neben schriftlichen Quellen auch alternative Ansätze der Erinnerungsvermittlung zu berücksichtigen, wie beispielsweise den Bereich der Oral History. Das Erzählen von Geschichten hat in der Vermittlung und Übermittlung von Informationen eine lange Tradition, wie z. B. in den pazifischen Moana-Gesellschaften. Solche mündlichen Traditionen sind unverzichtbar für die Bewahrung der Kultur, weshalb das Erzählen eine zentrale Rolle dabei spielt, das Verständnis zu fördern und die kulturellen Schätze in unseren Sammlungen richtig zu kontextualisieren.[[114]](#footnote-115) Wir sollten uns vom eurozentrischen Verständnis von Geschichtsschreibung lösen und andere Epistemologien nicht nur anerkennen, sondern auch als gleichwertig betrachten. Nur so können wir die noch immer in unseren Institutionen verankerten Stränge des Kolonialismus entwirren.  
 
-[[start:literature]]  
+[[start:literature]]
 
 **Literatur**  
 
@@ -832,9 +836,9 @@ Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documenta
 
 Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
 
-[[end:literature]]  
+[[end:literature]]
 
-[[end:external]]  
+[[end:external]]
 
 # Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein»]]  
 
@@ -1088,22 +1092,22 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 #### **Vor- und Nachteile**:  
 
-[[start:comp]]  
+[[start:comp]]
 
-[[start:plus]]  
+[[start:plus]]
 
 + Erkennbar als problematischer Begriff  
 + Bewahrt den historischen Titel für Transparenz und wissenschaftliche Nachvollziehbarkeit  
 + Relativ einfach umsetzbar  
 
-[[end:plus]]  
-[[start:minus]]  
+[[end:plus]]
+[[start:minus]]
 
 - Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  
 - Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber den Nutzer:innen möglicherweise unklar, weswegen  
 
-[[end:minus]]  
-[[end:comp]]  
+[[end:minus]]
+[[end:comp]]
 
 #### **To-do**:  
 
@@ -1325,9 +1329,9 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 **Institution:** Schweizerisches Nationalmuseum ©SNM  
 
-[[start:metadata]]  
+[[start:metadata]]
 
-[[start:before]]  
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -1340,9 +1344,9 @@ Metadaten des unbereinigten Datensatzes:
 **Schlagworte:** Personenwappen, Hans Rudolf Rahn  
 **Herstellung:** Augsburg  
 
-[[end:before]]  
+[[end:before]]
 
-[[start:after]]  
+[[start:after]]
 
 Metadaten des bereinigten Datensatzes:  
 
@@ -1355,9 +1359,9 @@ Metadaten des bereinigten Datensatzes:
 **Herstellung:** Augsburg  
 **Inhaltshinweis[[177]](#footnote-178):** «Rassifizierung»  
 
-[[end:after]]  
+[[end:after]]
 
-[[end:metadata]]  
+[[end:metadata]]
 
 ### Kontext  
 
@@ -1365,7 +1369,7 @@ Die Figur wurde unter der intern vergebenen Bezeichnung «Mohrenautomat» gefüh
 
 Beim Objekt handelt es sich um ein Geschenk des Zürcher Rates 1646 an den Bürgermeister Hans Rudolf Rahn das er in Zusammenhang eines Kuraufenthaltes in Banden erhielt. Seit dem 16. Jh. führt die Familie Rahn die stereotype Abbildung eines Schwarzen Mannes in ihrem Familienwappen (einem sogenannten «M\*»).[[180]](#footnote-181) Solche Darstellungen finden sich seit dem Mittelalter, verbreiten sich aber im Kontext der europäischen Expansion, des Kolonialismus und dem transatlantischen Sklavenhandel und werden damit zunehmend mit exotisierenden Attributen aufgeladen. Seit dem 12. Jh. taucht der «M\*» auf Darstellungen und Wappen in Europa auf, um die vermeintliche Überlegenheit über die muslimischen Feinde darzustellen. Im Spätmittelalter verwenden europäische adlige und reiche Familien diese Darstellungen, um Reichtum und Weltläufigkeit zu demonstrieren. So vermischen sich Formen rassistischer Diskriminierung.[[181]](#footnote-182) Ob und inwiefern die Darstellung dieses Objekts damals rassistisch motiviert und mit exotisierenden Komponenten aufgeladen war, kann nicht endgültig beantwortet werden. Nichtsdestotrotz widerspiegelt sie im heutigen Kontext eine auf ikonografischer sowie sprachlicher Ebene rassistische Repräsentationspraktik. In den internen Diskussionen wurde deshalb entschieden, die Namensgebung zu ändern. Dies aber mit dem Vorbehalt, dass die historischen Bezeichnungen in der internen Datenbank weiterhin hinterlegt sind und diese nicht unwiderruflich gelöscht werden. Zudem war es ein zentrales Anliegen, die bildsprachliche Ebene, die vor allem durch die heraldischen Symbole des «M\*», die an verschiedenen Stellen des Objekts zu sehen sind, durch Schlagworte zu kennzeichnen, so dass das Objekt im Kontext von Recherchearbeiten zu diesen Symbolen in der Datenbank auffindbar ist. Bei der Neubezeichnung des Objekts taten sich wiederum neue Fragen auf, z. B.: Welche Alternativen bieten sich an, wenn die Figur eine historisch konstruierte Imagination von europäischen Männern in der Zeit um die Mitte des 17. Jh. einer nichteuropäische Bevölkerungsgruppe widerspiegelt? Kann man in diesem Fall heutige Selbstbezeichnungen wie zum Beispiel «Schwarze:r » oder «BIPoC» adaptieren? Wie bereits erahnt werden kann, schieden sich hier die Geister. Den historischen Begriff mehrfach (weil er ja bereits in der Verschlagwortung benannt wird) zu reproduzieren, kam jedoch nicht in Frage, weshalb man sich dazu entschieden hat, die Schreibweise «Schwarz» (Grossschreibung) trotz aller Vorbehalte zu übernehmen.  
 
-### [[start:block]]  
+[[start:block]]
 
 ### Bearbeitung in der Datenbank:  
 
@@ -1379,7 +1383,7 @@ Das Objekt wird mit den Inhaltshinweisen «Rassifizierung» und dem Schlagwort �
 
 Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[183]](#footnote-184) freigeschaltet.  
 
-### [[end:block]]  
+[[end:block]]
 
 ## Fallbeispiel 2  
 
@@ -2097,7 +2101,7 @@ Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über kons
 
 # Bibliografie  
 
-[[start:bib]]  
+[[start:bib]]
 
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.  
 
@@ -2313,7 +2317,7 @@ Thiel, Sonja; Bernhardt, Johannes C. (Hg.): AI in Museums: Reflections, Perspect
 
 Verband der Museen der Schweiz: Webdossier: KI im Museum, museums.ch, <https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html>, Stand: 18.08.2025.  
 
-[[end:bib]]  
+[[end:bib]]
 
 # Impressum  
 

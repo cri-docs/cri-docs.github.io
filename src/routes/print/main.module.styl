@@ -1,0 +1,24 @@
+.container
+  :global(.heading)
+    break-after page
+    font-size 5rem
+    h1
+      margin-bottom 0.5rem
+    figure
+      justify-content flex-start
+      height calc(90vh - 5lh)
+      min-height unset
+      padding 0
+      overflow hidden
+      img
+        height 100%
+        width auto
+        min-height unset
+        object-fit contain
+        object-position top center
+    p
+      font-size var(--font-size)
+  :global(.preface)
+  :global(.infobox)
+  :global(.about)
+    break-before page

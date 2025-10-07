@@ -5,6 +5,9 @@
   transition background-color 0.5s ease, color 0.5s ease
   @media _mobile
     width 100vw
+  @media print
+    background-color white
+    width 100%
   &.collapsed
     --current-index-width var(--buttons-width)
   main
@@ -25,7 +28,7 @@
       &.headerIsCollapsed
         margin-top 0
     .content
-      width 100vw
+      width 100%
 
 
 

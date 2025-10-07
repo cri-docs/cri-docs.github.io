@@ -4,9 +4,8 @@
   import CustomFootnotes from "|/routes/[slug]/Footnotes/CustomFootnotes/CustomFootnotes.svelte"
   import CustomGlossary from "|/routes/[slug]/Glossary/CustomGlossary.svelte"
   import { markdown } from "$lib/markdownRenderer"
-  // import aboutData from "|/content/text/about.json"
-  // import styles from "./main.module.styl"
   import styles from "|/routes/[slug]/page.module.styl"
+  import printStyles from "./main.module.styl"
   const { data } = $props()
 
   const componentRegistry = {
@@ -23,7 +22,10 @@
     if (typeof window === "undefined") {
       return undefined
     } else {
-      return marked(data.content)
+      const match = data.content.match(/---([\s\S]*?)---/)
+      const betweenDashes = match ? match[1] : ""
+      const content = data.content.replace(/---([\s\S]*?)---/, "").trim()
+      return marked(content)
     }
   })
 
@@ -33,7 +35,7 @@
   })
 </script>
 
-<div class={styles.container}>
+<div class={[styles.container, printStyles.container].join(" ")}>
   {#if mark}
     {@html mark}
   {/if}

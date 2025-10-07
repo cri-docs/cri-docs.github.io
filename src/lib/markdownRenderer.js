@@ -60,7 +60,18 @@ function processCustomBlocks(content) {
   do {
     prevContent = content
     content = content.replace(regex, (match, blockType, blockContent) => {
-      return `<div class="${blockType}">\n\n${blockContent.trim()}\n\n</div>`
+      if(blockType === "heading") {
+        // Extract the first line as the heading, rest as content
+        const lines = blockContent.trim().split("\n")
+        const heading = lines[0] || ""
+        const image = lines[2] || ""
+        const version = lines[4] || ""
+        const info = lines[6] || ""
+        console.log("Heading block lines:", image)
+        return `<div class="${blockType}">\n\n# ${lines[0].trim()}\n\n${image.trim()}\n\n${version.trim()}  \n${info.trim()}\n\n</div>`
+      }else{
+        return `<div class="${blockType}">\n\n${blockContent.trim()}\n\n</div>`
+      }
     })
   } while (regex.test(content))
   return content
