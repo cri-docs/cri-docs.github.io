@@ -131,7 +131,7 @@
         left calc(-1 * var(--size) - .5rem)
         height var(--height)
         width var(--size)
-        transform translateY(calc(.6lh - (var(--height) / 2)))
+        transform translateY(calc(.55lh - (var(--height) / 2)))
   table
     width 90%
     padding-bottom: 1lh;
@@ -199,6 +199,11 @@
   border 1px solid var(--color)
   margin-bottom 1lh
   break-inside avoid
+  ul
+    padding-left 2ch
+    li
+      // max-width unset
+      list-style none
 :global(.metadata)
   display flex
   flex-wrap wrap
