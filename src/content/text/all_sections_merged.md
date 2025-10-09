@@ -58,7 +58,7 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe (AG) «Critical G
 * Rassistische, diskriminierende Begriffe in Originaltiteln sowie historische Zitate werden bei der Erstzitierung ausgeschrieben, aber durch Anführungs- und Schlusszeichen gekennzeichnet.  
 * Bei der Zweitnennung rassistischer und diskriminierender Begriffe werden sie jeweils nur mit dem Anfangsbuchstaben und einem Asterisk (\*) geschrieben, um die Begriffe in der weiteren Analyse nicht zu reproduzieren.  
 * Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.  
-* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz_%25252525252F_weiss) (Grossschreibung) und[*weiss*](#_Schwarz_%25252525252F_weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
+* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz_%2525252525252F_weiss) (Grossschreibung) und[*weiss*](#_Schwarz_%2525252525252F_weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
 * Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – sind im [Glossar](#_Glossar) im Kapitel 13 des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
 [[end:infobox]]
 
@@ -302,7 +302,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 ### Rassismus auf der individuellen Ebene  
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz_%25252525252F_weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[14]](#footnote-15) Wenn rassistische Überzeugungen von rassifizierten[[15]](#footnote-16)Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus[[16]](#footnote-17)  
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz_%2525252525252F_weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[14]](#footnote-15) Wenn rassistische Überzeugungen von rassifizierten[[15]](#footnote-16)Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus[[16]](#footnote-17)  
 
 ### ****Struktureller Rassismus****  
 
@@ -385,13 +385,13 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ### Selbstverständlichkeit der Verschlagwortung  
 
-Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines Objekts oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz_%25252525252F_weiss)*»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz_%25252525252F_weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotential.  
+Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines Objekts oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz_%2525252525252F_weiss)*»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz_%2525252525252F_weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotential.  
 
 * Gibt es Attribute eines Objektes oder Bildinhalte, die je nach abgebildetem geografischem Ort anders beschlagwortet werden (z.B. Architektur: Haus oder Hütte oder Wohnhaus oder Behausung)?  
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z.B. primitiv, wild, einfach, Natur)?  
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?  
 * Beispiel Kleidung: Wie sind Kleidungstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus_%25252525252F_exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus_%2525252525252F_exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
 
 ### Denkanstoss: Institutionelle Positionierung  
 
@@ -405,7 +405,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![alt:, extra:](/images/image003.jpg)  
 
-[[start:literature]]
+[[start:block]]
 
 #### Beispiele Positionierung der Institution  
 
@@ -423,7 +423,7 @@ Im Internet findet sich ausserdem eine Vielzahl von Angeboten für Sensibilisier
 * Fachstelle für Rassismusbekämpfung FRB, <<https://www.frb.admin.ch/de/beratung-und-recht>>, Stand: 15.08.2025  
 * Beratungsnetz für Rassismusopfer, Weiterbildungsplattform, <<https://www.network-racism.ch/weiterbildungsplattform>>, Stand: 15.08.2025  
 
-[[end:literature]]
+[[end:block]]
 
 # Sammlungen und Museen als Orte der Kolonialität  
 
