@@ -22,10 +22,9 @@
 
   --font-size 1.8rem
   --text-font-size 2.6rem
-  --small-font-size 1.6rem
-  --weclome-font-size clamp(5rem, (100/8)vh, 7rem)
-  --title-font-size 5rem
-  --subtitle-font-size clamp(2rem, (100/60)vh, 3.5rem)
+  --small-font-size var(--font-size)
+  --welcome-font-size clamp(5rem, (100/8)vh, 7rem)
+  --title-font-size 6rem
   --small-title-font-size 1.4rem
 
 
@@ -41,35 +40,35 @@
 
 @media _medium
   :root
-    // 
+    --font-size 1.8rem
+    --text-font-size 2.4rem
+    --small-font-size var(--font-size)
+    --welcome-font-size 5.8rem
+    --title-font-size 5rem
 
 
 @media _small
   :root
-    // 
+    --font-size 1.6rem
+    --text-font-size 2.2rem
+    --small-font-size var(--font-size)
+    --welcome-font-size 6.2rem
+    --title-font-size 5rem
 
-
-@media _bigmobile
-  :root
-    // 
 
 @media _mobile
   :root
-    --col-amount 1
-
     --header-width-full 100vw
 
     --text-container-width 100vw
     --index-width 100vw
 
-
     --font-size 2rem
     --text-font-size 2rem
     --small-font-size 1.4rem
 
-    --weclome-font-size 4rem
-    --title-font-size var(--text-font-size)
-    --subtitle-font-size 1.8rem
+    --welcome-font-size 4rem
+    --title-font-size 4rem
 
     --padding 1.6rem
 
@@ -77,7 +76,7 @@
   :root
     --font-size 10pt
     --text-font-size var(--font-size)
-    --small-font-size 9pt
+    --small-font-size var(--font-size)
     --title-font-size 32pt
     --subtitle-font-size 24pt
     --padding 1.6rem

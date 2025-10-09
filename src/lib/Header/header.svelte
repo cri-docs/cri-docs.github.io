@@ -141,7 +141,7 @@
     ></canvas>
   {/if}
   {#if !$isMobile || activeSubPage == "welcome"}
-    <div class={styles.weclomeText}>
+    <div class={styles.welcomeText}>
       <a href="/">
         <h1 class={styles.title}>
           Sammlungs- <br /> dokumentation <br /> im Fokus

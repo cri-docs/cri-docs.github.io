@@ -1,17 +1,14 @@
 {
   "mobile": {
-    "width": [0, 599]
-  },
-  "bigmobile": {
-    "width": [0, 899]
+    "width": [0, 1399]
   },
   "small": {
-    "width": [900, 1249]
+    "width": [1400, 1599]
   },
   "medium": {
-    "width": [1250, 1664]
+    "width": [1600, 1799]
   },
   "big": {
-    "width": [1665]
+    "width": [1800]
   }
 }
