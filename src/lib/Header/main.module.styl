@@ -69,18 +69,22 @@
     h1
       position relative
       margin 0
-      font-size var(--welcome-font-size)
+      font-size calc(var(--welcome-font-size)* 1.4)
       font-weight 900
-      letter-spacing 1px
+      letter-spacing 3px
       hyphens auto
       font-family var(--font-header)
     h2
       // width 400px
       margin 0
       font-family var(--font-header)
-      font-size var(--welcome-font-size)
-      // line-height 1
+      font-size calc(var(--welcome-font-size)* 0.7)
+      line-height 1.02
+      letter-spacing 0.5px
       hyphens auto
+    h1
+    h2
+      // line-height 1
 
   &.isCollapsed
     left calc(-1 * var(--header-width-full))
