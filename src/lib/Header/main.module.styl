@@ -69,11 +69,17 @@
     h1
       position relative
       margin 0
-      font-size calc(var(--welcome-font-size)* 1.4)
+      font-family var(--font-header)
+      font-size calc(var(--welcome-font-size) * 1.2)
       font-weight 900
       letter-spacing 3px
       hyphens auto
-      font-family var(--font-header)
+      // NEIN
+      // font-size calc(var(--welcome-font-size)* 4)
+      // letter-spacing 1px
+      // font-weight unset
+      // line-height 0.85
+      font-feature-settings: "ss04" 1, "ss05" 1, "ss06" 1, "ss08" 1, "ss10" 1, "ss11" 1, "ss17" 1, "liga" 1, "dlig" 1;
     h2
       // width 400px
       margin 0
@@ -82,6 +88,7 @@
       line-height 1.02
       letter-spacing 0.5px
       hyphens auto
+      font-weight unset
     h1
     h2
       // line-height 1
