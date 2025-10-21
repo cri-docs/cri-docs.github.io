@@ -74,6 +74,8 @@
     --padding 1.6rem
 
 @media print
+  *
+    box-decoration-break clone
   :root
     --font-size 10pt
     --text-font-size var(--font-size)
@@ -87,7 +89,9 @@
 
 @page
   size A4 portrait
-  margin 10mm 10mm 8mm 5mm
+  margin 10mm 10mm 20mm 25mm
+  // @bottom-right
+  //   content counter(page) " of " counter(pages)
 
 
 *
