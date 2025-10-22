@@ -1467,7 +1467,7 @@ Bezeichnung:
 
 Inschrift:  
 
-Die erfasste Inschrift wird in der **Änderungshistorie gespeichert.** Die Inschrift wird originalgetreu im Feld «Beschriftung» erfasst und der redaktionelle Hinweis sic! beigefügt: «NEGER-STICKBUCH sic!».  
+Die erfasste Inschrift wird in der **Änderungshistorie gespeichert.** Die Inschrift wird originalgetreu im Feld «Beschriftung» erfasst und der redaktionelle Hinweis [sic!] beigefügt: «NEGER-STICKBUCH [sic!]».  
 
 Deklaration als rassistisches Objekt:  
 
