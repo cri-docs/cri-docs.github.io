@@ -24,7 +24,7 @@ Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassi
 
 ### ****Struktureller Rassismus****  
 
-S**truktureller Rassismus** ist eine Form von Rassismus, die sich in gesellschaftlichen Strukturen verfestigt und Rassismen dort aufrechterhält. Struktureller Rassismus weist auf die weite Verbreitung von Rassismus als tiefsitzendes und oftmals unbewusst wirkendes gesellschaftliches Phänomen hin. Er beinhaltet durch Tradition, Sozialisation und Erziehung geprägte und kollektiv geteilte rassistische Welt- und Menschenbilder.[[16]](#footnote-17) Struktureller und individueller Rassismus stützen und verstärken sich gegenseitig.  
+Struktureller Rassismus ist eine Form von Rassismus, die sich in gesellschaftlichen Strukturen verfestigt und Rassismen dort aufrechterhält. Struktureller Rassismus weist auf die weite Verbreitung von Rassismus als tiefsitzendes und oftmals unbewusst wirkendes gesellschaftliches Phänomen hin. Er beinhaltet durch Tradition, Sozialisation und Erziehung geprägte und kollektiv geteilte rassistische Welt- und Menschenbilder.[[16]](#footnote-17) Struktureller und individueller Rassismus stützen und verstärken sich gegenseitig.  
 
 Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrundeliegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[17]](#footnote-18)  
 

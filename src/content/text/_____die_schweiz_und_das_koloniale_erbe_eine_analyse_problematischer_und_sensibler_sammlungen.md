@@ -34,7 +34,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionarinnen und Missionare, Söld
 
 ![alt:, extra:](/images/image005.jpg)  
 
-Abbildung 5: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.  
+Abbildung 6: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.  
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)  
 
