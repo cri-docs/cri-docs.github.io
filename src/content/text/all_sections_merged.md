@@ -21,6 +21,10 @@ Abbildung 1: Reinigung und Registrierung, Stiftung Kunst Kultur Geschichte Winte
 
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)  
 
+[[start:preface]]
+
+# Vorwort
+
 Vorwort  
 
 In den letzten Jahren nahmen die politische Polarisierung und die gesellschaftlichen Diskussionen über Migration, kulturelle Vielfalt und Rassismus zu. Dies verlieh auch der Auseinandersetzung mit entsprechenden Fragestellungen in Schweizer Gedächtnisinstitutionen mehr Aufmerksamkeit: Wie gehen GLAM-Institutionen (**G**alleries, **L**ibraries, **A**rchives, **M**useums) zusammen mit ihren Mitarbeitenden mit diesen Themen um? Wie zeigen wir Haltung zu Diskriminierung und Gewalt und wie kommunizieren wir sie? Auf welche Art fördern wir die Teilhabe verschiedener Gruppen der Gesellschaft? Wie können wir unsere Ausstellungs- und Vermittlungspraxis kritisch reflektieren und unsere Sammlungen neu befragen? Kurz: Welche gesellschaftliche Verantwortung kommt uns als Gedächtnisinstitutionen dabei zu?  
@@ -49,7 +53,12 @@ Fotostiftung Schweiz
 
 Schweizerisches Nationalmuseum (SNM)  
 
-Stiftung für Kunst, Kultur und Geschichte (SKKG)  
+Stiftung für Kunst, Kultur und Geschichte (SKKG)
+[[end:preface]]
+
+[[start:infobox]]
+
+# Infobox
 
 **\*Infobox\***  
 
@@ -62,7 +71,8 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM»
 * Bei der Zweitnennung rassistischer und diskriminierender Begriffe werden sie jeweils nur mit dem Anfangsbuchstaben und einem Asterisk (\*) geschrieben, um die Begriffe in der weiteren Analyse nicht zu reproduzieren.  
 * Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.  
 * Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: Schwarz (Grossschreibung) und *weiss* (kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
-* Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – sind im Glossar im Kapitel 13 des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).  
+* Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – sind im Glossar im Kapitel 13 des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
+[[end:infobox]]
 
 Inhalt  
 
@@ -220,9 +230,51 @@ Mitarbeiter:innen solcher Gedächtnisinstitutionen haben die Aufgabe, dieses Erb
 
 Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunktion ein: Sie verknüpft Forschung, Ausstellung, Vermittlung und partizipative Projekte und sichert deren Inhalte langfristig. Dabei ist sie eng mit anderen musealen Handlungsfeldern verbunden und beeinflusst massgeblich, welche Geschichten erzählt werden und für wen die Gedächtnisinstitution einladend und relevant ist. Denn Sammeln und Dokumentieren sind stets selektive Prozesse, die bestimmten Perspektiven Sichtbarkeit verleihen und andere ausblenden. Dadurch prägen sie nicht nur die institutionelle Erzählung, sondern auch das Selbstverständnis und die gesellschaftliche Rolle von GLAM-Institutionen – insbesondere in Bezug auf Repräsentation und Teilhabe.  
 
-|  |  
-| --- |  
-| Weiterführende Literatur:  Zum Überblick über die Entwicklung der Diskussion in der Schweiz:  Historisches Lexikon der Schweiz (Hg.): Dossier «Koloniale Verflechtungen der Schweiz», HLS online, 15.04.2025, <<https://hls-dhs-dss.ch/de/dossiers/000033/2025-04-15/>>, Stand 03.09.2025.  Schweizerisches Nationalmuseum (Hg.): Kolonial. Globale Verflechtungen der Schweiz, Zürich 2024.  Ausstellung «Im Dialog mit Benin. Kunst, Kolonialismus und Restitution» im Museum Rietberg, 23.08.2024-16.02.2025, <<https://rietberg.ch/ausstellungen/imdialogmitbenin>>, Stand 03.09.2025.  Ausstellung «Benin verpflichtet. Wie mit geraubten Königsschätzen umgehen?» im Völkerkundemuseum Zürich, 24.08.2024-14.09.2025, <<https://www.musethno.uzh.ch/de/ausstellungen/benin-verpflichtet.html>>, Stand 03.09.2025.  Ausstellung «Koloniale Spuren – Sammlungen im Kontext» im extract ETH Zürich, 30.08.2024-13.07.2025, <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>>, Stand 03.09.2025.  «Sensibel, problematisch, umstritten? Herausforderungen und Chancen im Umgang mit kulturellem Erbe in Museen», Internationale Konferenz, Zürich, 20.-22.11.2024, <<https://www.landesmuseum.ch/de/veranstaltung/internationale-konferenz-28655>>, Stand: 03.09.2025.  Arbeitsgruppe Dekolonialisierung, Sammlungen und Archive der ETH Zürich: Dekolonialisierung der Sammlungen und Archive der ETH Zürich. Ein Praxisleitfaden zum Umgang mit kolonialen Beständen, August 2024, <https://doi.org/10.3929/ethz-b-000691291>, Stand: 03.09.2025.  Mähr, Moritz; Schnegg, Noëlle: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten. Erfahrungen aus dem geschichtswissenschaftlichen Forschungsprojekt Stadt.Geschichte.Basel. 03.06.2024, <<https://zenodo.org/records/11124720>, Stand: 03.09.2025.  Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non européens dans les musées suisses, Genf; Zürich 2023.  Tagung «Ready for the past? On the State of Decolonization in Swiss Museums», Lausanne, 04.-05.05.2022, <<https://wp.unil.ch/collaborativehistory/readyforthepast/>>, Stand: 03.09.2025.  Für Deutschland:  de Castro, Inés u. a.: Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018-22.04.2019], Stuttgart 2021.  [Bystron](https://www.transcript-verlag.de/author/bystron-daniela-320008582/), Daniela; [Fäser](https://www.transcript-verlag.de/author/faeser-anne-320029845/), Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  Müller, Lars u. a.: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, o-bib, Das offene Bibliotheksjournal 11/3, 2024, <<https://doi.org/10.5282/o-bib/6100>>, Stand: 03.09.2025.  Beispiele für Netzwerke in Europa: Deutsche digitale Bibliothek (Hg.): Portal «Sammlungsgut aus kolonialen Kontexten», <<https://ccc.deutsche-digitale-bibliothek.de/de>>, Stand: 03.09.2025.  EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-kolonialekontexte>, Stand: 03.09.2025.  In\_Context: Colonial Histories and Digital Collections, <https://in-context.sbb.berlin/>, Stand: 03.09.2025.  Europeana (Hg.): DE-BIAS - Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>>, Stand: 03.09.2025.  National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025. |  
+[[start:literature]]
+
+Weiterführende Literatur:  
+
+**Zum Überblick über die Entwicklung der Diskussion in der Schweiz:**  
+
+Historisches Lexikon der Schweiz (Hg.): Dossier «Koloniale Verflechtungen der Schweiz», HLS online, 15.04.2025, <<https://hls-dhs-dss.ch/de/dossiers/000033/2025-04-15/>>, Stand 03.09.2025.  
+
+Schweizerisches Nationalmuseum (Hg.): Kolonial. Globale Verflechtungen der Schweiz, Zürich 2024.  
+
+Ausstellung «Im Dialog mit Benin. Kunst, Kolonialismus und Restitution» im Museum Rietberg, 23.08.2024-16.02.2025, <<https://rietberg.ch/ausstellungen/imdialogmitbenin>>, Stand 03.09.2025.  
+
+Ausstellung «Benin verpflichtet. Wie mit geraubten Königsschätzen umgehen?» im Völkerkundemuseum Zürich, 24.08.2024-14.09.2025, <<https://www.musethno.uzh.ch/de/ausstellungen/benin-verpflichtet.html>>, Stand 03.09.2025.  
+
+Ausstellung «Koloniale Spuren – Sammlungen im Kontext» im extract ETH Zürich, 30.08.2024-13.07.2025, <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>>, Stand 03.09.2025.  
+
+«Sensibel, problematisch, umstritten? Herausforderungen und Chancen im Umgang mit kulturellem Erbe in Museen», Internationale Konferenz, Zürich, 20.-22.11.2024, <<https://www.landesmuseum.ch/de/veranstaltung/internationale-konferenz-28655>>, Stand: 03.09.2025.  
+
+Arbeitsgruppe Dekolonialisierung, Sammlungen und Archive der ETH Zürich: Dekolonialisierung der Sammlungen und Archive der ETH Zürich. Ein Praxisleitfaden zum Umgang mit kolonialen Beständen, August 2024, <https://doi.org/10.3929/ethz-b-000691291>, Stand: 03.09.2025.  
+
+Mähr, Moritz; Schnegg, Noëlle: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten. Erfahrungen aus dem geschichtswissenschaftlichen Forschungsprojekt Stadt.Geschichte.Basel. 03.06.2024, <<https://zenodo.org/records/11124720>, Stand: 03.09.2025.  
+
+Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non européens dans les musées suisses, Genf; Zürich 2023.  
+
+Tagung «Ready for the past? On the State of Decolonization in Swiss Museums», Lausanne, 04.-05.05.2022, <<https://wp.unil.ch/collaborativehistory/readyforthepast/>>, Stand: 03.09.2025.  
+
+**Für Deutschland:**  
+
+de Castro, Inés u. a.: Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018-22.04.2019], Stuttgart 2021.  
+
+[Bystron](https://www.transcript-verlag.de/author/bystron-daniela-320008582/), Daniela; [Fäser](https://www.transcript-verlag.de/author/faeser-anne-320029845/), Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
+
+Müller, Lars u. a.: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, o-bib, Das offene Bibliotheksjournal 11/3, 2024, <<https://doi.org/10.5282/o-bib/6100>>, Stand: 03.09.2025.  
+
+Beispiele für Netzwerke in Europa: Deutsche digitale Bibliothek (Hg.): Portal «Sammlungsgut aus kolonialen Kontexten», <<https://ccc.deutsche-digitale-bibliothek.de/de>>, Stand: 03.09.2025.  
+
+EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-kolonialekontexte>, Stand: 03.09.2025.  
+
+In\_Context: Colonial Histories and Digital Collections, <https://in-context.sbb.berlin/>, Stand: 03.09.2025.  
+
+Europeana (Hg.): DE-BIAS - Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>>, Stand: 03.09.2025.  
+
+National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025.  
+
+[[end:literature]]
 
 ## Eckpfeiler und Rahmenbedingungen des Handbuchs  
 
@@ -1160,13 +1212,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![alt:C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg, extra:](/images/image016.jpg)  
 
-Abbildung : Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM  
+Abbildung 15: Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM  
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert auf die Zusammenarbeit mit den Nachkommen der Herkunftsgemeinschaft einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der Objekte sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 ![alt:C:\Users\snmchug\Downloads\2024Usakos.JPG, extra:](/images/image017.jpg)  
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM  
+Abbildung 16: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM  
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation zurück. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.  
 
