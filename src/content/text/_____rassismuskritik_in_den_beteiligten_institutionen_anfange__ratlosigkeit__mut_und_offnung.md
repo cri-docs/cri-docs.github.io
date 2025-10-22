@@ -36,13 +36,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![alt:C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg, extra:](/images/image016.jpg)  
 
-Abbildung : Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM  
+Abbildung 16: Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM  
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert auf die Zusammenarbeit mit den Nachkommen der Herkunftsgemeinschaft einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der Objekte sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 ![alt:C:\Users\snmchug\Downloads\2024Usakos.JPG, extra:](/images/image017.jpg)  
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM  
+Abbildung 17: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM  
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation zurück. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.  
 

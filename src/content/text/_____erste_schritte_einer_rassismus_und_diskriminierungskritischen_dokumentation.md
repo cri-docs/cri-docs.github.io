@@ -22,7 +22,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl *weisse* Menschen als auch BIPoC unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
 
-### ****Struktureller Rassismus****  
+### Struktureller Rassismus  
 
 Struktureller Rassismus ist eine Form von Rassismus, die sich in gesellschaftlichen Strukturen verfestigt und Rassismen dort aufrechterhält. Struktureller Rassismus weist auf die weite Verbreitung von Rassismus als tiefsitzendes und oftmals unbewusst wirkendes gesellschaftliches Phänomen hin. Er beinhaltet durch Tradition, Sozialisation und Erziehung geprägte und kollektiv geteilte rassistische Welt- und Menschenbilder.[[16]](#footnote-17) Struktureller und individueller Rassismus stützen und verstärken sich gegenseitig.  
 

@@ -294,7 +294,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl *weisse* Menschen als auch BIPoC unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
 
-### ****Struktureller Rassismus****  
+### Struktureller Rassismus  
 
 Struktureller Rassismus ist eine Form von Rassismus, die sich in gesellschaftlichen Strukturen verfestigt und Rassismen dort aufrechterhält. Struktureller Rassismus weist auf die weite Verbreitung von Rassismus als tiefsitzendes und oftmals unbewusst wirkendes gesellschaftliches Phänomen hin. Er beinhaltet durch Tradition, Sozialisation und Erziehung geprägte und kollektiv geteilte rassistische Welt- und Menschenbilder.[[16]](#footnote-17) Struktureller und individueller Rassismus stützen und verstärken sich gegenseitig.  
 
@@ -1188,13 +1188,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![alt:C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg, extra:](/images/image016.jpg)  
 
-Abbildung : Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM  
+Abbildung 16: Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM  
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert auf die Zusammenarbeit mit den Nachkommen der Herkunftsgemeinschaft einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der Objekte sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 ![alt:C:\Users\snmchug\Downloads\2024Usakos.JPG, extra:](/images/image017.jpg)  
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM  
+Abbildung 17: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM  
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation zurück. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.  
 
