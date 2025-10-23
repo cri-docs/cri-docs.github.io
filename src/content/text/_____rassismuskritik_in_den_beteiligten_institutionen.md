@@ -38,7 +38,7 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 Abbildung 17: Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM  
 
-Ein anderes Projekt, «Usakos – Making of Common History», fokussiert auf die Zusammenarbeit mit den Nachkommen der Herkunftsgemeinschaft einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der Objekte sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
+Ein anderes Projekt, «Usakos – Making of Common History», fokussiert auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der Objekte sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 ![alt:C:\Users\snmchug\Downloads\2024Usakos.JPG, extra:](/images/image017.jpg)  
 

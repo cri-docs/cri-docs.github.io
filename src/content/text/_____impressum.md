@@ -26,6 +26,8 @@ Schweizerisches Nationalmuseum, Céline Hug und Dario Donati
 
 Stiftung für Kunst, Kultur und Geschichte (SKKG), Sonja Gasser  
 
+Kontakt: mailto:info@criticalGLAM.ch  
+
 Konzept- und Projektbegleitung:  
 Danielle Isler  
 
@@ -35,8 +37,9 @@ Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, 
 Fotos:  
 Siehe Copyright-Angaben  
 
-Design/Entwicklung:  
-Astrom / Zimmer & Tereszkiewicz  
+Design und Entwicklung  
+
+[Astrom / Zimmer & Tereszkiewicz](https://azt.ch/)  
 
 Lektorat:  
 Fachübersetzungsdienst  
