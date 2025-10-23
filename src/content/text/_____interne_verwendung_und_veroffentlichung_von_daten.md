@@ -106,17 +106,34 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 **Beispiele**: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[147]](#footnote-148) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[148]](#footnote-149) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[149]](#footnote-150)  
 
-**Vor- und Nachteile**:  
+[[start:comp]]
 
-|  |  |  
-| --- | --- |  
-| + Erkennbar als problematischer Begriff  + Bewahrt den historischen Titel für Transparenz und wissenschaftliche Nachvollziehbarkeit  + Relativ einfach umsetzbar | - Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  - Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber den Nutzer:innen möglicherweise unklar, weswegen |  
+[[start:plus]]
+
+* Erkennbar als problematischer Begriff  
+* Bewahrt den historischen Titel für Transparenz und wissenschaftliche Nachvollziehbarkeit  
+* Relativ einfach umsetzbar  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  
+* Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber den Nutzer:innen möglicherweise unklar, weswegen  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis  
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren.  
 * Anpassungen im Frontend der Online-Sammlung  
+
+[[end:block]]
 
 ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:](/images/image008.jpg)  
 
@@ -128,16 +145,35 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 **Beispiele**: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[150]](#footnote-151) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[151]](#footnote-152)  
 
+[[start:comp]]
+
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Verhindert unmittelbare Konfrontation mit verletzenden Begriffen  + Technisch oft einfach umsetzbar | - Ohne begleitende Erklärung bleibt unklar, was und warum zensiert wurde  - Verdeckt problematische Inhalte, ohne sie aufzuarbeiten  - Mit einer fehlenden Abbildung entfällt die Auseinandersetzung mit dieser wie auch die Sensibilisierung auf andere solche Darstellungen |  
+[[start:plus]]
+
+* Verhindert unmittelbare Konfrontation mit verletzenden Begriffen  
+* Technisch oft einfach umsetzbar  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Ohne begleitende Erklärung bleibt unklar, was und warum zensiert wurde  
+* Verdeckt problematische Inhalte, ohne sie aufzuarbeiten  
+* Mit einer fehlenden Abbildung entfällt die Auseinander-setzung mit dieser wie auch die Sensibilisierung auf andere solche Darstellungen  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
 * Definition von Kriterien für Platzhalter  
+
+[[end:block]]
 
 ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:](/images/image009.jpg)  
 
@@ -153,11 +189,30 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 **Beispiele**: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](#footnote-153) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[153]](#footnote-154) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[154]](#footnote-155)  
 
+[[start:comp]]
+
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Problematische Titel, die erst später von der Öffentlichkeit, Autor:innen, Kunsthistoriker:innen oder Museen vergeben und nicht bei der Entstehung des Objekts und von den Kunstschaffenden selbst stammen sind keine «Originaltitel» und lassen sich überarbeiten[[155]](#footnote-156)  + Verhindert die Reproduktion problematischer Begriffe  + Keine individuelle Stellungnahme zu jedem einzelnen Titel erforderlich | - Kann als Whitewashing (deutsch weisswaschen/Schönfärberei)/Geschichtsrevisionismus interpretiert werden  - Die Auseinandersetzung mit der Geschichte bzw. eine begleitende Erklärung fehlt je nach Umsetzung  - Verschiedene Titelversionen über die Zeit hinweg können die eindeutige Zuordnung bzw. Nachverfolgung eines Objekts verkomplizieren  - Fehlender Bildungskontext zur ursprünglichen Benennung  - Erfordert aufwändige Recherchearbeiten |  
+[[start:plus]]
+
+* Problematische Titel, die erst später von der Öffentlichkeit, Autor:innen, Kunsthistoriker:innen oder Museen vergeben und nicht bei der Entstehung des Objekts und von den Kunstschaffenden selbst stammen sind keine «Originaltitel» und lassen sich überarbeiten[[155]](#footnote-156)  
+* Verhindert die Reproduktion problematischer Begriffe  
+
+[[end:plus]]
+
+**[start:minus]]**  
+
+* Kann als Whitewashing (deutsch weisswaschen/Schönfärberei)/Geschichtsrevisionismus interpretiert werden  
+* Die Auseinandersetzung mit der Geschichte bzw. eine begleitende Erklärung fehlt je nach Umsetzung  
+* Verschiedene Titelversionen über die Zeit hinweg können die eindeutige Zuordnung bzw. Nachverfolgung eines Objekts verkomplizieren  
+* Fehlender Bildungskontext zur ursprünglichen Benennung  
+* Erfordert aufwändige Recherchearbeiten  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
@@ -165,6 +220,8 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 * Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche:  
   + ob der Titel von der:dem Kunstschaffenden historisch belegt oder nachträglich vergeben wurde  
   + zur Definierung eines neuen, deskriptiven Titels.  
+
+[[end:block]]
 
 ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:](/images/image011.jpg)  
 
@@ -176,17 +233,37 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 
 **Beispiele**: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[156]](#footnote-157)  
 
+[[start:comp]]
+
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Anerkennt die verletzende Natur des Titels  + Bewahrt den historischen Titel und kontextualisiert ihn  + Ermöglicht eigenständige Entscheidung der Betrachtenden, ob die Nutzer:innen diese Inhalte sehen wollen  + Bewahrt den Originaltitel für historische Genauigkeit; bietet Transparenz | - Erfordert aufwändige Recherchearbeiten  - Erfordert redaktionellen Aufwand für Erläuterungen |  
+[[start:plus]]
+
+* Anerkennt die verletzende Natur des Titels  
+* Bewahrt den historischen Titel und kontextualisiert ihn  
+* Ermöglicht eigenständige Entscheidung der Betrachtenden, ob die Nutzer:innen diese Inhalte sehen wollen  
+* Bewahrt den Originaltitel für historische Genauigkeit; bietet Transparenz  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Erfordert aufwändige Recherchearbeiten  
+* Erfordert redaktionellen Aufwand für Erläuterungen  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
 * Definition von Kriterien für Warnungen  
 * Erstellung begleitender Erläuterungen  
+
+[[end:block]]
 
 ![alt:, extra:](/images/image012.jpg)  
 
@@ -208,14 +285,32 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Sensibilisiert generell bei der Nutzung von Online-Sammlungen  + Bewahrt Transparenz über historische Titel  + Relativ einfach umsetzbar | - Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen Objekten; dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen Objekten inwiefern problematisch sind |  
+[[start:comp]]
+
+[[start:plus]]
+
+* Sensibilisiert generell bei der Nutzung von Online-Sammlungen  
+* Bewahrt Transparenz über historische Titel  
+* Relativ einfach umsetzbar  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen Objekten; dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen Objekten inwiefern problematisch sind**.**  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
 * Formulierung einer allgemeinen Warnung  
+
+[[end:block]]
 
 ![alt:, extra:](/images/image015.jpg)  
 

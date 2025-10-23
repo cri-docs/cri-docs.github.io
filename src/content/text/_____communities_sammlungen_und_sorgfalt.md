@@ -58,36 +58,21 @@ Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im
 
 **Literatur**  
 
-Brizon, Claire: Collections coloniales? L’implication de la Suisse dans le processus d’expansion coloniale européen au siècle des Lumières, in: Tsantsa 24, 2019, S. 24–38.  
-
-Debray, Cécile u. a: Le modèle noir. De Géricault à Matisse, [Ausstellung Musée d’Orsay, Paris, 26.03. – 21.07.2019], Paris 2019.  
-
-Fanaafi, Aiono-Le Tagaloa: O la ta Gagana, Samoa 1996.  
-
-Hartman, Sadiya: Two Venus in Two Acts, in: Small Axe 12 (2), 2008, S. 1-14.  
-
-Kushner Bishop, Jill: Engaging Multilingual Audiences through Translation, American Alliance of Museums, 27.07.2022, <<https://www.aam-us.org/2022/07/27/engaging-multilingual-audiences-through-translation/>>, Stand: 28.08.2025.  
-
-o. A.: Collection online Collections record, Auckland Museum, <<https://www.aucklandmuseum.com/collection/object/919461>>, Stand: 28.8.2025.  
-
-o. A.: Le modèle noir de Géricault à Matisse, Musée d’Orsay, <<https://www.musee-orsay.fr/fr/expositions/le-modele-noir-de-gericault-matisse-196083>>, Stand: 28.8.2025.  
-
-o.A.: Exotic ? en 2020-21, Palais de Rumine, <<https://palaisderumine.ch/expositions/expositions-passees/exotic-en-2020-21/>>, Stand: 25.8.2025.  
-
-o. A.: Posing Modernity: The Black Model from Manet and Matisse to Today // Le Modèle noir, de Géricault à Matisse, Wallach Art Gallery, <<https://wallach.columbia.edu/exhibitions/posing-modernity>>, Stand: 28.8.2025.  
-
-Pourawa, Denis: Nââkwéta: The Art of Relation, in: Etienne, Noémie; Brizon, Claire; Lee, Chonja (Hg.): Exotic Switzerland? Looking Outward in the Age of the Enlightenment, [Ausstellung Palais de Rumine, Lausanne, 24.09.2020 – 28.02.2021], Zürich 2020, S. 222-223.  
-
-Ravelli, Louise J.: Museum Texts: Communication Frameworks, London 2006.  
-
-Smith, Linda Tuhiwai: Decolonizing Methodologies, London 1999.  
-
-Suzuki, Wendy A.; Feliú-Mójer, Mónica; Hasson, Uri u. a.: Dialogues: The Science and Power of Storytelling, in: Journal of Neuroscience 38 (44), 2018, S. 9468-9470.  
-
-Tai, Jessica: Cultural Humility as a Framework for Anti-Oppressive Archival Description, in: Journal of Critical Library and Information Studies Vol. 3 (2), 2021, <<https://doi.org/10.24242/jclis.v3i2.120>>, Stand: 28.08.2025.  
-
-Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation*,* Chicago 2021.  
-
-Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
+* Brizon, Claire: Collections coloniales? L’implication de la Suisse dans le processus d’expansion coloniale européen au siècle des Lumières, in: Tsantsa 24, 2019, S. 24–38.  
+* Debray, Cécile u. a: Le modèle noir. De Géricault à Matisse, [Ausstellung Musée d’Orsay, Paris, 26.03. – 21.07.2019], Paris 2019.  
+* Fanaafi, Aiono-Le Tagaloa: O la ta Gagana, Samoa 1996.  
+* Hartman, Sadiya: Two Venus in Two Acts, in: Small Axe 12 (2), 2008, S. 1-14.  
+* Kushner Bishop, Jill: Engaging Multilingual Audiences through Translation, American Alliance of Museums, 27.07.2022, <<https://www.aam-us.org/2022/07/27/engaging-multilingual-audiences-through-translation/>>, Stand: 28.08.2025.  
+* o. A.: Collection online Collections record, Auckland Museum, <<https://www.aucklandmuseum.com/collection/object/919461>>, Stand: 28.8.2025.  
+* o. A.: Le modèle noir de Géricault à Matisse, Musée d’Orsay, <<https://www.musee-orsay.fr/fr/expositions/le-modele-noir-de-gericault-matisse-196083>>, Stand: 28.8.2025.  
+* o.A.: Exotic ? en 2020-21, Palais de Rumine, <<https://palaisderumine.ch/expositions/expositions-passees/exotic-en-2020-21/>>, Stand: 25.8.2025.  
+* o. A.: Posing Modernity: The Black Model from Manet and Matisse to Today // Le Modèle noir, de Géricault à Matisse, Wallach Art Gallery, <<https://wallach.columbia.edu/exhibitions/posing-modernity>>, Stand: 28.8.2025.  
+* Pourawa, Denis: Nââkwéta: The Art of Relation, in: Etienne, Noémie; Brizon, Claire; Lee, Chonja (Hg.): Exotic Switzerland? Looking Outward in the Age of the Enlightenment, [Ausstellung Palais de Rumine, Lausanne, 24.09.2020 – 28.02.2021], Zürich 2020, S. 222-223.  
+* Ravelli, Louise J.: Museum Texts: Communication Frameworks, London 2006.  
+* Smith, Linda Tuhiwai: Decolonizing Methodologies, London 1999.  
+* Suzuki, Wendy A.; Feliú-Mójer, Mónica; Hasson, Uri u. a.: Dialogues: The Science and Power of Storytelling, in: Journal of Neuroscience 38 (44), 2018, S. 9468-9470.  
+* Tai, Jessica: Cultural Humility as a Framework for Anti-Oppressive Archival Description, in: Journal of Critical Library and Information Studies Vol. 3 (2), 2021, <<https://doi.org/10.24242/jclis.v3i2.120>>, Stand: 28.08.2025.  
+* Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation*,* Chicago 2021.  
+* Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
 
 [[end:literature]]

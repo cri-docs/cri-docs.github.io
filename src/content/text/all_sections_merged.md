@@ -476,161 +476,84 @@ Abb. 1: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image C
 
 **Literatur**  
 
-Aníbal Quijano: Coloniality and Modernity/Rationality, in: Cultural Studies 21, 2–3, 2007.  
-
-Azoulay, Ariella Aïsha: Potential history. Unlearning Imperialism, London; New York 2019.  
-
-Barbujani, Guido: Die Erfindung der Rassen. Wissenschaft gegen Rassismus, Berlin 2021.  
-
-Barkan, Elazar: The Retreat of Scientific Racism. Changing Concepts of Race in Britain and the United States between the World Wars, Cambridge 1992.  
-
-Becker, Peter; Clark, William (Hg.): Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices. Ann Arbor 2001.  
-
-Berner Wandbild: Verein Das Wandbild muss weg: Das Wandbild muss weg!, <<https://daswandbildmussweg.ch/>>, Stand: 30.05.2024; Bernisches Historisches Museum: [BHM — Widerstände. Vom Umgang mit Rassismus in Bern](https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende), <<https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende>>, Stand: 30.05.2024.  
-
-Blanchard, Pascal; Bancel, Nicolas; Boëtsch, Gilles u.a. (Hg.): Sexe, race et colonies, Paris 2018.  
-
-Bödeker, Hans Erich; Reill, Peter Hanns; Schlumbohm, Jürgen (Hg.): Wissenschaft als kulturelle Praxis 1750–1900, S. 137–161.  
-
-Brahm, Felix: Imperialismus und Kolonialismus, in: Sommer; Müller-Wille; Reinhardt 2017, S. 287–294.  
-
-Brändle Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835–1964, Zürich 2013.  
-
-Chakrabarty, Dipesh: Provincializing Europe. Postcolonial Thought and Historical Differences, Princeton 2000.  
-
-Collet, Dominik: Die Welt in der Stube. Begegnungen mit Aussereuropa in Kunstkammern der Frühen Neuzeit, Göttingen 2007.  
-
-Das, Subhadra; Lowe, Miranda: Nature Read in Black and White. Decolonial Approaches to Interpreting Natural History Collections, in: Journal of Natural Science Collections 6, 2018.  
-
-Daston, Lorraine; Park, Katharine (Hg.): Wunder und die Ordnung der Natur 1150–1750, Berlin 2002.  
-
-Deliss, Clémentine: The Metabolic Museum, Berlin 2020; Macdonald, Sharon (Hg.): Doing Diversity in Museums and Heritage: A Berlin Ethnography, Bielefeld 2022.  
-
-Drayton, Richard Harry: Nature’s Government. Science, Imperial Britain, and the ‹Improvement› of the World, New Haven 2000; Hoins; Mallinckrodt 2015, S. 10–13.  
-
-Étienne, Noémie; Brizon, Claire; Lee, Chonja u. a. (Hg.): Exotic Switzerland. Looking Outward in the Age of Enlightenment, Berlin/Zürich 2020; Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non européens dans les musées suisses, Zürich 2023.  
-
-Felfe, Robert; Wagner, Kristen (Hg.): Museum, Bibliothek, Stadtraum. Räumliche Wissensordnungen 1600–1900, Münster, 2010.  
-
-Finzsch, Norbert: Wissenschaftlicher Rassismus in den Vereinigten Staaten – 1850 bis 1930, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
-
-Foucault, Michel (Gordo, Colin Hg.): Power/Knowledge. Selected Interviews and Other Writings 1972–1977, New York 1981.  
-
-Foucault, Michel: Archäologie des Wissens, Frankfurt a. Main 1981, S. 61–74.  
-
-Foucault, Michel: Der Wille zum Wissen, Frankfurt a. M. 1977.  
-
-Fründt, Sarah: Wer spricht? Ethnologische Museen und postkoloniale Herausforderungen, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 97–108.  
-
-Füssel, Marian: Aufklärung, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017.  
-
-Greve, Anna: Koloniales Erbe in Museen. Kritische Weissseinsforschung in der praktischen Museumsarbeit, Bielefeld 2019.  
-
-Habermas, Rebekka: Rettungsparadigma und Bewahrungsfetischismus. Oder was die Restitutionsdebatte mit der europäischen Moderne zu tun hat, in: Sandkühler, Thomas; Epple, Angelika; Zimmerer, Jürgen (Hg.): Geschichtskultur durch Restitution? Ein Kunst-Historikerstreit, Wien et al. 2021, S. 79–99.  
-
-Hall, Stuart: The West and the Rest. Discourse and Power, in: Essential Essays, Bd. 2: Identity and Diaspora, Durham 2018, S. 141–184.  
-
-Häner, Flavio: Dinge sammeln, Wissen schaffen. Die Geschichte der naturhistorischen Sammlungen in Basel, 1735–1850, Bielefeld 2017.  
-
-Haraway, Donna: Teddy Bear Patriarchy. Taxidermy in the Garden of Eden, New York City, 1908–1936, in: Social Text 4(2), 1984, S. 20–64.  
-
-Hartman, Saidiya: Venus in Two Acts, in: Small Axe 26 (1), 2008.  
-
-Hoins, Katharina; von Mallinckrodt, Felicitas: Macht. Wissen. Teilhabe. Koordinaten zur Einführung, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 9–20.  
-
-Honold, Alexander: Der Exot und sein Publikum. Völkerschau in der Kolonialzeit, in: Conrad, Sebastian; Osterhammel, Jürgen (Hg.): Das Kaiserreich transnational. Deutschland in der Welt 1871–1914, Göttingen 2004, S. 357–375.  
-
-Jardine, Nicholas: Sammlung, Wissenschaft, Kulturgeschichte, in: te Heesen; Spary 2001, S. 199–220.  
-
-Kattmann, Ulrich: Warum und mit welcher Wirkung klassifizieren Wissenschaftler Menschen, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
-
-Klemun, Marianne: Gärten und Sammlungen, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 235–244.  
-
-Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986, S. 64–92.  
-
-Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986.  
-
-Kubler, George: Die Form der Zeit. Anmerkungen zur Geschichte der Dinge, Frankfurt a. M. 1962.  
-
-Latour, Bruno: Science in Action. How to Follow Scientists and Engineers Through Society, Cambridge (MS) 1987.  
-
-Latour, Bruno: Visualisation and Cognition. Thinking with Hands and Eyes, in: Knowledge and Society 6, 1986, S. 1–40.  
-
-Laukötter, Anja: Von der «Kultur» zur «Rasse» – vom Objekt zum Körper? Völkerkundemuseen und ihre Wissenschaften zu Beginn des 20. Jh., Bielefeld 2007.  
-
-Lee, Chonja: «Eine scheussliche Geschichte» – Entwürfe von Rasse, Geschlecht und animalischer Gewalt in den Vor- und Nachbildern King Kongs, in: Chichester, K. Lee; Gisler, Priska (Hg.): Koloniale Tiere? Tierbilder im Kontext des Kolonialismus, Berlin 2024, S. 91–118.  
-
-Lidchi, Henrietta: The Poetics and Politics of Exhibiting other Cultures, in: Hall, Stuart (Hg.): Representation. Cultural Representations and Signifying Practices, London 1997.  
-
-Macdonald, Sharon: Sighting the Dust. Attending to the Museum through its Residues, in: Samuel, Nina; Sattler, Felix (Hg.): Museale Reste, Berlin; Boston 2022 (Bildwelten des Wissens 18), S. 11–23.  
-
-Mauksch, Stefanie; Rao, Ursula: Vom Wissen der Objekte. Auf der Suche nach reflexiven Ausstellungskonzepten in der Ethnologie, in: Hoins; von Mallinckrodt 2015, S. 109–125.  
-
-McClintock, Anne: Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest, New York; London 1995, S. 38–40.  
-
-Mignolo, Walter D.: Coloniality. The Darker Side of Modernity, in: Breitwieser, Sabine (Hg.): Modernologies. Contemporary Artists Researching Modernity and Modernism. [Ausstellung Museu d’Art Contemporani de Barcelona, 23.09.2009–17.01.2010], Barcelona 2009.  
-
-Mignolo, Walter D.: Racism and Coloniality. The Invention of «Human(ity)» and the Three Pillars of the Colonial Matrix of Power (Racism, Sexism and Nature), in: Taylor, Paul C.; Alcoff, Linda Martín; Anderson, Luvell: The Routledge Companion to Philosophy of Race, New York 2018, S. 461–474.  
-
-Montag, Warren: The Universalization of Whiteness. Racism and Enlightenment, in: Hill, Mike (Hg.): Whiteness. A Critical Reader, New York 1997, S. 281–293.  
-
-Müller-Wille, Staffan: Botanik und weltweiter Handel. Zur Begründung eines Natürlichen Systems der Pflanzen durch Carl von Linné (1707–1778), Berlin 1999.  
-
-Müller-Wille, Staffan: Carl von Linnés Herbarschrank. Zur epistemischen Funktion eines Sammlungsmöbels, in: te Heesen; Spary 2001, S. 22–38.  
-
-Müller-Wille, Staffan: Der Westen und die Wissenschaftliche Revolution, in: Sommer; Müller-Wille; Reinhardt 2017, S. 142–153.  
-
-Müller-Wille, Staffan: Schwarz, Weiss, Gelb, Rot. Zur Darstellung menschlicher Vielfalt, in: te Heesen; Lutz 2005, S. 161–170.  
-
-Lugones, María: Toward a Decolonial Feminism, in: Hypatia 25 (4), 2010, S. 742–759Ogilvie, Brian W.: The Science of Describing. Natural History in Renaissance Europe, Chicago 2006, und Berndt, Frauke; Fulda, Daniel (Hg.): Die Sachen der Aufklärung, Hamburg 2012.  
-
-Pomian, Kryzstof: Sammlungen – eine historische Typologie, in: Grote, Andreas: Macrocosmos in Microcosmos. Die Welt in der Stube. Zur Geschichte des Sammelns 1450 bis 1800, Wiesbaden 1994, S. 107–126.  
-
-Pomian, Krzysztof: Der Ursprung des Museums. Vom Sammeln, Berlin 1988.  
-
-Prinz, Sophia: Redesigning the Museum. Epistemic Challenges and Aesthetic Remedies, in: Museum & Society 22(1), 2014, S. 110–128.  
-
-Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
-
-Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015; Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
-
-Rehberg, Karl-Siegbert: Machtvolles Sammeln und bildendes Zeigen. Das (Kunst-)Museum als Leitinstitution, in: Hoins; von Mallinckrodt, 2015, S. 21–43.  
-
-Rehberg, Karl-Siegbert: Schatzhaus, Wissensverkörperung und ‹Ewigkeitsort›. Eigenwelt des Sammelns aus institutionsanalytischer Perspektive, in: Marx, Barbara; Rehberg, Karl-Siegbert (Hg.): Sammeln als Institution. Von der fürstlichen Wunderkammer zum Mäzenatentum des Staates, München 2006.  
-
-Rheinberger, Hans-Jörg: Epistemologica. Präparate, in: te Heesen; Lutz 2005, S. 65–75.  
-
-Rosaldo, Renato: Imperialist Nostalgia, in: Representations 26, 1989, S. 107–122.  
-
-Rütsche, Claudia: Die Kunstkammer in der Zürcher Wasserkirche, öffentliche Sammeltätigkeit einer gelehrten Bürgerschaft im 17. und 18. Jh. aus museumsgeschichtlicher Sicht, Bern 1997; SNF-PRIMA-Projekt Bibliothèques et musées en Suisse entre XVIIIe et XIXe unter der Leitung von Prof. Dr. Valérie Kobi.  
-
-Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
-
-Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
-
-Schwartz, Michael: Sozialistische Eugenik im 20. Jh., in: Nate, Richard; Klüsener, Bea: Culture and Biology. Perspectives on the European Modern Age, Würzburg 2011, S. 57–73.  
-
-Sebastiani, Silvia: Enlightenment, Humanization and Dehumanization, and the Orangutan, in: Kronfeldner, Maria (Hg.): The Routledge Handbook of Dehumanization, Oxon; New York 2021, S. 64–82.  
-
-Siegenthaler, Fiona; Allain Bonilla, Marie-Laure: Introduction. Decolonial Processes in Swiss Academia and Cultural Institutions. Empirical and Theoretical Issues, in: Tsantsa 24, 2019, S. 4–13.  
-
-Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten: Wissenschaftsgeschichte und Wissensgeschichte, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 2–18.  
-
-Stingelin, Martin (Hg.): Biopolitik und Rassismus, Frankfurt a. M. 2003.  
-
-te Heesen, Anke; Lutz, Petra: Einleitung, in: te Heesen, Anke; Lutz, Petra (Hg.): Dingwelten. Das Museum als Erkenntnisort, Köln 2005 (Schriften des Deutschen Hygiene-Museums Dresden 4), S. 11–23.  
-
-te Heesen, Anke; Spary, E. C. (Hg.): Sammeln als Wissen. Das Sammeln und seine wissenschaftsgeschichtliche Bedeutung, Göttingen 2001.  
-
-te Heesen, Anke; Spary, E. C.: Sammeln als Wissen, in: te Heesen; Spary, S. 7–21.  
-
-te Heesen; Lutz 2005. Es ging in den Kunst- und Wunderkammern nicht bloss um die Selbstdarstellung der Herrscher:in, sondern um die Repräsentation der Welt. Siehe Hoins/Mallinckrodt 2017.  
-
-Tesan, Harald: Vom Sammeln, Gesammelte Aspekte einer Kulturtechnik, in: Strobel, Matthias; Dippel, Andrea (Hg.): Die Kunst des Sammelns. Phänomene des Ordnens, Archivierens und Präsentierens, Nürnberg 2011, S. 11–20.  
-
-Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindung von Menschenrassen [Ausstellung Deutsches Hygiene-Museum, Dresden, 19.05.2018–06.01.2019], Göttingen 2018, S. 68–69.  
-
-Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.  
+* Aníbal Quijano: Coloniality and Modernity/Rationality, in: Cultural Studies 21, 2–3, 2007.  
+* Azoulay, Ariella Aïsha: Potential history. Unlearning Imperialism, London; New York 2019.  
+* Barbujani, Guido: Die Erfindung der Rassen. Wissenschaft gegen Rassismus, Berlin 2021.  
+* Barkan, Elazar: The Retreat of Scientific Racism. Changing Concepts of Race in Britain and the United States between the World Wars, Cambridge 1992.  
+* Becker, Peter; Clark, William (Hg.): Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices. Ann Arbor 2001.  
+* Berner Wandbild: Verein Das Wandbild muss weg: Das Wandbild muss weg!, <<https://daswandbildmussweg.ch/>>, Stand: 30.05.2024; Bernisches Historisches Museum: [BHM — Widerstände. Vom Umgang mit Rassismus in Bern](https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende), <<https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende>>, Stand: 30.05.2024.  
+* Blanchard, Pascal; Bancel, Nicolas; Boëtsch, Gilles u.a. (Hg.): Sexe, race et colonies, Paris 2018.  
+* Bödeker, Hans Erich; Reill, Peter Hanns; Schlumbohm, Jürgen (Hg.): Wissenschaft als kulturelle Praxis 1750–1900, S. 137–161.  
+* Brahm, Felix: Imperialismus und Kolonialismus, in: Sommer; Müller-Wille; Reinhardt 2017, S. 287–294.  
+* Brändle Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835–1964, Zürich 2013.  
+* Chakrabarty, Dipesh: Provincializing Europe. Postcolonial Thought and Historical Differences, Princeton 2000.  
+* Collet, Dominik: Die Welt in der Stube. Begegnungen mit Aussereuropa in Kunstkammern der Frühen Neuzeit, Göttingen 2007.  
+* Das, Subhadra; Lowe, Miranda: Nature Read in Black and White. Decolonial Approaches to Interpreting Natural History Collections, in: Journal of Natural Science Collections 6, 2018.  
+* Daston, Lorraine; Park, Katharine (Hg.): Wunder und die Ordnung der Natur 1150–1750, Berlin 2002.  
+* Deliss, Clémentine: The Metabolic Museum, Berlin 2020; Macdonald, Sharon (Hg.): Doing Diversity in Museums and Heritage: A Berlin Ethnography, Bielefeld 2022.  
+* Drayton, Richard Harry: Nature’s Government. Science, Imperial Britain, and the ‹Improvement› of the World, New Haven 2000; Hoins; Mallinckrodt 2015, S. 10–13.  
+* Étienne, Noémie; Brizon, Claire; Lee, Chonja u. a. (Hg.): Exotic Switzerland. Looking Outward in the Age of Enlightenment, Berlin/Zürich 2020; Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non européens dans les musées suisses, Zürich 2023.  
+* Felfe, Robert; Wagner, Kristen (Hg.): Museum, Bibliothek, Stadtraum. Räumliche Wissensordnungen 1600–1900, Münster, 2010.  
+* Finzsch, Norbert: Wissenschaftlicher Rassismus in den Vereinigten Staaten – 1850 bis 1930, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
+* Foucault, Michel (Gordo, Colin Hg.): Power/Knowledge. Selected Interviews and Other Writings 1972–1977, New York 1981.  
+* Foucault, Michel: Archäologie des Wissens, Frankfurt a. Main 1981, S. 61–74.  
+* Foucault, Michel: Der Wille zum Wissen, Frankfurt a. M. 1977.  
+* Fründt, Sarah: Wer spricht? Ethnologische Museen und postkoloniale Herausforderungen, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 97–108.  
+* Füssel, Marian: Aufklärung, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017.  
+* Greve, Anna: Koloniales Erbe in Museen. Kritische Weissseinsforschung in der praktischen Museumsarbeit, Bielefeld 2019.  
+* Habermas, Rebekka: Rettungsparadigma und Bewahrungsfetischismus. Oder was die Restitutionsdebatte mit der europäischen Moderne zu tun hat, in: Sandkühler, Thomas; Epple, Angelika; Zimmerer, Jürgen (Hg.): Geschichtskultur durch Restitution? Ein Kunst-Historikerstreit, Wien et al. 2021, S. 79–99.  
+* Hall, Stuart: The West and the Rest. Discourse and Power, in: Essential Essays, Bd. 2: Identity and Diaspora, Durham 2018, S. 141–184.  
+* Häner, Flavio: Dinge sammeln, Wissen schaffen. Die Geschichte der naturhistorischen Sammlungen in Basel, 1735–1850, Bielefeld 2017.  
+* Haraway, Donna: Teddy Bear Patriarchy. Taxidermy in the Garden of Eden, New York City, 1908–1936, in: Social Text 4(2), 1984, S. 20–64.  
+* Hartman, Saidiya: Venus in Two Acts, in: Small Axe 26 (1), 2008.  
+* Hoins, Katharina; von Mallinckrodt, Felicitas: Macht. Wissen. Teilhabe. Koordinaten zur Einführung, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 9–20.  
+* Honold, Alexander: Der Exot und sein Publikum. Völkerschau in der Kolonialzeit, in: Conrad, Sebastian; Osterhammel, Jürgen (Hg.): Das Kaiserreich transnational. Deutschland in der Welt 1871–1914, Göttingen 2004, S. 357–375.  
+* Jardine, Nicholas: Sammlung, Wissenschaft, Kulturgeschichte, in: te Heesen; Spary 2001, S. 199–220.  
+* Kattmann, Ulrich: Warum und mit welcher Wirkung klassifizieren Wissenschaftler Menschen, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
+* Klemun, Marianne: Gärten und Sammlungen, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 235–244.  
+* Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986, S. 64–92.  
+* Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986.  
+* Kubler, George: Die Form der Zeit. Anmerkungen zur Geschichte der Dinge, Frankfurt a. M. 1962.  
+* Latour, Bruno: Science in Action. How to Follow Scientists and Engineers Through Society, Cambridge (MS) 1987.  
+* Latour, Bruno: Visualisation and Cognition. Thinking with Hands and Eyes, in: Knowledge and Society 6, 1986, S. 1–40.  
+* Laukötter, Anja: Von der «Kultur» zur «Rasse» – vom Objekt zum Körper? Völkerkundemuseen und ihre Wissenschaften zu Beginn des 20. Jh., Bielefeld 2007.  
+* Lee, Chonja: «Eine scheussliche Geschichte» – Entwürfe von Rasse, Geschlecht und animalischer Gewalt in den Vor- und Nachbildern King Kongs, in: Chichester, K. Lee; Gisler, Priska (Hg.): Koloniale Tiere? Tierbilder im Kontext des Kolonialismus, Berlin 2024, S. 91–118.  
+* Lidchi, Henrietta: The Poetics and Politics of Exhibiting other Cultures, in: Hall, Stuart (Hg.): Representation. Cultural Representations and Signifying Practices, London 1997.  
+* Macdonald, Sharon: Sighting the Dust. Attending to the Museum through its Residues, in: Samuel, Nina; Sattler, Felix (Hg.): Museale Reste, Berlin; Boston 2022 (Bildwelten des Wissens 18), S. 11–23.  
+* Mauksch, Stefanie; Rao, Ursula: Vom Wissen der Objekte. Auf der Suche nach reflexiven Ausstellungskonzepten in der Ethnologie, in: Hoins; von Mallinckrodt 2015, S. 109–125.  
+* McClintock, Anne: Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest, New York; London 1995, S. 38–40.  
+* Mignolo, Walter D.: Coloniality. The Darker Side of Modernity, in: Breitwieser, Sabine (Hg.): Modernologies. Contemporary Artists Researching Modernity and Modernism. [Ausstellung Museu d’Art Contemporani de Barcelona, 23.09.2009–17.01.2010], Barcelona 2009.  
+* Mignolo, Walter D.: Racism and Coloniality. The Invention of «Human(ity)» and the Three Pillars of the Colonial Matrix of Power (Racism, Sexism and Nature), in: Taylor, Paul C.; Alcoff, Linda Martín; Anderson, Luvell: The Routledge Companion to Philosophy of Race, New York 2018, S. 461–474.  
+* Montag, Warren: The Universalization of Whiteness. Racism and Enlightenment, in: Hill, Mike (Hg.): Whiteness. A Critical Reader, New York 1997, S. 281–293.  
+* Müller-Wille, Staffan: Botanik und weltweiter Handel. Zur Begründung eines Natürlichen Systems der Pflanzen durch Carl von Linné (1707–1778), Berlin 1999.  
+* Müller-Wille, Staffan: Carl von Linnés Herbarschrank. Zur epistemischen Funktion eines Sammlungsmöbels, in: te Heesen; Spary 2001, S. 22–38.  
+* Müller-Wille, Staffan: Der Westen und die Wissenschaftliche Revolution, in: Sommer; Müller-Wille; Reinhardt 2017, S. 142–153.  
+* Müller-Wille, Staffan: Schwarz, Weiss, Gelb, Rot. Zur Darstellung menschlicher Vielfalt, in: te Heesen; Lutz 2005, S. 161–170.  
+* Lugones, María: Toward a Decolonial Feminism, in: Hypatia 25 (4), 2010, S. 742–759Ogilvie, Brian W.: The Science of Describing. Natural History in Renaissance Europe, Chicago 2006, und Berndt, Frauke; Fulda, Daniel (Hg.): Die Sachen der Aufklärung, Hamburg 2012.  
+* Pomian, Kryzstof: Sammlungen – eine historische Typologie, in: Grote, Andreas: Macrocosmos in Microcosmos. Die Welt in der Stube. Zur Geschichte des Sammelns 1450 bis 1800, Wiesbaden 1994, S. 107–126.  
+* Pomian, Krzysztof: Der Ursprung des Museums. Vom Sammeln, Berlin 1988.  
+* Prinz, Sophia: Redesigning the Museum. Epistemic Challenges and Aesthetic Remedies, in: Museum & Society 22(1), 2014, S. 110–128.  
+* Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
+* Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015; Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
+* Rehberg, Karl-Siegbert: Machtvolles Sammeln und bildendes Zeigen. Das (Kunst-)Museum als Leitinstitution, in: Hoins; von Mallinckrodt, 2015, S. 21–43.  
+* Rehberg, Karl-Siegbert: Schatzhaus, Wissensverkörperung und ‹Ewigkeitsort›. Eigenwelt des Sammelns aus institutionsanalytischer Perspektive, in: Marx, Barbara; Rehberg, Karl-Siegbert (Hg.): Sammeln als Institution. Von der fürstlichen Wunderkammer zum Mäzenatentum des Staates, München 2006.  
+* Rheinberger, Hans-Jörg: Epistemologica. Präparate, in: te Heesen; Lutz 2005, S. 65–75.  
+* Rosaldo, Renato: Imperialist Nostalgia, in: Representations 26, 1989, S. 107–122.  
+* Rütsche, Claudia: Die Kunstkammer in der Zürcher Wasserkirche, öffentliche Sammeltätigkeit einer gelehrten Bürgerschaft im 17. und 18. Jh. aus museumsgeschichtlicher Sicht, Bern 1997; SNF-PRIMA-Projekt Bibliothèques et musées en Suisse entre XVIIIe et XIXe unter der Leitung von Prof. Dr. Valérie Kobi.  
+* Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
+* Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
+* Schwartz, Michael: Sozialistische Eugenik im 20. Jh., in: Nate, Richard; Klüsener, Bea: Culture and Biology. Perspectives on the European Modern Age, Würzburg 2011, S. 57–73.  
+* Sebastiani, Silvia: Enlightenment, Humanization and Dehumanization, and the Orangutan, in: Kronfeldner, Maria (Hg.): The Routledge Handbook of Dehumanization, Oxon; New York 2021, S. 64–82.  
+* Siegenthaler, Fiona; Allain Bonilla, Marie-Laure: Introduction. Decolonial Processes in Swiss Academia and Cultural Institutions. Empirical and Theoretical Issues, in: Tsantsa 24, 2019, S. 4–13.  
+* Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten: Wissenschaftsgeschichte und Wissensgeschichte, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 2–18.  
+* Stingelin, Martin (Hg.): Biopolitik und Rassismus, Frankfurt a. M. 2003.  
+* te Heesen, Anke; Lutz, Petra: Einleitung, in: te Heesen, Anke; Lutz, Petra (Hg.): Dingwelten. Das Museum als Erkenntnisort, Köln 2005 (Schriften des Deutschen Hygiene-Museums Dresden 4), S. 11–23.  
+* te Heesen, Anke; Spary, E. C. (Hg.): Sammeln als Wissen. Das Sammeln und seine wissenschaftsgeschichtliche Bedeutung, Göttingen 2001.  
+* te Heesen, Anke; Spary, E. C.: Sammeln als Wissen, in: te Heesen; Spary, S. 7–21.  
+* te Heesen; Lutz 2005. Es ging in den Kunst- und Wunderkammern nicht bloss um die Selbstdarstellung der Herrscher:in, sondern um die Repräsentation der Welt. Siehe Hoins/Mallinckrodt 2017.  
+* Tesan, Harald: Vom Sammeln, Gesammelte Aspekte einer Kulturtechnik, in: Strobel, Matthias; Dippel, Andrea (Hg.): Die Kunst des Sammelns. Phänomene des Ordnens, Archivierens und Präsentierens, Nürnberg 2011, S. 11–20.  
+* Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindung von Menschenrassen [Ausstellung Deutsches Hygiene-Museum, Dresden, 19.05.2018–06.01.2019], Göttingen 2018, S. 68–69.  
+* Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.  
 
 [[end:literature]]
 
@@ -708,71 +631,39 @@ Koloniale Sammlungsbestände und problematische Erwerbskontexte müssen erforsch
 
 **Literatur**  
 
-Boscani Leoni, Simona; Baumgartner, Sarah; Knittel, Meike: Connecting Territories. Exploring People and Nature, 1700-1850, Leiden 2021.  
-
-Brändle, Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835-1964, Zürich 2013.  
-
-Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018.  
-
-Brengard, Marcel; Schubert, Frank; Zürcher, Lukas: Die Beteiligung der Stadt Zürich sowie der Zürcherinnen und Zürcher an Sklaverei und Sklavenhandel vom 17. bis ins 19. Jh. Bericht zu Handen des Präsidialdepartements der Stadt Zürich, Zürich 2020, S. 33–35.  
-
-Bruckmann, Ziu; Galli, Andrea; Graf, Nicole; Hintermüller, Julia; Pfyffer, Gaby; Schädler, Linda; Schönbächler, Martina; Spano, Roberta; Sträuli, Sabine; Walt, Roman; Willi, Stephanie (Hg.): Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis, Zürich 2024.  
-
-Deutscher Museumsbund (Hg.): Leitfaden. Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2019, S. 33–35.  
-
-dos Santos Pinto, Jovita et al. (Hg.): Un/doing Race. Rassifizierung in der Schweiz, Zürich 2022.  
-
-Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklaverei, Zürich 2005.  
-
-Guichard, Charlotte; Savoy, Bénédicte: Acquiring Cultures and Trading Value in a Global World, in: Savoy, Bénédicte; Guichard, Charlotte; Howald, Christine (Hg.): Acquiring Cultures. Histories of World Art on Western Markets, Berlin 2018.  
-
-Habermas, Rebekka: Restitutionsdebatten, koloniale Aphasie und die Frage, was Europa ausmacht, in: ApUZ – Aus Politik und Zeitgeschichte, 27.09.2019, <<https://www.bpb.de/shop/zeitschriften/apuz/297595/restitutionsdebatten-koloniale-aphasie-und-die-frage-was-europa-ausmacht/#footnote-target-14>>, Stand: 15.10.2024.  
-
-Habermas, Rebekka; Lindner, Ulrike: Rückgabe – und mehr!, in: Zeit online, 15.12.2018, <<https://www.zeit.de/2018/52/kunst-kolonialzeit-rueckgabe-restitution-geschichtspolitik>>, Stand: 15.10.2024.  
-
-Habermas, Rebekka; Przyrembel, Alexandra (Hg.): Von Käfern, Märkten und Menschen. Kolonialismus und Wissen in der Moderne, Göttingen 2013.  
-
-Harries, Patrick: Butterflies & Barbarians. Swiss Missionaries & Systems of Knowledge in South-East Africa, Oxford 2007.  
-
-Ivanov, Paola; Weber-Sinn, Kirstin: Shared Research – Zur Notwendigkeit einer kooperativen Provenienzforschung am Beispiel der Tansania-Projekte am Ethnologischen Museum Berlin, in: Förster, Larissa; Edenheiser, Iris; Fründt, Sara; Hartmann, Heike (Hg.): Provenienzforschung zu ethnografischen Sammlungen der Kolonialzeit. Positionen in der aktuellen Debatte, Berlin 2018.  
-
-Kollbrunner, Timo: «Unser Ekeko möchte nach Hause», woz.ch, 17.04.2014, <<https://www.woz.ch/1416/kulturgueterstreit/unser-ekeko-moechte-nach-hause>>, Stand: 08.05.2024.  
-
-Maas, Frederike: Framing the Artwork. Alfred Steinmann und seine Sammlung süd-sumatrischer Schiffstücher, in: Materialized Histories Blog, 20.03.2022, <<https://mhistories.hypotheses.org/6129>>, Stand: 15.10.2024.  
-
-Museum Rietberg: Benin Initiative Schweiz (BIS), <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 15.10.2024.  
-
-Museum Rietberg: Benin Initiative Schweiz (BIS). Neue BAK-Förderung und Beginn der Phase II, 01.06.2023, <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 08.05.2024.  
-
-Étienne, Noémie; Brizon, Claire; Lee, Chonja; Wismer (Hg.): Exotic Switzerland? Looking Outward in the Age of Enlightenment, Zürich 2020.  
-
-Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, Frankfurt a. M. 2013.  
-
-Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
-
-Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015  
-
-Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
-
-Sarr, Felwine; Savoy, Bénédicte: Rapport sur la restitution du patrimoine culturel africain. Vers une nouvelle éthique relationelle, Paris 2018.  
-
-Sauter, Willi: Die entomologischen Sammlungen an der ETHZ, in: Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich 138 (3), 1993, S. 203–218.  
-
-Schär, Bernhard C.: Rassismus, in: Historisches Lexikon der Schweiz (HLS), 08.04.2024, <<https://hls-dhs-dss.ch/de/articles/060537/2024-04-08/>>, Stand: 11.10.2024.  
-
-Schär, Bernhard: Tropenliebe. Schweizer Naturforscher und niederländischer Imperialismus in Südostasien um 1900, Bielefeld 2015.  
-
-Verein Das Wandbild muss Weg: Darum geht’s, <<https://www.daswandbildmussweg.ch/darumgehts.html>>, Stand: 15.10.2024.  
-
-Veyrassat, Béatrice: De l’attirance à l’expérience de l’Inde. Un Vaudois à la marge du colonialisme Anglais, Antoine-Louis-Henri Polier (1741-1795), Neuchâtel 2022.  
-
-Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 31–44.  
-
-Weber, Cornelia: ‹Sensible› Objekte in Universitätssammlungen. Zum Stand der Diskussion, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 63–78.  
-
-Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des Deutschen Museums, 05.11.2020, <<https://blog.deutsches-museum.de/2020/11/05/die-dunkle-seite-der-technik-koloniale-materialien>>, Stand: 08.05.2024.  
-
-Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
+* Boscani Leoni, Simona; Baumgartner, Sarah; Knittel, Meike: Connecting Territories. Exploring People and Nature, 1700-1850, Leiden 2021.  
+* Brändle, Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835-1964, Zürich 2013.  
+* Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018.  
+* Brengard, Marcel; Schubert, Frank; Zürcher, Lukas: Die Beteiligung der Stadt Zürich sowie der Zürcherinnen und Zürcher an Sklaverei und Sklavenhandel vom 17. bis ins 19. Jh. Bericht zu Handen des Präsidialdepartements der Stadt Zürich, Zürich 2020, S. 33–35.  
+* Bruckmann, Ziu; Galli, Andrea; Graf, Nicole; Hintermüller, Julia; Pfyffer, Gaby; Schädler, Linda; Schönbächler, Martina; Spano, Roberta; Sträuli, Sabine; Walt, Roman; Willi, Stephanie (Hg.): Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis, Zürich 2024.  
+* Deutscher Museumsbund (Hg.): Leitfaden. Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2019, S. 33–35.  
+* dos Santos Pinto, Jovita et al. (Hg.): Un/doing Race. Rassifizierung in der Schweiz, Zürich 2022.  
+* Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklaverei, Zürich 2005.  
+* Guichard, Charlotte; Savoy, Bénédicte: Acquiring Cultures and Trading Value in a Global World, in: Savoy, Bénédicte; Guichard, Charlotte; Howald, Christine (Hg.): Acquiring Cultures. Histories of World Art on Western Markets, Berlin 2018.  
+* Habermas, Rebekka: Restitutionsdebatten, koloniale Aphasie und die Frage, was Europa ausmacht, in: ApUZ – Aus Politik und Zeitgeschichte, 27.09.2019, <<https://www.bpb.de/shop/zeitschriften/apuz/297595/restitutionsdebatten-koloniale-aphasie-und-die-frage-was-europa-ausmacht/#footnote-target-14>>, Stand: 15.10.2024.  
+* Habermas, Rebekka; Lindner, Ulrike: Rückgabe – und mehr!, in: Zeit online, 15.12.2018, <<https://www.zeit.de/2018/52/kunst-kolonialzeit-rueckgabe-restitution-geschichtspolitik>>, Stand: 15.10.2024.  
+* Habermas, Rebekka; Przyrembel, Alexandra (Hg.): Von Käfern, Märkten und Menschen. Kolonialismus und Wissen in der Moderne, Göttingen 2013.  
+* Harries, Patrick: Butterflies & Barbarians. Swiss Missionaries & Systems of Knowledge in South-East Africa, Oxford 2007.  
+* Ivanov, Paola; Weber-Sinn, Kirstin: Shared Research – Zur Notwendigkeit einer kooperativen Provenienzforschung am Beispiel der Tansania-Projekte am Ethnologischen Museum Berlin, in: Förster, Larissa; Edenheiser, Iris; Fründt, Sara; Hartmann, Heike (Hg.): Provenienzforschung zu ethnografischen Sammlungen der Kolonialzeit. Positionen in der aktuellen Debatte, Berlin 2018.  
+* Kollbrunner, Timo: «Unser Ekeko möchte nach Hause», woz.ch, 17.04.2014, <<https://www.woz.ch/1416/kulturgueterstreit/unser-ekeko-moechte-nach-hause>>, Stand: 08.05.2024.  
+* Maas, Frederike: Framing the Artwork. Alfred Steinmann und seine Sammlung süd-sumatrischer Schiffstücher, in: Materialized Histories Blog, 20.03.2022, <<https://mhistories.hypotheses.org/6129>>, Stand: 15.10.2024.  
+* Museum Rietberg: Benin Initiative Schweiz (BIS), <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 15.10.2024.  
+* Museum Rietberg: Benin Initiative Schweiz (BIS). Neue BAK-Förderung und Beginn der Phase II, 01.06.2023, <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 08.05.2024.  
+* Étienne, Noémie; Brizon, Claire; Lee, Chonja; Wismer (Hg.): Exotic Switzerland? Looking Outward in the Age of Enlightenment, Zürich 2020.  
+* Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, Frankfurt a. M. 2013.  
+* Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
+* Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015  
+* Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
+* Sarr, Felwine; Savoy, Bénédicte: Rapport sur la restitution du patrimoine culturel africain. Vers une nouvelle éthique relationelle, Paris 2018.  
+* Sauter, Willi: Die entomologischen Sammlungen an der ETHZ, in: Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich 138 (3), 1993, S. 203–218.  
+* Schär, Bernhard C.: Rassismus, in: Historisches Lexikon der Schweiz (HLS), 08.04.2024, <<https://hls-dhs-dss.ch/de/articles/060537/2024-04-08/>>, Stand: 11.10.2024.  
+* Schär, Bernhard: Tropenliebe. Schweizer Naturforscher und niederländischer Imperialismus in Südostasien um 1900, Bielefeld 2015.  
+* Verein Das Wandbild muss Weg: Darum geht’s, <<https://www.daswandbildmussweg.ch/darumgehts.html>>, Stand: 15.10.2024.  
+* Veyrassat, Béatrice: De l’attirance à l’expérience de l’Inde. Un Vaudois à la marge du colonialisme Anglais, Antoine-Louis-Henri Polier (1741-1795), Neuchâtel 2022.  
+* Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 31–44.  
+* Weber, Cornelia: ‹Sensible› Objekte in Universitätssammlungen. Zum Stand der Diskussion, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 63–78.  
+* Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des Deutschen Museums, 05.11.2020, <<https://blog.deutsches-museum.de/2020/11/05/die-dunkle-seite-der-technik-koloniale-materialien>>, Stand: 08.05.2024.  
+* Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
 
 [[end:literature]]
 
@@ -828,37 +719,22 @@ Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im
 
 **Literatur**  
 
-Brizon, Claire: Collections coloniales? L’implication de la Suisse dans le processus d’expansion coloniale européen au siècle des Lumières, in: Tsantsa 24, 2019, S. 24–38.  
-
-Debray, Cécile u. a: Le modèle noir. De Géricault à Matisse, [Ausstellung Musée d’Orsay, Paris, 26.03. – 21.07.2019], Paris 2019.  
-
-Fanaafi, Aiono-Le Tagaloa: O la ta Gagana, Samoa 1996.  
-
-Hartman, Sadiya: Two Venus in Two Acts, in: Small Axe 12 (2), 2008, S. 1-14.  
-
-Kushner Bishop, Jill: Engaging Multilingual Audiences through Translation, American Alliance of Museums, 27.07.2022, <<https://www.aam-us.org/2022/07/27/engaging-multilingual-audiences-through-translation/>>, Stand: 28.08.2025.  
-
-o. A.: Collection online Collections record, Auckland Museum, <<https://www.aucklandmuseum.com/collection/object/919461>>, Stand: 28.8.2025.  
-
-o. A.: Le modèle noir de Géricault à Matisse, Musée d’Orsay, <<https://www.musee-orsay.fr/fr/expositions/le-modele-noir-de-gericault-matisse-196083>>, Stand: 28.8.2025.  
-
-o.A.: Exotic ? en 2020-21, Palais de Rumine, <<https://palaisderumine.ch/expositions/expositions-passees/exotic-en-2020-21/>>, Stand: 25.8.2025.  
-
-o. A.: Posing Modernity: The Black Model from Manet and Matisse to Today // Le Modèle noir, de Géricault à Matisse, Wallach Art Gallery, <<https://wallach.columbia.edu/exhibitions/posing-modernity>>, Stand: 28.8.2025.  
-
-Pourawa, Denis: Nââkwéta: The Art of Relation, in: Etienne, Noémie; Brizon, Claire; Lee, Chonja (Hg.): Exotic Switzerland? Looking Outward in the Age of the Enlightenment, [Ausstellung Palais de Rumine, Lausanne, 24.09.2020 – 28.02.2021], Zürich 2020, S. 222-223.  
-
-Ravelli, Louise J.: Museum Texts: Communication Frameworks, London 2006.  
-
-Smith, Linda Tuhiwai: Decolonizing Methodologies, London 1999.  
-
-Suzuki, Wendy A.; Feliú-Mójer, Mónica; Hasson, Uri u. a.: Dialogues: The Science and Power of Storytelling, in: Journal of Neuroscience 38 (44), 2018, S. 9468-9470.  
-
-Tai, Jessica: Cultural Humility as a Framework for Anti-Oppressive Archival Description, in: Journal of Critical Library and Information Studies Vol. 3 (2), 2021, <<https://doi.org/10.24242/jclis.v3i2.120>>, Stand: 28.08.2025.  
-
-Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation*,* Chicago 2021.  
-
-Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
+* Brizon, Claire: Collections coloniales? L’implication de la Suisse dans le processus d’expansion coloniale européen au siècle des Lumières, in: Tsantsa 24, 2019, S. 24–38.  
+* Debray, Cécile u. a: Le modèle noir. De Géricault à Matisse, [Ausstellung Musée d’Orsay, Paris, 26.03. – 21.07.2019], Paris 2019.  
+* Fanaafi, Aiono-Le Tagaloa: O la ta Gagana, Samoa 1996.  
+* Hartman, Sadiya: Two Venus in Two Acts, in: Small Axe 12 (2), 2008, S. 1-14.  
+* Kushner Bishop, Jill: Engaging Multilingual Audiences through Translation, American Alliance of Museums, 27.07.2022, <<https://www.aam-us.org/2022/07/27/engaging-multilingual-audiences-through-translation/>>, Stand: 28.08.2025.  
+* o. A.: Collection online Collections record, Auckland Museum, <<https://www.aucklandmuseum.com/collection/object/919461>>, Stand: 28.8.2025.  
+* o. A.: Le modèle noir de Géricault à Matisse, Musée d’Orsay, <<https://www.musee-orsay.fr/fr/expositions/le-modele-noir-de-gericault-matisse-196083>>, Stand: 28.8.2025.  
+* o.A.: Exotic ? en 2020-21, Palais de Rumine, <<https://palaisderumine.ch/expositions/expositions-passees/exotic-en-2020-21/>>, Stand: 25.8.2025.  
+* o. A.: Posing Modernity: The Black Model from Manet and Matisse to Today // Le Modèle noir, de Géricault à Matisse, Wallach Art Gallery, <<https://wallach.columbia.edu/exhibitions/posing-modernity>>, Stand: 28.8.2025.  
+* Pourawa, Denis: Nââkwéta: The Art of Relation, in: Etienne, Noémie; Brizon, Claire; Lee, Chonja (Hg.): Exotic Switzerland? Looking Outward in the Age of the Enlightenment, [Ausstellung Palais de Rumine, Lausanne, 24.09.2020 – 28.02.2021], Zürich 2020, S. 222-223.  
+* Ravelli, Louise J.: Museum Texts: Communication Frameworks, London 2006.  
+* Smith, Linda Tuhiwai: Decolonizing Methodologies, London 1999.  
+* Suzuki, Wendy A.; Feliú-Mójer, Mónica; Hasson, Uri u. a.: Dialogues: The Science and Power of Storytelling, in: Journal of Neuroscience 38 (44), 2018, S. 9468-9470.  
+* Tai, Jessica: Cultural Humility as a Framework for Anti-Oppressive Archival Description, in: Journal of Critical Library and Information Studies Vol. 3 (2), 2021, <<https://doi.org/10.24242/jclis.v3i2.120>>, Stand: 28.08.2025.  
+* Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation*,* Chicago 2021.  
+* Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
 
 [[end:literature]]
 
@@ -912,115 +788,64 @@ Der kanadische Archäologe und Museologe Robert R. Janes plädiert dafür, dass 
 
 Ähnlich argumentiert die Autorin, dass museale Institutionen, die generell als geweisst gelten, um im Dekolonisierungsprozess weiterzukommen, bereit sein müssen, Neues dazuzulernen, Dinge zu verlernen, in Frage zu stellen, von Grund auf zu erforschen, sich schwierigen und unbequemen Themen zu stellen, Selbstkritik und Selbstreflexion zu üben, und dies konstant, da, wie Sara Ahmed schreibt, Weiss-Sein eine unvollendete Geschichte zu sein scheint. [[138]](#footnote-139)  
 
-[[end:external]]
-
-[[start:literature]]
+[[end:external]] [[start:literature]]
 
 **Literatur**  
 
-Ahmed, Sara: A Phenomenology of Whiteness, in: Feminist Theory 8 (2), 2007, S. 149–168.  
+* Ahmed, Sara: A Phenomenology of Whiteness, in: Feminist Theory 8 (2), 2007, S. 149–168.  
 
 Anderson, Derek: An Epistemological Conception of Safe Spaces, in: Social Epistemology 35 (3), 2021, S. 285–311.  
 
-Barringer, Tim; Flynn, Tom (Hg.): Colonialism and the Object – Empire, Material Culture and the Museum, London 1997.  
-
-Çankaya, Sinan; Mepschen, Paul: Facing Racism: Discomfort, Innocence and the Liberal peripheralization of race in the Netherlands, in: Social Anthropology 27 (4), 2019, S. 626–640.  
-
-de Carvalho Dias Leite, Augusto Bruno: A brief history of historicity, in: O que nos faz pensar 30 (50), 2022 S.196–221.  
-
-Dewhurst, Marit; Hendrick; Keonna: Decentering Whiteness and Undoing Racism in Art  
-
-Museum Education, in: Kraehe, Amelia M.; Gaztambide-Fernández, Ruben, Carpenter II, B. Stephen (Hg.): The Palgrave Handbook of Race and the Arts in Education, Cham 2018, S. 451–467.  
-
-Domínguez, Silvia; Weffer, Simón E.; Embrick, David G.: White Sanctuaries: White Supremacy, Racism, Space, and Fine Arts in Two Metropolitan Museums, in: American Behavioral Scientist 64 (14), 2020, S. 2028–2043.  
-
-Dyer, Richard: White, London 2017.  
-
-Fanon, Frantz: Black Skin, White Masks, New York 1952.  
-
-Fernandez-Sacco, Ellen: Check Your Baggage: Resisting Whiteness in Art History, in: Art Journal 60 (4), 2001, S. 58–61.  
-
-Fields, Karen E.; Fields, Barbara J.: Racecraft – The Soul of Inequality in American Life, London, New York 2014, S. 146–147.  
-
-Fine, Michelle; Weis, Lois; Powell, Linda C.; Wong, L. Mun (Hg.): Off White: Readings on Race, Power, and Society, New York 1997.  
-
-Flensner, Karin; Von der Lippe, Marie: «Safe from what and safe for whom?» Eine kritische Diskussion der konzeptuellen Metapher des ‹sicheren Raums›, in: Intercultural Education 30 (3), 2019, S. 275–288.  
-
-Frankenberg, Ruth: White Women, Race Matters: The Social Construction of Whiteness. Minnesota 1993.  
-
-Gamberi, Valentina: Decolonising Museums: South-Asian Perspectives, in: Journal of the Royal Asiatic Society 29 (2), 2019, S. 201–218.  
-
-Garfinkel, Harold: Ethnomethodology’s Program, in: Social Psychology Quarterly 59 (1),  
-
-1996, S. 5–21.  
-
-Garfinkel, Harold: Studies in Ethnomethodology. Cambridge 1967.  
-
-Gayed, Andrew: Cross-Cultural Museum Bias: Undoing Legacies of Whiteness in Art Histories, in: Asian Diasporic Visual Cultures and the Americas 7 (1–2), 2022, S. 77–101.  
-
-Griem, Madeleine; Allen, Douglas L.: Challenging Whiteness and Storytelling in Museums: An Examination of Racial Representation in Kansas City Heritage Institutions, in: Southeastern Geographer 62 (1), 2022, S. 8–24.  
-
-Hage, Ghassan: White Nation: Fantasies of White Supremacy in a Multicultural Society, New York 2012.  
-
-Hill, David: Communication as a moral vocation: Safe space and freedom of speech, in:  
-
-The Sociological Review 68 (1), 2020, S. 3–16.  
-
-Huff, Lea: Museum Decolonization: Moving Away from Narratives Told by the Oppressors, University of Washington, School of Marine and Environmental Affairs, 31.05.2022, < <https://smea.uw.edu/currents/museum-decolonization-moving-away-from-narratives-told-by-the-oppressors>>, Stand: 31.05.2024.  
-
-Janes, Robert R.: Museums in a Troubled World – Renewal, Irrelevance or Collapse? London 2009.  
-
-Karina, Alírio: Against and beyond the Museum, in: Third Text 36 (6), 2022, S. 651–662.  
-
-Kassim, Sumaya: Museums are Temples of Whiteness, in: Flores, Tatiana; San Martín, Florencia; Villaseñor Black, Charlene (Hg.): The Routledge Companion to Decolonizing Art History, New York 2024, S. 128–138.  
-
-Kindinger, Evangelia; Schmitt, Mark (Hg.): Intersections of Whiteness, London 2019.  
-
-Klonk, Charlotte: Myth and Reality of the White Cube, in: Murawska-Muthesius, Katarzyna (Hg.): From Museum Critique to the Critical Museum, Burlington 2015, S. 67–79.  
-
-Kohl, Rhianon; Halter, Jared: Challenging White Supremacy: A Call for Critical Race Theory in Museums, in: Theory and Practice (4), 2021.  
-
-Lefebvre, Henri: The Production of Space. Malden 2014 [1974].  
-
-Linstead, Stephen Andrew: Ethnomethodology and Sociology: An Introduction, in: Sociological Review 54 (3), 2006, S. 399–404.  
-
-Laukötter, Anja: The ‹Colonial Body› as Object of Knowledge in Ethnological Museums, in: Jobs, Sebastian; Mackenthun, Gesa (Hg.): Embodiments of Cultural Encounters, Münster, New York, München, Berlin 2011 (Cultural Encounters and the Discourses of Scholarship Band 3), S. 181–200.  
-
-Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, < https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/ >, Stand: 02.08.2024.  
-
-Macdonald, Brandie; Vetter, Kara: From the Colonial to the Decolonial: The Complex Intersection of Museum Policy and Practice, in: South African Museums Association Bulletin 43 (1), 2021, S. 27–33.  
-
-Mbembe, Achille: Brutalism. Durham, 2024.  
-
-Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < https://www.goethe.de/prj/zei/en/art/22554555.html>, Stand: 02.08.2024.  
-
-Morrison, Toni: Playing in the Dark. Whiteness and the Literary Imagination, Cambridge 1992.  
-
-Onwuamaegbu, Natachi: Securing Safe Spaces in Society, The Black and White: The Student News Site of Walt Whitman High School, 10.11.2016, < <https://theblackandwhite.net/53182/opinion/blogs/securing-safe-spaces-in-society/> >, Stand: 02.08.2024.  
-
-Patrick, Wil Sahar; Rose-Redwood, Reuben; Rose-Redwood, CindyAnn: Dis-Placing White Supremacy – Intersections of Black and Indigenous Struggles in the Removal of the Roosevelt Statue at the American Museum of Natural History, in: Carlson, Bronwyn; Farrelly, Terri (Hg.): The Palgrave Handbook on Rethinking Colonial Commemorations, Cham 2023, S. 437–459.  
-
-Prianti, Desi Dwi; Suyadnya, I Wayan: Decolonising Museum Practice in a Postcolonial Nation: Museum’s Visual Order as the Work of Representation in Constructing Colonial Memory, in: Open Cultural Studies 6 (1), 2022, S. 228–242.  
-
-Pujol, Ernesto: Notes on Obsessive Whiteness, in: Art Journal 59 (1), 2000, S. 98–100.  
-
-Sanford, Kathy; Clover, Darlene; Taber, Nancy; Williamson, Sarah: Introduction, in: Sanford, Kathy; Clover, Darlene; Taber, Nancy; Williamson (Hg.): Feminist Critique and the Museum: Educating for a Critical Consciousness, Leiden 2020, S. 1–19.  
-
-Simmons, John E. Museums: A History, London 2016.  
-
-Sogbesan, Oluwatoyin Zainab: Museums in the Era of Decolonisation: The Nigerian Perspective, in: Museologica Brunensia 11 (1), 2022, S. 10–22.  
-
-Van Broekhoven, Laura: On Decolonizing the Museum in Practice, in: Journal of Museum Ethnography 32, 2019, S. 1–8.  
-
-Vawda, Shahid: Museums and the Epistemology of Injustice: From Colonialism to Decoloniality, in: Museum International, 71(1–2), 2019, S. 72–79.  
-
-Venugopal, Arun: Museums as White Spaces, WNYC, 04.05.2015, <<https://www.wnyc.org/story/museums-white-spaces>>, Stand: 20.06.2024.  
-
-Wintle, Claire: Decolonising UK World Art Institutions, 1945–1980, in: On Curating 35, 2017, S. 106–112.  
-
-Withington, Vanessa: Decolonising the Museum? Dilemmas, Possibilities, Alternatives, in: Culture Unbound 13 (2), 2021, S. 245–269.  
-
-Yancy, George: Look, a White!: Philosophical Essays on Whiteness, Philadelphia 2012.  
+* Barringer, Tim; Flynn, Tom (Hg.): Colonialism and the Object – Empire, Material Culture and the Museum, London 1997.  
+* Çankaya, Sinan; Mepschen, Paul: Facing Racism: Discomfort, Innocence and the Liberal peripheralization of race in the Netherlands, in: Social Anthropology 27 (4), 2019, S. 626–640.  
+* de Carvalho Dias Leite, Augusto Bruno: A brief history of historicity, in: O que nos faz pensar 30 (50), 2022 S.196–221.  
+* Dewhurst, Marit; Hendrick; Keonna: Decentering Whiteness and Undoing Racism in Art  
+* Museum Education, in: Kraehe, Amelia M.; Gaztambide-Fernández, Ruben, Carpenter II, B. Stephen (Hg.): The Palgrave Handbook of Race and the Arts in Education, Cham 2018, S. 451–467.  
+* Domínguez, Silvia; Weffer, Simón E.; Embrick, David G.: White Sanctuaries: White Supremacy, Racism, Space, and Fine Arts in Two Metropolitan Museums, in: American Behavioral Scientist 64 (14), 2020, S. 2028–2043.  
+* Dyer, Richard: White, London 2017.  
+* Fanon, Frantz: Black Skin, White Masks, New York 1952.  
+* Fernandez-Sacco, Ellen: Check Your Baggage: Resisting Whiteness in Art History, in: Art Journal 60 (4), 2001, S. 58–61.  
+* Fields, Karen E.; Fields, Barbara J.: Racecraft – The Soul of Inequality in American Life, London, New York 2014, S. 146–147.  
+* Fine, Michelle; Weis, Lois; Powell, Linda C.; Wong, L. Mun (Hg.): Off White: Readings on Race, Power, and Society, New York 1997.  
+* Flensner, Karin; Von der Lippe, Marie: «Safe from what and safe for whom?» Eine kritische Diskussion der konzeptuellen Metapher des ‹sicheren Raums›, in: Intercultural Education 30 (3), 2019, S. 275–288.  
+* Frankenberg, Ruth: White Women, Race Matters: The Social Construction of Whiteness. Minnesota 1993.  
+* Gamberi, Valentina: Decolonising Museums: South-Asian Perspectives, in: Journal of the Royal Asiatic Society 29 (2), 2019, S. 201–218.  
+* Garfinkel, Harold: Ethnomethodology’s Program, in: Social Psychology Quarterly 59 (1),  
+* 1996, S. 5–21.  
+* Garfinkel, Harold: Studies in Ethnomethodology. Cambridge 1967.  
+* Gayed, Andrew: Cross-Cultural Museum Bias: Undoing Legacies of Whiteness in Art Histories, in: Asian Diasporic Visual Cultures and the Americas 7 (1–2), 2022, S. 77–101.  
+* Griem, Madeleine; Allen, Douglas L.: Challenging Whiteness and Storytelling in Museums: An Examination of Racial Representation in Kansas City Heritage Institutions, in: Southeastern Geographer 62 (1), 2022, S. 8–24.  
+* Hage, Ghassan: White Nation: Fantasies of White Supremacy in a Multicultural Society, New York 2012.  
+* Hill, David: Communication as a moral vocation: Safe space and freedom of speech, in:  
+* The Sociological Review 68 (1), 2020, S. 3–16.  
+* Huff, Lea: Museum Decolonization: Moving Away from Narratives Told by the Oppressors, University of Washington, School of Marine and Environmental Affairs, 31.05.2022, < <https://smea.uw.edu/currents/museum-decolonization-moving-away-from-narratives-told-by-the-oppressors>>, Stand: 31.05.2024.  
+* Janes, Robert R.: Museums in a Troubled World – Renewal, Irrelevance or Collapse? London 2009.  
+* Karina, Alírio: Against and beyond the Museum, in: Third Text 36 (6), 2022, S. 651–662.  
+* Kassim, Sumaya: Museums are Temples of Whiteness, in: Flores, Tatiana; San Martín, Florencia; Villaseñor Black, Charlene (Hg.): The Routledge Companion to Decolonizing Art History, New York 2024, S. 128–138.  
+* Kindinger, Evangelia; Schmitt, Mark (Hg.): Intersections of Whiteness, London 2019.  
+* Klonk, Charlotte: Myth and Reality of the White Cube, in: Murawska-Muthesius, Katarzyna (Hg.): From Museum Critique to the Critical Museum, Burlington 2015, S. 67–79.  
+* Kohl, Rhianon; Halter, Jared: Challenging White Supremacy: A Call for Critical Race Theory in Museums, in: Theory and Practice (4), 2021.  
+* Lefebvre, Henri: The Production of Space. Malden 2014 [1974].  
+* Linstead, Stephen Andrew: Ethnomethodology and Sociology: An Introduction, in: Sociological Review 54 (3), 2006, S. 399–404.  
+* Laukötter, Anja: The ‹Colonial Body› as Object of Knowledge in Ethnological Museums, in: Jobs, Sebastian; Mackenthun, Gesa (Hg.): Embodiments of Cultural Encounters, Münster, New York, München, Berlin 2011 (Cultural Encounters and the Discourses of Scholarship Band 3), S. 181–200.  
+* Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, < https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/ >, Stand: 02.08.2024.  
+* Macdonald, Brandie; Vetter, Kara: From the Colonial to the Decolonial: The Complex Intersection of Museum Policy and Practice, in: South African Museums Association Bulletin 43 (1), 2021, S. 27–33.  
+* Mbembe, Achille: Brutalism. Durham, 2024.  
+* Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < https://www.goethe.de/prj/zei/en/art/22554555.html>, Stand: 02.08.2024.  
+* Morrison, Toni: Playing in the Dark. Whiteness and the Literary Imagination, Cambridge 1992.  
+* Onwuamaegbu, Natachi: Securing Safe Spaces in Society, The Black and White: The Student News Site of Walt Whitman High School, 10.11.2016, < <https://theblackandwhite.net/53182/opinion/blogs/securing-safe-spaces-in-society/> >, Stand: 02.08.2024.  
+* Patrick, Wil Sahar; Rose-Redwood, Reuben; Rose-Redwood, CindyAnn: Dis-Placing White Supremacy – Intersections of Black and Indigenous Struggles in the Removal of the Roosevelt Statue at the American Museum of Natural History, in: Carlson, Bronwyn; Farrelly, Terri (Hg.): The Palgrave Handbook on Rethinking Colonial Commemorations, Cham 2023, S. 437–459.  
+* Prianti, Desi Dwi; Suyadnya, I Wayan: Decolonising Museum Practice in a Postcolonial Nation: Museum’s Visual Order as the Work of Representation in Constructing Colonial Memory, in: Open Cultural Studies 6 (1), 2022, S. 228–242.  
+* Pujol, Ernesto: Notes on Obsessive Whiteness, in: Art Journal 59 (1), 2000, S. 98–100.  
+* Sanford, Kathy; Clover, Darlene; Taber, Nancy; Williamson, Sarah: Introduction, in: Sanford, Kathy; Clover, Darlene; Taber, Nancy; Williamson (Hg.): Feminist Critique and the Museum: Educating for a Critical Consciousness, Leiden 2020, S. 1–19.  
+* Simmons, John E. Museums: A History, London 2016.  
+* Sogbesan, Oluwatoyin Zainab: Museums in the Era of Decolonisation: The Nigerian Perspective, in: Museologica Brunensia 11 (1), 2022, S. 10–22.  
+* Van Broekhoven, Laura: On Decolonizing the Museum in Practice, in: Journal of Museum Ethnography 32, 2019, S. 1–8.  
+* Vawda, Shahid: Museums and the Epistemology of Injustice: From Colonialism to Decoloniality, in: Museum International, 71(1–2), 2019, S. 72–79.  
+* Venugopal, Arun: Museums as White Spaces, WNYC, 04.05.2015, <<https://www.wnyc.org/story/museums-white-spaces>>, Stand: 20.06.2024.  
+* Wintle, Claire: Decolonising UK World Art Institutions, 1945–1980, in: On Curating 35, 2017, S. 106–112.  
+* Withington, Vanessa: Decolonising the Museum? Dilemmas, Possibilities, Alternatives, in: Culture Unbound 13 (2), 2021, S. 245–269.  
+* Yancy, George: Look, a White!: Philosophical Essays on Whiteness, Philadelphia 2012.  
 
 [[end:literature]]
 
@@ -1120,17 +945,34 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 **Beispiele**: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[147]](#footnote-148) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[148]](#footnote-149) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[149]](#footnote-150)  
 
-**Vor- und Nachteile**:  
+[[start:comp]]
 
-|  |  |  
-| --- | --- |  
-| + Erkennbar als problematischer Begriff  + Bewahrt den historischen Titel für Transparenz und wissenschaftliche Nachvollziehbarkeit  + Relativ einfach umsetzbar | - Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  - Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber den Nutzer:innen möglicherweise unklar, weswegen |  
+[[start:plus]]
+
+* Erkennbar als problematischer Begriff  
+* Bewahrt den historischen Titel für Transparenz und wissenschaftliche Nachvollziehbarkeit  
+* Relativ einfach umsetzbar  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  
+* Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber den Nutzer:innen möglicherweise unklar, weswegen  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis  
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren.  
 * Anpassungen im Frontend der Online-Sammlung  
+
+[[end:block]]
 
 ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:](/images/image008.jpg)  
 
@@ -1142,16 +984,35 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 **Beispiele**: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[150]](#footnote-151) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[151]](#footnote-152)  
 
+[[start:comp]]
+
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Verhindert unmittelbare Konfrontation mit verletzenden Begriffen  + Technisch oft einfach umsetzbar | - Ohne begleitende Erklärung bleibt unklar, was und warum zensiert wurde  - Verdeckt problematische Inhalte, ohne sie aufzuarbeiten  - Mit einer fehlenden Abbildung entfällt die Auseinandersetzung mit dieser wie auch die Sensibilisierung auf andere solche Darstellungen |  
+[[start:plus]]
+
+* Verhindert unmittelbare Konfrontation mit verletzenden Begriffen  
+* Technisch oft einfach umsetzbar  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Ohne begleitende Erklärung bleibt unklar, was und warum zensiert wurde  
+* Verdeckt problematische Inhalte, ohne sie aufzuarbeiten  
+* Mit einer fehlenden Abbildung entfällt die Auseinander-setzung mit dieser wie auch die Sensibilisierung auf andere solche Darstellungen  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
 * Definition von Kriterien für Platzhalter  
+
+[[end:block]]
 
 ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:](/images/image009.jpg)  
 
@@ -1167,11 +1028,30 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 **Beispiele**: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](#footnote-153) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[153]](#footnote-154) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[154]](#footnote-155)  
 
+[[start:comp]]
+
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Problematische Titel, die erst später von der Öffentlichkeit, Autor:innen, Kunsthistoriker:innen oder Museen vergeben und nicht bei der Entstehung des Objekts und von den Kunstschaffenden selbst stammen sind keine «Originaltitel» und lassen sich überarbeiten[[155]](#footnote-156)  + Verhindert die Reproduktion problematischer Begriffe  + Keine individuelle Stellungnahme zu jedem einzelnen Titel erforderlich | - Kann als Whitewashing (deutsch weisswaschen/Schönfärberei)/Geschichtsrevisionismus interpretiert werden  - Die Auseinandersetzung mit der Geschichte bzw. eine begleitende Erklärung fehlt je nach Umsetzung  - Verschiedene Titelversionen über die Zeit hinweg können die eindeutige Zuordnung bzw. Nachverfolgung eines Objekts verkomplizieren  - Fehlender Bildungskontext zur ursprünglichen Benennung  - Erfordert aufwändige Recherchearbeiten |  
+[[start:plus]]
+
+* Problematische Titel, die erst später von der Öffentlichkeit, Autor:innen, Kunsthistoriker:innen oder Museen vergeben und nicht bei der Entstehung des Objekts und von den Kunstschaffenden selbst stammen sind keine «Originaltitel» und lassen sich überarbeiten[[155]](#footnote-156)  
+* Verhindert die Reproduktion problematischer Begriffe  
+
+[[end:plus]]
+
+**[start:minus]]**  
+
+* Kann als Whitewashing (deutsch weisswaschen/Schönfärberei)/Geschichtsrevisionismus interpretiert werden  
+* Die Auseinandersetzung mit der Geschichte bzw. eine begleitende Erklärung fehlt je nach Umsetzung  
+* Verschiedene Titelversionen über die Zeit hinweg können die eindeutige Zuordnung bzw. Nachverfolgung eines Objekts verkomplizieren  
+* Fehlender Bildungskontext zur ursprünglichen Benennung  
+* Erfordert aufwändige Recherchearbeiten  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
@@ -1179,6 +1059,8 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 * Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche:  
   + ob der Titel von der:dem Kunstschaffenden historisch belegt oder nachträglich vergeben wurde  
   + zur Definierung eines neuen, deskriptiven Titels.  
+
+[[end:block]]
 
 ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:](/images/image011.jpg)  
 
@@ -1190,17 +1072,37 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 
 **Beispiele**: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[156]](#footnote-157)  
 
+[[start:comp]]
+
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Anerkennt die verletzende Natur des Titels  + Bewahrt den historischen Titel und kontextualisiert ihn  + Ermöglicht eigenständige Entscheidung der Betrachtenden, ob die Nutzer:innen diese Inhalte sehen wollen  + Bewahrt den Originaltitel für historische Genauigkeit; bietet Transparenz | - Erfordert aufwändige Recherchearbeiten  - Erfordert redaktionellen Aufwand für Erläuterungen |  
+[[start:plus]]
+
+* Anerkennt die verletzende Natur des Titels  
+* Bewahrt den historischen Titel und kontextualisiert ihn  
+* Ermöglicht eigenständige Entscheidung der Betrachtenden, ob die Nutzer:innen diese Inhalte sehen wollen  
+* Bewahrt den Originaltitel für historische Genauigkeit; bietet Transparenz  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Erfordert aufwändige Recherchearbeiten  
+* Erfordert redaktionellen Aufwand für Erläuterungen  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
 * Definition von Kriterien für Warnungen  
 * Erstellung begleitender Erläuterungen  
+
+[[end:block]]
 
 ![alt:, extra:](/images/image012.jpg)  
 
@@ -1222,14 +1124,32 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 
 **Vor- und Nachteile**:  
 
-|  |  |  
-| --- | --- |  
-| + Sensibilisiert generell bei der Nutzung von Online-Sammlungen  + Bewahrt Transparenz über historische Titel  + Relativ einfach umsetzbar | - Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen Objekten; dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen Objekten inwiefern problematisch sind |  
+[[start:comp]]
+
+[[start:plus]]
+
+* Sensibilisiert generell bei der Nutzung von Online-Sammlungen  
+* Bewahrt Transparenz über historische Titel  
+* Relativ einfach umsetzbar  
+
+[[end:plus]]
+
+[[start:minus]]
+
+* Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen Objekten; dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen Objekten inwiefern problematisch sind**.**  
+
+[[end:minus]]
+
+[[end:comp]]
+
+[[start:block]]
 
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
 * Formulierung einer allgemeinen Warnung  
+
+[[end:block]]
 
 ![alt:, extra:](/images/image015.jpg)  
 

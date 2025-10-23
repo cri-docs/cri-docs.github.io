@@ -80,70 +80,38 @@ Koloniale Sammlungsbestände und problematische Erwerbskontexte müssen erforsch
 
 **Literatur**  
 
-Boscani Leoni, Simona; Baumgartner, Sarah; Knittel, Meike: Connecting Territories. Exploring People and Nature, 1700-1850, Leiden 2021.  
-
-Brändle, Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835-1964, Zürich 2013.  
-
-Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018.  
-
-Brengard, Marcel; Schubert, Frank; Zürcher, Lukas: Die Beteiligung der Stadt Zürich sowie der Zürcherinnen und Zürcher an Sklaverei und Sklavenhandel vom 17. bis ins 19. Jh. Bericht zu Handen des Präsidialdepartements der Stadt Zürich, Zürich 2020, S. 33–35.  
-
-Bruckmann, Ziu; Galli, Andrea; Graf, Nicole; Hintermüller, Julia; Pfyffer, Gaby; Schädler, Linda; Schönbächler, Martina; Spano, Roberta; Sträuli, Sabine; Walt, Roman; Willi, Stephanie (Hg.): Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis, Zürich 2024.  
-
-Deutscher Museumsbund (Hg.): Leitfaden. Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2019, S. 33–35.  
-
-dos Santos Pinto, Jovita et al. (Hg.): Un/doing Race. Rassifizierung in der Schweiz, Zürich 2022.  
-
-Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklaverei, Zürich 2005.  
-
-Guichard, Charlotte; Savoy, Bénédicte: Acquiring Cultures and Trading Value in a Global World, in: Savoy, Bénédicte; Guichard, Charlotte; Howald, Christine (Hg.): Acquiring Cultures. Histories of World Art on Western Markets, Berlin 2018.  
-
-Habermas, Rebekka: Restitutionsdebatten, koloniale Aphasie und die Frage, was Europa ausmacht, in: ApUZ – Aus Politik und Zeitgeschichte, 27.09.2019, <<https://www.bpb.de/shop/zeitschriften/apuz/297595/restitutionsdebatten-koloniale-aphasie-und-die-frage-was-europa-ausmacht/#footnote-target-14>>, Stand: 15.10.2024.  
-
-Habermas, Rebekka; Lindner, Ulrike: Rückgabe – und mehr!, in: Zeit online, 15.12.2018, <<https://www.zeit.de/2018/52/kunst-kolonialzeit-rueckgabe-restitution-geschichtspolitik>>, Stand: 15.10.2024.  
-
-Habermas, Rebekka; Przyrembel, Alexandra (Hg.): Von Käfern, Märkten und Menschen. Kolonialismus und Wissen in der Moderne, Göttingen 2013.  
-
-Harries, Patrick: Butterflies & Barbarians. Swiss Missionaries & Systems of Knowledge in South-East Africa, Oxford 2007.  
-
-Ivanov, Paola; Weber-Sinn, Kirstin: Shared Research – Zur Notwendigkeit einer kooperativen Provenienzforschung am Beispiel der Tansania-Projekte am Ethnologischen Museum Berlin, in: Förster, Larissa; Edenheiser, Iris; Fründt, Sara; Hartmann, Heike (Hg.): Provenienzforschung zu ethnografischen Sammlungen der Kolonialzeit. Positionen in der aktuellen Debatte, Berlin 2018.  
-
-Kollbrunner, Timo: «Unser Ekeko möchte nach Hause», woz.ch, 17.04.2014, <<https://www.woz.ch/1416/kulturgueterstreit/unser-ekeko-moechte-nach-hause>>, Stand: 08.05.2024.  
-
-Maas, Frederike: Framing the Artwork. Alfred Steinmann und seine Sammlung süd-sumatrischer Schiffstücher, in: Materialized Histories Blog, 20.03.2022, <<https://mhistories.hypotheses.org/6129>>, Stand: 15.10.2024.  
-
-Museum Rietberg: Benin Initiative Schweiz (BIS), <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 15.10.2024.  
-
-Museum Rietberg: Benin Initiative Schweiz (BIS). Neue BAK-Förderung und Beginn der Phase II, 01.06.2023, <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 08.05.2024.  
-
-Étienne, Noémie; Brizon, Claire; Lee, Chonja; Wismer (Hg.): Exotic Switzerland? Looking Outward in the Age of Enlightenment, Zürich 2020.  
-
-Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, Frankfurt a. M. 2013.  
-
-Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
-
-Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015  
-
-Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
-
-Sarr, Felwine; Savoy, Bénédicte: Rapport sur la restitution du patrimoine culturel africain. Vers une nouvelle éthique relationelle, Paris 2018.  
-
-Sauter, Willi: Die entomologischen Sammlungen an der ETHZ, in: Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich 138 (3), 1993, S. 203–218.  
-
-Schär, Bernhard C.: Rassismus, in: Historisches Lexikon der Schweiz (HLS), 08.04.2024, <<https://hls-dhs-dss.ch/de/articles/060537/2024-04-08/>>, Stand: 11.10.2024.  
-
-Schär, Bernhard: Tropenliebe. Schweizer Naturforscher und niederländischer Imperialismus in Südostasien um 1900, Bielefeld 2015.  
-
-Verein Das Wandbild muss Weg: Darum geht’s, <<https://www.daswandbildmussweg.ch/darumgehts.html>>, Stand: 15.10.2024.  
-
-Veyrassat, Béatrice: De l’attirance à l’expérience de l’Inde. Un Vaudois à la marge du colonialisme Anglais, Antoine-Louis-Henri Polier (1741-1795), Neuchâtel 2022.  
-
-Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 31–44.  
-
-Weber, Cornelia: ‹Sensible› Objekte in Universitätssammlungen. Zum Stand der Diskussion, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 63–78.  
-
-Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des Deutschen Museums, 05.11.2020, <<https://blog.deutsches-museum.de/2020/11/05/die-dunkle-seite-der-technik-koloniale-materialien>>, Stand: 08.05.2024.  
-
-Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
+* Boscani Leoni, Simona; Baumgartner, Sarah; Knittel, Meike: Connecting Territories. Exploring People and Nature, 1700-1850, Leiden 2021.  
+* Brändle, Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835-1964, Zürich 2013.  
+* Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018.  
+* Brengard, Marcel; Schubert, Frank; Zürcher, Lukas: Die Beteiligung der Stadt Zürich sowie der Zürcherinnen und Zürcher an Sklaverei und Sklavenhandel vom 17. bis ins 19. Jh. Bericht zu Handen des Präsidialdepartements der Stadt Zürich, Zürich 2020, S. 33–35.  
+* Bruckmann, Ziu; Galli, Andrea; Graf, Nicole; Hintermüller, Julia; Pfyffer, Gaby; Schädler, Linda; Schönbächler, Martina; Spano, Roberta; Sträuli, Sabine; Walt, Roman; Willi, Stephanie (Hg.): Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis, Zürich 2024.  
+* Deutscher Museumsbund (Hg.): Leitfaden. Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2019, S. 33–35.  
+* dos Santos Pinto, Jovita et al. (Hg.): Un/doing Race. Rassifizierung in der Schweiz, Zürich 2022.  
+* Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklaverei, Zürich 2005.  
+* Guichard, Charlotte; Savoy, Bénédicte: Acquiring Cultures and Trading Value in a Global World, in: Savoy, Bénédicte; Guichard, Charlotte; Howald, Christine (Hg.): Acquiring Cultures. Histories of World Art on Western Markets, Berlin 2018.  
+* Habermas, Rebekka: Restitutionsdebatten, koloniale Aphasie und die Frage, was Europa ausmacht, in: ApUZ – Aus Politik und Zeitgeschichte, 27.09.2019, <<https://www.bpb.de/shop/zeitschriften/apuz/297595/restitutionsdebatten-koloniale-aphasie-und-die-frage-was-europa-ausmacht/#footnote-target-14>>, Stand: 15.10.2024.  
+* Habermas, Rebekka; Lindner, Ulrike: Rückgabe – und mehr!, in: Zeit online, 15.12.2018, <<https://www.zeit.de/2018/52/kunst-kolonialzeit-rueckgabe-restitution-geschichtspolitik>>, Stand: 15.10.2024.  
+* Habermas, Rebekka; Przyrembel, Alexandra (Hg.): Von Käfern, Märkten und Menschen. Kolonialismus und Wissen in der Moderne, Göttingen 2013.  
+* Harries, Patrick: Butterflies & Barbarians. Swiss Missionaries & Systems of Knowledge in South-East Africa, Oxford 2007.  
+* Ivanov, Paola; Weber-Sinn, Kirstin: Shared Research – Zur Notwendigkeit einer kooperativen Provenienzforschung am Beispiel der Tansania-Projekte am Ethnologischen Museum Berlin, in: Förster, Larissa; Edenheiser, Iris; Fründt, Sara; Hartmann, Heike (Hg.): Provenienzforschung zu ethnografischen Sammlungen der Kolonialzeit. Positionen in der aktuellen Debatte, Berlin 2018.  
+* Kollbrunner, Timo: «Unser Ekeko möchte nach Hause», woz.ch, 17.04.2014, <<https://www.woz.ch/1416/kulturgueterstreit/unser-ekeko-moechte-nach-hause>>, Stand: 08.05.2024.  
+* Maas, Frederike: Framing the Artwork. Alfred Steinmann und seine Sammlung süd-sumatrischer Schiffstücher, in: Materialized Histories Blog, 20.03.2022, <<https://mhistories.hypotheses.org/6129>>, Stand: 15.10.2024.  
+* Museum Rietberg: Benin Initiative Schweiz (BIS), <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 15.10.2024.  
+* Museum Rietberg: Benin Initiative Schweiz (BIS). Neue BAK-Förderung und Beginn der Phase II, 01.06.2023, <<https://rietberg.ch/forschung/benin-initiative-schweiz>>, Stand: 08.05.2024.  
+* Étienne, Noémie; Brizon, Claire; Lee, Chonja; Wismer (Hg.): Exotic Switzerland? Looking Outward in the Age of Enlightenment, Zürich 2020.  
+* Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, Frankfurt a. M. 2013.  
+* Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
+* Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015  
+* Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
+* Sarr, Felwine; Savoy, Bénédicte: Rapport sur la restitution du patrimoine culturel africain. Vers une nouvelle éthique relationelle, Paris 2018.  
+* Sauter, Willi: Die entomologischen Sammlungen an der ETHZ, in: Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich 138 (3), 1993, S. 203–218.  
+* Schär, Bernhard C.: Rassismus, in: Historisches Lexikon der Schweiz (HLS), 08.04.2024, <<https://hls-dhs-dss.ch/de/articles/060537/2024-04-08/>>, Stand: 11.10.2024.  
+* Schär, Bernhard: Tropenliebe. Schweizer Naturforscher und niederländischer Imperialismus in Südostasien um 1900, Bielefeld 2015.  
+* Verein Das Wandbild muss Weg: Darum geht’s, <<https://www.daswandbildmussweg.ch/darumgehts.html>>, Stand: 15.10.2024.  
+* Veyrassat, Béatrice: De l’attirance à l’expérience de l’Inde. Un Vaudois à la marge du colonialisme Anglais, Antoine-Louis-Henri Polier (1741-1795), Neuchâtel 2022.  
+* Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 31–44.  
+* Weber, Cornelia: ‹Sensible› Objekte in Universitätssammlungen. Zum Stand der Diskussion, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Mainz 2018, S. 63–78.  
+* Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des Deutschen Museums, 05.11.2020, <<https://blog.deutsches-museum.de/2020/11/05/die-dunkle-seite-der-technik-koloniale-materialien>>, Stand: 08.05.2024.  
+* Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
 
 [[end:literature]]

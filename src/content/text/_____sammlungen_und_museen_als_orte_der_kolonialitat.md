@@ -50,160 +50,83 @@ Abb. 1: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image C
 
 **Literatur**  
 
-Aníbal Quijano: Coloniality and Modernity/Rationality, in: Cultural Studies 21, 2–3, 2007.  
-
-Azoulay, Ariella Aïsha: Potential history. Unlearning Imperialism, London; New York 2019.  
-
-Barbujani, Guido: Die Erfindung der Rassen. Wissenschaft gegen Rassismus, Berlin 2021.  
-
-Barkan, Elazar: The Retreat of Scientific Racism. Changing Concepts of Race in Britain and the United States between the World Wars, Cambridge 1992.  
-
-Becker, Peter; Clark, William (Hg.): Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices. Ann Arbor 2001.  
-
-Berner Wandbild: Verein Das Wandbild muss weg: Das Wandbild muss weg!, <<https://daswandbildmussweg.ch/>>, Stand: 30.05.2024; Bernisches Historisches Museum: [BHM — Widerstände. Vom Umgang mit Rassismus in Bern](https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende), <<https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende>>, Stand: 30.05.2024.  
-
-Blanchard, Pascal; Bancel, Nicolas; Boëtsch, Gilles u.a. (Hg.): Sexe, race et colonies, Paris 2018.  
-
-Bödeker, Hans Erich; Reill, Peter Hanns; Schlumbohm, Jürgen (Hg.): Wissenschaft als kulturelle Praxis 1750–1900, S. 137–161.  
-
-Brahm, Felix: Imperialismus und Kolonialismus, in: Sommer; Müller-Wille; Reinhardt 2017, S. 287–294.  
-
-Brändle Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835–1964, Zürich 2013.  
-
-Chakrabarty, Dipesh: Provincializing Europe. Postcolonial Thought and Historical Differences, Princeton 2000.  
-
-Collet, Dominik: Die Welt in der Stube. Begegnungen mit Aussereuropa in Kunstkammern der Frühen Neuzeit, Göttingen 2007.  
-
-Das, Subhadra; Lowe, Miranda: Nature Read in Black and White. Decolonial Approaches to Interpreting Natural History Collections, in: Journal of Natural Science Collections 6, 2018.  
-
-Daston, Lorraine; Park, Katharine (Hg.): Wunder und die Ordnung der Natur 1150–1750, Berlin 2002.  
-
-Deliss, Clémentine: The Metabolic Museum, Berlin 2020; Macdonald, Sharon (Hg.): Doing Diversity in Museums and Heritage: A Berlin Ethnography, Bielefeld 2022.  
-
-Drayton, Richard Harry: Nature’s Government. Science, Imperial Britain, and the ‹Improvement› of the World, New Haven 2000; Hoins; Mallinckrodt 2015, S. 10–13.  
-
-Étienne, Noémie; Brizon, Claire; Lee, Chonja u. a. (Hg.): Exotic Switzerland. Looking Outward in the Age of Enlightenment, Berlin/Zürich 2020; Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non européens dans les musées suisses, Zürich 2023.  
-
-Felfe, Robert; Wagner, Kristen (Hg.): Museum, Bibliothek, Stadtraum. Räumliche Wissensordnungen 1600–1900, Münster, 2010.  
-
-Finzsch, Norbert: Wissenschaftlicher Rassismus in den Vereinigten Staaten – 1850 bis 1930, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
-
-Foucault, Michel (Gordo, Colin Hg.): Power/Knowledge. Selected Interviews and Other Writings 1972–1977, New York 1981.  
-
-Foucault, Michel: Archäologie des Wissens, Frankfurt a. Main 1981, S. 61–74.  
-
-Foucault, Michel: Der Wille zum Wissen, Frankfurt a. M. 1977.  
-
-Fründt, Sarah: Wer spricht? Ethnologische Museen und postkoloniale Herausforderungen, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 97–108.  
-
-Füssel, Marian: Aufklärung, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017.  
-
-Greve, Anna: Koloniales Erbe in Museen. Kritische Weissseinsforschung in der praktischen Museumsarbeit, Bielefeld 2019.  
-
-Habermas, Rebekka: Rettungsparadigma und Bewahrungsfetischismus. Oder was die Restitutionsdebatte mit der europäischen Moderne zu tun hat, in: Sandkühler, Thomas; Epple, Angelika; Zimmerer, Jürgen (Hg.): Geschichtskultur durch Restitution? Ein Kunst-Historikerstreit, Wien et al. 2021, S. 79–99.  
-
-Hall, Stuart: The West and the Rest. Discourse and Power, in: Essential Essays, Bd. 2: Identity and Diaspora, Durham 2018, S. 141–184.  
-
-Häner, Flavio: Dinge sammeln, Wissen schaffen. Die Geschichte der naturhistorischen Sammlungen in Basel, 1735–1850, Bielefeld 2017.  
-
-Haraway, Donna: Teddy Bear Patriarchy. Taxidermy in the Garden of Eden, New York City, 1908–1936, in: Social Text 4(2), 1984, S. 20–64.  
-
-Hartman, Saidiya: Venus in Two Acts, in: Small Axe 26 (1), 2008.  
-
-Hoins, Katharina; von Mallinckrodt, Felicitas: Macht. Wissen. Teilhabe. Koordinaten zur Einführung, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 9–20.  
-
-Honold, Alexander: Der Exot und sein Publikum. Völkerschau in der Kolonialzeit, in: Conrad, Sebastian; Osterhammel, Jürgen (Hg.): Das Kaiserreich transnational. Deutschland in der Welt 1871–1914, Göttingen 2004, S. 357–375.  
-
-Jardine, Nicholas: Sammlung, Wissenschaft, Kulturgeschichte, in: te Heesen; Spary 2001, S. 199–220.  
-
-Kattmann, Ulrich: Warum und mit welcher Wirkung klassifizieren Wissenschaftler Menschen, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
-
-Klemun, Marianne: Gärten und Sammlungen, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 235–244.  
-
-Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986, S. 64–92.  
-
-Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986.  
-
-Kubler, George: Die Form der Zeit. Anmerkungen zur Geschichte der Dinge, Frankfurt a. M. 1962.  
-
-Latour, Bruno: Science in Action. How to Follow Scientists and Engineers Through Society, Cambridge (MS) 1987.  
-
-Latour, Bruno: Visualisation and Cognition. Thinking with Hands and Eyes, in: Knowledge and Society 6, 1986, S. 1–40.  
-
-Laukötter, Anja: Von der «Kultur» zur «Rasse» – vom Objekt zum Körper? Völkerkundemuseen und ihre Wissenschaften zu Beginn des 20. Jh., Bielefeld 2007.  
-
-Lee, Chonja: «Eine scheussliche Geschichte» – Entwürfe von Rasse, Geschlecht und animalischer Gewalt in den Vor- und Nachbildern King Kongs, in: Chichester, K. Lee; Gisler, Priska (Hg.): Koloniale Tiere? Tierbilder im Kontext des Kolonialismus, Berlin 2024, S. 91–118.  
-
-Lidchi, Henrietta: The Poetics and Politics of Exhibiting other Cultures, in: Hall, Stuart (Hg.): Representation. Cultural Representations and Signifying Practices, London 1997.  
-
-Macdonald, Sharon: Sighting the Dust. Attending to the Museum through its Residues, in: Samuel, Nina; Sattler, Felix (Hg.): Museale Reste, Berlin; Boston 2022 (Bildwelten des Wissens 18), S. 11–23.  
-
-Mauksch, Stefanie; Rao, Ursula: Vom Wissen der Objekte. Auf der Suche nach reflexiven Ausstellungskonzepten in der Ethnologie, in: Hoins; von Mallinckrodt 2015, S. 109–125.  
-
-McClintock, Anne: Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest, New York; London 1995, S. 38–40.  
-
-Mignolo, Walter D.: Coloniality. The Darker Side of Modernity, in: Breitwieser, Sabine (Hg.): Modernologies. Contemporary Artists Researching Modernity and Modernism. [Ausstellung Museu d’Art Contemporani de Barcelona, 23.09.2009–17.01.2010], Barcelona 2009.  
-
-Mignolo, Walter D.: Racism and Coloniality. The Invention of «Human(ity)» and the Three Pillars of the Colonial Matrix of Power (Racism, Sexism and Nature), in: Taylor, Paul C.; Alcoff, Linda Martín; Anderson, Luvell: The Routledge Companion to Philosophy of Race, New York 2018, S. 461–474.  
-
-Montag, Warren: The Universalization of Whiteness. Racism and Enlightenment, in: Hill, Mike (Hg.): Whiteness. A Critical Reader, New York 1997, S. 281–293.  
-
-Müller-Wille, Staffan: Botanik und weltweiter Handel. Zur Begründung eines Natürlichen Systems der Pflanzen durch Carl von Linné (1707–1778), Berlin 1999.  
-
-Müller-Wille, Staffan: Carl von Linnés Herbarschrank. Zur epistemischen Funktion eines Sammlungsmöbels, in: te Heesen; Spary 2001, S. 22–38.  
-
-Müller-Wille, Staffan: Der Westen und die Wissenschaftliche Revolution, in: Sommer; Müller-Wille; Reinhardt 2017, S. 142–153.  
-
-Müller-Wille, Staffan: Schwarz, Weiss, Gelb, Rot. Zur Darstellung menschlicher Vielfalt, in: te Heesen; Lutz 2005, S. 161–170.  
-
-Lugones, María: Toward a Decolonial Feminism, in: Hypatia 25 (4), 2010, S. 742–759Ogilvie, Brian W.: The Science of Describing. Natural History in Renaissance Europe, Chicago 2006, und Berndt, Frauke; Fulda, Daniel (Hg.): Die Sachen der Aufklärung, Hamburg 2012.  
-
-Pomian, Kryzstof: Sammlungen – eine historische Typologie, in: Grote, Andreas: Macrocosmos in Microcosmos. Die Welt in der Stube. Zur Geschichte des Sammelns 1450 bis 1800, Wiesbaden 1994, S. 107–126.  
-
-Pomian, Krzysztof: Der Ursprung des Museums. Vom Sammeln, Berlin 1988.  
-
-Prinz, Sophia: Redesigning the Museum. Epistemic Challenges and Aesthetic Remedies, in: Museum & Society 22(1), 2014, S. 110–128.  
-
-Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
-
-Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015; Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
-
-Rehberg, Karl-Siegbert: Machtvolles Sammeln und bildendes Zeigen. Das (Kunst-)Museum als Leitinstitution, in: Hoins; von Mallinckrodt, 2015, S. 21–43.  
-
-Rehberg, Karl-Siegbert: Schatzhaus, Wissensverkörperung und ‹Ewigkeitsort›. Eigenwelt des Sammelns aus institutionsanalytischer Perspektive, in: Marx, Barbara; Rehberg, Karl-Siegbert (Hg.): Sammeln als Institution. Von der fürstlichen Wunderkammer zum Mäzenatentum des Staates, München 2006.  
-
-Rheinberger, Hans-Jörg: Epistemologica. Präparate, in: te Heesen; Lutz 2005, S. 65–75.  
-
-Rosaldo, Renato: Imperialist Nostalgia, in: Representations 26, 1989, S. 107–122.  
-
-Rütsche, Claudia: Die Kunstkammer in der Zürcher Wasserkirche, öffentliche Sammeltätigkeit einer gelehrten Bürgerschaft im 17. und 18. Jh. aus museumsgeschichtlicher Sicht, Bern 1997; SNF-PRIMA-Projekt Bibliothèques et musées en Suisse entre XVIIIe et XIXe unter der Leitung von Prof. Dr. Valérie Kobi.  
-
-Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
-
-Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
-
-Schwartz, Michael: Sozialistische Eugenik im 20. Jh., in: Nate, Richard; Klüsener, Bea: Culture and Biology. Perspectives on the European Modern Age, Würzburg 2011, S. 57–73.  
-
-Sebastiani, Silvia: Enlightenment, Humanization and Dehumanization, and the Orangutan, in: Kronfeldner, Maria (Hg.): The Routledge Handbook of Dehumanization, Oxon; New York 2021, S. 64–82.  
-
-Siegenthaler, Fiona; Allain Bonilla, Marie-Laure: Introduction. Decolonial Processes in Swiss Academia and Cultural Institutions. Empirical and Theoretical Issues, in: Tsantsa 24, 2019, S. 4–13.  
-
-Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten: Wissenschaftsgeschichte und Wissensgeschichte, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 2–18.  
-
-Stingelin, Martin (Hg.): Biopolitik und Rassismus, Frankfurt a. M. 2003.  
-
-te Heesen, Anke; Lutz, Petra: Einleitung, in: te Heesen, Anke; Lutz, Petra (Hg.): Dingwelten. Das Museum als Erkenntnisort, Köln 2005 (Schriften des Deutschen Hygiene-Museums Dresden 4), S. 11–23.  
-
-te Heesen, Anke; Spary, E. C. (Hg.): Sammeln als Wissen. Das Sammeln und seine wissenschaftsgeschichtliche Bedeutung, Göttingen 2001.  
-
-te Heesen, Anke; Spary, E. C.: Sammeln als Wissen, in: te Heesen; Spary, S. 7–21.  
-
-te Heesen; Lutz 2005. Es ging in den Kunst- und Wunderkammern nicht bloss um die Selbstdarstellung der Herrscher:in, sondern um die Repräsentation der Welt. Siehe Hoins/Mallinckrodt 2017.  
-
-Tesan, Harald: Vom Sammeln, Gesammelte Aspekte einer Kulturtechnik, in: Strobel, Matthias; Dippel, Andrea (Hg.): Die Kunst des Sammelns. Phänomene des Ordnens, Archivierens und Präsentierens, Nürnberg 2011, S. 11–20.  
-
-Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindung von Menschenrassen [Ausstellung Deutsches Hygiene-Museum, Dresden, 19.05.2018–06.01.2019], Göttingen 2018, S. 68–69.  
-
-Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.  
+* Aníbal Quijano: Coloniality and Modernity/Rationality, in: Cultural Studies 21, 2–3, 2007.  
+* Azoulay, Ariella Aïsha: Potential history. Unlearning Imperialism, London; New York 2019.  
+* Barbujani, Guido: Die Erfindung der Rassen. Wissenschaft gegen Rassismus, Berlin 2021.  
+* Barkan, Elazar: The Retreat of Scientific Racism. Changing Concepts of Race in Britain and the United States between the World Wars, Cambridge 1992.  
+* Becker, Peter; Clark, William (Hg.): Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices. Ann Arbor 2001.  
+* Berner Wandbild: Verein Das Wandbild muss weg: Das Wandbild muss weg!, <<https://daswandbildmussweg.ch/>>, Stand: 30.05.2024; Bernisches Historisches Museum: [BHM — Widerstände. Vom Umgang mit Rassismus in Bern](https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende), <<https://www.bhm.ch/de/ausstellungen/aktuelle-ausstellungen/widerstaende>>, Stand: 30.05.2024.  
+* Blanchard, Pascal; Bancel, Nicolas; Boëtsch, Gilles u.a. (Hg.): Sexe, race et colonies, Paris 2018.  
+* Bödeker, Hans Erich; Reill, Peter Hanns; Schlumbohm, Jürgen (Hg.): Wissenschaft als kulturelle Praxis 1750–1900, S. 137–161.  
+* Brahm, Felix: Imperialismus und Kolonialismus, in: Sommer; Müller-Wille; Reinhardt 2017, S. 287–294.  
+* Brändle Rea: Wildfremd, hautnah. Zürcher Völkerschauen und ihre Schauplätze 1835–1964, Zürich 2013.  
+* Chakrabarty, Dipesh: Provincializing Europe. Postcolonial Thought and Historical Differences, Princeton 2000.  
+* Collet, Dominik: Die Welt in der Stube. Begegnungen mit Aussereuropa in Kunstkammern der Frühen Neuzeit, Göttingen 2007.  
+* Das, Subhadra; Lowe, Miranda: Nature Read in Black and White. Decolonial Approaches to Interpreting Natural History Collections, in: Journal of Natural Science Collections 6, 2018.  
+* Daston, Lorraine; Park, Katharine (Hg.): Wunder und die Ordnung der Natur 1150–1750, Berlin 2002.  
+* Deliss, Clémentine: The Metabolic Museum, Berlin 2020; Macdonald, Sharon (Hg.): Doing Diversity in Museums and Heritage: A Berlin Ethnography, Bielefeld 2022.  
+* Drayton, Richard Harry: Nature’s Government. Science, Imperial Britain, and the ‹Improvement› of the World, New Haven 2000; Hoins; Mallinckrodt 2015, S. 10–13.  
+* Étienne, Noémie; Brizon, Claire; Lee, Chonja u. a. (Hg.): Exotic Switzerland. Looking Outward in the Age of Enlightenment, Berlin/Zürich 2020; Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non européens dans les musées suisses, Zürich 2023.  
+* Felfe, Robert; Wagner, Kristen (Hg.): Museum, Bibliothek, Stadtraum. Räumliche Wissensordnungen 1600–1900, Münster, 2010.  
+* Finzsch, Norbert: Wissenschaftlicher Rassismus in den Vereinigten Staaten – 1850 bis 1930, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
+* Foucault, Michel (Gordo, Colin Hg.): Power/Knowledge. Selected Interviews and Other Writings 1972–1977, New York 1981.  
+* Foucault, Michel: Archäologie des Wissens, Frankfurt a. Main 1981, S. 61–74.  
+* Foucault, Michel: Der Wille zum Wissen, Frankfurt a. M. 1977.  
+* Fründt, Sarah: Wer spricht? Ethnologische Museen und postkoloniale Herausforderungen, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 97–108.  
+* Füssel, Marian: Aufklärung, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017.  
+* Greve, Anna: Koloniales Erbe in Museen. Kritische Weissseinsforschung in der praktischen Museumsarbeit, Bielefeld 2019.  
+* Habermas, Rebekka: Rettungsparadigma und Bewahrungsfetischismus. Oder was die Restitutionsdebatte mit der europäischen Moderne zu tun hat, in: Sandkühler, Thomas; Epple, Angelika; Zimmerer, Jürgen (Hg.): Geschichtskultur durch Restitution? Ein Kunst-Historikerstreit, Wien et al. 2021, S. 79–99.  
+* Hall, Stuart: The West and the Rest. Discourse and Power, in: Essential Essays, Bd. 2: Identity and Diaspora, Durham 2018, S. 141–184.  
+* Häner, Flavio: Dinge sammeln, Wissen schaffen. Die Geschichte der naturhistorischen Sammlungen in Basel, 1735–1850, Bielefeld 2017.  
+* Haraway, Donna: Teddy Bear Patriarchy. Taxidermy in the Garden of Eden, New York City, 1908–1936, in: Social Text 4(2), 1984, S. 20–64.  
+* Hartman, Saidiya: Venus in Two Acts, in: Small Axe 26 (1), 2008.  
+* Hoins, Katharina; von Mallinckrodt, Felicitas: Macht. Wissen. Teilhabe. Koordinaten zur Einführung, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh., Bielefeld 2015, S. 9–20.  
+* Honold, Alexander: Der Exot und sein Publikum. Völkerschau in der Kolonialzeit, in: Conrad, Sebastian; Osterhammel, Jürgen (Hg.): Das Kaiserreich transnational. Deutschland in der Welt 1871–1914, Göttingen 2004, S. 357–375.  
+* Jardine, Nicholas: Sammlung, Wissenschaft, Kulturgeschichte, in: te Heesen; Spary 2001, S. 199–220.  
+* Kattmann, Ulrich: Warum und mit welcher Wirkung klassifizieren Wissenschaftler Menschen, in: Kaupen-Haas, Heidrun; Saller, Christian (Hg.): Wissenschaftlicher Rassismus. Analysen einer Kontinuität in den Human- und Naturwissenschaften, Stuttgart 1999.  
+* Klemun, Marianne: Gärten und Sammlungen, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 235–244.  
+* Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986, S. 64–92.  
+* Kopytoff, Igor: The Cultural Biography of Things. Commoditization as Process, in: Appadurai, Arjun (Hg.): The Social Life of Things. Commodities in Cultural Perspective, Cambridge 1986.  
+* Kubler, George: Die Form der Zeit. Anmerkungen zur Geschichte der Dinge, Frankfurt a. M. 1962.  
+* Latour, Bruno: Science in Action. How to Follow Scientists and Engineers Through Society, Cambridge (MS) 1987.  
+* Latour, Bruno: Visualisation and Cognition. Thinking with Hands and Eyes, in: Knowledge and Society 6, 1986, S. 1–40.  
+* Laukötter, Anja: Von der «Kultur» zur «Rasse» – vom Objekt zum Körper? Völkerkundemuseen und ihre Wissenschaften zu Beginn des 20. Jh., Bielefeld 2007.  
+* Lee, Chonja: «Eine scheussliche Geschichte» – Entwürfe von Rasse, Geschlecht und animalischer Gewalt in den Vor- und Nachbildern King Kongs, in: Chichester, K. Lee; Gisler, Priska (Hg.): Koloniale Tiere? Tierbilder im Kontext des Kolonialismus, Berlin 2024, S. 91–118.  
+* Lidchi, Henrietta: The Poetics and Politics of Exhibiting other Cultures, in: Hall, Stuart (Hg.): Representation. Cultural Representations and Signifying Practices, London 1997.  
+* Macdonald, Sharon: Sighting the Dust. Attending to the Museum through its Residues, in: Samuel, Nina; Sattler, Felix (Hg.): Museale Reste, Berlin; Boston 2022 (Bildwelten des Wissens 18), S. 11–23.  
+* Mauksch, Stefanie; Rao, Ursula: Vom Wissen der Objekte. Auf der Suche nach reflexiven Ausstellungskonzepten in der Ethnologie, in: Hoins; von Mallinckrodt 2015, S. 109–125.  
+* McClintock, Anne: Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest, New York; London 1995, S. 38–40.  
+* Mignolo, Walter D.: Coloniality. The Darker Side of Modernity, in: Breitwieser, Sabine (Hg.): Modernologies. Contemporary Artists Researching Modernity and Modernism. [Ausstellung Museu d’Art Contemporani de Barcelona, 23.09.2009–17.01.2010], Barcelona 2009.  
+* Mignolo, Walter D.: Racism and Coloniality. The Invention of «Human(ity)» and the Three Pillars of the Colonial Matrix of Power (Racism, Sexism and Nature), in: Taylor, Paul C.; Alcoff, Linda Martín; Anderson, Luvell: The Routledge Companion to Philosophy of Race, New York 2018, S. 461–474.  
+* Montag, Warren: The Universalization of Whiteness. Racism and Enlightenment, in: Hill, Mike (Hg.): Whiteness. A Critical Reader, New York 1997, S. 281–293.  
+* Müller-Wille, Staffan: Botanik und weltweiter Handel. Zur Begründung eines Natürlichen Systems der Pflanzen durch Carl von Linné (1707–1778), Berlin 1999.  
+* Müller-Wille, Staffan: Carl von Linnés Herbarschrank. Zur epistemischen Funktion eines Sammlungsmöbels, in: te Heesen; Spary 2001, S. 22–38.  
+* Müller-Wille, Staffan: Der Westen und die Wissenschaftliche Revolution, in: Sommer; Müller-Wille; Reinhardt 2017, S. 142–153.  
+* Müller-Wille, Staffan: Schwarz, Weiss, Gelb, Rot. Zur Darstellung menschlicher Vielfalt, in: te Heesen; Lutz 2005, S. 161–170.  
+* Lugones, María: Toward a Decolonial Feminism, in: Hypatia 25 (4), 2010, S. 742–759Ogilvie, Brian W.: The Science of Describing. Natural History in Renaissance Europe, Chicago 2006, und Berndt, Frauke; Fulda, Daniel (Hg.): Die Sachen der Aufklärung, Hamburg 2012.  
+* Pomian, Kryzstof: Sammlungen – eine historische Typologie, in: Grote, Andreas: Macrocosmos in Microcosmos. Die Welt in der Stube. Zur Geschichte des Sammelns 1450 bis 1800, Wiesbaden 1994, S. 107–126.  
+* Pomian, Krzysztof: Der Ursprung des Museums. Vom Sammeln, Berlin 1988.  
+* Prinz, Sophia: Redesigning the Museum. Epistemic Challenges and Aesthetic Remedies, in: Museum & Society 22(1), 2014, S. 110–128.  
+* Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019.  
+* Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015; Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.  
+* Rehberg, Karl-Siegbert: Machtvolles Sammeln und bildendes Zeigen. Das (Kunst-)Museum als Leitinstitution, in: Hoins; von Mallinckrodt, 2015, S. 21–43.  
+* Rehberg, Karl-Siegbert: Schatzhaus, Wissensverkörperung und ‹Ewigkeitsort›. Eigenwelt des Sammelns aus institutionsanalytischer Perspektive, in: Marx, Barbara; Rehberg, Karl-Siegbert (Hg.): Sammeln als Institution. Von der fürstlichen Wunderkammer zum Mäzenatentum des Staates, München 2006.  
+* Rheinberger, Hans-Jörg: Epistemologica. Präparate, in: te Heesen; Lutz 2005, S. 65–75.  
+* Rosaldo, Renato: Imperialist Nostalgia, in: Representations 26, 1989, S. 107–122.  
+* Rütsche, Claudia: Die Kunstkammer in der Zürcher Wasserkirche, öffentliche Sammeltätigkeit einer gelehrten Bürgerschaft im 17. und 18. Jh. aus museumsgeschichtlicher Sicht, Bern 1997; SNF-PRIMA-Projekt Bibliothèques et musées en Suisse entre XVIIIe et XIXe unter der Leitung von Prof. Dr. Valérie Kobi.  
+* Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
+* Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
+* Schwartz, Michael: Sozialistische Eugenik im 20. Jh., in: Nate, Richard; Klüsener, Bea: Culture and Biology. Perspectives on the European Modern Age, Würzburg 2011, S. 57–73.  
+* Sebastiani, Silvia: Enlightenment, Humanization and Dehumanization, and the Orangutan, in: Kronfeldner, Maria (Hg.): The Routledge Handbook of Dehumanization, Oxon; New York 2021, S. 64–82.  
+* Siegenthaler, Fiona; Allain Bonilla, Marie-Laure: Introduction. Decolonial Processes in Swiss Academia and Cultural Institutions. Empirical and Theoretical Issues, in: Tsantsa 24, 2019, S. 4–13.  
+* Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten: Wissenschaftsgeschichte und Wissensgeschichte, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 2–18.  
+* Stingelin, Martin (Hg.): Biopolitik und Rassismus, Frankfurt a. M. 2003.  
+* te Heesen, Anke; Lutz, Petra: Einleitung, in: te Heesen, Anke; Lutz, Petra (Hg.): Dingwelten. Das Museum als Erkenntnisort, Köln 2005 (Schriften des Deutschen Hygiene-Museums Dresden 4), S. 11–23.  
+* te Heesen, Anke; Spary, E. C. (Hg.): Sammeln als Wissen. Das Sammeln und seine wissenschaftsgeschichtliche Bedeutung, Göttingen 2001.  
+* te Heesen, Anke; Spary, E. C.: Sammeln als Wissen, in: te Heesen; Spary, S. 7–21.  
+* te Heesen; Lutz 2005. Es ging in den Kunst- und Wunderkammern nicht bloss um die Selbstdarstellung der Herrscher:in, sondern um die Repräsentation der Welt. Siehe Hoins/Mallinckrodt 2017.  
+* Tesan, Harald: Vom Sammeln, Gesammelte Aspekte einer Kulturtechnik, in: Strobel, Matthias; Dippel, Andrea (Hg.): Die Kunst des Sammelns. Phänomene des Ordnens, Archivierens und Präsentierens, Nürnberg 2011, S. 11–20.  
+* Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindung von Menschenrassen [Ausstellung Deutsches Hygiene-Museum, Dresden, 19.05.2018–06.01.2019], Göttingen 2018, S. 68–69.  
+* Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.  
 
 [[end:literature]]
