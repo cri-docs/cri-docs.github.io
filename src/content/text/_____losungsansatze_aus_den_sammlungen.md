@@ -46,43 +46,45 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:before]]
 
-\*\*< Inventarnummer: >\*\*: < DEP-2443>  
+\*\*Inventarnummer\*\*: DEP-2443  
 
-\*\*< Bezeichnung >\*\*: < Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand >  
+\*\*Bezeichnung\*\*: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
 
-\*\*< Klassifikation >\*\*: < Figurenuhr >  
+\*\*Klassifikation\*\*: Figurenuhr  
 
-\*\*< Datierung >\*\*: < 1646 >  
+\*\*Datierung\*\*: 1646  
 
-\*\*< Inschrift >\*\*: < «Herr Hans Rudolff Raan, Bürgermeister, 1646»>  
+\*\*Inschrift\*\*: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
 
-\*\*< Schlagworte >\*\*: <Personenwappen, Hans Rudolf Rahn>  
+\*\*Schlagworte\*\*: Personenwappen, Hans Rudolf Rahn  
 
-\*\*< Herstellung >\*\*: < «Augsburg»>  
+\*\*Herstellung\*\*: «Augsburg»  
 
 [[end:before]]
 
 [[start:after]]
 
-\*\*< Inventarnummer: >\*\*: < DEP-2443>  
+\*\* Inventarnummer\*\*:DEP-2443  
 
-\*\*< Bezeichnung >\*\*: < Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt. >  
+\*\*Bezeichnung\*\*: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
 
-\*\*< Klassifikation >\*\*: < Figurenuhr >  
+\*\*Klassifikation\*\*: Figurenuhr  
 
-\*\*< Datierung >\*\*: < 1646 >  
+\*\*Datierung\*\*: 1646  
 
-\*\*< Inschrift >\*\*: < «Herr Hans Rudolff Raan, Bürgermeister, 1646»>  
+\*\*Inschrift\*\*: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
 
-\*\*< Schlagworte >\*\*: < Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+\*\*Schlagworte\*\*: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
 
-Herstellung: Augsburg>  
+Herstellung: Augsburg  
 
-\*\*< Herstellung >\*\*: < «Augsburg»>  
+\*\*Herstellung\*\*: «Augsburg»  
 
-\*\*< Inhaltshinweis[[178]](#footnote-179) >\*\*: < «Rassifizierung»>  
+\*\*Inhaltshinweis[[178]](#footnote-179)\*\*: «Rassifizierung»  
 
 [[end:after]]
+
+[[end:metadata]]
 
 **Kontext**  
 

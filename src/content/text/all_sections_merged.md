@@ -945,6 +945,8 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 **Beispiele**: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[147]](#footnote-148) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[148]](#footnote-149) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[149]](#footnote-150)  
 
+**Vor- und Nachteile**:  
+
 [[start:comp]]
 
 [[start:plus]]
@@ -984,9 +986,9 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 **Beispiele**: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[150]](#footnote-151) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[151]](#footnote-152)  
 
-[[start:comp]]
-
 **Vor- und Nachteile**:  
+
+[[start:comp]]
 
 [[start:plus]]
 
@@ -1028,9 +1030,9 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 **Beispiele**: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](#footnote-153) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[153]](#footnote-154) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[154]](#footnote-155)  
 
-[[start:comp]]
-
 **Vor- und Nachteile**:  
+
+[[start:comp]]
 
 [[start:plus]]
 
@@ -1072,9 +1074,9 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 
 **Beispiele**: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[156]](#footnote-157)  
 
-[[start:comp]]
-
 **Vor- und Nachteile**:  
+
+[[start:comp]]
 
 [[start:plus]]
 
@@ -1312,43 +1314,45 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:before]]
 
-\*\*< Inventarnummer: >\*\*: < DEP-2443>  
+\*\*Inventarnummer\*\*: DEP-2443  
 
-\*\*< Bezeichnung >\*\*: < Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand >  
+\*\*Bezeichnung\*\*: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
 
-\*\*< Klassifikation >\*\*: < Figurenuhr >  
+\*\*Klassifikation\*\*: Figurenuhr  
 
-\*\*< Datierung >\*\*: < 1646 >  
+\*\*Datierung\*\*: 1646  
 
-\*\*< Inschrift >\*\*: < «Herr Hans Rudolff Raan, Bürgermeister, 1646»>  
+\*\*Inschrift\*\*: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
 
-\*\*< Schlagworte >\*\*: <Personenwappen, Hans Rudolf Rahn>  
+\*\*Schlagworte\*\*: Personenwappen, Hans Rudolf Rahn  
 
-\*\*< Herstellung >\*\*: < «Augsburg»>  
+\*\*Herstellung\*\*: «Augsburg»  
 
 [[end:before]]
 
 [[start:after]]
 
-\*\*< Inventarnummer: >\*\*: < DEP-2443>  
+\*\* Inventarnummer\*\*:DEP-2443  
 
-\*\*< Bezeichnung >\*\*: < Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt. >  
+\*\*Bezeichnung\*\*: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
 
-\*\*< Klassifikation >\*\*: < Figurenuhr >  
+\*\*Klassifikation\*\*: Figurenuhr  
 
-\*\*< Datierung >\*\*: < 1646 >  
+\*\*Datierung\*\*: 1646  
 
-\*\*< Inschrift >\*\*: < «Herr Hans Rudolff Raan, Bürgermeister, 1646»>  
+\*\*Inschrift\*\*: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
 
-\*\*< Schlagworte >\*\*: < Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+\*\*Schlagworte\*\*: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
 
-Herstellung: Augsburg>  
+Herstellung: Augsburg  
 
-\*\*< Herstellung >\*\*: < «Augsburg»>  
+\*\*Herstellung\*\*: «Augsburg»  
 
-\*\*< Inhaltshinweis[[178]](#footnote-179) >\*\*: < «Rassifizierung»>  
+\*\*Inhaltshinweis[[178]](#footnote-179)\*\*: «Rassifizierung»  
 
 [[end:after]]
+
+[[end:metadata]]
 
 **Kontext**  
 
