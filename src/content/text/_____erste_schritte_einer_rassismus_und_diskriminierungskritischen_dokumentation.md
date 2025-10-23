@@ -32,13 +32,10 @@ Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Ku
 
 **Weiterführende Literatur[[18]](#footnote-19)**  
 
-• Koller, Christian: Rassismus, Paderborn 2009  
-
-• Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d)  
-
-• Hund, Wulf D.: Rassimus, Bielefeld 2007  
-
-• El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021  
+* Koller, Christian: Rassismus, Paderborn 2009  
+* Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d)  
+* Hund, Wulf D.: Rassimus, Bielefeld 2007  
+* El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021  
 
 Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <https://www.frb.admin.ch/de/publikationen>, Stand: 03.10.2025  
 
