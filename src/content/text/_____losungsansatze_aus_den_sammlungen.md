@@ -42,37 +42,47 @@ Abbildung 21: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © 
 
 Metadaten des unbereinigten Datensatzes:  
 
-Inventarnummer: DEP-2443  
+[[start:metadata]]
 
-Bezeichnung: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
+[[start:before]]
 
-Klassifikation: Figurenuhr  
+\*\*< Inventarnummer: >\*\*: < DEP-2443>  
 
-Datierung: 1646  
+\*\*< Bezeichnung >\*\*: < Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand >  
 
-Inschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+\*\*< Klassifikation >\*\*: < Figurenuhr >  
 
-Schlagworte: Personenwappen, Hans Rudolf Rahn  
+\*\*< Datierung >\*\*: < 1646 >  
 
-Herstellung: Augsburg  
+\*\*< Inschrift >\*\*: < «Herr Hans Rudolff Raan, Bürgermeister, 1646»>  
 
-Metadaten des überarbeiteten Datensatzes:  
+\*\*< Schlagworte >\*\*: <Personenwappen, Hans Rudolf Rahn>  
 
-Inventarnummer: DEP-2443  
+\*\*< Herstellung >\*\*: < «Augsburg»>  
 
-Bezeichnung: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
+[[end:before]]
 
-Klassifikation: Figurenuhr  
+[[start:after]]
 
-Datierung: 1646  
+\*\*< Inventarnummer: >\*\*: < DEP-2443>  
 
-Inschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+\*\*< Bezeichnung >\*\*: < Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt. >  
 
-Schlagworte: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+\*\*< Klassifikation >\*\*: < Figurenuhr >  
 
-Herstellung: Augsburg  
+\*\*< Datierung >\*\*: < 1646 >  
 
-Inhaltshinweis[[178]](#footnote-179): «Rassifizierung»  
+\*\*< Inschrift >\*\*: < «Herr Hans Rudolff Raan, Bürgermeister, 1646»>  
+
+\*\*< Schlagworte >\*\*: < Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+
+Herstellung: Augsburg>  
+
+\*\*< Herstellung >\*\*: < «Augsburg»>  
+
+\*\*< Inhaltshinweis[[178]](#footnote-179) >\*\*: < «Rassifizierung»>  
+
+[[end:after]]
 
 **Kontext**  
 
