@@ -8,25 +8,25 @@ color: "default"
 toc:
 ---
 
-**Autorin**  
+#### Autorin  
 
 Monique Ligtenberg (sie/ihr) ist promovierte Historikerin und hat die Ausstellung «Koloniale Spuren – Sammlungen im Kontext» an der ETH Zürich (ko-)kuratiert. Sie doziert und forscht an der ETH Zürich zur kolonialen Provenienz naturhistorischer Sammlungen in der Schweiz. Zudem ist sie Gründungsmitglied des Stadtrundgangs «Zürich Kolonial».  
 
-**Abstract**  
+#### Abstract  
 
 Der vorliegende Beitrag zeigt, welche Kriterien eine Sammlung zu einer kolonialen machen. Dabei werden die Begriffe der problematischen/sensiblen sowie primär und sekundär kolonialen Sammlungen und das koloniale Rezeptionsobjekt definiert. Die Definitionen werden jeweils von historischen Beispielen begleitet. Der Beitrag legt dar, wieso die Aufarbeitung der kolonialen Vergangenheit wichtig ist, und präsentiert Strategien für den Umgang mit kolonialen Sammlungen.  
 
----  
+[[start:external]]
 
 Die Schweiz herrschte zu keinem Zeitpunkt formal über eigene Kolonien und war dennoch in die kolonialen Projekte anderer europäischer Staaten involviert.[[74]](#footnote-75) Das schlägt sich bis heute in Schweizer Museen und Sammlungen nieder, die massgeblich vom Kolonialismus profitierten. Hunderttausende Kunstwerke, Alltagsgegenstände oder naturhistorische Präparate aus kolonialen Kontexten werden in Schweizer Sammlungen aufbewahrt. Aufgrund kolonialer Sammlungstätigkeiten liegt heute ein Grossteil des Kulturerbes ehemaliger Kolonien in westlichen Museen und Sammlungen. Dadurch werden bis heute in der Kolonialzeit entstandene Asymmetrien und Denkmuster weitergetragen.[[75]](#footnote-76)  
 
 Der vorliegende Beitrag veranschaulicht anhand konkreter historischer Beispiele aus der Schweiz, welche Kriterien eine Sammlung als ‹kolonial› charakterisieren und wann sie zusätzlich als ‹problematisch› und/oder ‹sensibel› gilt. Er präsentiert zudem gegenwärtige Strategien im Umgang mit kolonialen Sammlungen.  
 
-**Koloniale Sammlungen**  
+#### Koloniale Sammlungen  
 
 Kolonialismus ist ein Herrschaftssystem, das etwa zwischen 1500 und der Mitte des 20. Jh. entstand und sich durch ein asymmetrisches Machtverhältnis zwischen einer anpassungsunwilligen Kolonialmacht und einer fremdbestimmten, rechtlich, politisch und kulturell untergeordneten kolonisierten Bevölkerung auszeichnet. Initial waren es westeuropäische Länder, die Regionen in Asien, Afrika und den Amerikas kolonisierten; ab dem späten 19. Jh. kamen auch aussereuropäische Mächte, z.B. Japan oder die USA, dazu.[[76]](#footnote-77) Integraler Bestandteil kolonialer Herrschaft war, dass sie mit einer rassistischen Ideologie legitimiert wurden, die einen hierarchischen, biologisch und/oder kulturellen Unterschied zwischen *weissen* Menschen und *People of Colour* behauptete.[[77]](#footnote-78) Eine Sammlung ist als ‹kolonial› zu qualifizieren, wenn sie im Kontext solcher kolonialer Herrschafts- und kolonialrassistischer Denkstrukturen entstand.  
 
-**Primäre koloniale Sammlungen**  
+#### Primäre koloniale Sammlungen  
 
 ‹Primär› bedeutet, dass die Sammlungsobjekte direkt von den Kolonien in die Schweiz gelangten.  
 
@@ -40,7 +40,7 @@ Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Obje
 
 In der Schweiz dienten koloniale Sammlungen vor allem dazu, Schweizer:innen mit ‹fremden› Kulturen sowie der ‹exotischen› Natur, die sie bewohnten, vertraut zu machen. Die Objekte wurden oft als materielle Beweise für die «zivilisatorische Unterlegenheit» kolonisierter Menschen präsentiert und legitimierten damit die Kolonialherrschaft mit. Durch Betrachtung ‹exotischer› Objekte konnten sich Schweizer Museumsbesuchende zudem vom kolonisierten ‹Anderen› abgrenzen (sog. *Othering*) und sich dadurch ihrer Zugehörigkeit zu einer ‹zivilisierten› europäischen Kultur vergewissern (siehe Abschnitt «Koloniale Rezeptionsobjekte»).[[82]](#footnote-83)  
 
-**Sekundäre koloniale Sammlungen**  
+#### Sekundäre koloniale Sammlungen  
 
 Sekundäre koloniale Sammlungen wurden indirekt über Drittstaaten aus den Kolonien in die Schweiz transportiert oder setzen sich nur teilweise aus Objekten mit kolonialer Herkunft zusammen.  
 
@@ -48,17 +48,17 @@ Einerseits wurden viele sogenannte *Ethnographica*, Antiquitäten oder Tierpräp
 
 Andererseits wurden in vielen in Europa hergestellten Kunstwerken, Werkzeugen oder Instrumenten koloniale Rohstoffe wie Kautschuk oder Palmöl verarbeitet.[[85]](#footnote-86) In den Sammlungen der ETH Zürich befinden sich beispielsweise wissenschaftliche Instrumente, die aus Elfenbein hergestellt wurden – ein Material, das lange über koloniale Handelsnetzwerke nach Europa gelangte. Aufgrund der lückenhaften Quellenlage können chemische Analysen helfen, einen möglichen Rückschluss auf die Provenienz solcher Rohstoffe zu ziehen. Inwiefern sie sich aber definitiv bestimmen lässt, ist derzeit unklar.[[86]](#footnote-87)  
 
-**Koloniale Rezeptionsobjekte**  
+#### Koloniale Rezeptionsobjekte  
 
 Rezeptionsobjekte wurden zwar nicht physisch aus Kolonien entwendet, geben aber das rassistische Weltbild der Kolonialmächte wieder.[[87]](#footnote-88) Dazu zählen beispielsweise sexualisierte Darstellungen kolonisierter Frauen auf Fotografien, Gemälden und in Werbungen oder Kolonialromane, die ein romantisiertes Bild der Kolonialzeit präsentierten.[[88]](#footnote-89) Noch heute tragen Rezeptionsobjekte rassistische Repräsentationen (ehemals) kolonisierter Menschen weiter und sollten daher nicht frei und unkritisch reproduziert werden.  
 
 Ein aktuelles Beispiel ist das ABC-Wandbild, das im Berner Schulhaus Wylergut hing. Dieses vermittelte Schüler:innen das Alphabet anhand kolonialrassistischer Begriffe und Stereotypen. Als Resultat von Interventionen antirassistischer Aktivist:innen hing das Wandbild im Bernischen Historischen Museum, wo es im Zusammenhang mit der Schweizer Kolonial- und Rassismusgeschichte gezeigt wurde.[[89]](#footnote-90)  
 
-**Problematische & sensible Sammlungen**  
+#### Problematische & sensible Sammlungen  
 
 Nicht jede als ‹kolonial› eingestufte Sammlung ist zwangsläufig ‹problematisch›. Vielmehr dient die Qualifizierung ‹kolonial› als Indikator, dass der Erwerbskontext näher untersucht werden soll, um ‹problematische› und ‹sensible› Sammlungsbestände zu identifizieren.  
 
-**Problematische Erwerbskontexte**  
+#### Problematische Erwerbskontexte  
 
 Ein Erwerbskontext ist problematisch, wenn Objekte unter Androhung oder Ausübung von Zwang oder Gewalt angeeignet wurden. Ein prominentes Beispiel sind die Benin-Bronzen, die 1897 im Zuge einer britischen Strafexpedition gewaltsam aus dem Königreich Benin entwendet wurden. Über den internationalen Kunstmarkt gelangten 96 bisher identifizierte Exemplare auch in Schweizer Sammlungen.[[90]](#footnote-91)  
 
@@ -66,7 +66,7 @@ Auch von tiefen Abhängigkeitsverhältnissen geprägte Erwerbskontexte können a
 
 Ein wesentlicher Bestandteil der Dekolonialisierung von Sammlungen besteht darin, nach der Identifizierung ‹problematischer› Sammlungen aktive Restitutionsbemühungen einzuleiten – auch wenn es in der Schweiz noch keine rechtliche Verpflichtung dazu gibt. Unter Restitution versteht man die Rückgabe der Eigentumsrechte an die Herkunftsgesellschaften oder deren Nachkommen.[[92]](#footnote-93) So werden im Rahmen der Schweizer Benin-Initiative beispielsweise Verhandlungen über den Eigentums(rück-)transfer der zuvor erwähnten Benin-Bronzen aufgenommen.[[93]](#footnote-94)  
 
-**Problematische & sensible Objekte**  
+#### Problematische & sensible Objekte  
 
 Objekte in kolonialen Sammlungen können unabhängig vom Erwerbskontext ‹problematisch› sein, wenn ihnen von den Herkunftsgesellschaften eine besondere Bedeutung zugeschrieben wird. Das betrifft etwa Gegenstände, die in der Gegenwart als wichtiger Teil des Kulturerbes angesehen oder zur Ausübung ritueller oder religiöser Handlungen verwendet werden. Als ‹sensibel› bezeichnet man Objekte, die einer besonderen Behandlung oder Aufbewahrung im Herkunftskontext bedürfen. Im Fall ‹sensibler› Objekte ist die Rückgabe an die Herkunftsgesellschaften aus dekolonialer Perspektive naheliegend.[[94]](#footnote-95)  
 
@@ -74,7 +74,9 @@ Ein Beispiel wäre die bolivianische Götterfigur Ekeko, die 1858 vom Glarner Fo
 
 Koloniale Sammlungsbestände und problematische Erwerbskontexte müssen erforscht und transparent gemacht werden. Dadurch lässt sich zeigen, wie Schweizer Sammlungen von kolonialen Herrschaftsverhältnissen profitierten und eine zentrale Rolle bei der Produktion und Zirkulation von kolonialrassistischen Ideologien und Darstellungen hatten. Ebenso sollte der aktive Austausch mit Herkunftsgesellschaften kolonialer Sammlungen angestossen werden, um ‹problematische› und ‹sensible› Objekte zu identifizieren und gezielt Restitutionsprozesse einzuleiten.[[96]](#footnote-97)  
 
-Die Auseinandersetzung mit der kolonialen Vergangenheit ist ein wichtiger Schritt, um die gegenwärtige Fortsetzung kolonialer Repräsentations- und Sammlungspraktiken zu überwinden.  
+[[end:external]]
+
+[[start:literature]]
 
 **Literatur**  
 
@@ -142,4 +144,6 @@ Weber, Cornelia: ‹Sensible› Objekte in Universitätssammlungen. Zum Stand de
 
 Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des Deutschen Museums, 05.11.2020, <<https://blog.deutsches-museum.de/2020/11/05/die-dunkle-seite-der-technik-koloniale-materialien>>, Stand: 08.05.2024.  
 
-Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.
+Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
+
+[[end:literature]]

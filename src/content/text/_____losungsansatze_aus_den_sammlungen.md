@@ -126,7 +126,7 @@ Beim Objekt mit Inv. Nr. H/47660 handelt es sich um eine mechanische Sparbüchse
 
 Titel:  
 
-Der ursprünglich im Inventarbuch verwendete Titel wird im Titelfeld nicht historisiert. Allerdings wird im Erklärungstext zu den historischen Kontexten/Problematik (s. u. Erfassung des historischen Kontexts/Problematik) dokumentiert, wie der ursprüngliche Titel lautete und wo er festgehalten war. Neu wird der Titel «Sparbüchse in Form einer Karikatur eines Schwarzen Mannes» vergeben.  
+Der ursprünglich im Inventarbuch verwendete Titel wird im Titelfeld nicht historisiert. Allerdings wird im Erklärungstext zu den historischen Kontexten/Problematik (s.u. Erfassung des historischen Kontexts/Problematik) dokumentiert, wie der ursprüngliche Titel lautete und wo er festgehalten war. Neu wird der Titel «Sparbüchse in Form einer Karikatur eines Schwarzen Mannes» vergeben.  
 
 Deklaration als rassistisches Objekt:  
 
@@ -134,7 +134,7 @@ Das Objekt wird mit der Klassifizierung «Rassistischer Inhalt/Darstellung» ver
 
 Erfassung des historischen Kontexts/Problematik:  
 
-Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläutert (s. o. Kontext) und der ursprünglich verwendete Titel festgehalten.  
+Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläutert (s.o. Kontext) und der ursprünglich verwendete Titel festgehalten.  
 
 ## 10.3 **Fallbeispiel** 3  
 
@@ -166,7 +166,7 @@ Klassifikation: Stickvorlage
 
 Datum: Um 1900  
 
-Inschrift (Titel): «NEGER-STICK-BUCH sic!», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
+Inschrift (Titel): «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
 
 Schlagworte: -  
 
@@ -180,7 +180,7 @@ Bei diesem Objekt handelt es sich um eine Seite aus einer Stickmustersammlung. D
 
 Abbildung 24: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons  
 
-Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des Objekts wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem Objekt somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von Objekten des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen, wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis sic! und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
+Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des Objekts wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem Objekt somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von Objekten des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen, wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
 **Bearbeitungen in der Datenbank:**  
 

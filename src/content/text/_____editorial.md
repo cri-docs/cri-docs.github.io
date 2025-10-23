@@ -8,8 +8,6 @@ color: "default"
 toc:
   - level: 2
     title: "1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs"
-  - level: 2
-    title: "1.2 Die Arbeitsgruppe"
 ---
 
 Das Thema [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus)[[1]](#footnote-2) und die damit verbundene kritische Reflexion der eigenen Sammlungs- und Dokumentationspraxis hat in den letzten Jahren zunehmend an Bedeutung gewonnen. Die Restitution von geraubtem Kulturerbe in der Schweiz hat eine lange Geschichte[[2]](#footnote-3), die durch die Provenienzforschung, der im Kontext des Nationalsozialismus geraubten Kulturgüter ihren Höhepunkt erreichte. Diese Erforschung leistete wichtige Vorarbeit für die Fragen, die sich ethnologische und ethnografische Sammlungen und Museen in Zusammenhang mit Provenienzen aus kolonialen Kontexten stellten. Die daraus erstarkten Diskussionen um Dekolonisierung haben in den letzten Jahren weitere Museen und Sammlungen erfasst und werden zunehmend auch in naturhistorischen[[3]](#footnote-4) Sammlungen und Museen geführt.  
@@ -60,22 +58,4 @@ Um die komplexen Zusammenhänge zwischen Rassismus, Kolonialismus und Datenbanke
 
 Das Handbuch orientiert sich an den ethischen Richtlinien des ICOM[[9]](#footnote-10) und der neuen Museumsdefinition[[10]](#footnote-11). Öffentliche Kultur- und Sammlungsinstitutionen agieren im Dienst der Gesellschaft, haben eine Vorbildfunktion und einen Bildungsauftrag. Das Handbuch vertritt die Haltung, dass eine rassismuskritische Dokumentationspraxis nicht nur für eine inklusivere Museumsarbeit wichtig ist, sondern auch rassismus- und diskriminierungskritische Forschung und Wissensproduktion unterstützt. Dafür müssen Objekte und historische Dokumentationen zugänglich sein. Gleichzeitig stellt sich die Frage, wie mit der Reproduktion von Begriffen und Bildern rassismussensibel umgegangen werden kann. Für dieses Spannungsverhältnis bietet das Handbuch Orientierung. Darüber hinaus soll es für mögliche Problemfelder sensibilisieren, um gemeinsam erlernte Denkmuster zu reflektieren und einen ersten Schritt in Richtung einer diskriminierungskritischen und inklusiveren Sammlungs- und Dokumentationspraxis zu gehen.  
 
-Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren Institutionen aktiv auseinanderzusetzen und unsere Praxis zu hinterfragen ist ein stetiger Prozess. Das Handbuch bietet deshalb keine endgültigen und abschliessenden Lösungen, sondern es zeigt Handlungsoptionen auf. Aufgrund dieser Prozesshaftigkeit soll das Handbuch für künftige Überarbeitungen offen sein.  
-
-## 1.2 Die Arbeitsgruppe  
-
-Die Mitglieder der AG sind mehrheitlich *weisse* Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich *weisse* Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen.  
-
-|  |  |  
-| --- | --- |  
-| **Institution** | **Mitarbeit am Handbuch** |  
-| Bernisches Historisches Museum | Barbara Weber |  
-| ETH-Bibliothek, Sammlungen und Archive, ETH Zürich | Roberta Spano  Stephanie Willi |  
-| Historisches Museum Basel | Andrea Arnold  Patrick Moser |  
-| Kunsthaus Zürich | Ruth Kistler |  
-| Museum für Kommunikation, Bern | Jonas Bürgi |  
-| Fotostiftung Schweiz | Michèle Dick |  
-| Schweizerisches Nationalmuseum (SNM) | Dario Donati (Projektleitung)  Céline Hug (Projektleitung) |  
-| Stiftung für Kunst, Kultur und Geschichte (SKKG) | Sonja Gasser |  
-
-Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
+Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren Institutionen aktiv auseinanderzusetzen und unsere Praxis zu hinterfragen ist ein stetiger Prozess. Das Handbuch bietet deshalb keine endgültigen und abschliessenden Lösungen, sondern es zeigt Handlungsoptionen auf. Aufgrund dieser Prozesshaftigkeit soll das Handbuch für künftige Überarbeitungen offen sein.

@@ -8,21 +8,21 @@ color: "default"
 toc:
 ---
 
-**Autorin**  
+#### Autorin  
 
 Danielle Audrey Isler (sie/ihr) ist Sozialwissenschaftlerin und Doktorandin an der International Graduate School for African Studies der Universität Bayreuth. Sie forscht zu rassifizierten und exkludierenden Räumen und zu Themen wie Rassismus, Inklusion, Teilhabe und Selbstermächtigung.  
 
-**Abstract**  
+#### Abstract  
 
 Soziale Räume sind stets reguliert und daher sowohl inkludierend, als auch exkludierend. In ihrem Beitrag überträgt Danielle Isler das von ihr in Zusammenarbeit mit Prof. Katharina Schramm entwickelte Konzept des «Geweissten Raumes» als eine spezifische, rassifizierte Art des sozialen Raumes auf kulturhistorische Museen und Sammlungen. Sie zeigt, dass diese aufgrund ihrer Geschichte, der Entwicklung in Europa und ihrer kolonialen Vergangenheit nicht allen Menschen gleichermassen offenstehen.  
 
----  
+[[start:external]]
 
 Gemäss dem US-amerikanischen Museologen John E. Simmons existieren Museen im weitesten Sinne spätestens seit der Antike.[[114]](#footnote-115) Viele kulturhistorische Museen im Westen teilen die Eigenschaft, dass sie aus kolonialen Bestrebungen hervorgegangen[[115]](#footnote-116) sind und vor allem dazu dienten, die ‹Beute› der Kolonialisierung zu beherbergen[[116]](#footnote-117). Die Folge der Kolonisierung war die Objektivierung Schwarzer Körpern und im Allgemeinen People of Colour (PoC)[[117]](#footnote-118)-Körpern und der damit einhergehende Raub ihrer Menschlichkeit, Würde und Individualität. Verschiedene, vor allem westliche museale Institutionen hatten oder haben diese Normen und Praktiken zu einem gewissen Grad übernommen.[[118]](#footnote-119) Der kamerunische Historiker und Politologe Achille Mbembe bezweifelt, dass sich an der Objektivierung Schwarzer Menschen viel geändert hat. Er stellt die provokative und reflexive Frage, ob Schwarze Menschen nicht immer noch im Grunde «person-objects» (deutsch *Personenobjekte*) sind, insbesondere im Zusammenhang mit musealen Institutionen.[[119]](#footnote-120) Das koloniale Erbe von musealen Institutionen widerspiegelt sich noch heute nicht nur in den Sammlungen und deren Zusammensetzung, sondern auch in ihrer Ausstellungskultur, in Dokumentationspraktiken und deren Sprache, in ihren Vermittlungsangeboten, in der Zielgruppendefinition, um nur ein paar wenige Beispiele zu nennen.  
 
 Museen und museale Institutionen weltweit befinden sich im Prozess der Dekolonisierung,[[120]](#footnote-121) und es gibt zahlreiche Bestrebungen, Ansätze, Strategien wie auch Diskussionen darüber, wie Museen dekolonial neu gedacht werden können oder sollen. Wie beispielsweise mit Objekten mit einer belasteten Geschichte oder wie mit den oben genannten Punkten in Bezug auf das koloniale Erbe umgegangen werden sollte,[[121]](#footnote-122) sind Fragen, welche GLAM-Institutionen gegenwärtig angehen.  
 
-**Museen als geweisste Räume**  
+#### Museen als geweisste Räume  
 
 Gleichzeitig hinterfragen Forschende wie die US-amerikanischen Museologinnen Brandie Macdonald und Kara Vetter, ob Museen überhaupt dekolonisiert werden können, da viele dieser Institutionen aus Kolonialprojekten hervorgegangen sind und die Wurzeln und Ursprünge von Museen in kolonialen Bestrebungen liegen.[[122]](#footnote-123) Die kanadischen und britischen Sozialwissenschaftlerinnen Kathy Sanford, Darlene Clover, Nancy Taber und Sarah Williamson führen weiter aus, dass trotz der Bemühungen um Inklusion ein Grossteil der Museen weltweit weiterhin männlich, elitär und eurozentrisch geprägt geblieben ist.[[123]](#footnote-124) Historische Informationen und Diskurse, insbesondere über den Globalen Süden, würden oft – so die Wissenschaftlerinnen – immer noch unzureichend hinterfragt. Auf diese Weise werden männliche, elitäre, eurozentrische Perspektiven in und um Museen herum aufrechterhalten.[[124]](#footnote-125) Aufgrund ebendieser Historizität[[125]](#footnote-126) und dieses kolonialen Erbes werden Museen nicht nur mit Kolonialismus oder Eurozentrismus in Verbindung gebracht, sondern auch mit «Weiss-Sein» (englisch Whiteness)[[126]](#footnote-127) oder «Weisser Vorherrschaft» (englisch White Supremacy).[[127]](#footnote-128)  
 
@@ -44,7 +44,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © KZH  
 
-**Auswirkungen von geweissten Räumen**  
+#### Auswirkungen von geweissten Räumen  
 
 Geweisste Räume führen durch ihre ausschliessenden Eigenschaften direkt und indirekt auch zu Handlungsanweisungen für BIPoC. Zum Beispiel, dass sich eine BIPoC in einem geweissten Raum in der Schweiz so ‹schweizerisch› wie möglich zu verhalten hat, z.B. pünktlich, nicht zu laut und zurückhaltend sein, bei rassistischer Sprache schweigen, sich auf eine ‹westliche› Art kleiden, bestimmte Themen nicht ansprechen, akzeptieren, dass sie eine gesamte Kultur oder rassifizierte Gruppe repräsentiert. Die Befolgung dieser impliziten und expliziten Anweisungen kann BIPoC vor (mehr) Mikro- und Makroaggressionen schützen.  
 
@@ -55,6 +55,10 @@ Um Inklusion, Teilhabe und Gerechtigkeit zu erreichen, sollten Museen als geweis
 Der kanadische Archäologe und Museologe Robert R. Janes plädiert dafür, dass es, um als Organisation weiterzukommen, ein Lernen braucht, das hinterfragt und sich mit schwierigen und unbequemen Fragen auseinandersetzt und das Selbstkritik wie auch (Selbst-)Reflexion beinhaltet.[[137]](#footnote-138)  
 
 Ähnlich argumentiert die Autorin, dass museale Institutionen, die generell als geweisst gelten, um im Dekolonisierungsprozess weiterzukommen, bereit sein müssen, Neues dazuzulernen, Dinge zu verlernen, in Frage zu stellen, von Grund auf zu erforschen, sich schwierigen und unbequemen Themen zu stellen, Selbstkritik und Selbstreflexion zu üben, und dies konstant, da, wie Sara Ahmed schreibt, Weiss-Sein eine unvollendete Geschichte zu sein scheint. [[138]](#footnote-139)  
+
+[[end:external]]
+
+[[start:literature]]
 
 **Literatur**  
 
@@ -160,4 +164,6 @@ Wintle, Claire: Decolonising UK World Art Institutions, 1945–1980, in: On Cura
 
 Withington, Vanessa: Decolonising the Museum? Dilemmas, Possibilities, Alternatives, in: Culture Unbound 13 (2), 2021, S. 245–269.  
 
-Yancy, George: Look, a White!: Philosophical Essays on Whiteness, Philadelphia 2012.
+Yancy, George: Look, a White!: Philosophical Essays on Whiteness, Philadelphia 2012.  
+
+[[end:literature]]

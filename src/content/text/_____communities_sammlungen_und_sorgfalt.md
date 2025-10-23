@@ -8,7 +8,7 @@ color: "default"
 toc:
 ---
 
-**Autorinnen**  
+#### Autorinnen  
 
 Mariama de Brito Henn (sie/ihr) ist Textil- und Modehistorikerin und Universitätsassistentin am Fakultätszentrum für transdisziplinäre historisch-kulturwissenschaftliche Studien an der Universität Wien. In ihrem Dissertationsprojekt erforscht sie die ästhetischen Praxen afro-spiritueller Religionen Amerikas.  
 
@@ -16,11 +16,11 @@ Prof. Dr. Dr. Noémie Etienne (sie/ihr) ist Kunsthistorikerin und Professorin am
 
 Ruby Satele Asiata (sie/ihr) ist Anthropologin, Museologin und Universitätsassistentin für das Global Conservation Project am Fakultätszentrum für transdisziplinäre historisch-kulturwissenschaftliche Studien an der Universität Wien. Sie forscht zu kulturellem Erbe aus dem Pazifikraum.  
 
-**Abstract**  
+#### Abstract  
 
 Die Dokumentation von Objekten ist nie neutral, sondern spiegelt die vorherrschenden Machtgefüge wider. Diskriminierungskritische Museumsarbeit erfordert eine Erweiterung des Wissens um die Objekte und deren Einbettung in ihren kulturellen Kontext. Die Autorinnen zeigen anhand zweier Ausstellungen auf, wie das kritische Hinterfragen sowie die Erweiterung des Wissens um die Objektgeschichte die Deutung, Präsentation und Wahrnehmung des kulturellen Erbes beeinflusst und verändert.  
 
----  
+[[start:external]]
 
 Worte spiegeln Vorstellungen wider. Sie formen Identitäten und kreieren neue Realitäten. Oftmals gibt es mehr als nur einen Begriff, um etwas zu beschreiben. Beschreiben und Dokumentieren sind zentrale Mittel für das Verständnis von Sammlungen und die Arbeit mit Datenbanken. Die vermeintliche Neutralität der Dokumentation ist jedoch in den Fokus aktueller post- und dekolonialer Debatten geraten.[[97]](#footnote-98) So scheinen Datenbanken, Depots und Restaurierungslabors zeitlos zu sein und eine vermeintliche Objektivität auszustrahlen. Aktuelle Diskussionen, experimentelle Praktiken und community-basierte Projekte verdeutlichen jedoch, dass die Wahl der verwendeten Begriffe und die Priorisierung bestimmter Sprachformen stets auch eine Reflexion gesellschaftlicher und kultureller Machtverhältnisse ist.  
 
@@ -52,7 +52,9 @@ Die Absicht, Informationen und Wissen zu ergänzen oder zu verbessern, hat viele
 
 Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im Ausstellungs- und Museumskontext übersetzen, sei es von westlichen Sprachen in indigene oder umgekehrt: erstens, um den Bedürfnissen der lokalen Bevölkerung gerecht zu werden; zweitens, zur Steigerung des kulturellen Anreizes der Ausstellung durch die gezielte Einbindung der Herkunftsgesellschaften und ihrer Sprachen; und drittens, um den Lerneffekt für die Besucher:innen zu erhöhen.[[112]](#footnote-113)  
 
-Dabei geht die Frage nach der Inklusion über die Übersetzung hinaus und der Fokus liegt auf der Re-Indigenisierung von Wissen und Konzepten in musealen Räumen. Wir sollten die indigene Perspektive und Sprache als Ausgangspunkt nehmen, anstatt englische oder deutsche Texte und Konzepte in indigene Sprachen übersetzen zu lassen. Darüber hinaus ist es bei der Dekolonisierung des Museums wichtig, neben schriftlichen Quellen auch alternative Ansätze der Erinnerungsvermittlung zu berücksichtigen, wie beispielsweise den Bereich der Oral History. Das Erzählen von Geschichten hat in der Vermittlung und Übermittlung von Informationen eine lange Tradition, wie z. B. in den pazifischen Moana-Gesellschaften. Solche mündlichen Traditionen sind unverzichtbar für die Bewahrung der Kultur, weshalb das Erzählen eine zentrale Rolle dabei spielt, das Verständnis zu fördern und die kulturellen Schätze in unseren Sammlungen richtig zu kontextualisieren.[[113]](#footnote-114) Wir sollten uns vom eurozentrischen Verständnis von Geschichtsschreibung lösen und andere Epistemologien nicht nur anerkennen, sondern auch als gleichwertig betrachten. Nur so können wir die noch immer in unseren Institutionen verankerten Stränge des Kolonialismus entwirren.  
+[[end:external]]
+
+[[start:literature]]
 
 **Literatur**  
 
@@ -86,4 +88,6 @@ Tai, Jessica: Cultural Humility as a Framework for Anti-Oppressive Archival Desc
 
 Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation*,* Chicago 2021.  
 
-Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.
+Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
+
+[[end:literature]]

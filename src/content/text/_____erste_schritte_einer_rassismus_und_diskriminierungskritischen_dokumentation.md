@@ -28,9 +28,21 @@ Struktureller Rassismus ist eine Form von Rassismus, die sich in gesellschaftlic
 
 Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrundeliegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[17]](#footnote-18)  
 
-|  |  
-| --- |  
-| **Weiterführende Literatur[[18]](#footnote-19)**   * Koller, Christian: Rassismus, Paderborn 2009 * Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d) * Hund, Wulf D.: Rassimus, Bielefeld 2007 * El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021 * Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <<https://www.frb.admin.ch/de/publikationen>>, Stand: 03.10.2025 |  
+[[start:literature]]
+
+**Weiterführende Literatur[[18]](#footnote-19)**  
+
+• Koller, Christian: Rassismus, Paderborn 2009  
+
+• Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d)  
+
+• Hund, Wulf D.: Rassimus, Bielefeld 2007  
+
+• El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021  
+
+Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <https://www.frb.admin.ch/de/publikationen>, Stand: 03.10.2025  
+
+[[end:literature]]
 
 ## 2.2 ****Wie weiter in der Praxis?****  
 
@@ -57,9 +69,21 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM  
 
-|  |  
-| --- |  
-| **Weiterführende Literatur**   * Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023 * Arnold, Rick u. a.: Educating for a change, Toronto 1991 * Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022 * Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021 * Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018 |  
+[[start:literature]]
+
+**Weiterführende Literatur**  
+
+• Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023  
+
+• Arnold, Rick u. a.: Educating for a change, Toronto 1991  
+
+• Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022  
+
+• Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021  
+
+Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018  
+
+[[end:literature]]
 
 ### Wer dokumentiert was/wen/wessen Geschichte?  
 
@@ -77,9 +101,15 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © KZH  
 
-|  |  
-| --- |  
-| **Weiterführende Literatur**   * Turner, Hanna: Cataloguing Culture. Legacies of Colonialism in Museum Documentation, Vancouver 2021 * Modest, Wayne; Golding, Viv: Museums and Communities. Curators, Collections and Collaboration, London 2013 * Becker, Peter; Clark, William: Little tools of knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2012 |  
+[[start:literature]]
+
+**Weiterführende Literatur**  
+
+* Turner, Hanna: Cataloguing Culture. Legacies of Colonialism in Museum Documentation, Vancouver 2021  
+* Modest, Wayne; Golding, Viv: Museums and Communities. Curators, Collections and Collaboration, London 2013  
+* Becker, Peter; Clark, William: Little tools of knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2012  
+
+[[end:literature]]
 
 ### Selbstverständlichkeit der Verschlagwortung  
 
@@ -105,6 +135,22 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM  
 
-|  |  
-| --- |  
-| **Beispiele Positionierung der Institution**  Einige Institutionen haben ein Statement veröffentlicht, in dem sie sich klar zu aktuellen Debatten und Ereignissen positionieren.   * Fischer, Hartwig: A message from Director Hartwig Fischer, British Museum London, 5.6.2020, <<https://www.britishmuseum.org/blog/message-director-hartwig-fischer>>, Stand: 25.10.2024 * Völkerkundemuseum der Universität Zürich, Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024 * Victoria and Albert Museum London, Equality, Diversity and Inclusion (EDI) at the V&A, <<https://www.vam.ac.uk/info/equality-diversity-and-inclusion-at-the-va/>>, Stand: 25.10.2024 * Historisches Museum Frankfurt, Rassismuskritische Arbeit im HMF, <<https://historisches-museum-frankfurt.de/rassismuskritische-arbeit>>, Stand: 25.10.2024   Im Internet findet sich ausserdem eine Vielzahl von Angeboten für Sensibilisierungs- und Antirassismusworkshops sowie Weiterbildungsmöglichkeiten und Beratungsangebote.  **Weitere Anlaufstellen**   * Fachstelle für Rassismusbekämpfung FRB, <<https://www.frb.admin.ch/de/beratung-und-recht>>, Stand: 15.08.2025 * Beratungsnetz für Rassismusopfer, Weiterbildungsplattform, <<https://www.network-racism.ch/weiterbildungsplattform>>, Stand: 15.08.2025 |
+[[start:literature]]
+
+**Beispiele Positionierung der Institution**  
+
+Einige Institutionen haben ein Statement veröffentlicht, in dem sie sich klar zu aktuellen Debatten und Ereignissen positionieren.  
+
+* Fischer, Hartwig: A message from Director Hartwig Fischer, British Museum London, 5.6.2020, <<https://www.britishmuseum.org/blog/message-director-hartwig-fischer>>, Stand: 25.10.2024  
+* Völkerkundemuseum der Universität Zürich, Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024  
+* Victoria and Albert Museum London, Equality, Diversity and Inclusion (EDI) at the V&A, <<https://www.vam.ac.uk/info/equality-diversity-and-inclusion-at-the-va/>>, Stand: 25.10.2024  
+* Historisches Museum Frankfurt, Rassismuskritische Arbeit im HMF, <<https://historisches-museum-frankfurt.de/rassismuskritische-arbeit>>, Stand: 25.10.2024  
+
+Im Internet findet sich ausserdem eine Vielzahl von Angeboten für Sensibilisierungs- und Antirassismusworkshops sowie Weiterbildungsmöglichkeiten und Beratungsangebote.  
+
+**Weitere Anlaufstellen**  
+
+* Fachstelle für Rassismusbekämpfung FRB, <<https://www.frb.admin.ch/de/beratung-und-recht>>, Stand: 15.08.2025  
+* Beratungsnetz für Rassismusopfer, Weiterbildungsplattform, <<https://www.network-racism.ch/weiterbildungsplattform>>, Stand: 15.08.2025  
+
+[[end:literature]]

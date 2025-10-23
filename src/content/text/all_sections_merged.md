@@ -264,6 +264,10 @@ Das Handbuch orientiert sich an den ethischen Richtlinien des ICOM[[9]](#footnot
 
 Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren Institutionen aktiv auseinanderzusetzen und unsere Praxis zu hinterfragen ist ein stetiger Prozess. Das Handbuch bietet deshalb keine endgültigen und abschliessenden Lösungen, sondern es zeigt Handlungsoptionen auf. Aufgrund dieser Prozesshaftigkeit soll das Handbuch für künftige Überarbeitungen offen sein.  
 
+[[start:about]]
+
+# Über das Projekt
+
 ## Die Arbeitsgruppe  
 
 Die Mitglieder der AG sind mehrheitlich *weisse* Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich *weisse* Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen.  
@@ -280,7 +284,8 @@ Die Mitglieder der AG sind mehrheitlich *weisse* Mitarbeiter:innen ohne eigene R
 | Schweizerisches Nationalmuseum (SNM) | Dario Donati (Projektleitung)  Céline Hug (Projektleitung) |  
 | Stiftung für Kunst, Kultur und Geschichte (SKKG) | Sonja Gasser |  
 
-Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch  
+Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
+[[end:about]]
 
 # Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation  
 
@@ -300,9 +305,21 @@ Struktureller Rassismus ist eine Form von Rassismus, die sich in gesellschaftlic
 
 Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrundeliegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[17]](#footnote-18)  
 
-|  |  
-| --- |  
-| **Weiterführende Literatur[[18]](#footnote-19)**   * Koller, Christian: Rassismus, Paderborn 2009 * Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d) * Hund, Wulf D.: Rassimus, Bielefeld 2007 * El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021 * Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <<https://www.frb.admin.ch/de/publikationen>>, Stand: 03.10.2025 |  
+[[start:literature]]
+
+**Weiterführende Literatur[[18]](#footnote-19)**  
+
+• Koller, Christian: Rassismus, Paderborn 2009  
+
+• Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d)  
+
+• Hund, Wulf D.: Rassimus, Bielefeld 2007  
+
+• El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021  
+
+Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <https://www.frb.admin.ch/de/publikationen>, Stand: 03.10.2025  
+
+[[end:literature]]
 
 ## ****Wie weiter in der Praxis?****  
 
@@ -329,9 +346,21 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM  
 
-|  |  
-| --- |  
-| **Weiterführende Literatur**   * Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023 * Arnold, Rick u. a.: Educating for a change, Toronto 1991 * Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022 * Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021 * Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018 |  
+[[start:literature]]
+
+**Weiterführende Literatur**  
+
+• Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023  
+
+• Arnold, Rick u. a.: Educating for a change, Toronto 1991  
+
+• Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022  
+
+• Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021  
+
+Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018  
+
+[[end:literature]]
 
 ### Wer dokumentiert was/wen/wessen Geschichte?  
 
@@ -349,9 +378,15 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © KZH  
 
-|  |  
-| --- |  
-| **Weiterführende Literatur**   * Turner, Hanna: Cataloguing Culture. Legacies of Colonialism in Museum Documentation, Vancouver 2021 * Modest, Wayne; Golding, Viv: Museums and Communities. Curators, Collections and Collaboration, London 2013 * Becker, Peter; Clark, William: Little tools of knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2012 |  
+[[start:literature]]
+
+**Weiterführende Literatur**  
+
+* Turner, Hanna: Cataloguing Culture. Legacies of Colonialism in Museum Documentation, Vancouver 2021  
+* Modest, Wayne; Golding, Viv: Museums and Communities. Curators, Collections and Collaboration, London 2013  
+* Becker, Peter; Clark, William: Little tools of knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2012  
+
+[[end:literature]]
 
 ### Selbstverständlichkeit der Verschlagwortung  
 
@@ -377,9 +412,25 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM  
 
-|  |  
-| --- |  
-| **Beispiele Positionierung der Institution**  Einige Institutionen haben ein Statement veröffentlicht, in dem sie sich klar zu aktuellen Debatten und Ereignissen positionieren.   * Fischer, Hartwig: A message from Director Hartwig Fischer, British Museum London, 5.6.2020, <<https://www.britishmuseum.org/blog/message-director-hartwig-fischer>>, Stand: 25.10.2024 * Völkerkundemuseum der Universität Zürich, Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024 * Victoria and Albert Museum London, Equality, Diversity and Inclusion (EDI) at the V&A, <<https://www.vam.ac.uk/info/equality-diversity-and-inclusion-at-the-va/>>, Stand: 25.10.2024 * Historisches Museum Frankfurt, Rassismuskritische Arbeit im HMF, <<https://historisches-museum-frankfurt.de/rassismuskritische-arbeit>>, Stand: 25.10.2024   Im Internet findet sich ausserdem eine Vielzahl von Angeboten für Sensibilisierungs- und Antirassismusworkshops sowie Weiterbildungsmöglichkeiten und Beratungsangebote.  **Weitere Anlaufstellen**   * Fachstelle für Rassismusbekämpfung FRB, <<https://www.frb.admin.ch/de/beratung-und-recht>>, Stand: 15.08.2025 * Beratungsnetz für Rassismusopfer, Weiterbildungsplattform, <<https://www.network-racism.ch/weiterbildungsplattform>>, Stand: 15.08.2025 |  
+[[start:literature]]
+
+**Beispiele Positionierung der Institution**  
+
+Einige Institutionen haben ein Statement veröffentlicht, in dem sie sich klar zu aktuellen Debatten und Ereignissen positionieren.  
+
+* Fischer, Hartwig: A message from Director Hartwig Fischer, British Museum London, 5.6.2020, <<https://www.britishmuseum.org/blog/message-director-hartwig-fischer>>, Stand: 25.10.2024  
+* Völkerkundemuseum der Universität Zürich, Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024  
+* Victoria and Albert Museum London, Equality, Diversity and Inclusion (EDI) at the V&A, <<https://www.vam.ac.uk/info/equality-diversity-and-inclusion-at-the-va/>>, Stand: 25.10.2024  
+* Historisches Museum Frankfurt, Rassismuskritische Arbeit im HMF, <<https://historisches-museum-frankfurt.de/rassismuskritische-arbeit>>, Stand: 25.10.2024  
+
+Im Internet findet sich ausserdem eine Vielzahl von Angeboten für Sensibilisierungs- und Antirassismusworkshops sowie Weiterbildungsmöglichkeiten und Beratungsangebote.  
+
+**Weitere Anlaufstellen**  
+
+* Fachstelle für Rassismusbekämpfung FRB, <<https://www.frb.admin.ch/de/beratung-und-recht>>, Stand: 15.08.2025  
+* Beratungsnetz für Rassismusopfer, Weiterbildungsplattform, <<https://www.network-racism.ch/weiterbildungsplattform>>, Stand: 15.08.2025  
+
+[[end:literature]]
 
 # Sammlungen und Museen als Orte der Kolonialität  
 
@@ -391,7 +442,7 @@ Dr. Chonja Lee (sie/ihr) ist Dozentin für Kunstgeschichte der Frühen Neuzeit a
 
 In die Entstehung von Sammlungen jeglicher Art spielt der Zeitgeist hinein. Dieser spiegelt sich demnach auch im Inventarisieren, Katalogisieren, Klassifizieren, Ordnen, Beschreiben und Auswerten von Objekten und Archivalien wieder. Unter dem Gesichtspunkt einer antirassistischen Dokumentationspraxis ist es wichtig, sich mit der Geschichte von Sammlungen und damit verbundener Wissenspraxen zu befassen. Der Text von Chonja Lee beschreibt die Anfänge europäischer Sammlungen und ordnet diese in die imperialistisch-kolonialen Strukturen und rassistischen Ideologien ein.  
 
----  
+[[start:external]]
 
 Sammlungen sind nie neutral. Sie sind das Resultat von Entscheidungen darüber, was überhaupt sammlungs- und erhaltungswürdig ist. Schon indem Sammler:innen und Institutionen wie Museen sammeln, haben sie und ihre Akteur:innen die Macht, Objekte für relevant zu erklären. Durch diese Entscheidungen wird auch mitgeprägt, welches und wessen Wissen in die zukünftige Wissens- und Erinnerungskultur einfliesst.[[25]](#footnote-26)  
 
@@ -419,7 +470,9 @@ Die Herausforderung der Museen besteht heute darin, die Geschichte und das epist
 
 Abb. 1: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf  
 
-Ein Beispiel für eine Neugestaltung einer problematischen musealen Inszenierung ist die Performance «Wayward Dust» (2020) der Künstlerin Monilola Olayemi Ilupeju. Sie entstaubte im wörtlichen Sinne ein veraltetes Museumsdispositiv des Deutschen Technikmuseums, bevor dieses abgebaut und entsorgt wurde, da es eine rassistische Sicht auf versklavte Menschen in einem Frachtraum replizierte (Abb. 1). Der von der Künstlerin sichergestellte Staub hatte sich in den letzten Jahrzehnten auf den nackten, Schwarzen Körpern der lebensgrossen Ausstellungspuppen angesammelt. Staub im Museum ist ein praktisches Problem, berührt aber auch Fragen von Besitzverhältnissen, Materialität sowie Zeitlichkeit.[[73]](#footnote-74) Er versinnbildlicht die Musealisierung selbst, den Wandel von Objekten zu Erinnerungs- und Bedeutungsträgern innerhalb des Museums, sowie die im Laufe der Zeit stets neu zu hinterfragenden Praktiken der Konstruktion und Vermittlung von Wissen.  
+[[end:external]]
+
+[[start:literature]]
 
 **Literatur**  
 
@@ -579,27 +632,29 @@ Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindu
 
 Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.  
 
+[[end:literature]]
+
 # Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen  
 
-**Autorin**  
+#### Autorin  
 
 Monique Ligtenberg (sie/ihr) ist promovierte Historikerin und hat die Ausstellung «Koloniale Spuren – Sammlungen im Kontext» an der ETH Zürich (ko-)kuratiert. Sie doziert und forscht an der ETH Zürich zur kolonialen Provenienz naturhistorischer Sammlungen in der Schweiz. Zudem ist sie Gründungsmitglied des Stadtrundgangs «Zürich Kolonial».  
 
-**Abstract**  
+#### Abstract  
 
 Der vorliegende Beitrag zeigt, welche Kriterien eine Sammlung zu einer kolonialen machen. Dabei werden die Begriffe der problematischen/sensiblen sowie primär und sekundär kolonialen Sammlungen und das koloniale Rezeptionsobjekt definiert. Die Definitionen werden jeweils von historischen Beispielen begleitet. Der Beitrag legt dar, wieso die Aufarbeitung der kolonialen Vergangenheit wichtig ist, und präsentiert Strategien für den Umgang mit kolonialen Sammlungen.  
 
----  
+[[start:external]]
 
 Die Schweiz herrschte zu keinem Zeitpunkt formal über eigene Kolonien und war dennoch in die kolonialen Projekte anderer europäischer Staaten involviert.[[74]](#footnote-75) Das schlägt sich bis heute in Schweizer Museen und Sammlungen nieder, die massgeblich vom Kolonialismus profitierten. Hunderttausende Kunstwerke, Alltagsgegenstände oder naturhistorische Präparate aus kolonialen Kontexten werden in Schweizer Sammlungen aufbewahrt. Aufgrund kolonialer Sammlungstätigkeiten liegt heute ein Grossteil des Kulturerbes ehemaliger Kolonien in westlichen Museen und Sammlungen. Dadurch werden bis heute in der Kolonialzeit entstandene Asymmetrien und Denkmuster weitergetragen.[[75]](#footnote-76)  
 
 Der vorliegende Beitrag veranschaulicht anhand konkreter historischer Beispiele aus der Schweiz, welche Kriterien eine Sammlung als ‹kolonial› charakterisieren und wann sie zusätzlich als ‹problematisch› und/oder ‹sensibel› gilt. Er präsentiert zudem gegenwärtige Strategien im Umgang mit kolonialen Sammlungen.  
 
-**Koloniale Sammlungen**  
+#### Koloniale Sammlungen  
 
 Kolonialismus ist ein Herrschaftssystem, das etwa zwischen 1500 und der Mitte des 20. Jh. entstand und sich durch ein asymmetrisches Machtverhältnis zwischen einer anpassungsunwilligen Kolonialmacht und einer fremdbestimmten, rechtlich, politisch und kulturell untergeordneten kolonisierten Bevölkerung auszeichnet. Initial waren es westeuropäische Länder, die Regionen in Asien, Afrika und den Amerikas kolonisierten; ab dem späten 19. Jh. kamen auch aussereuropäische Mächte, z.B. Japan oder die USA, dazu.[[76]](#footnote-77) Integraler Bestandteil kolonialer Herrschaft war, dass sie mit einer rassistischen Ideologie legitimiert wurden, die einen hierarchischen, biologisch und/oder kulturellen Unterschied zwischen *weissen* Menschen und *People of Colour* behauptete.[[77]](#footnote-78) Eine Sammlung ist als ‹kolonial› zu qualifizieren, wenn sie im Kontext solcher kolonialer Herrschafts- und kolonialrassistischer Denkstrukturen entstand.  
 
-**Primäre koloniale Sammlungen**  
+#### Primäre koloniale Sammlungen  
 
 ‹Primär› bedeutet, dass die Sammlungsobjekte direkt von den Kolonien in die Schweiz gelangten.  
 
@@ -613,7 +668,7 @@ Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Obje
 
 In der Schweiz dienten koloniale Sammlungen vor allem dazu, Schweizer:innen mit ‹fremden› Kulturen sowie der ‹exotischen› Natur, die sie bewohnten, vertraut zu machen. Die Objekte wurden oft als materielle Beweise für die «zivilisatorische Unterlegenheit» kolonisierter Menschen präsentiert und legitimierten damit die Kolonialherrschaft mit. Durch Betrachtung ‹exotischer› Objekte konnten sich Schweizer Museumsbesuchende zudem vom kolonisierten ‹Anderen› abgrenzen (sog. *Othering*) und sich dadurch ihrer Zugehörigkeit zu einer ‹zivilisierten› europäischen Kultur vergewissern (siehe Abschnitt «Koloniale Rezeptionsobjekte»).[[82]](#footnote-83)  
 
-**Sekundäre koloniale Sammlungen**  
+#### Sekundäre koloniale Sammlungen  
 
 Sekundäre koloniale Sammlungen wurden indirekt über Drittstaaten aus den Kolonien in die Schweiz transportiert oder setzen sich nur teilweise aus Objekten mit kolonialer Herkunft zusammen.  
 
@@ -621,17 +676,17 @@ Einerseits wurden viele sogenannte *Ethnographica*, Antiquitäten oder Tierpräp
 
 Andererseits wurden in vielen in Europa hergestellten Kunstwerken, Werkzeugen oder Instrumenten koloniale Rohstoffe wie Kautschuk oder Palmöl verarbeitet.[[85]](#footnote-86) In den Sammlungen der ETH Zürich befinden sich beispielsweise wissenschaftliche Instrumente, die aus Elfenbein hergestellt wurden – ein Material, das lange über koloniale Handelsnetzwerke nach Europa gelangte. Aufgrund der lückenhaften Quellenlage können chemische Analysen helfen, einen möglichen Rückschluss auf die Provenienz solcher Rohstoffe zu ziehen. Inwiefern sie sich aber definitiv bestimmen lässt, ist derzeit unklar.[[86]](#footnote-87)  
 
-**Koloniale Rezeptionsobjekte**  
+#### Koloniale Rezeptionsobjekte  
 
 Rezeptionsobjekte wurden zwar nicht physisch aus Kolonien entwendet, geben aber das rassistische Weltbild der Kolonialmächte wieder.[[87]](#footnote-88) Dazu zählen beispielsweise sexualisierte Darstellungen kolonisierter Frauen auf Fotografien, Gemälden und in Werbungen oder Kolonialromane, die ein romantisiertes Bild der Kolonialzeit präsentierten.[[88]](#footnote-89) Noch heute tragen Rezeptionsobjekte rassistische Repräsentationen (ehemals) kolonisierter Menschen weiter und sollten daher nicht frei und unkritisch reproduziert werden.  
 
 Ein aktuelles Beispiel ist das ABC-Wandbild, das im Berner Schulhaus Wylergut hing. Dieses vermittelte Schüler:innen das Alphabet anhand kolonialrassistischer Begriffe und Stereotypen. Als Resultat von Interventionen antirassistischer Aktivist:innen hing das Wandbild im Bernischen Historischen Museum, wo es im Zusammenhang mit der Schweizer Kolonial- und Rassismusgeschichte gezeigt wurde.[[89]](#footnote-90)  
 
-**Problematische & sensible Sammlungen**  
+#### Problematische & sensible Sammlungen  
 
 Nicht jede als ‹kolonial› eingestufte Sammlung ist zwangsläufig ‹problematisch›. Vielmehr dient die Qualifizierung ‹kolonial› als Indikator, dass der Erwerbskontext näher untersucht werden soll, um ‹problematische› und ‹sensible› Sammlungsbestände zu identifizieren.  
 
-**Problematische Erwerbskontexte**  
+#### Problematische Erwerbskontexte  
 
 Ein Erwerbskontext ist problematisch, wenn Objekte unter Androhung oder Ausübung von Zwang oder Gewalt angeeignet wurden. Ein prominentes Beispiel sind die Benin-Bronzen, die 1897 im Zuge einer britischen Strafexpedition gewaltsam aus dem Königreich Benin entwendet wurden. Über den internationalen Kunstmarkt gelangten 96 bisher identifizierte Exemplare auch in Schweizer Sammlungen.[[90]](#footnote-91)  
 
@@ -639,7 +694,7 @@ Auch von tiefen Abhängigkeitsverhältnissen geprägte Erwerbskontexte können a
 
 Ein wesentlicher Bestandteil der Dekolonialisierung von Sammlungen besteht darin, nach der Identifizierung ‹problematischer› Sammlungen aktive Restitutionsbemühungen einzuleiten – auch wenn es in der Schweiz noch keine rechtliche Verpflichtung dazu gibt. Unter Restitution versteht man die Rückgabe der Eigentumsrechte an die Herkunftsgesellschaften oder deren Nachkommen.[[92]](#footnote-93) So werden im Rahmen der Schweizer Benin-Initiative beispielsweise Verhandlungen über den Eigentums(rück-)transfer der zuvor erwähnten Benin-Bronzen aufgenommen.[[93]](#footnote-94)  
 
-**Problematische & sensible Objekte**  
+#### Problematische & sensible Objekte  
 
 Objekte in kolonialen Sammlungen können unabhängig vom Erwerbskontext ‹problematisch› sein, wenn ihnen von den Herkunftsgesellschaften eine besondere Bedeutung zugeschrieben wird. Das betrifft etwa Gegenstände, die in der Gegenwart als wichtiger Teil des Kulturerbes angesehen oder zur Ausübung ritueller oder religiöser Handlungen verwendet werden. Als ‹sensibel› bezeichnet man Objekte, die einer besonderen Behandlung oder Aufbewahrung im Herkunftskontext bedürfen. Im Fall ‹sensibler› Objekte ist die Rückgabe an die Herkunftsgesellschaften aus dekolonialer Perspektive naheliegend.[[94]](#footnote-95)  
 
@@ -647,7 +702,9 @@ Ein Beispiel wäre die bolivianische Götterfigur Ekeko, die 1858 vom Glarner Fo
 
 Koloniale Sammlungsbestände und problematische Erwerbskontexte müssen erforscht und transparent gemacht werden. Dadurch lässt sich zeigen, wie Schweizer Sammlungen von kolonialen Herrschaftsverhältnissen profitierten und eine zentrale Rolle bei der Produktion und Zirkulation von kolonialrassistischen Ideologien und Darstellungen hatten. Ebenso sollte der aktive Austausch mit Herkunftsgesellschaften kolonialer Sammlungen angestossen werden, um ‹problematische› und ‹sensible› Objekte zu identifizieren und gezielt Restitutionsprozesse einzuleiten.[[96]](#footnote-97)  
 
-Die Auseinandersetzung mit der kolonialen Vergangenheit ist ein wichtiger Schritt, um die gegenwärtige Fortsetzung kolonialer Repräsentations- und Sammlungspraktiken zu überwinden.  
+[[end:external]]
+
+[[start:literature]]
 
 **Literatur**  
 
@@ -717,9 +774,11 @@ Wörrle, Bernhard: Die dunkle Seite der Technik. Koloniale Materialien, Blog des
 
 Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.  
 
+[[end:literature]]
+
 # Communities, Sammlungen und Sorgfalt  
 
-**Autorinnen**  
+#### Autorinnen  
 
 Mariama de Brito Henn (sie/ihr) ist Textil- und Modehistorikerin und Universitätsassistentin am Fakultätszentrum für transdisziplinäre historisch-kulturwissenschaftliche Studien an der Universität Wien. In ihrem Dissertationsprojekt erforscht sie die ästhetischen Praxen afro-spiritueller Religionen Amerikas.  
 
@@ -727,11 +786,11 @@ Prof. Dr. Dr. Noémie Etienne (sie/ihr) ist Kunsthistorikerin und Professorin am
 
 Ruby Satele Asiata (sie/ihr) ist Anthropologin, Museologin und Universitätsassistentin für das Global Conservation Project am Fakultätszentrum für transdisziplinäre historisch-kulturwissenschaftliche Studien an der Universität Wien. Sie forscht zu kulturellem Erbe aus dem Pazifikraum.  
 
-**Abstract**  
+#### Abstract  
 
 Die Dokumentation von Objekten ist nie neutral, sondern spiegelt die vorherrschenden Machtgefüge wider. Diskriminierungskritische Museumsarbeit erfordert eine Erweiterung des Wissens um die Objekte und deren Einbettung in ihren kulturellen Kontext. Die Autorinnen zeigen anhand zweier Ausstellungen auf, wie das kritische Hinterfragen sowie die Erweiterung des Wissens um die Objektgeschichte die Deutung, Präsentation und Wahrnehmung des kulturellen Erbes beeinflusst und verändert.  
 
----  
+[[start:external]]
 
 Worte spiegeln Vorstellungen wider. Sie formen Identitäten und kreieren neue Realitäten. Oftmals gibt es mehr als nur einen Begriff, um etwas zu beschreiben. Beschreiben und Dokumentieren sind zentrale Mittel für das Verständnis von Sammlungen und die Arbeit mit Datenbanken. Die vermeintliche Neutralität der Dokumentation ist jedoch in den Fokus aktueller post- und dekolonialer Debatten geraten.[[97]](#footnote-98) So scheinen Datenbanken, Depots und Restaurierungslabors zeitlos zu sein und eine vermeintliche Objektivität auszustrahlen. Aktuelle Diskussionen, experimentelle Praktiken und community-basierte Projekte verdeutlichen jedoch, dass die Wahl der verwendeten Begriffe und die Priorisierung bestimmter Sprachformen stets auch eine Reflexion gesellschaftlicher und kultureller Machtverhältnisse ist.  
 
@@ -763,7 +822,9 @@ Die Absicht, Informationen und Wissen zu ergänzen oder zu verbessern, hat viele
 
 Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im Ausstellungs- und Museumskontext übersetzen, sei es von westlichen Sprachen in indigene oder umgekehrt: erstens, um den Bedürfnissen der lokalen Bevölkerung gerecht zu werden; zweitens, zur Steigerung des kulturellen Anreizes der Ausstellung durch die gezielte Einbindung der Herkunftsgesellschaften und ihrer Sprachen; und drittens, um den Lerneffekt für die Besucher:innen zu erhöhen.[[112]](#footnote-113)  
 
-Dabei geht die Frage nach der Inklusion über die Übersetzung hinaus und der Fokus liegt auf der Re-Indigenisierung von Wissen und Konzepten in musealen Räumen. Wir sollten die indigene Perspektive und Sprache als Ausgangspunkt nehmen, anstatt englische oder deutsche Texte und Konzepte in indigene Sprachen übersetzen zu lassen. Darüber hinaus ist es bei der Dekolonisierung des Museums wichtig, neben schriftlichen Quellen auch alternative Ansätze der Erinnerungsvermittlung zu berücksichtigen, wie beispielsweise den Bereich der Oral History. Das Erzählen von Geschichten hat in der Vermittlung und Übermittlung von Informationen eine lange Tradition, wie z. B. in den pazifischen Moana-Gesellschaften. Solche mündlichen Traditionen sind unverzichtbar für die Bewahrung der Kultur, weshalb das Erzählen eine zentrale Rolle dabei spielt, das Verständnis zu fördern und die kulturellen Schätze in unseren Sammlungen richtig zu kontextualisieren.[[113]](#footnote-114) Wir sollten uns vom eurozentrischen Verständnis von Geschichtsschreibung lösen und andere Epistemologien nicht nur anerkennen, sondern auch als gleichwertig betrachten. Nur so können wir die noch immer in unseren Institutionen verankerten Stränge des Kolonialismus entwirren.  
+[[end:external]]
+
+[[start:literature]]
 
 **Literatur**  
 
@@ -799,23 +860,25 @@ Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documenta
 
 Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
 
+[[end:literature]]
+
 # Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung  
 
-**Autorin**  
+#### Autorin  
 
 Danielle Audrey Isler (sie/ihr) ist Sozialwissenschaftlerin und Doktorandin an der International Graduate School for African Studies der Universität Bayreuth. Sie forscht zu rassifizierten und exkludierenden Räumen und zu Themen wie Rassismus, Inklusion, Teilhabe und Selbstermächtigung.  
 
-**Abstract**  
+#### Abstract  
 
 Soziale Räume sind stets reguliert und daher sowohl inkludierend, als auch exkludierend. In ihrem Beitrag überträgt Danielle Isler das von ihr in Zusammenarbeit mit Prof. Katharina Schramm entwickelte Konzept des «Geweissten Raumes» als eine spezifische, rassifizierte Art des sozialen Raumes auf kulturhistorische Museen und Sammlungen. Sie zeigt, dass diese aufgrund ihrer Geschichte, der Entwicklung in Europa und ihrer kolonialen Vergangenheit nicht allen Menschen gleichermassen offenstehen.  
 
----  
+[[start:external]]
 
 Gemäss dem US-amerikanischen Museologen John E. Simmons existieren Museen im weitesten Sinne spätestens seit der Antike.[[114]](#footnote-115) Viele kulturhistorische Museen im Westen teilen die Eigenschaft, dass sie aus kolonialen Bestrebungen hervorgegangen[[115]](#footnote-116) sind und vor allem dazu dienten, die ‹Beute› der Kolonialisierung zu beherbergen[[116]](#footnote-117). Die Folge der Kolonisierung war die Objektivierung Schwarzer Körpern und im Allgemeinen People of Colour (PoC)[[117]](#footnote-118)-Körpern und der damit einhergehende Raub ihrer Menschlichkeit, Würde und Individualität. Verschiedene, vor allem westliche museale Institutionen hatten oder haben diese Normen und Praktiken zu einem gewissen Grad übernommen.[[118]](#footnote-119) Der kamerunische Historiker und Politologe Achille Mbembe bezweifelt, dass sich an der Objektivierung Schwarzer Menschen viel geändert hat. Er stellt die provokative und reflexive Frage, ob Schwarze Menschen nicht immer noch im Grunde «person-objects» (deutsch *Personenobjekte*) sind, insbesondere im Zusammenhang mit musealen Institutionen.[[119]](#footnote-120) Das koloniale Erbe von musealen Institutionen widerspiegelt sich noch heute nicht nur in den Sammlungen und deren Zusammensetzung, sondern auch in ihrer Ausstellungskultur, in Dokumentationspraktiken und deren Sprache, in ihren Vermittlungsangeboten, in der Zielgruppendefinition, um nur ein paar wenige Beispiele zu nennen.  
 
 Museen und museale Institutionen weltweit befinden sich im Prozess der Dekolonisierung,[[120]](#footnote-121) und es gibt zahlreiche Bestrebungen, Ansätze, Strategien wie auch Diskussionen darüber, wie Museen dekolonial neu gedacht werden können oder sollen. Wie beispielsweise mit Objekten mit einer belasteten Geschichte oder wie mit den oben genannten Punkten in Bezug auf das koloniale Erbe umgegangen werden sollte,[[121]](#footnote-122) sind Fragen, welche GLAM-Institutionen gegenwärtig angehen.  
 
-**Museen als geweisste Räume**  
+#### Museen als geweisste Räume  
 
 Gleichzeitig hinterfragen Forschende wie die US-amerikanischen Museologinnen Brandie Macdonald und Kara Vetter, ob Museen überhaupt dekolonisiert werden können, da viele dieser Institutionen aus Kolonialprojekten hervorgegangen sind und die Wurzeln und Ursprünge von Museen in kolonialen Bestrebungen liegen.[[122]](#footnote-123) Die kanadischen und britischen Sozialwissenschaftlerinnen Kathy Sanford, Darlene Clover, Nancy Taber und Sarah Williamson führen weiter aus, dass trotz der Bemühungen um Inklusion ein Grossteil der Museen weltweit weiterhin männlich, elitär und eurozentrisch geprägt geblieben ist.[[123]](#footnote-124) Historische Informationen und Diskurse, insbesondere über den Globalen Süden, würden oft – so die Wissenschaftlerinnen – immer noch unzureichend hinterfragt. Auf diese Weise werden männliche, elitäre, eurozentrische Perspektiven in und um Museen herum aufrechterhalten.[[124]](#footnote-125) Aufgrund ebendieser Historizität[[125]](#footnote-126) und dieses kolonialen Erbes werden Museen nicht nur mit Kolonialismus oder Eurozentrismus in Verbindung gebracht, sondern auch mit «Weiss-Sein» (englisch Whiteness)[[126]](#footnote-127) oder «Weisser Vorherrschaft» (englisch White Supremacy).[[127]](#footnote-128)  
 
@@ -837,7 +900,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © KZH  
 
-**Auswirkungen von geweissten Räumen**  
+#### Auswirkungen von geweissten Räumen  
 
 Geweisste Räume führen durch ihre ausschliessenden Eigenschaften direkt und indirekt auch zu Handlungsanweisungen für BIPoC. Zum Beispiel, dass sich eine BIPoC in einem geweissten Raum in der Schweiz so ‹schweizerisch› wie möglich zu verhalten hat, z.B. pünktlich, nicht zu laut und zurückhaltend sein, bei rassistischer Sprache schweigen, sich auf eine ‹westliche› Art kleiden, bestimmte Themen nicht ansprechen, akzeptieren, dass sie eine gesamte Kultur oder rassifizierte Gruppe repräsentiert. Die Befolgung dieser impliziten und expliziten Anweisungen kann BIPoC vor (mehr) Mikro- und Makroaggressionen schützen.  
 
@@ -848,6 +911,10 @@ Um Inklusion, Teilhabe und Gerechtigkeit zu erreichen, sollten Museen als geweis
 Der kanadische Archäologe und Museologe Robert R. Janes plädiert dafür, dass es, um als Organisation weiterzukommen, ein Lernen braucht, das hinterfragt und sich mit schwierigen und unbequemen Fragen auseinandersetzt und das Selbstkritik wie auch (Selbst-)Reflexion beinhaltet.[[137]](#footnote-138)  
 
 Ähnlich argumentiert die Autorin, dass museale Institutionen, die generell als geweisst gelten, um im Dekolonisierungsprozess weiterzukommen, bereit sein müssen, Neues dazuzulernen, Dinge zu verlernen, in Frage zu stellen, von Grund auf zu erforschen, sich schwierigen und unbequemen Themen zu stellen, Selbstkritik und Selbstreflexion zu üben, und dies konstant, da, wie Sara Ahmed schreibt, Weiss-Sein eine unvollendete Geschichte zu sein scheint. [[138]](#footnote-139)  
+
+[[end:external]]
+
+[[start:literature]]
 
 **Literatur**  
 
@@ -954,6 +1021,8 @@ Wintle, Claire: Decolonising UK World Art Institutions, 1945–1980, in: On Cura
 Withington, Vanessa: Decolonising the Museum? Dilemmas, Possibilities, Alternatives, in: Culture Unbound 13 (2), 2021, S. 245–269.  
 
 Yancy, George: Look, a White!: Philosophical Essays on Whiteness, Philadelphia 2012.  
+
+[[end:literature]]
 
 # Interne Verwendung und Veröffentlichung von Daten  
 
@@ -1403,7 +1472,7 @@ Beim Objekt mit Inv. Nr. H/47660 handelt es sich um eine mechanische Sparbüchse
 
 Titel:  
 
-Der ursprünglich im Inventarbuch verwendete Titel wird im Titelfeld nicht historisiert. Allerdings wird im Erklärungstext zu den historischen Kontexten/Problematik (s. u. Erfassung des historischen Kontexts/Problematik) dokumentiert, wie der ursprüngliche Titel lautete und wo er festgehalten war. Neu wird der Titel «Sparbüchse in Form einer Karikatur eines Schwarzen Mannes» vergeben.  
+Der ursprünglich im Inventarbuch verwendete Titel wird im Titelfeld nicht historisiert. Allerdings wird im Erklärungstext zu den historischen Kontexten/Problematik (s.u. Erfassung des historischen Kontexts/Problematik) dokumentiert, wie der ursprüngliche Titel lautete und wo er festgehalten war. Neu wird der Titel «Sparbüchse in Form einer Karikatur eines Schwarzen Mannes» vergeben.  
 
 Deklaration als rassistisches Objekt:  
 
@@ -1411,7 +1480,7 @@ Das Objekt wird mit der Klassifizierung «Rassistischer Inhalt/Darstellung» ver
 
 Erfassung des historischen Kontexts/Problematik:  
 
-Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläutert (s. o. Kontext) und der ursprünglich verwendete Titel festgehalten.  
+Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläutert (s.o. Kontext) und der ursprünglich verwendete Titel festgehalten.  
 
 ## **Fallbeispiel** 3  
 
@@ -1443,7 +1512,7 @@ Klassifikation: Stickvorlage
 
 Datum: Um 1900  
 
-Inschrift (Titel): «NEGER-STICK-BUCH sic!», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
+Inschrift (Titel): «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
 
 Schlagworte: -  
 
@@ -1457,7 +1526,7 @@ Bei diesem Objekt handelt es sich um eine Seite aus einer Stickmustersammlung. D
 
 Abbildung 24: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons  
 
-Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des Objekts wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem Objekt somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von Objekten des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen, wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis sic! und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
+Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des Objekts wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem Objekt somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von Objekten des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen, wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
 **Bearbeitungen in der Datenbank:**  
 
@@ -2295,10 +2364,6 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 
 # Impressum  
 
-Projektleitung  
-
-Schweizerisches Nationalmuseum (SNM), Céline Hug und Dario Donati  
-
 Mitwirkende Institutionen:  
 
 Bernisches Historisches Museum, Barbara Weber  
@@ -2313,70 +2378,45 @@ Museum für Kommunikation, Bern, Jonas Bürgi
 
 Fotostiftung Schweiz, Michèle Dick  
 
-Schweizerisches Nationalmuseum (SNM), Céline Hug und Dario Donati  
+Schweizerisches Nationalmuseum, Céline Hug und Dario Donati  
 
 Stiftung für Kunst, Kultur und Geschichte (SKKG), Sonja Gasser  
 
 Konzept- und Projektbegleitung:  
-
 Danielle Isler  
 
 Textbeiträge:  
-
 Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, Chonja Lee, Monique Ligtenberg, Ruby Satele Asiata  
 
 Fotos  
-
 Siehe Copyright-Angaben  
 
 Design/Entwicklung  
-
 Astrom / Zimmer & Tereszkiewicz  
 
 Lektorat  
-
 Fachübersetzungsdienst  
 
 Dank  
 
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
-Pierre-Louis Blanchard  
-
 Heidi Brunner  
-
 Mariama de Brito Henn  
-
 Noémie Etienne  
-
 Erika Hebeisen  
-
 Danielle Isler  
-
 Annette Kniep  
-
 Chonja Lee  
-
 Jonas Lendenmann  
-
 Monique Ligtenberg  
-
 Isabelle Münzner  
-
 Ruby Satele Asiata  
-
 Mira Shah  
-
 Marilyn Umurungi  
-
 Laura Walde  
-
 Balthasar Zimmermann  
-
-Christine Müller  
-
+Christine Müller Stalder  
 Sabina Horber  
-
-Roberto Zaugg  
 
 Alle Mitglieder der Geschäftsleitungen der beteiligten Institutionen  
