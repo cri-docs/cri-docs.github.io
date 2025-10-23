@@ -42,7 +42,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![alt:, extra:](/images/image007.jpg)  
 
-Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © KZH  
+Abbildung 8: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © KZH  
 
 #### Auswirkungen von geweissten Räumen  
 

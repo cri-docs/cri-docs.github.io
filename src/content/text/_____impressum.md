@@ -2,8 +2,8 @@
 title: "Impressum"
 short_title: "Impressum"
 slug: "impressum"
-order: 220
-index: 16
+order: 200
+index: 14
 color: "default"
 toc:
 ---
@@ -32,13 +32,13 @@ Danielle Isler
 Textbeiträge:  
 Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, Chonja Lee, Monique Ligtenberg, Ruby Satele Asiata  
 
-Fotos  
+Fotos:  
 Siehe Copyright-Angaben  
 
-Design/Entwicklung  
+Design/Entwicklung:  
 Astrom / Zimmer & Tereszkiewicz  
 
-Lektorat  
+Lektorat:  
 Fachübersetzungsdienst  
 
 Dank  

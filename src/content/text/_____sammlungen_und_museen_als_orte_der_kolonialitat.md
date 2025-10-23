@@ -42,7 +42,7 @@ Die Herausforderung der Museen besteht heute darin, die Geschichte und das epist
 
 ![alt:Ein Bild, das Schuhwerk, Person, Boden, Im Haus enthält., extra:](/images/image004.jpg)  
 
-Abb. 1: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf  
+Abbildung 5: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf  
 
 [[end:external]]
 

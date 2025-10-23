@@ -2,8 +2,8 @@
 title: "Nachwort"
 short_title: "Nachwort"
 slug: "nachwort"
-order: 200
-index: 14
+order: 180
+index: 12
 color: "default"
 toc:
 ---
