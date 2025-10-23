@@ -1,7 +1,7 @@
 ---
 title: "Erste Schritte einer rassismus und diskriminierungskritischen Dokumentation"
-short_title: "Erste Schritte einer rassismus und diskriminierungskritischen Dokumentation"
-slug: "erste_schritte_einer_rassismus_und_diskriminierungskritischen_dokumentation"
+short_title: "Erste Schritte"
+slug: "erste_schritte"
 order: 70
 index: 1
 color: "default"
@@ -70,15 +70,11 @@ Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Z
 
 **Weiterführende Literatur**  
 
-• Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023  
-
-• Arnold, Rick u. a.: Educating for a change, Toronto 1991  
-
-• Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022  
-
-• Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021  
-
-Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018  
+* Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023  
+* Arnold, Rick u. a.: Educating for a change, Toronto 1991  
+* Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022  
+* Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021  
+* Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018  
 
 [[end:literature]]
 

@@ -252,7 +252,7 @@ Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunkti
 
 [[end:literature]]
 
-## Eckpfeiler und Rahmenbedingungen des Handbuchs  
+## Eckpfeiler und Rahmenbedingungen des Handbuchs [[Eckpfeiler und Rahmenbedingungen]]  
 
 Das vorliegende Handbuch versteht sich als praxisnahe Hilfestellung für Institutionen im deutschsprachigen Raum, insbesondere für kultur- und kunsthistorische Sammlungen. In seiner ersten, vorliegenden Version fokussiert es auf koloniale Formen von Rassismus mit spezifischem Fokus auf Anti-Schwarzen-Rassismus[[5]](#footnote-6). Dies ist vor allem darauf zurückzuführen, dass sich die beteiligten Institutionen im Kontext der Dekolonisierung kritisch mit ihren Sammlungs- und Archivbeständen auseinandersetzen, in denen sich Objekte[[6]](#footnote-7) kolonialer Provenienzen und/oder sogenannte koloniale Rezeptionsobjekte[[7]](#footnote-8) befinden.  
 
@@ -293,7 +293,7 @@ Stiftung für Kunst, Kultur und Geschichte (SKKG), Sonja Gasser
 Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
 [[end:about]]
 
-# Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation  
+# Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]]  
 
 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, **Rassismen zu erkennen**, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Die Umsetzung einer antirassisistischen Dokumentationspraxis ist ein kontinuierlicher Prozess, der nie abgeschlossen ist und stets erneut kritisch hinterfragt und angepasst werden muss. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus zu klären, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben sowie Lösungsansätze zu präsentieren.  
 
@@ -353,15 +353,11 @@ Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Z
 
 **Weiterführende Literatur**  
 
-• Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023  
-
-• Arnold, Rick u. a.: Educating for a change, Toronto 1991  
-
-• Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022  
-
-• Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021  
-
-Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018  
+* Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023  
+* Arnold, Rick u. a.: Educating for a change, Toronto 1991  
+* Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022  
+* Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021  
+* Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018  
 
 [[end:literature]]
 
@@ -560,7 +556,7 @@ Abbildung 5: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Im
 
 [[end:literature]]
 
-# Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen  
+# Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]]  
 
 #### Autorin  
 
@@ -741,7 +737,7 @@ Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im
 
 [[end:literature]]
 
-# Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung  
+# Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]]  
 
 #### Autorin  
 
@@ -852,7 +848,7 @@ Anderson, Derek: An Epistemological Conception of Safe Spaces, in: Social Episte
 
 [[end:literature]]
 
-# Interne Verwendung und Veröffentlichung von Daten  
+# Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Interne Verwendung und Veröffentlichung von Daten]]  
 
 Informationen, die als Metadaten[[139]](#footnote-140) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet. So zum Beispiel bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der Objekte in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von Objekten in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[140]](#footnote-141) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und Objekte online einem breiten Publikum zur Verfügung stehen und welche nicht.  
 
@@ -1168,7 +1164,7 @@ Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 * Sofern die Aufarbeitung noch in einer frühen Phase steht, kann es hilfreich sein, dies offen zu kommunizieren und den geplanten Entwicklungsprozess transparent darzustellen. Eine solche Kommunikation zeigt Verantwortungsbewusstsein und signalisiert, dass das Thema ernst genommen wird. Dabei kann betont werden, dass rassismuskritische Dokumentationsarbeit ein langfristiger Prozess ist, der sich schrittweise in bestehende Arbeitsabläufe integrieren lässt. Auch kleinere Massnahmen wie etwa eine allgemeine Inhaltswarnung oder die Kennzeichnung einzelner problematischer Titel können erste wichtige Schritte sein. Entscheidend ist, dass eine klare Haltung erkennbar wird, und dass nachvollziehbar transparent gemacht wird, welche nächsten Schritte und in welchem Zeitrahmen geplant sind.  
 * Transparente Kommunikation und die Möglichkeit für Rückmeldungen fördern eine kritische Reflexion. Eine Offenheit für neue Perspektiven und verschiedene Expertisen ist wertvoll, um eigene Schwachstellen aufzudecken. Eine Kontaktadresse oder ein Kontaktformular kann diesen Austausch unterstützen.  
 
-# Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung  
+# Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]]  
 
 ## Bernisches Historisches Museum  
 
@@ -1277,7 +1273,7 @@ Die Sammlung im Umfang von rund 100’000 Kunstwerken und historischen Objekten 
 
 Über die «Sammlung digital» ist die Sammlung der SKKG seit Anfang März 2025 zum ersten Mal online zugänglich.[[174]](#footnote-175) Seither weist ein Disclaimer die Öffentlichkeit auf die Weiterarbeit an der Sammlungsdokumentation und damit der laufenden Verbesserung der Daten hin.[[175]](#footnote-176) Dazu gehört u.a. die kritische Auseinandersetzung mit diskriminierungskritischen Themen und dass die daraus hervorgehenden Ergebnisse im Laufe der Zeit sichtbar werden. In den Frequently Asked Questions (FAQs) ist festgehalten, dass die Titel und weiteren Angaben zu den Kunstwerken und Objekten weitestgehend von Auktionshäusern stammen und von der SKKG nicht weiter überprüft, recherchiert und überarbeitet wurden. Einschlägige Wörter sind zurzeit komplett lesbar (ohne die Verwendung von Sternchen), auch Bilder mit diskriminierenden Motiven werden angezeigt und sind aktuell weder kommentiert noch kontextualisiert. Teilweise werden schon jetzt mehrere Objekt- bzw. Werktitel parallel geführt, sodass ein neutral formulierter als bevorzugter Titel verwendet und auch in den Suchresultaten angezeigt wird, problematischere Titel jedoch als alternative Titel zu finden sind. Was aussteht, sind Texte auf der «Sammlung digital», die vorhandene Problematiken objektspezifisch oder objektübergreifend adressieren und kontextualisieren.  
 
-# Grundsätze in der Überarbeitung von Datensätzen  
+# Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Grundsätze in der Überarbeitung von Datensätzen]]  
 
 Die Überarbeitung von Datensätzen ist eine Gratwanderung zwischen verschiedenen Anforderungen an die Dokumentationspraxis. Einerseits soll der Reproduktion von Rassismus in den Datensätzen entgegengewirkt werden und damit historisch belastete Begriffe, Motive und Ideologien aus den Datensätzen entfernt werden. Andererseits heisst Dokumentieren auch immer, die Sammlungsgeschichte und die Quellenlage transparent zu halten und die Auffindbarkeit von Datensätzen und Informationen zu gewährleisten. Dies spricht gegen das Entfernen belasteter Begriffe. Historische Forschung zu ermöglichen, ist ein verpflichtender Grundsatz, dem sich Museen mit den Ethischen Richtlinien des ICOM verschrieben haben. Das bedeutet, dass Begriffe nicht einfach aus den Datensätzen entfernt und Datensätze nicht überarbeitet werden können, wenn die Rekonstruktion dieser Änderungen nicht gewährleistet ist. Die Arbeitsgruppe empfiehlt in diesem Zusammenhang, Überarbeitungen jeglicher Art zu dokumentieren – sei dies durch eine Änderungshistorie, die in der Datenbank implementiert ist, oder durch einen internen Verweis in einer Auflistung. Es sollte in der Datenbank nachvollziehbar sein, welche Änderungen vorgenommen werden, wie problematische Inhalte kontextualisiert und kritische Auseinandersetzungen gekennzeichnet werden.  
 

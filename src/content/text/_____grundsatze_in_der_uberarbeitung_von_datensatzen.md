@@ -1,5 +1,5 @@
 ---
-title: "Grundsätze in der Überarbeitung von Datensätzen"
+title: "Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen"
 short_title: "Grundsätze in der Überarbeitung von Datensätzen"
 slug: "grundsatze_in_der_uberarbeitung_von_datensatzen"
 order: 140

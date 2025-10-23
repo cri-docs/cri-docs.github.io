@@ -7,7 +7,7 @@ index: 0
 color: "default"
 toc:
   - level: 2
-    title: "1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs"
+    title: "1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs Eckpfeiler und Rahmenbedingungen"
 ---
 
 Das Thema [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus)[[1]](#footnote-2) und die damit verbundene kritische Reflexion der eigenen Sammlungs- und Dokumentationspraxis hat in den letzten Jahren zunehmend an Bedeutung gewonnen. Die Restitution von geraubtem Kulturerbe in der Schweiz hat eine lange Geschichte[[2]](#footnote-3), die durch die Provenienzforschung, der im Kontext des Nationalsozialismus geraubten Kulturgüter ihren Höhepunkt erreichte. Diese Erforschung leistete wichtige Vorarbeit für die Fragen, die sich ethnologische und ethnografische Sammlungen und Museen in Zusammenhang mit Provenienzen aus kolonialen Kontexten stellten. Die daraus erstarkten Diskussionen um Dekolonisierung haben in den letzten Jahren weitere Museen und Sammlungen erfasst und werden zunehmend auch in naturhistorischen[[3]](#footnote-4) Sammlungen und Museen geführt.  
@@ -48,7 +48,7 @@ Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunkti
 
 [[end:literature]]
 
-## 1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs  
+## 1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs [[Eckpfeiler und Rahmenbedingungen]]  
 
 Das vorliegende Handbuch versteht sich als praxisnahe Hilfestellung für Institutionen im deutschsprachigen Raum, insbesondere für kultur- und kunsthistorische Sammlungen. In seiner ersten, vorliegenden Version fokussiert es auf koloniale Formen von Rassismus mit spezifischem Fokus auf Anti-Schwarzen-Rassismus[[5]](#footnote-6). Dies ist vor allem darauf zurückzuführen, dass sich die beteiligten Institutionen im Kontext der Dekolonisierung kritisch mit ihren Sammlungs- und Archivbeständen auseinandersetzen, in denen sich Objekte[[6]](#footnote-7) kolonialer Provenienzen und/oder sogenannte koloniale Rezeptionsobjekte[[7]](#footnote-8) befinden.  
 

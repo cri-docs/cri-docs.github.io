@@ -1,5 +1,5 @@
 ---
-title: "Interne Verwendung und Veröffentlichung von Daten"
+title: "Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung"
 short_title: "Interne Verwendung und Veröffentlichung von Daten"
 slug: "interne_verwendung_und_veroffentlichung_von_daten"
 order: 120
