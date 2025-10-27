@@ -37,7 +37,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## 10.1 Der M\*automat  
 
 
-![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image030.jpg)  
+![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image031.jpg)  
 
 [[start:metadata]]
 
@@ -45,19 +45,19 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:before]]
 
-Inventarnummer: DEP-2443  
+**Inventarnummer**: DEP-2443  
 
-Bezeichnung: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
+**Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
 
-Klassifikation: Figurenuhr  
+**Klassifikation**: Figurenuhr  
 
-Datierung: 1646  
+**Datierung**: 1646  
 
-Inschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
 
-Schlagworte: Personenwappen, Hans Rudolf Rahn  
+**Schlagworte**: Personenwappen, Hans Rudolf Rahn  
 
-Herstellung: Augsburg  
+**Herstellung**: Augsburg  
 
 [[end:before]]
 
@@ -65,21 +65,21 @@ Metadaten des bereinigten Datensatzes
 
 [[start:after]]
 
-Inventarnummer: DEP-2443  
+**Inventarnummer**: DEP-2443  
 
-Bezeichnung: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
+**Bezeichnung**: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und exotisierend dargestellt.  
 
-Klassifikation: Figurenuhr  
+**Klassifikation**: Figurenuhr  
 
-Datierung: 1646  
+**Datierung**: 1646  
 
-Inschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
 
-Schlagworte: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+**Schlagworte**: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
 
-Herstellung: Augsburg  
+**Herstellung**: Augsburg  
 
-Inhaltshinweis[[178]](#footnote-179): «Rassifizierung»  
+**Inhaltshinweis**[[178]](#footnote-179): «Rassifizierung»  
 
 [[end:after]]
 
@@ -110,27 +110,33 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[184]
 ## 10.2 Eine Sparkasse  
 
 
-![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image031.jpg)  
+![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image032.jpg)  
+
+[[start:metadata]]
 
 Metadaten des unbereinigten Datensatzes:  
 
-Inventarnummer: H/57166  
+[[start:before]]
 
-Titel: Sparkasse, grössere männliche Negerbüste  
+**Inventarnummer:** H/57166  
+**Titel:** Sparkasse, grössere männliche Negerbüste  
+**Datierung:** um 1900 (Herstellung)  
 
-Datierung: um 1900 (Herstellung)  
+[[end:before]]
 
-Metadaten des überarbeiteten Datensatzes:  
+Metadaten des bereinigten Datensatzes  
 
-Inventarnummer: H/57166  
+[[start:after]]
 
-Titel: Sparbüchse in Form einer Karikatur eines Schwarzen Mannes  
+**Inventarnummer:** H/57166  
+**Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes  
+**Datierung:** um 1900 (Herstellung)  
+**Verschlagwortung:** «Rassistischer Inhalt/Darstellung»  
+**Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)  
 
-Datierung: um 1900 (Herstellung)  
+[[end:after]]
 
-Verschlagwortung: «Rassistischer Inhalt/Darstellung»  
-
-Forschung: Festhalten des historischen Kontexts/Problematik (s. u. Kontext)  
+[[end:metadata]]
 
 **Kontext**  
 
@@ -154,7 +160,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläuter
 ## 10.3 **Die Stickvorlage**  
 
 
-![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
+![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -191,7 +197,7 @@ Inhaltshinweis: «Abwertende Sprache»
 Bei diesem Objekt handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901-1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
-![alt:C:\Users\snmchug\Downloads\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image033.jpg)  
+![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image034.jpg)  
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des Objekts wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem Objekt somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von Objekten des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
@@ -217,7 +223,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 ## 10.4 **Der «Schwarze Peter»**  
 
 
-![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -276,7 +282,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 ## 10.5 **Die Pudding-Werbung**  
 
 
-![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -331,7 +337,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 ## 10.6 **Das Puppenspiel**  
 
 
-![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image036.jpg)  
+![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image037.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -368,7 +374,7 @@ Das Objekt ist, verknüpft mit dem Haupteintrag und den übrigen Teilobjekten, i
 ## 10.7 **Die 12 kleinen N\*lein**  
 
 
-![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image037.jpg)  
+![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image038.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -414,7 +420,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum Objekt erläutert (s
 ## 10.8 **Die Portraitserie**  
 
 
-![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image038.jpg)  
+![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image039.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -487,7 +493,7 @@ Das Objekt wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwort
 ## 10.9 **Die elektrische Reklame für die Schuhcrème**  
 
 
-![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image039.jpg)  
+![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image040.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -533,7 +539,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläuter
 ## 10.10 **Die «exotisch»-erotischen Nippes**  
 
 
-![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image040.jpg)  
+![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image041.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -592,7 +598,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 ## 10.11 **Der Nick-N\***  
 
 
-![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM](/images/image041.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM](/images/image042.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -648,7 +654,7 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 ## 10.12 **Eine Fotoreportage aus den USA**  
 
 
-![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image042.jpg)  
+![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image043.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 

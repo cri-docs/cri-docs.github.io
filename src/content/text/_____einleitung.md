@@ -1,13 +1,11 @@
 ---
-title: "Editorial"
-short_title: "Editorial"
-slug: "editorial"
+title: "Einleitung"
+short_title: "Einleitung"
+slug: "einleitung"
 order: 60
 index: 0
 color: "default"
 toc:
-  - level: 2
-    title: "1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs Eckpfeiler und Rahmenbedingungen"
 ---
 
 Das Thema [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus)[[1]](#footnote-2) und die damit verbundene kritische Reflexion der eigenen Sammlungs- und Dokumentationspraxis haben in den letzten Jahren zunehmend an Bedeutung gewonnen. Die Restitution von geraubtem Kulturerbe in der Schweiz hat eine lange Geschichte[[2]](#footnote-3), die durch die Provenienzforschung, der im Kontext des Nationalsozialismus geraubten Kulturgüter ihren Höhepunkt erreichte. Diese Erforschung leistete wichtige Vorarbeit für die Fragen, die sich ethnologische und ethnografische Sammlungen und Museen in Zusammenhang mit Provenienzen aus kolonialen Kontexten stellten. Die daraus erstarkten Diskussionen um [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus) haben in den letzten Jahren weitere Museen und Sammlungen erfasst und werden zunehmend auch in naturhistorischen[[3]](#footnote-4) Sammlungen und Museen geführt.  
@@ -18,11 +16,24 @@ Mitarbeiter:innen solcher Gedächtnisinstitutionen haben die Aufgabe, dieses Erb
 
 Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunktion ein: Sie verknüpft Forschung, Ausstellung, Vermittlung und partizipative Projekte und sichert deren Inhalte langfristig. Dabei ist sie eng mit anderen musealen Handlungsfeldern verbunden und beeinflusst massgeblich, welche Geschichten erzählt werden und für wen die Gedächtnisinstitution einladend und relevant ist. Denn Sammeln und Dokumentieren sind stets selektive Prozesse, die bestimmten Perspektiven Sichtbarkeit verleihen und andere ausblenden. Dadurch prägen sie nicht nur die institutionelle Erzählung, sondern auch das Selbstverständnis und die gesellschaftliche Rolle von GLAM-Institutionen – insbesondere in Bezug auf Repräsentation und Teilhabe.  
 
+#### Eckpfeiler und Rahmenbedingungen des Handbuchs [[Eckpfeiler und Rahmenbedingungen]]  
+
+Das vorliegende Handbuch versteht sich als praxisnahe Hilfestellung für Institutionen im deutschsprachigen Raum, insbesondere für kultur- und kunsthistorische Sammlungen. In seiner ersten, vorliegenden Version behandelt es primär die kolonialen Formen von Rassismus mit spezifischem Fokus auf Anti-Schwarzen-Rassismus[[5]](#footnote-6). Dies ist vor allem darauf zurückzuführen, dass sich die beteiligten Institutionen im Kontext der Dekolonisierung kritisch mit ihren Sammlungs- und Archivbeständen auseinandersetzen, in denen sich Objekte[[6]](#footnote-7) kolonialer Provenienzen und/oder sogenannte koloniale Rezeptionsobjekte[[7]](#footnote-8) befinden.  
+
+Rassismus und Anti-Schwarzer-Rassismus haben eine lange Geschichte und basieren auf der Vorstellung von «Menschenrassen», die im Wesentlichen durch den Kolonialismus geprägt wurden. Die AG ist sich bewusst, dass das Konstrukt «Rasse» im Verlauf der Geschichte vielfältige Ausprägungen angenommen hat.[[8]](#footnote-9) Ebenfalls weiss die AG um weitere Diskriminierungsformen, die sich in Sammlungsdatenbanken finden und sich oftmals überlagern. Während sich das vorliegende Handbuch auf kolonialen Rassismus fokussiert, wird es die Aufgabe zukünftiger Arbeiten sein, weitere Diskriminierungsformen, wie etwa Sexismus, Ableismus, Gadjé-Rassismus oder Antisemitismus, kritisch zu beleuchten.  
+
+Um die komplexen Zusammenhänge zwischen Rassismus, Kolonialismus und Datenbanken zu verstehen, ist eine Einordnung in den Diskurs der Dekolonisierung von Gedächtnisinstitutionen hilfreich. Dazu wurden vier Wissenschaftlerinnen gebeten, Beiträge zu verfassen. Diese zeigen auf, wie koloniale Denkweisen GLAM-Institutionen historisch geprägt haben und welche Strategien in der Dekolonisierung aktuell verfolgt werden.  
+
+Das Handbuch orientiert sich an den ethischen Richtlinien des ICOM[[9]](#footnote-10) und der neuen Museumsdefinition[[10]](#footnote-11). Öffentliche Kultur- und Sammlungsinstitutionen agieren im Dienst der Gesellschaft, haben eine Vorbildfunktion und einen Bildungsauftrag. Das Handbuch vertritt die Haltung, dass eine rassismuskritische Dokumentationspraxis nicht nur für eine inklusivere Museumsarbeit wichtig ist, sondern auch rassismus- und diskriminierungskritische Forschung und Wissensproduktion unterstützt. Dafür müssen Objekte und historische Dokumentationen zugänglich sein. Gleichzeitig stellt sich die Frage, wie mit der Reproduktion von Begriffen und Bildern rassismussensibel umgegangen werden kann. Für dieses Spannungsverhältnis bietet das Handbuch Orientierung. Darüber hinaus soll es für mögliche Problemfelder sensibilisieren, um gemeinsam erlernte Denkmuster zu reflektieren und einen ersten Schritt in Richtung einer diskriminierungskritischen und inklusiveren Sammlungs- und Dokumentationspraxis zu gehen.  
+
+Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren Institutionen aktiv auseinanderzusetzen und unsere Praxis zu hinterfragen ist ein stetiger Prozess. Das Handbuch bietet deshalb keine endgültigen und abschliessenden Lösungen, sondern zeigt Handlungsoptionen auf. Aufgrund dieser Prozesshaftigkeit soll das Handbuch für künftige Überarbeitungen offen sein.  
+
 [[start:literature]]
 
 **Weiterführende Literatur:**  
 
-* Zum Überblick über die Entwicklung der Diskussion in der Schweiz:  
+**Zum Überblick über die Entwicklung der Diskussion in der Schweiz:**  
+
 * Historisches Lexikon der Schweiz (Hg.): Dossier «Koloniale Verflechtungen der Schweiz», HLS online, 15.04.2025, <<https://hls-dhs-dss.ch/de/dossiers/000033/2025-04-15/>>, Stand 03.09.2025.  
 * Schweizerisches Nationalmuseum (Hg.): Kolonial. Globale Verflechtungen der Schweiz, Zürich 2024.  
 * Ausstellung «Im Dialog mit Benin. Kunst, Kolonialismus und Restitution» im Museum Rietberg, 23.08.2024-16.02.2025, <<https://rietberg.ch/ausstellungen/imdialogmitbenin>>, Stand 03.09.2025.  
@@ -46,15 +57,3 @@ Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunkti
 * National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025.  
 
 [[end:literature]]
-
-## 1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs [[Eckpfeiler und Rahmenbedingungen]]  
-
-Das vorliegende Handbuch versteht sich als praxisnahe Hilfestellung für Institutionen im deutschsprachigen Raum, insbesondere für kultur- und kunsthistorische Sammlungen. In seiner ersten, vorliegenden Version behandelt es primär die kolonialen Formen von Rassismus mit spezifischem Fokus auf Anti-Schwarzen-Rassismus[[5]](#footnote-6). Dies ist vor allem darauf zurückzuführen, dass sich die beteiligten Institutionen im Kontext der Dekolonisierung kritisch mit ihren Sammlungs- und Archivbeständen auseinandersetzen, in denen sich Objekte[[6]](#footnote-7) kolonialer Provenienzen und/oder sogenannte koloniale Rezeptionsobjekte[[7]](#footnote-8) befinden.  
-
-Rassismus und Anti-Schwarzer-Rassismus haben eine lange Geschichte und basieren auf der Vorstellung von «Menschenrassen», die im Wesentlichen durch den Kolonialismus geprägt wurden. Die AG ist sich bewusst, dass das Konstrukt «Rasse» im Verlauf der Geschichte vielfältige Ausprägungen angenommen hat.[[8]](#footnote-9) Ebenfalls weiss die AG um weitere Diskriminierungsformen, die sich in Sammlungsdatenbanken finden und sich oftmals überlagern. Während sich das vorliegende Handbuch auf kolonialen Rassismus fokussiert, wird es die Aufgabe zukünftiger Arbeiten sein, weitere Diskriminierungsformen, wie etwa Sexismus, Ableismus, Gadjé-Rassismus oder Antisemitismus, kritisch zu beleuchten.  
-
-Um die komplexen Zusammenhänge zwischen Rassismus, Kolonialismus und Datenbanken zu verstehen, ist eine Einordnung in den Diskurs der Dekolonisierung von Gedächtnisinstitutionen hilfreich. Dazu wurden vier Wissenschaftlerinnen gebeten, Beiträge zu verfassen. Diese zeigen auf, wie koloniale Denkweisen GLAM-Institutionen historisch geprägt haben und welche Strategien in der Dekolonisierung aktuell verfolgt werden.  
-
-Das Handbuch orientiert sich an den ethischen Richtlinien des ICOM[[9]](#footnote-10) und der neuen Museumsdefinition[[10]](#footnote-11). Öffentliche Kultur- und Sammlungsinstitutionen agieren im Dienst der Gesellschaft, haben eine Vorbildfunktion und einen Bildungsauftrag. Das Handbuch vertritt die Haltung, dass eine rassismuskritische Dokumentationspraxis nicht nur für eine inklusivere Museumsarbeit wichtig ist, sondern auch rassismus- und diskriminierungskritische Forschung und Wissensproduktion unterstützt. Dafür müssen Objekte und historische Dokumentationen zugänglich sein. Gleichzeitig stellt sich die Frage, wie mit der Reproduktion von Begriffen und Bildern rassismussensibel umgegangen werden kann. Für dieses Spannungsverhältnis bietet das Handbuch Orientierung. Darüber hinaus soll es für mögliche Problemfelder sensibilisieren, um gemeinsam erlernte Denkmuster zu reflektieren und einen ersten Schritt in Richtung einer diskriminierungskritischen und inklusiveren Sammlungs- und Dokumentationspraxis zu gehen.  
-
-Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren Institutionen aktiv auseinanderzusetzen und unsere Praxis zu hinterfragen ist ein stetiger Prozess. Das Handbuch bietet deshalb keine endgültigen und abschliessenden Lösungen, sondern zeigt Handlungsoptionen auf. Aufgrund dieser Prozesshaftigkeit soll das Handbuch für künftige Überarbeitungen offen sein.

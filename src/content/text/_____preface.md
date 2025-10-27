@@ -25,7 +25,7 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 ![alt:alt text, extra:](/images/image002.jpg)  
 
 [Historisches Museum Basel](https://www.hmb.ch/)   
-![alt:C:\Users\snmchug\Downloads\HMB-Logo.png, extra:](/images/image003.jpg)  
+![alt:C:\\Users\\snmchug\\Downloads\\HMB-Logo.png, extra:](/images/image003.jpg)  
 
 [Kunsthaus Zürich](https://www.kunsthaus.ch/)   
 ![alt:alt text, extra:](/images/image004.jpg)  
