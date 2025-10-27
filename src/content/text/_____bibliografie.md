@@ -76,7 +76,7 @@ Florin, Moritz: Kommerz und Vielfalt: Diversität in Zirkusunternehmen in den US
 
 Gasser, Michael; Willi, Stephanie: Decolonising Collections. ETH Library’s Current Initiatives, in: Das offene Bibliotheksjournal, 11(4) (E-Book), 2024, S. 1-9. Online: <<https://www.o-bib.de/bib/article/view/6066>/>, Stand: 01.10.2025.  
 
-Glossar für eine rassimussensible Sprache, NoToRacism.ch, 2022, <<https://www.notoracism.ch/glossar>/>, Stand: 25.05.2025.  
+Glossar für eine rassismussensible Sprache, NoToRacism.ch, 2022, <<https://www.notoracism.ch/glossar>/>, Stand: 25.05.2025.  
 
 Gouaffo, Albert: Dekolonisierung, in: Göttsche, Dirk; Dunker, Axel; Dürbeck, Gabriele (Hg.): Handbuch Postkolonialismus und Literatur, Stuttgart 2017, S. 131-133.  
 

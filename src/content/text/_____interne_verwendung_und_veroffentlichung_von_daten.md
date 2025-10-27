@@ -12,13 +12,13 @@ toc:
     title: "7.2 Metadaten in Online-Sammlungen: 5 Ansätze"
 ---
 
-Informationen, die als Metadaten[[139]](#footnote-140) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet. So zum Beispiel bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der Objekte in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von Objekten in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[140]](#footnote-141) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und Objekte online einem breiten Publikum zur Verfügung stehen und welche nicht.  
+Informationen, die als Metadaten[[139]](#footnote-140) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet, etwa bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der Objekte in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von Objekten in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[140]](#footnote-141) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und Objekte online einem breiten Publikum zur Verfügung stehen und welche nicht.  
 
-Um zu entscheiden, welche Inhalte für eine Überarbeitung in Frage kommen, muss ein Bewusstsein darüber geschaffen werden, auf welchen Feldern Rassismen reproduziert werden. Auf dieser Grundlage kann der Entscheid fallen, ob und wie diese nach aussen vermittelt werden. Die folgenden Kapitel geben dazu einen Überblick.  
+Um zu entscheiden, welche Inhalte für eine Überarbeitung infrage kommen, muss ein Bewusstsein darüber geschaffen werden, auf welchen Feldern Rassismen reproduziert werden. Auf dieser Grundlage kann der Entscheid fallen, ob und wie diese nach aussen vermittelt werden. Die folgenden Kapitel geben dazu einen Überblick.  
 
 ## 7.1 Sammlungsdatenbanken  
 
-Sammlungs- und (Objekt-)Management-Datenbanken enthalten umfangreiche Informationen zu Sammlungsobjekten. Viele Datensätze wurden oftmals vor längerer Zeit erstellt – teilweise in gross angelegten Digitalisierungs- und Erschliessungsprojekten –, sodass sie den aktuellen Erschliessungsstandards nicht mehr genügen und überprüft und überarbeitet werden müssen. Die Einträge enthalten nicht nur möglichst objektive Beschreibungen von materiellen Gegenständen, sondern in der Dokumentation schlagen sich auch zeitgebundene Sichtweisen, Narrative und Ideologien nieder. Die darin eingebundenen Wertvorstellungen sind teilweise überholt, zudem hat sich der wissenschaftliche Diskurs verändert und verändert sich kontinuierlich weiter. Oft haben Sammlungsarbeit und Forschung zu neuen Erkenntnissen geführt, die in älteren Datensätzen nicht berücksichtigt sind.[[141]](#footnote-142) Bei der Analyse einer Datenbank mit dem Anspruch einer Dekolonia[lisierung](#_Dekolonisierung_und_Dekolonialismus) wird offensichtlich, dass gewisse Datenbankfelder stärker zur Reproduktion von Rassismen und Diskriminierungen beitragen als andere.  
+Sammlungs- und (Objekt-)Management-Datenbanken enthalten umfangreiche Informationen zu Sammlungsobjekten. Viele Datensätze wurden oftmals vor längerer Zeit erstellt – teilweise in gross angelegten Digitalisierungs- und Erschliessungsprojekten –, sodass sie den aktuellen Erschliessungsstandards nicht mehr genügen und überprüft und überarbeitet werden müssen. Die Einträge enthalten nicht nur möglichst objektive Beschreibungen von materiellen Gegenständen, sondern in der Dokumentation schlagen sich auch zeitgebundene Sichtweisen, Narrative und Ideologien nieder. Die darin eingebundenen Wertvorstellungen sind teilweise überholt, zudem hat sich der wissenschaftliche Diskurs verändert und verändert sich kontinuierlich weiter. Oft haben Sammlungsarbeit und Forschung zu neuen Erkenntnissen geführt, die in älteren Datensätzen nicht berücksichtigt sind.[[141]](#footnote-142) Bei der Analyse einer Datenbank mit dem Anspruch einer [Dekolonialisierung](#_Dekolonisierung_und_Dekolonialismus) wird offensichtlich, dass gewisse Datenbankfelder stärker zur Reproduktion von Rassismen und Diskriminierungen beitragen als andere.  
 
 In der Dokumentationspraxis ist es wichtig, ein Bewusstsein zu entwickeln, welche Felder in der Datenbank für rassistische und eurozentrische Narrative anfällig sind. Ein besonderes Augenmerk ist auf die im Folgenden genannten Datenfelder zu richten, um bestehende Rassismen in der Datenbank besser zu erkennen und problematische Inhalte zu identifizieren.  
 
@@ -28,8 +28,8 @@ Da Datenbankfelder mit ähnlichen Funktionen und Inhalten in verschiedenen Insti
 | --- | --- |  
 | **Bezeichnung für das Datenbankfeld[[142]](#footnote-143)** | **Inhalt/Definition** |  
 | Inventarnummer, Signatur | Eindeutige Kennzeichnung, die einem Objekt zugewiesen ist und die der Identifikation, Dokumentation und Verwaltung der Sammlung dient. |  
-| Person(en), Körperschaft(en), Herstellung, Hersteller:in:innen | Informationen über die Person(en), Werkstatt/Werkstätten oder Institution(en), die das Sammlungsobjekt geschaffen oder produziert haben oder weitere Personen wie z.B. ehemalige Nutzer:innen, mit denen das Objekt in Verbindung stand. |  
-| Titel (inkl. mehrere Auswahlfelder wie z.B. Nebentitel, beschreibender Titel, alternativer Titel, Originaltitel usw.) oder Bezeichnung (deskriptiver Titel) | Festhalten der Benennung eines Sammlungsobjekts. Hier eingetragen sind entweder der originale Titel, den der:die Künstler:in oder der:die Hersteller:in, ein Auktionshaus usw. vergeben haben, oder eine nachträgliche Zuschreibung durch die Institution. |  
+| Person(en), Körperschaft(en), Herstellung, Hersteller:innen | Informationen über die Person(en), Werkstatt/Werkstätten oder Institution(en), die das Sammlungsobjekt geschaffen oder produziert haben, oder weitere Personen wie z. B. ehemalige Nutzer:innen, mit denen das Objekt in Verbindung stand. |  
+| Titel (inkl. mehrerer Auswahlfelder wie z. B. Nebentitel, beschreibender Titel, alternativer Titel, Originaltitel usw.) oder Bezeichnung (deskriptiver Titel) | Festhalten der Benennung eines Sammlungsobjekts. Hier eingetragen sind entweder der Originaltitel, den der:die Künstler:in oder der:die Hersteller:in, ein Auktionshaus usw. vergeben hat, oder eine nachträgliche Zuschreibung durch die Institution. |  
 | Beschreibung | (Oft Freitext-)Eingabe einer Beschreibung des Objekts nach seinem Gebrauch, technischen, ästhetischen Merkmalen, seinem Inhalt oder Einordnung in seinen grösseren historischen Kontext. |  
 | Beschriftungen, Inschriften, Signaturen | Erfassung von objektimmanenten Texten und Zeichen. |  
 | Klassifikation, Gattung, Objektart, Objekttyp | Einordnung und Kategorisierung des Objekts in eine Gruppe von Objekten (oft mit einer hinterlegten Auswahl in einem Thesaurus) |  
@@ -41,13 +41,13 @@ Die Objektbeschreibung umschreibt die Nutzung, technische oder ästhetische Merk
 
 * Die Beschreibung übernimmt objektimmanente Inschriften mit rassistischer oder kolonialer Sprache.  
 * Die Beschreibung stammt aus einer Quelle (Nachweisakte, Inventarbuch, Auktionskatalog usw.) oder ist an diese angelehnt.  
-* Die Beschreibung beinhaltet fälschlicherweise den Objekttitel (die Informationen wurden also nicht in die dafür bestimmten Felder übernommen) mit kolonialer oder rassistischer Sprache, die durch eine belegbare Autoren:innenschaft (Künstler:in, Hersteller:in usw.) vergeben wurde.  
-* Bei vielen Objekten kann der Ursprung der Beschreibung nicht zurückverfolgt werden. Sie wurden durch eine nicht nachgewiesene Autoren:innenschaft (meistens ehemalige Angestellte der Institution) vergeben.  
+* Die Beschreibung beinhaltet fälschlicherweise den Objekttitel (die Informationen wurden also nicht in die dafür bestimmten Felder übernommen) mit kolonialer oder rassistischer Sprache, die durch eine belegbare Autor:innenschaft (Künstler:in, Hersteller:in usw.) vergeben wurde.  
+* Bei vielen Objekten kann der Ursprung der Beschreibung nicht zurückverfolgt werden. Sie wurden durch eine nicht nachgewiesene Autor:innenschaft (meistens ehemalige Angestellte der Institution) vergeben.  
 * Die Kuratierenden verwenden unbewusst oder absichtlich rassistische Sprache oder koloniale Narrative.  
 
 ### Bezeichnung, Titel  
 
-Als Bezeichnung oder Titel gilt in der Regel eine Bezeichnung des Objekts, die von einer eindeutigen Autor:innenschaft oder Quelle (Inventarbuch, Nachweisakte, Karteikarteneintrag, Kaufvertrag, Werkverzeichnis o.ä.) stammt. Rassistische Begriffe oder Zuschreibungen finden durch die von den Künstler:innen, Auktionshäusern, Käufer:innen oder Hersteller:innen oder durch Mitarbeiter:innen einer Institution vergebenen Titel der Objekte Eingang in die Metadaten. In Bezeichnungen und Titeln, die aus diesen Quellen oder Herkünften entspringen, werden diese Begriffe in Datenbanken oftmals reproduziert.  
+Als Bezeichnung oder Titel gilt in der Regel eine Bezeichnung des Objekts, die von einer eindeutigen Autor:innenschaft oder Quelle (Inventarbuch, Nachweisakte, Karteikarteneintrag, Kaufvertrag, Werkverzeichnis o. Ä.) stammt. Rassistische Begriffe oder Zuschreibungen finden durch die von den Künstler:innen, Auktionshäusern, Käufer:innen oder Hersteller:innen oder durch Mitarbeiter:innen einer Institution vergebenen Titel der Objekte Eingang in die Metadaten. In Bezeichnungen und Titeln, die aus diesen Quellen oder Herkünften entspringen, werden diese Begriffe in Datenbanken oftmals reproduziert.  
 
 ### Schlagwörter, Keywords  
 
@@ -58,11 +58,11 @@ Schlagwörter ordnen Objekte in Bezug auf ihren Inhalt oder ihren Nutzen kategor
 * Verallgemeinerungen und Fremdzuschreibungen in den Begriffen für ethnische Gruppen, geografische Zonen oder historische Ereignisse.  
 * einer Unterkomplexität, die Objekte oft falsch oder unzulänglich kontextualisiert. Sie vermitteln durch ihre begriffliche/definitorische Unschärfe Rassismen und europäische Imaginationen des historisch ‹Anderen›.  
 
-Grundsätzlich bildet die Verschlagwortung von Hautfarben oder ethnischen Zugehörigkeiten ein Problem. Die Kennzeichnung dieser Distinktionsmerkmale führt automatisch zu Asymmetrien. Diese Asymmetrien befinden sich in einem permanenten historischen und sozialen Wandel und Aushandlungsprozess. Was in der Vergangenheit als Norm definiert wurde – und was sich davon abhob, trifft heute oder in Zukunft vielleicht nicht mehr zu. In diesem Bewusstsein ist abzuwägen, in welchen Fällen es sinnvoll ist, eine Distinktion nach diesen Merkmalen festzuhalten.  
+Grundsätzlich stellt die Verschlagwortung von Hautfarben oder ethnischen Zugehörigkeiten ein Problem dar. Die Kennzeichnung dieser Distinktionsmerkmale führt automatisch zu Asymmetrien. Diese Asymmetrien befinden sich in einem permanenten historischen und sozialen Wandel und Aushandlungsprozess. Was in der Vergangenheit als Norm definiert wurde – und was sich davon abhob –, trifft heute oder in Zukunft vielleicht nicht mehr zu. In diesem Bewusstsein ist abzuwägen, in welchen Fällen es sinnvoll ist, eine Distinktion nach diesen Merkmalen festzuhalten.  
 
 ### Inschriften, Beschriftung, Signaturen  
 
-Manche Datensätze weisen rassistische oder diskriminierende Sprache auf, weil objektimmanente Inschriften übernommen wurden. So zum Beispiel bei Plakaten und Reklamen mit Werbeinschriften, Schallplatten mit Albentiteln, Buchtiteln oder Textelementen bei (Druck)Graphiken[[143]](#footnote-144). Weiter kann diese Reproduktion auch dann eintreten, wenn der:die Künstler:in den Titel auf die Gemälderückseite geschrieben hat und dieser (z.B. zusammen mit der ggf. ebenfalls dort festgehaltenen Signatur) in diesem Feld wörtlich wiedergegeben wird.  
+Manche Datensätze weisen rassistische oder diskriminierende Sprache auf, weil objektimmanente Inschriften übernommen wurden. So zum Beispiel bei Plakaten und Reklamen mit Werbeinschriften, Schallplatten mit Albentiteln, Buchtiteln oder Textelementen bei (Druck-)Grafiken[[143]](#footnote-144). Weiter kann diese Reproduktion auch dann eintreten, wenn der:die Künstler:in den Titel auf die Gemälderückseite geschrieben hat und dieser (z. B. zusammen mit der ggf. ebenfalls dort festgehaltenen Signatur) in diesem Feld wörtlich wiedergegeben wird.  
 
 ### Klassifikation, Gattung, Objektart, Objekttyp  
 
@@ -72,7 +72,7 @@ Die Beurteilung von Klassifikationen, Objektarten und Gattungen von kultur- und 
 
 In manchen Datensätzen werden weder rassistische Bildtraditionen noch Sprache reproduziert. Ein Objekt kann jedoch durch seine Herkunft oder Herstellung in koloniale Kontexte verstrickt sein. Das können zoologische, anthropologische und botanische Sammlungen sein, Artefakte nichtwestlicher Kulturen, Fotografien oder Schriften, und damit können so ziemlich alle Museen und Sammlungen – unabhängig von ihrer Grösse und Reichweite – davon betroffen sein. [[144]](#footnote-145)  
 
-Diese kolonialen Verstrickungen können durch die Offenlegung der Provenienz in den Datensätzen angezeigt werden. Die Provenienzen von Objekten werden in diesem Handbuch nicht explizit besprochen. Sich dennoch mit der Dokumentation von kolonialen Provenienzen zu beschäftigen, ist aus der Sicht der AG eine wichtige Aufgabe von Kultur- und Sammlungsinstitutionen. Diese Objekte stammen oft aus Unrechtskontexten, wurden geraubt und ihrem Zweck und ihrer kulturellen Einbettung entzogen. Die Lücken, die durch die (gewaltvolle) Entnahme dieser Objekte in die Gesellschaften gerissen wurden, sind irreparabel. Die Restitution bleibt jedoch in jedem Fall die einzige Möglichkeit, um dieses Unrecht zumindest ansatzweise zu begleichen. In der Schweiz fördert der «Schweizerische Arbeitskreis Provenienzforschung»[[145]](#footnote-146) als spezialisierte Arbeitsgruppe den Austausch und die Vernetzung unter Provenienzforschenden und sollte deshalb als Anlaufstelle für einen fundierten Wissenstransfer genutzt werden.  
+Diese kolonialen Verstrickungen können durch die Offenlegung der Provenienz in den Datensätzen angezeigt werden. Die Provenienzen von Objekten werden in diesem Handbuch nicht explizit besprochen. Sich dennoch mit der Dokumentation von kolonialen Provenienzen zu beschäftigen, ist aus der Sicht der AG eine wichtige Aufgabe von Kultur- und Sammlungsinstitutionen. Diese Objekte stammen oft aus Unrechtskontexten, wurden geraubt und ihrem Zweck und ihrer kulturellen Einbettung entzogen. Die Lücken, die durch die (gewaltvolle) Entnahme dieser Objekte in die Gesellschaften gerissen wurden, sind nicht zu schliessen. Die Restitution bleibt jedoch in jedem Fall die einzige Möglichkeit, um dieses Unrecht zumindest ansatzweise zu begleichen. In der Schweiz fördert der «Schweizerische Arbeitskreis Provenienzforschung»[[145]](#footnote-146) als spezialisierte Arbeitsgruppe den Austausch und die Vernetzung unter Provenienzforschenden und sollte deshalb als Anlaufstelle für einen fundierten Wissenstransfer genutzt werden.  
 
 ## 7.2 Metadaten in Online-Sammlungen: 5 Ansätze  
 
@@ -90,7 +90,7 @@ Die folgende Übersicht stellt aus den oben eruierten Umsetzungsstrategien fünf
 
 Hinweis: Dieses Kapitel enthält weiterführende Links zu Objekten in Online-Sammlungen, deren Titel möglicherweise diskriminierende Begriffe enthalten. Zudem enthalten die illustrativen Darstellungen der Benutzeroberflächen ein entsprechendes Beispiel.  
 
-Hinweis zur technischen Umsetzung in den To-dos: Eine Online-Sammlung besteht technisch aus zwei Teilen: dem sogenannten *Backend* (wo die Daten aus der internen Sammlungsdatenbank wie MuseumPlus, TMS, Axiell, FileMaker etc. importiert werden) und dem *Frontend* (was Nutzer:innen im *Browser* sehen und bedienen können). Wenn in den folgenden To-do-Listen von «Anpassungen im *Frontend* der Online-Sammlung» die Rede ist, bedeutet das z. B.:  
+Hinweis zur technischen Umsetzung in den To-do-Punkten: Eine Online-Sammlung besteht technisch aus zwei Teilen: dem sogenannten *Backend* (wo die Daten aus der internen Sammlungsdatenbank wie MuseumPlus, TMS, Axiell, FileMaker etc. importiert werden) und dem *Frontend* (was Nutzer:innen im *Browser* sehen und bedienen können). Wenn in den folgenden To-do-Listen von «Anpassungen im *Frontend* der Online-Sammlung» die Rede ist, bedeutet das z. B.:  
 
 * Texte oder Warnhinweise auf der Webseite sichtbar machen  
 * Gestaltung oder Sichtbarkeit von Bildern oder Titeln ändern  
@@ -121,8 +121,6 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 [[start:minus]]
 
 * Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  
-* Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber den Nutzer:innen möglicherweise unklar, weswegen  
-
 [[end:minus]]
 
 [[end:comp]]
@@ -132,14 +130,14 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 **To-do**:  
 
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis  
-* Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren.  
+* Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren  
 * Anpassungen im Frontend der Online-Sammlung  
 
 [[end:block]]
 
 ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:](/images/image008.jpg)  
 
-Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:](/images/image009.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -177,13 +175,17 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:](/images/image009.jpg)  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:](/images/image010.jpg)  
 
 Abbildung 10:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
-![alt:, extra:](/images/image010.jpg)  
+![alt:, extra:](/images/image011.jpg)  
 
-Abbildung 11: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+
+![alt:, extra:](/images/image012.jpg)  
+
+Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 ### (3) Titel neu formulieren  
 
@@ -220,14 +222,14 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 * Archivierung des ursprünglichen Titels zur Wahrung des Kontextes  
 * Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche:  
-  + ob der Titel von der:dem Kunstschaffenden historisch belegt oder nachträglich vergeben wurde  
-  + zur Definierung eines neuen, deskriptiven Titels.  
+  + ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde  
+  + zur Definierung eines neuen, deskriptiven Titels  
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:](/images/image011.jpg)  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:](/images/image013.jpg)  
 
-Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -267,17 +269,17 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 
 [[end:block]]
 
-![alt:, extra:](/images/image012.jpg)  
-
-Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
-
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp, extra:](/images/image013.jpg)  
+![alt:, extra:](/images/image014.jpg)  
 
 Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp, extra:](/images/image014.jpg)  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp, extra:](/images/image015.jpg)  
 
 Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp, extra:](/images/image016.jpg)  
+
+Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -314,14 +316,14 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 
 [[end:block]]
 
-![alt:, extra:](/images/image015.jpg)  
+![alt:, extra:](/images/image017.jpg)  
 
-Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 **Zusammenfassung:**  
 
 * Ein einleitender Hinweis auf faktisch ungenaue, rassistische oder anderweitig unangemessene Inhalte kann Nutzer:innen Orientierung bieten und auf die historischen Entstehungskontexte der Sammlungsobjekte aufmerksam machen. Solche Hinweise verdeutlichen, dass bestimmte Begriffe oder Darstellungen nicht die Haltung der Institution widerspiegeln, sondern Ausdruck vergangener Sichtweisen sind. Sie helfen, die Inhalte kritisch einzuordnen, und fördern – sofern sie rezipiert und nicht übersehen werden – eine bewusste Auseinandersetzung bereits beim ersten Kontakt mit der Sammlung.  
 * Eine institutionelle Stellungnahme zur eigenen Dokumentationspraxis stärkt das Vertrauen in die Institution und ihre Trägerschaft. Indem die eigene Sammlungsgeschichte nicht beschönigt, sondern transparent gemacht wird, signalisiert die Institution Verantwortung und Reflexionsbereitschaft.  
 * Entscheidet sich eine Institution für einen oder mehrere der fünf Ansätze, kann es sinnvoll sein, die Gründe für diese Entscheidung zu erläutern und gegebenenfalls den historischen Kontext des Museums einzubeziehen. Falls beispielsweise Ansatz 3 gewählt wurde: Warum wurde beschlossen, die Titel zu ändern?  
-* Sofern die Aufarbeitung noch in einer frühen Phase steht, kann es hilfreich sein, dies offen zu kommunizieren und den geplanten Entwicklungsprozess transparent darzustellen. Eine solche Kommunikation zeigt Verantwortungsbewusstsein und signalisiert, dass das Thema ernst genommen wird. Dabei kann betont werden, dass rassismuskritische Dokumentationsarbeit ein langfristiger Prozess ist, der sich schrittweise in bestehende Arbeitsabläufe integrieren lässt. Auch kleinere Massnahmen wie etwa eine allgemeine Inhaltswarnung oder die Kennzeichnung einzelner problematischer Titel können erste wichtige Schritte sein. Entscheidend ist, dass eine klare Haltung erkennbar wird, und dass nachvollziehbar transparent gemacht wird, welche nächsten Schritte und in welchem Zeitrahmen geplant sind.  
+* Sofern die Aufarbeitung noch in einer frühen Phase steht, kann es hilfreich sein, dies offen zu kommunizieren und den geplanten Entwicklungsprozess transparent darzustellen. Eine solche Kommunikation zeigt Verantwortungsbewusstsein und signalisiert, dass das Thema ernst genommen wird. Dabei kann betont werden, dass rassismuskritische Dokumentationsarbeit ein langfristiger Prozess ist, der sich schrittweise in bestehende Arbeitsabläufe integrieren lässt. Auch kleinere Massnahmen wie etwa eine allgemeine Inhaltswarnung oder die Kennzeichnung einzelner problematischer Titel können erste wichtige Schritte sein. Entscheidend ist, dass eine klare Haltung erkennbar und nachvollziehbar transparent gemacht wird, welche nächsten Schritte und in welchem Zeitrahmen geplant sind.  
 * Transparente Kommunikation und die Möglichkeit für Rückmeldungen fördern eine kritische Reflexion. Eine Offenheit für neue Perspektiven und verschiedene Expertisen ist wertvoll, um eigene Schwachstellen aufzudecken. Eine Kontaktadresse oder ein Kontaktformular kann diesen Austausch unterstützen.

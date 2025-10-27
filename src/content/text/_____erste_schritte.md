@@ -12,21 +12,21 @@ toc:
     title: "2.2 Wie weiter in der Praxis?"
 ---
 
-Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, **Rassismen zu erkennen**, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Die Umsetzung einer antirassisistischen Dokumentationspraxis ist ein kontinuierlicher Prozess, der nie abgeschlossen ist und stets erneut kritisch hinterfragt und angepasst werden muss. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus zu klären, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben sowie Lösungsansätze zu präsentieren.  
+Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, **Rassismen zu erkennen**, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Die Umsetzung einer antirassistischen Dokumentationspraxis ist ein kontinuierlicher Prozess, der nie abgeschlossen ist und stets erneut kritisch hinterfragt und angepasst werden muss. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus zu klären, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben sowie Lösungsansätze zu präsentieren.  
 
 ## 2.1 ****Was ist Rassismus?****  
 
-Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinungsmerkmale sowie ihrer tatsächlichen oder zugeschriebenen kulturellen oder religiösen Zugehörigkeit kategorisiert, stereotypisiert und hierarchisiert werden.[[11]](#footnote-12) In rassistischen Theorien werden Menschen nicht als Individuen behandelt, sondern in «Rassen» eingeteilt, die in einem hierarchischen Verhältnis zueinander stehen und denen kollektive und unveränderbare Eigenschaften zugeschrieben werden. Es herrscht die Überzeugung, dass die eigene «Rasse» den anderen «Rassen» überlegen ist, womit eine Herrschaft über die «Anderen» dadurch legitimiert wird.[[12]](#footnote-13)  
+Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinungsmerkmale sowie ihrer tatsächlichen oder zugeschriebenen kulturellen oder religiösen Zugehörigkeit kategorisiert, stereotypisiert und hierarchisiert werden.[[11]](#footnote-12) In rassistischen Theorien werden Menschen nicht als Individuen behandelt, sondern in «Rassen» eingeteilt, die in einem hierarchischen Verhältnis zueinander stehen und denen kollektive und unveränderbare Eigenschaften zugeschrieben werden. Es herrscht die Überzeugung, dass die eigene «Rasse» den anderen «Rassen» überlegen sei, womit eine Herrschaft über die «Anderen» dadurch legitimiert wird.[[12]](#footnote-13)  
 
 ### Rassismus auf der individuellen Ebene  
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl *weisse* Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil zum Ausdruck gebracht werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl *weisse* Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
 
 ### Struktureller Rassismus  
 
 Struktureller Rassismus ist eine Form von Rassismus, die sich in gesellschaftlichen Strukturen verfestigt und Rassismen dort aufrechterhält. Struktureller Rassismus weist auf die weite Verbreitung von Rassismus als tiefsitzendes und oftmals unbewusst wirkendes gesellschaftliches Phänomen hin. Er beinhaltet durch Tradition, Sozialisation und Erziehung geprägte und kollektiv geteilte rassistische Welt- und Menschenbilder.[[16]](#footnote-17) Struktureller und individueller Rassismus stützen und verstärken sich gegenseitig.  
 
-Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrundeliegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[17]](#footnote-18)  
+Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Kultur verankert ist, spricht man von institutionellem Rassismus. Als solcher wird er – wie der zugrunde liegende strukturelle Rassismus – als ‹normal› wahrgenommen und von einer Mehrheit der Menschen nicht hinterfragt. Institutioneller Rassismus schlägt sich in institutionellen Handlungsmustern und Abläufen nieder und führt zur Benachteiligung, Ausgrenzung und Diskriminierung bestimmter Personen und Gruppen und zur Privilegierung anderer.[[17]](#footnote-18)  
 
 [[start:literature]]
 
@@ -36,8 +36,7 @@ Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Ku
 * Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d)  
 * Hund, Wulf D.: Rassimus, Bielefeld 2007  
 * El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021  
-
-Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <https://www.frb.admin.ch/de/publikationen>, Stand: 03.10.2025  
+* Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <https://www.frb.admin.ch/de/publikationen>, Stand: 03.10.2025  
 
 [[end:literature]]
 
@@ -53,10 +52,10 @@ Im Folgenden sind exemplarisch thematisch gebündelte Fragen aufgeführt, die al
 
 ### Selbstreflexion der individuellen Prägung  
 
-Rassistische sowie eurozentristische und kolonial geprägte Haltungen werden im Laufe des Lebens erlernt, ohne dass man sich dessen zwingendermassen bewusst ist.[[21]](#footnote-22) In Bezug auf die Arbeit im Museum bedeutet dies, dass wir je nach Hintergrund, Sozialisierung, Erziehung und Bildung Objekte und deren Ikonografien unterschiedlich lesen, interpretieren, beschreiben und dokumentieren. Die Assoziationen, die ein Objekt oder ein Bild bei uns hervorrufen, hängen stark von unserem eigenen Hintergrund, unserem Repertoire an Erfahrungen, von Wissen und unserem Welt- und Menschenbild sowie von den uns bekannten Objekt- und Bildwelten ab. Gleichzeitig treffen wir rassistische Objekte und Dokumentationen aus vorangehender Praxis an, die wir nicht immer direkt als solche dechiffrieren.[[22]](#footnote-23) Eine vertiefte rassimuskritische Selbstreflexion und damit einhergehend eine Perspektivenerweiterung oder ein Perspektivenwechsel treiben eine sensibilisierte Dokumentationspraxis voran.  
+Rassistische sowie eurozentrische und kolonial geprägte Haltungen werden im Laufe des Lebens erlernt, ohne dass man sich dessen zwingendermassen bewusst ist.[[21]](#footnote-22) In Bezug auf die Arbeit im Museum bedeutet dies, dass wir je nach Hintergrund, Sozialisierung, Erziehung und Bildung Objekte und deren Ikonografien unterschiedlich lesen, interpretieren, beschreiben und dokumentieren. Die Assoziationen, die ein Objekt oder ein Bild bei uns hervorrufen, hängen stark von unserem eigenen Hintergrund, unserem Repertoire an Erfahrungen, von Wissen und unserem Welt- und Menschenbild sowie von den uns bekannten Objekt- und Bildwelten ab. Gleichzeitig treffen wir rassistische Objekte und Dokumentationen aus vorangehender Praxis an, die wir nicht immer direkt als solche dechiffrieren.[[22]](#footnote-23) Eine vertiefte rassismuskritische Selbstreflexion und damit einhergehend eine Perspektivenerweiterung oder ein Perspektivenwechsel treiben eine sensibilisierte Dokumentationspraxis voran.  
 Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzustossen:  
 
-* Welche Reaktion löst das Thema Rassismus bei mir aus (Verärgerung, Scham, Gleichgülitgkeit, Wut)?  
+* Welche Reaktion löst das Thema Rassismus bei mir aus (Verärgerung, Scham, Gleichgültigkeit, Wut)?  
 * Wo in meinem Arbeitsalltag werde ich persönlich mit Rassismus konfrontiert? Wie beeinflusst dies meine Arbeit in einer GLAM-Institution?  
 * Aus welchen Gründen geniesse ich (keine) Privilegien? Wie beeinflusst dies meine Arbeit in einer GLAM-Institution?  
 * Mit welchen Stereotypen war ich während meiner Schulzeit, in der Ausbildung sowie im Privatleben konfrontiert? Und inwiefern haben diese mein Handeln und Denken beeinflusst?  
@@ -88,7 +87,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Sind die Hersteller:innen der Objekte bekannt und werden diese mit Namen genannt? Was sind die Gründe dafür, falls sie nicht genannt werden, sind es rassistische Motive oder gibt es andere Gründe?[[23]](#footnote-24)  
 * In welchen Fällen muss bei unbekannten Hersteller:innen darauf hingewiesen werden, warum diese nicht genannt werden (können)?  
 * Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen Communities an? Welche Stimmen fehlen?  
-* Wie werden neu gewonnene Erkenntnisse (z.B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
+* Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 ![alt:, extra:](/images/image002.jpg)  
 
@@ -106,12 +105,12 @@ Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © 
 
 ### Selbstverständlichkeit der Verschlagwortung  
 
-Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objekts](#_Objekt) oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «*weiss»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «Schwarz» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotential.  
+Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objekts](#_Objekt) oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «*weiss»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «Schwarz» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotenzial.  
 
-* Gibt es Attribute eines [Objektes](#_Objekt) oder Bildinhalte, die je nach abgebildetem geografischem Ort anders beschlagwortet werden (z.B. Architektur: Haus oder Hütte oder Wohnhaus oder Behausung)?  
-* Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z.B. primitiv, wild, einfach, Natur)?  
+* Gibt es Attribute eines [Objektes](#_Objekt) oder Bildinhalte, die je nach abgebildetem geografischem Ort anders beschlagwortet werden (z. B. Architektur: Haus oder Hütte oder Wohnhaus oder Behausung)?  
+* Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z. B. primitiv, wild, einfach, Natur)?  
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?  
-* Beispiel Kleidung: Wie sind Kleidungstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
+* Beispiel Kleidung: Wie sind Kleidungsstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
 * Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «Exotismus» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
 
 ### Denkanstoss: Institutionelle Positionierung  
@@ -145,5 +144,4 @@ Im Internet findet sich ausserdem eine Vielzahl von Angeboten für Sensibilisier
 
 * Fachstelle für Rassismusbekämpfung FRB, <<https://www.frb.admin.ch/de/beratung-und-recht>>, Stand: 15.08.2025  
 * Beratungsnetz für Rassismusopfer, Weiterbildungsplattform, <<https://www.network-racism.ch/weiterbildungsplattform>>, Stand: 15.08.2025  
-
 [[end:literature]]
