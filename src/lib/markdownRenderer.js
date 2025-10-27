@@ -7,7 +7,7 @@ export function createMarkedRenderer(pageInfo) {
     image({ href, title, text, ...attrs }) {
       let _text = text.replaceAll("alt:", "")
       let [altText, extraText] = _text.split(", extra:")
-      extraText = extraText ? extraText.split(/figure\s*\d+:\s*/i)[1] || "" : ""
+      extraText = extraText ? extraText.split(/Abbildung\s*\d+:\s*/i)[1] || "" : ""
       return `<figure>
                 <img src="${href}" alt="${altText}"/>
                 ${extraText ? `<figcaption>${extraText}</figcaption>` : ""}
@@ -17,8 +17,13 @@ export function createMarkedRenderer(pageInfo) {
       // const id = slugify(text)
       const _depth = depth + 1
       const headingNumberMatch = text.match(/^[\d.]+/)
-      const headingNumber = headingNumberMatch ? headingNumberMatch[0] : null
+      let headingNumber = headingNumberMatch ? headingNumberMatch[0] : null
       const headingText = headingNumber ? text.replace(headingNumber, "").trim() : text
+      const chapter = headingNumber ? headingNumber.split(".")[0] : null
+      let subChapter = headingNumber && headingNumber.split(".").length > 1 ? headingNumber.split(".")[1] : null
+      if(subChapter?.startsWith("0")) subChapter = subChapter.replace(/^0+/, "") || ""
+      console.log(subChapter)
+      headingNumber = headingNumber ? `${+chapter-1}${subChapter ? "." + subChapter : ""}` : null
       const id = slugify(headingText)
       const plainText = headingText.replace(/(?<!\\)[#_*~`[\]()>#+\=|{}.]/g, "")
       const escapedText = plainText.replace(/[\\]/g, '')

@@ -4,7 +4,7 @@
   import { activeHeader, headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import aboutData from "|/content/text/about.json"
   import imprintData from "|/content/text/imprint.json"
-  import infoboxData from "|/content/text/infobox.json"
+  import disclaimerData from "|/content/text/disclaimer.json"
 
   import { slugify } from "$lib/utils.js"
 
@@ -95,23 +95,23 @@
     {/if}
     <button
       class:active={activeSubPage === "index"}
-      onclick={() => setSubPage("index")}>Index</button
+      onclick={() => setSubPage("index")}>Inhalt</button
     >
     <button
-      class:active={activeSubPage === "infobox"}
-      onclick={() => setSubPage("infobox")}>Infobox</button
+      class:active={activeSubPage === "disclaimer"}
+      onclick={() => setSubPage("disclaimer")}>Disclaimer</button
     >
     <button
       class:active={activeSubPage === "about"}
-      onclick={() => setSubPage("about")}>Über</button
+      onclick={() => setSubPage("about")}>Über uns</button
     >
   </div>
-  {#if activeSubPage === "infobox"}
-    <div class={[styles.infoBox, styles.subContainer].join(" ")}>
-      {@html marked.parse(infoboxData.infobox)}
+  {#if activeSubPage === "disclaimer"}
+    <div class={[styles.disclaimer, styles.otherSubContainer].join(" ")}>
+      {@html marked.parse(disclaimerData.disclaimer)}
     </div>
   {:else if activeSubPage === "about"}
-    <div class={[styles.infoBox, styles.subContainer].join(" ")}>
+    <div class={[styles.imprint, styles.otherSubContainer].join(" ")}>
       {@html marked.parse(aboutData.about)}
       {@html marked.parse(imprintData.imprint)}
     </div>
@@ -119,19 +119,23 @@
     <nav class={styles.menuSubContainer}>
       <ul>
         {#each sites as site, index}
-          <li>
+          {#if site.fields.index === 1}<br />{/if}
+          <li class={site.fields.index === "extra" ? styles.extra : ""}>
             <div class={styles.label}>
-              <div class={styles.circle}>
-                <div
-                  class:active={$page.params.slug === site.fields.slug}
-                ></div>
-              </div>
               <a
                 href={`/${site.fields.slug}`}
                 onclick={navigate}
                 class:active={$page.params.slug === site.fields.slug}
                 data-sveltekit-noscroll
               >
+                <div>
+                  {site.fields.index > 0 ? site.fields.index : ""}
+                </div>
+                <div class={styles.circle}>
+                  <div
+                    class:active={$page.params.slug === site.fields.slug}
+                  ></div>
+                </div>
                 {site.fields.short_title
                   ? site.fields.short_title
                   : site.fields.title}
@@ -139,7 +143,7 @@
             </div>
             {#if site.fields.toc && $page.params.slug === site.fields.slug && !$isMobile}
               <ul>
-                {#each site.fields.toc as item}
+                {#each site.fields.toc as item, i2}
                   <li
                     class={styles.label}
                     class:active={$activeHeader ===
@@ -147,12 +151,17 @@
                   >
                     <a
                       href={`/${site.fields.slug}?sub=${slugify(item.title.replace(/^[^ ]* /, ""))}`}
-                      style={`padding-left: ${(item.level - 1) * 2 + 2}ch;`}
+                      style={`padding-left: ${(item.level - 1) * 2 + 2.4}ch;`}
                       onclick={(e) =>
                         handleAnchorClick({
                           link: `${slugify(item.title.replace(/^[^ ]* /, ""))}`,
                         })}
                     >
+                      {#if site.fields.index > 0}
+                        <div>
+                          {site.fields.index + "." + (+i2 + 1)}
+                        </div>
+                      {/if}
                       {@html marked.parseInline(
                         item.title.replace(/^[^ ]* /, "")
                       )}

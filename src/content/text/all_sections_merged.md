@@ -48,7 +48,7 @@ Schweizerisches Nationalmuseum (SNM)
 Stiftung für Kunst, Kultur und Geschichte (SKKG)
 [[end:preface]]
 
-[[start:infobox]]
+[[start:disclaimer]]
 
 # Infobox
 
@@ -64,7 +64,7 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM»
 * Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.  
 * Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: Schwarz (Grossschreibung) und *weiss* (kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
 * Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – ist im Glossar im Kapitel 13 des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
-[[end:infobox]]
+[[end:disclaimer]]
 
 Inhalt  
 

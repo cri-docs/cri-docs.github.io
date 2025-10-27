@@ -88,7 +88,7 @@
     font-size var(--title-font-size)
     line-height 1.05
     font-family var(--font-header)
-    font-weight 900
+    // font-weight 900
     max-width 70%
     break-before page
     @media print
@@ -120,6 +120,11 @@
     li
       position relative
       padding-bottom .5lh
+      ol
+        padding-left 3ch
+        list-style lower-alpha
+        :first-child
+          padding-top .5lh
   ul
     li
       max-width 80%
@@ -260,6 +265,8 @@
   color var(--color-secondary)
   width 100vw
   margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
+  :global(.glossary)
+    color var(--color)
   @media print
     display flex
     flex-direction column

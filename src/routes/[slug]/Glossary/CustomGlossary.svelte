@@ -6,6 +6,8 @@
 
   import glossaryData from "|/content/text/glossary.json"
   import XLg from "$lib/icones/x-lg.svelte"
+  import { marked } from "marked"
+  import Markdown from "$lib/markdown.svelte"
 
   const { content, id } = $props()
   const { isMobile } = useResize
@@ -49,7 +51,7 @@
 </script>
 
 <button
-  class={styles.glossary}
+  class={[styles.glossary, "glossary"].join(" ")}
   type="button"
   onclick={goToLink}
   onmouseenter={mouseEnter}
@@ -60,7 +62,8 @@
     <div class={styles.popup}>
       {glossaryData?.[_id]?.name || "Begriff nicht im Glossar gefunden."}
       <span class={styles.text}>
-        {glossaryData?.[_id]?.content || ""}
+        {marked.parseInline(glossaryData?.[_id]?.content || "")}
+        <!-- <Markdown mark={glossaryData?.[_id]?.content || ""} inline /> -->
       </span>
       {#if !$isMobile}
         <div class={styles.more}>ganzer Text</div>

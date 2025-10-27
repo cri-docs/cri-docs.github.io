@@ -135,9 +135,7 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:](/images/image008.jpg)  
-
-Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:](/images/image009.jpg)  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)](/images/image008.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -175,17 +173,11 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:](/images/image010.jpg)  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:Abbildung 10:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
 
-Abbildung 10:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:, extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
 
-![alt:, extra:](/images/image011.jpg)  
-
-Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
-
-![alt:, extra:](/images/image012.jpg)  
-
-Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:, extra:Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image011.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -227,9 +219,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:](/images/image013.jpg)  
-
-Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image012.jpg)  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -269,17 +259,11 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 
 [[end:block]]
 
-![alt:, extra:](/images/image014.jpg)  
+![alt:, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image013.jpg)  
 
-Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image014.jpg)  
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp, extra:](/images/image015.jpg)  
-
-Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
-
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp, extra:](/images/image016.jpg)  
-
-Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image015.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -316,9 +300,7 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 
 [[end:block]]
 
-![alt:, extra:](/images/image017.jpg)  
-
-Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image016.jpg)  
 
 **Zusammenfassung:**  
 

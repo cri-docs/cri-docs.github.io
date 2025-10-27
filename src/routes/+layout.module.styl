@@ -36,19 +36,14 @@
       display none
   .print
     --border-width: 1px;
-    background-color: var(--color);
     position: fixed;
-    top: var(--buttons-width);
-    right: var(--buttons-width);
+    bottom: calc(var(--padding) + 4rem);
+    right: var(--padding);
     z-index: 15;
     height: calc(5rem + var(--border-width));
     width: calc(5rem + var(--border-width));
     padding: 1rem;
     border-radius: 100%;
-    border: solid 2px #fff;
-    color white
-    box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.2);
-    transform: translate(50%, -25%);
     cursor: pointer;
     transition: left 0.5s;
     @media _mobile

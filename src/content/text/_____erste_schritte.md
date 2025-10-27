@@ -61,9 +61,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Mit welchen Stereotypen war ich während meiner Schulzeit, in der Ausbildung sowie im Privatleben konfrontiert? Und inwiefern haben diese mein Handeln und Denken beeinflusst?  
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
-![alt:, extra:](/images/image001.jpg)  
-
-Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM  
+![alt:, extra:Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image001.jpg)  
 
 [[start:literature]]
 
@@ -89,9 +87,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen Communities an? Welche Stimmen fehlen?  
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
-![alt:, extra:](/images/image002.jpg)  
-
-Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich  
+![alt:, extra:Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image002.jpg)  
 
 [[start:literature]]
 
@@ -123,9 +119,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Gibt es innerhalb der Institution das Bedürfnis, eine gemeinsame Position in Bezug auf Rassismusbekämpfung und Diskriminierungsschutz zu formulieren?  
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
-![alt:, extra:](/images/image003.jpg)  
-
-Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM  
+![alt:, extra:Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image003.jpg)  
 
 [[start:literature]]
 

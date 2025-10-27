@@ -21,21 +21,33 @@
     overscroll-behavior contain
   @media print
     display none
+  // .icon
+  //   --border-width 1px
+  //   background-color var(--color)
+  //   position fixed
+  //   top var(--buttons-width)
+  //   left var(--buttons-width)
+  //   z-index 15
+  //   height calc(5rem + var(--border-width))
+  //   width calc(5rem + var(--border-width))
+  //   padding 1rem
+  //   padding-bottom 0.5rem
+  //   border-radius 100%
+  //   border solid 2px white
+  //   box-shadow 4px 4px 10px 2px #00000033
+  //   transform translate(-50%, -25%)    
+  //   cursor pointer
+  //   transition left 0.5s
   .icon
     --border-width 1px
-    background-color var(--color)
     position fixed
-    top var(--buttons-width)
-    left var(--buttons-width)
+    top calc(var(--padding) - 1rem)
+    left calc(var(--buttons-width) / 2)
+    left calc(-2 * var(--buttons-width))
+    transform translate(-50%,0) rotate(0deg)
+    height 3rem
+    width 3rem
     z-index 15
-    height calc(5rem + var(--border-width))
-    width calc(5rem + var(--border-width))
-    padding 1rem
-    padding-bottom 0.5rem
-    border-radius 100%
-    border solid 2px white
-    box-shadow 4px 4px 10px 2px #00000033
-    transform translate(-50%, -25%)    
     cursor pointer
     transition left 0.5s
     @media _mobile
@@ -46,6 +58,9 @@
       transform translate(-100%, 0%)
     &.svg
       padding-top 2px
+    &.isCollapsed
+      left calc(-2 * var(--buttons-width))
+      left calc(var(--buttons-width) / 2)
     &.isCollapsedFully
       @media _mobile
         left var(--buttons-width)
@@ -59,7 +74,7 @@
     align-items flex-start
     text-align left
     padding var(--padding)
-    padding-top calc(var(--padding) * 2 + 4rem)
+    padding-top calc(var(--padding)- 2px)
     padding-bottom calc(var(--padding) * 4 + 4rem)
     gap var(--padding)
     line-height 0.95
@@ -70,8 +85,8 @@
       position relative
       margin 0
       font-family var(--font-header)
-      font-size calc(var(--welcome-font-size) * 1.2)
-      font-weight 900
+      font-size calc(var(--welcome-font-size) * 1)
+      // font-weight 900
       letter-spacing 3px
       hyphens auto
       // NEIN
@@ -84,11 +99,11 @@
       // width 400px
       margin 0
       font-family var(--font-header)
-      font-size calc(var(--welcome-font-size)* 0.7)
+      font-size calc(var(--welcome-font-size)* 1)
       line-height 1.02
       letter-spacing 0.5px
       hyphens auto
-      font-weight unset
+      // font-weight unset
     h1
     h2
       // line-height 1

@@ -108,9 +108,9 @@
     </div>
   {:else}
     <h2>
-      {#if data?.site?.fields?.index >= 0}
+      {#if data?.site?.fields?.index >= 1}
         <div class="number">
-          {data?.site?.fields?.index + 1}
+          {data?.site?.fields?.index}
         </div>
       {/if}
       {data.site.fields.title}

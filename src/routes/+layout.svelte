@@ -10,7 +10,6 @@
 
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
-  import Overlay from "$lib/Overlay/overlay.svelte"
   import Navigation from "./[slug]/Navigation/navigation.svelte"
   import { goto, pushState, replaceState } from "$app/navigation"
   import BiPrinter from "$lib/icones/BiPrinter.svelte"
@@ -91,7 +90,6 @@
     <Navigation {sites} />
   {/if}
   <BiPrinter class={styles.print} onclick={printPDF} />
-  <!-- <Overlay /> -->
   <main>
     <img
       src="/images/landing.jpg"

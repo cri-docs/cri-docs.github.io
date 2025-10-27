@@ -3,7 +3,7 @@ title: "Impressum"
 short_title: "Impressum"
 slug: "impressum"
 order: 200
-index: 14
+index: extra
 color: "default"
 toc:
 ---

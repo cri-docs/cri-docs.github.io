@@ -212,6 +212,6 @@ Fragen und Unklarheiten:
 		- Table of Cotent [[start:toc]]
 		- Vorwort [[start:preface]]
 		- About [[start:about]]
-		- Infobox [[start:infobox]]
+		- Infobox [[start:disclaimer]]
 		- Haupttitel mit Bild, Version und Urber:in [[start:heading]]
  -->

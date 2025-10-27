@@ -7,10 +7,16 @@
   import Menu from "$lib/Header/Menu/menu.svelte"
   import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import { onMount } from "svelte"
+  import infoData from "|/content/text/info.json"
+
   import styles from "./main.module.styl"
 
   import { DotLottie } from "@lottiefiles/dotlottie-web"
   import { useResize } from "$lib/useResize"
+  import BiChevronDoubleLeft from "$lib/icones/BiChevronDoubleLeft.svelte"
+  import BiChevronLeft from "$lib/icones/BiChevronLeft.svelte"
+  import BiChevronDoubleRight from "$lib/icones/BiChevronDoubleRight.svelte"
+  import BiChevronRight from "$lib/icones/BiChevronRight.svelte"
 
   let { sites } = $page.data
   const { isMobile } = useResize
@@ -70,7 +76,7 @@
 
   $effect(() => {
     if (
-      $page.url.searchParams.has("infobox") ||
+      $page.url.searchParams.has("disclaimer") ||
       $page.url.searchParams.has("about")
     ) {
       headerIsOpen.set(false)
@@ -119,7 +125,28 @@
     isFullyCollapsed ? styles.isCollapsedFully : "",
   ].join(" ")}
 >
-  {#if !$isMobile}
+  {#if !isFullyCollapsed}
+    <BiChevronRight
+      class={[
+        styles.icon,
+        styles.svg,
+        isFullyCollapsed ? styles.isCollapsedFully : "",
+        !$headerIsOpen ? styles.isCollapsed : "",
+      ].join(" ")}
+      onclick={handleClick}
+    />
+  {:else}
+    <BiChevronDoubleRight
+      class={[
+        styles.icon,
+        styles.svg,
+        isFullyCollapsed ? styles.isCollapsedFully : "",
+        !$headerIsOpen ? styles.isCollapsed : "",
+      ].join(" ")}
+      onclick={handleClick}
+    />
+  {/if}
+  <!-- {#if !$isMobile}
     <img
       src="/icon.svg"
       class={[
@@ -139,17 +166,19 @@
       ].join(" ")}
       onclick={handleClick}
     ></canvas>
-  {/if}
+  {/if} -->
   {#if !$isMobile || activeSubPage == "welcome"}
     <div class={styles.welcomeText}>
       <a href="/">
         <h1 class={styles.title}>
-          Sammlungs- <br /> dokumentation <br /> im Fokus
+          {infoData?.title}
+          <!-- Sammlungs- <br /> dokumentation <br /> im Fokus -->
         </h1>
       </a>
       <h2>
-        Ein rassismuskritisches Handbuch für die Praxis mit besonderem Fokus auf
-        den Anti-Schwarzen-Rassismus
+        {infoData?.subtitle}
+        <!-- Ein rassismuskritisches Handbuch für die Praxis mit besonderem Fokus auf
+        den Anti-Schwarzen-Rassismus -->
       </h2>
     </div>
   {/if}
