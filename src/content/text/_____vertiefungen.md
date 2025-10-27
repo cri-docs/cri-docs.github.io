@@ -7,12 +7,12 @@ index: 10
 color: "default"
 toc:
   - level: 2
-    title: "11.1 -Daten zu bearbeiten. B.Geschichte des Anti-Schwarzen-Rassismus in der Schweiz"
+    title: "11.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz"
   - level: 2
     title: "11.2 Rassismus, Diskriminierung und Künstliche Intelligenz KI"
 ---
 
-## 11.1 -)Daten zu bearbeiten. B.Geschichte des Anti-Schwarzen-Rassismus in der Schweiz  
+## 11.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz  
 
 «Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen Weissen und den von ihnen jeweils als ‹anders› hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als ‹Rasse› erfunden und rassistisch bewertet wurde bzw. wird.» (Noah Sow, (K)Erben des Kolonialismus im Wissensarchiv der deutschen Sprache, Ein kritisches Nachschlagewerk, S.38)  
 
@@ -26,7 +26,7 @@ Nach Noah Sow muss «jede Historisierung des Rassismus […] bei der Antike anse
 
 Im Mittelalter (ca. 6.-15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarze Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als Schwarz wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht-weisse Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als Schwarzer Mann dargestellt wird.  
 
-![alt:, extra:Abbildung 36: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
+![alt:, extra:Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich exotisch, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
@@ -36,7 +36,7 @@ Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identit
 
 ![alt:, extra:![](data:image/jpeg;base64...)  
 
-Abbildung 37: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 #### *Frühe Neuzeit: Schwarze Körper als Eigentum und Statussymbol*  
 
