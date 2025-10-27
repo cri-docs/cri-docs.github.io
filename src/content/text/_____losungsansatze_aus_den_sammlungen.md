@@ -7,7 +7,7 @@ index: 9
 color: "default"
 toc:
   - level: 2
-    title: "10.1 Der M\automat"
+    title: "10.1 Der M*automat"
   - level: 2
     title: "10.2 Eine Sparkasse"
   - level: 2
@@ -19,7 +19,7 @@ toc:
   - level: 2
     title: "10.6 Das Puppenspiel"
   - level: 2
-    title: "10.7 Die 12 kleinen N\lein"
+    title: "10.7 Die 12 kleinen N*lein"
   - level: 2
     title: "10.8 Die Portraitserie"
   - level: 2
@@ -27,7 +27,7 @@ toc:
   - level: 2
     title: "10.10 Die «exotisch»-erotischen Nippes"
   - level: 2
-    title: "10.11 Der Nick-N\"
+    title: "10.11 Der Nick-N*"
   - level: 2
     title: "10.12 Eine Fotoreportage aus den USA"
 ---
