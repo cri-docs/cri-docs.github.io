@@ -40,9 +40,9 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM  
 
-Metadaten des unbereinigten Datensatzes:  
-
 [[start:metadata]]
+
+Metadaten des unbereinigten Datensatzes:  
 
 [[start:before]]
 

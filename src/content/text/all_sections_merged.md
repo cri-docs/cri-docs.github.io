@@ -1306,9 +1306,9 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM  
 
-Metadaten des unbereinigten Datensatzes:  
-
 [[start:metadata]]
+
+Metadaten des unbereinigten Datensatzes:  
 
 [[start:before]]
 
@@ -2124,11 +2124,11 @@ Arnold, Rick; Burke, Bev; James, Carl u. a.: Educating for a Change, Toronto 199
 
 Austauschformat Spectrum, Collections Trust, <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025.  
 
-Becker, Peter; Clark, William: Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2012 [2001?] (Social History, Popular Culture, and Politics in Germany).  
+Becker, Peter; Clark, William: Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2001 (Social History, Popular Culture, and Politics in Germany).  
 
 Bendix, Daniel; Danielzik, Chandra-Milena: Exotik, in: Arndt, Susan; Ofuatey-Alazard, Nadja (Hg.): Wie Rassismus aus Wörtern spricht. (K)Erben des Kolonialismus im Wissensarchiv deutsche Sprache. Ein kritisches Nachschlagewerk, Münster 2011, S. 634.  
 
-Black Cultural Archives, London, <https://www.calmview.eu/BCA/CalmView/default.aspx>, Stand: 08.07.2025.  
+Black Cultural Archives, London, <https://www.calmview.eu/BCA/CalmView/default.aspx >, Stand: 08.07.2025.  
 
 Bonilla-Silva, Eduardo: Racism Without Racists. Color-Blind Racism and the Persistence of Racial Inequality in America, London 2022.  
 
