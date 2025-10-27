@@ -5,7 +5,10 @@ export const prerender = true;
 
 export function entries() {
   const collection = new FusionCollection().loadFromDir('src/content/text');
-  const sites = collection.getItemsArray();
+  const array = collection.getItemsArray();
+  const sites = array.filter(site => {
+    return site.filename.startsWith("_____") }
+  )
   return sites.map((site) => ({
     slug: site.fields.slug
   }));
