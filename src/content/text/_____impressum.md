@@ -10,26 +10,26 @@ toc:
 
 Mitwirkende Institutionen:  
 
-Bernisches Historisches Museum, Barbara Weber  
+[Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
 
-ETH-Bibliothek, Sammlungen und Archive, ETH Zürich, Roberta Spano und Stephanie Willi  
+[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
 
-Historisches Museum Basel, Patrick Moser und Andrea Arnold  
+[Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
 
-Kunsthaus Zürich, Ruth Kistler  
+[Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
 
-Museum für Kommunikation, Bern, Jonas Bürgi  
+[Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
 
-Fotostiftung Schweiz, Michèle Dick  
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
 
-Schweizerisches Nationalmuseum, Céline Hug und Dario Donati  
+[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Céline Hug und Dario Donati  
 
-Stiftung für Kunst, Kultur und Geschichte (SKKG), Sonja Gasser  
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
 
 Kontakt: mailto:info@criticalGLAM.ch  
 
 Konzept- und Projektbegleitung:  
-Danielle Isler  
+[Danielle Isler](https://www.danielle-isler.com/)  
 
 Textbeiträge:  
 Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, Chonja Lee, Monique Ligtenberg, Ruby Satele Asiata  
@@ -42,7 +42,7 @@ Design und Entwicklung
 [Astrom / Zimmer & Tereszkiewicz](https://azt.ch/)  
 
 Lektorat:  
-Fachübersetzungsdienst  
+[Fachübersetzungsdienst GmbH | Übersetzungsbüro | FÜD](https://www.fachuebersetzungsdienst.com/)  
 
 Dank  
 

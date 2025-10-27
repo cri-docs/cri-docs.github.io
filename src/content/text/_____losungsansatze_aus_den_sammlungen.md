@@ -36,7 +36,8 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 ## 10.1 Der M\*automat  
 
-![alt:, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image022.jpg)  
+
+![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image030.jpg)  
 
 [[start:metadata]]
 
@@ -54,7 +55,7 @@ Datierung: 1646
 
 Inschrift: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
 
-Schlagworte: Personenw appen, Hans Rudolf Rahn  
+Schlagworte: Personenwappen, Hans Rudolf Rahn  
 
 Herstellung: Augsburg  
 
@@ -108,7 +109,8 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[184]
 
 ## 10.2 Eine Sparkasse  
 
-![alt:, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image023.jpg)  
+
+![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image031.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -151,7 +153,8 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläuter
 
 ## 10.3 **Die Stickvorlage**  
 
-![alt:, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image024.jpg)  
+
+![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -187,7 +190,8 @@ Inhaltshinweis: «Abwertende Sprache»
 
 Bei diesem Objekt handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901-1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
-![alt:C:\Users\snmchug\Downloads\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image025.jpg)  
+
+![alt:C:\Users\snmchug\Downloads\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image033.jpg)  
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des Objekts wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem Objekt somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von Objekten des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
@@ -212,7 +216,8 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.4 **Der «Schwarze Peter»**  
 
-![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
+
+![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -270,7 +275,8 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.5 **Die Pudding-Werbung**  
 
-![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image027.jpg)  
+
+![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -304,7 +310,7 @@ Inhaltshinweis: «Stereotyp», «Warenrassismus», «Rassismus»
 
 Kontext  
 
-Ab dem Jahr 2010 sammelt das Schweizerische Nationalmuseum in Zusammenarbeit mit der «Swiss Graphic Design Foundation» Arbeiten aus den Lebenswerken von bedeutenden Schweizer Gestaltenden. Das Konvolut mit Arbeiten von Donald Brun gehört dabei zu den früheren Konvoluten, es wird 2012 in die Sammlung aufgenommen. Das Plakat wurde von der Druckerei Wassermann in Basel produziert. Der Gestalter Donald Brun war ebenfalls in Basel tätig. Daher ist es naheliegend, davon auszugehen, dass Flandor das Produkt eines Herstellers aus dem Raum Basel war. Der Stil von Donald Brun wird der sogenannten «Basler Schule» zugeordnet. Typische Merkmale der Arbeiten Bruns sind die «Sachplakat-Tradition», der illustrative Witz und die kräftige Farbgebung, die er meist als Lithografien umsetzt. Unter Sachplakat-Tradition wird die prägnante Bewerbung eines Produkts oder einer Dienstleistung verstanden. Damit verbunden ist eine klare Bildsprache, mit dem beworbenen Produkt/der beworbenen Dienstleistung im Mittelpunkt. Ziel ist es oftmals, die Werbebotschaft humorvoll zu vermitteln und die Betrachtenden zum Schmunzeln zu bringen. Man kann davon ausgehen, dass Brun als «Kind seiner Zeit» einen anderen Humor in Bezug auf die Darstellung und Wahrnehmung Schwarzer Menschen hatte. Im heutigen Kontext fällt auf, dass hier mit der Assoziation eines Schwarzen Dienenden (in Anlehnung an höfische Sklav:innen) und anderen solchen Darstellungen, die in der Werbung und Kunst verwendet wurden, gespielt wird. Das Plakat reiht sich damit wie die Reihe von Werbungen, die unter dem Begriff des «Warenrassismus» (*commodity racism*), entwickelt von Anne McClintock[[188]](#footnote-189), subsummiert werden können. Dabei zeigt sich, wie die kapitalistische Konsumkultur die Verbreitung kolonialer Vorstellungen, Konzepte und Bilder befördert. Besonders auffällig ist auch die verzerrte Grössenrelation Pudding/Mensch. Der Mensch erscheint im Verhältnis zum goldenen/weissen Pudding kindlich, verkleinert und marginal. Dies ist möglicherweise aber auch im Zusammenhang mit der Tradition des Sachplakates zu sehen, welches das beworbene Produkt oftmals unnatürlich vergrössert darstellt. Auch die kindliche Darstellung von erwachsenen Personen ist bei Brun generell weit verbreitet und wird oftmals eingesetzt. Grundsätzlich reiht sich diese Abbildung in eine Darstellungstradition ein, die weit verbreitet war und mit der Abwertung, Verkindlichung (teilw. auch Exotisierung) von Schwarzen Menschen in Verbindung steht.  
+Ab dem Jahr 2010 sammelt das Schweizerische Nationalmuseum in Zusammenarbeit mit der «Swiss Graphic Design Foundation» Arbeiten aus den Lebenswerken von bedeutenden Schweizer Gestaltenden. Das Konvolut mit Arbeiten von Donald Brun gehört dabei zu den früheren Konvoluten, es wird 2012 in die Sammlung aufgenommen. Das Plakat wurde von der Druckerei Wassermann in Basel produziert. Der Gestalter Donald Brun war ebenfalls in Basel tätig. Daher ist es naheliegend, davon auszugehen, dass Flandor das Produkt eines Herstellers aus dem Raum Basel war. Der Stil von Donald Brun wird der sogenannten «Basler Schule» zugeordnet. Typische Merkmale der Arbeiten Bruns sind die «Sachplakat-Tradition», der illustrative Witz und die kräftige Farbgebung, die er meist als Lithografien umsetzt. Unter Sachplakat-Tradition wird die prägnante Bewerbung eines Produkts oder einer Dienstleistung verstanden. Damit verbunden ist eine klare Bildsprache, mit dem beworbenen Produkt/der beworbenen Dienstleistung im Mittelpunkt. Ziel ist es oftmals, die Werbebotschaft humorvoll zu vermitteln und die Betrachtenden zum Schmunzeln zu bringen. Man kann davon ausgehen, dass Brun als «Kind seiner Zeit» einen anderen Humor in Bezug auf die Darstellung und Wahrnehmung Schwarzer Menschen hatte. Im heutigen Kontext fällt auf, dass hier mit der Assoziation eines Schwarzen Dienenden (in Anlehnung an höfische Sklav:innen) und anderen solchen Darstellungen, die in der Werbung und Kunst verwendet wurden, gespielt wird. Das Plakat reiht sich damit wie die Reihe von Werbungen, die unter dem Begriff des «Warenrassismus» (*commodity racism*), entwickelt von Anne McClintock[[188]](#footnote-189), subsummiert werden können. Dabei zeigt sich, wie die kapitalistische Konsumkultur die Verbreitung kolonialer Vorstellungen, Konzepte und Bilder befördert. Besonders auffällig ist auch die verzerrte Grössenrelation Pudding/Mensch. Der Mensch erscheint im Verhältnis zum goldenen/weissen Pudding kindlich, verkleinert und marginal. Dies ist möglicherweise aber auch im Zusammenhang mit der Tradition des Sachplakates zu sehen, welches das beworbene Produkt oftmals unnatürlich vergrössert darstellt. Auch die kindliche Darstellung von erwachsenen Personen ist bei Brun generell weit verbreitet und wird oftmals eingesetzt. Grundsätzlich reiht sich diese Abbildung in eine Darstellungstradition ein, die weit verbreitet war und mit der Abwertung, Verkindlichung (teilweise auch Exotisierung) von Schwarzen Menschen in Verbindung steht.  
 
 Das Auffinden von sensiblen und rassistischen Abbildungen, wie wir sie in diesem Beispiel sehen, kann sehr umständlich sein. Dieses Plakat wurde erst entdeckt, als sich durch vorhergegangene Recherchen zeigte, dass sich gerade in diesem Plakatbestand einige solcher Darstellungen finden. Wie angenommen werden kann, wird in diesem Beispiel also nicht das Vorhandensein eines rassistischen Begriffs oder einer Fremdzuschreibung zum Problem, sondern das Fehlen von Hinweisen auf einen rassistischen Bildinhalt. Im Datensatz wird weder in der Beschreibung noch durch Schlagworte vermerkt, dass für die Bewerbung des Desserts eine Stereotypenabbildung verwendet wurde. Um in Zukunft solche langwierigen Suchaktionen sowie die Transparenz über die Bildinhalte resp. das Wissen zu ebendiesen zu vergrössern und zu erweitern, hat sich das SNM dazu entschieden, Bildinhalte nach ihren eindeutigen Merkmalen zu verschlagworten und damit das Schlagwortangebot um weitere Termini (wie z. B. «Stereotyp», «Warenrassismus», «Rassismus») anzureichern. Dies soll einerseits dazu beitragen, die Bestände auf bestimmte Inhalte abzufragen und andererseits rassistische und stereotype Abbildungen als solche markieren zu können.  
 
@@ -324,9 +330,8 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.6 **Das Puppenspiel**  
 
-![alt:, extra:![](data:image/png;base64...)  
 
-Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image028.jpg)  
+![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image036.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -362,7 +367,8 @@ Das Objekt ist, verknüpft mit dem Haupteintrag und den übrigen Teilobjekten, i
 
 ## 10.7 **Die 12 kleinen N\*lein**  
 
-![alt:, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image029.jpg)  
+
+![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image037.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -407,7 +413,8 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum Objekt erläutert (s
 
 ## 10.8 **Die Portraitserie**  
 
-![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  
+
+![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image038.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -479,7 +486,8 @@ Das Objekt wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwort
 
 ## 10.9 **Die elektrische Reklame für die Schuhcrème**  
 
-![alt:, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image031.jpg)  
+
+![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image039.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -524,7 +532,8 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläuter
 
 ## 10.10 **Die «exotisch»-erotischen Nippes**  
 
-![alt:, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
+
+![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image040.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -582,7 +591,8 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.11 **Der Nick-N\***  
 
-![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
+
+![alt:P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM](/images/image041.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -637,7 +647,8 @@ Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuel
 
 ## 10.12 **Eine Fotoreportage aus den USA**  
 
-![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image034.jpg)  
+
+![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image042.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 

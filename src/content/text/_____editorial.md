@@ -22,8 +22,7 @@ Die Dokumentation nimmt in GLAM-Institutionen eine zentrale Schnittstellenfunkti
 
 **Weiterführende Literatur:**  
 
-**Zum Überblick über die Entwicklung der Diskussion in der Schweiz:**  
-
+* Zum Überblick über die Entwicklung der Diskussion in der Schweiz:  
 * Historisches Lexikon der Schweiz (Hg.): Dossier «Koloniale Verflechtungen der Schweiz», HLS online, 15.04.2025, <<https://hls-dhs-dss.ch/de/dossiers/000033/2025-04-15/>>, Stand 03.09.2025.  
 * Schweizerisches Nationalmuseum (Hg.): Kolonial. Globale Verflechtungen der Schweiz, Zürich 2024.  
 * Ausstellung «Im Dialog mit Benin. Kunst, Kolonialismus und Restitution» im Museum Rietberg, 23.08.2024-16.02.2025, <<https://rietberg.ch/ausstellungen/imdialogmitbenin>>, Stand 03.09.2025.  

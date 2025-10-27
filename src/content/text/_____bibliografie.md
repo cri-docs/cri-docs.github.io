@@ -24,7 +24,7 @@ Becker, Peter; Clark, William: Little Tools of Knowledge. Historical Essays on A
 
 Bendix, Daniel; Danielzik, Chandra-Milena: Exotik, in: Arndt, Susan; Ofuatey-Alazard, Nadja (Hg.): Wie Rassismus aus Wörtern spricht. (K)Erben des Kolonialismus im Wissensarchiv deutsche Sprache. Ein kritisches Nachschlagewerk, Münster 2011, S. 634.  
 
-Black Cultural Archives, London, <https://www.calmview.eu/BCA/CalmView/default.aspx >, Stand: 08.07.2025.  
+Black Cultural Archives, London, <<https://www.calmview.eu/BCA/CalmView/default.aspx>>, Stand: 08.07.2025.  
 
 Bonilla-Silva, Eduardo: Racism Without Racists. Color-Blind Racism and the Persistence of Racial Inequality in America, London 2022.  
 
@@ -42,7 +42,7 @@ Darman, Ashkira; Schär, Bernhard: Zürcher «Mohren»-Fantasien. Eine bau- und 
 
 de Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018-22.04.2019], Stuttgart 2021.  
 
-Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field (E-Book), Washington, DC 2020. Online: <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>.  
+Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field (E-Book), Washington, DC 2020. Online: < <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>>.  
 
 Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025.  
 
@@ -50,7 +50,7 @@ Deutscher Museumsbund e.V. (Hg.): Leitfaden zum Umgang mit Sammlungsgut aus kolo
 
 Umberger, Olga: Die schwarze Baden-Schenkung., in: Chronik der Stadt Zürich 5/1913 (E-Book), S. 49, 01.02.1913. Online: <<https://www.e-newspaperarchives.ch/?a=d&d=CSZ19130201-01/>>, Stand: 02.10.2025.  
 
-Digitales Wörterbuch der deutschen Sprache: «exotisch», <https://www.dwds.de/wb/exotisch>, Stand: 04.08.2025.  
+Digitales Wörterbuch der deutschen Sprache: «exotisch», < <https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025.  
 
 Eckert, Mascha; Lumme, Christin; Pfaller, Sebastian: Vom Zuschieben und Zuschreiben. Das Kartenspiel Schwarzer Peter in der Sammlung des Deutschen Spielearchivs Nürnberg, Boardgame Historian, 14.10.2021, <<https://bghistorian.hypotheses.org/1454/>>, Stand: 25.02.2025.  
 

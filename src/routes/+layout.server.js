@@ -11,7 +11,7 @@ export function load({ url }) {
 
   const array = collection.getItemsArray()
   const sites = array.filter(site => {
-    return site.filename !== "all_sections_merged.md"}
+    return site.filename.startsWith("_____") }
   )
   if (url.pathname === "/") {
     // Redirect to /editorial if the path is root

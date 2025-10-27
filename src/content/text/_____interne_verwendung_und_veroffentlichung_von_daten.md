@@ -121,6 +121,8 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 [[start:minus]]
 
 * Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  
+* Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber der Grund für diese Markierung bleibt den Nutzer:innen möglicherweise unklar  
+
 [[end:minus]]
 
 [[end:comp]]
@@ -135,9 +137,8 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)](/images/image008.jpg)  
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp, extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...) Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image016.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -175,11 +176,14 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
 
-![alt:, extra:Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp, extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
 
-![alt:, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image011.jpg)  
+
+![alt:alt text, extra:Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image018.jpg)  
+
+
+![alt:alt text, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image019.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -221,7 +225,8 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 [[end:block]]
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image012.jpg)  
+
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image020.jpg)  
 
 (4) Individuelle Inhaltswarnungen  
 
@@ -261,11 +266,14 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 
 [[end:block]]
 
-![alt:, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image013.jpg)  
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image014.jpg)  
+![alt:alt text, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
 
-![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image015.jpg)  
+
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
+
+
+![alt:C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -302,7 +310,8 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 
 [[end:block]]
 
-![alt:, extra:Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image016.jpg)  
+
+![alt:alt text, extra:Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
 
 **Zusammenfassung:**  
 
