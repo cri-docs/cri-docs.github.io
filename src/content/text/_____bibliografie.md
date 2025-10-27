@@ -3,7 +3,7 @@ title: "Bibliografie"
 short_title: "Bibliografie"
 slug: "bibliografie"
 order: 190
-index: 13
+index: extra
 color: "default"
 toc:
 ---

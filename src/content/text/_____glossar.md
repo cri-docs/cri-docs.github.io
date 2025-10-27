@@ -3,7 +3,7 @@ title: "Glossar"
 short_title: "Glossar"
 slug: "glossar"
 order: 170
-index: 11
+index: extra
 color: "default"
 toc:
   - level: 2
