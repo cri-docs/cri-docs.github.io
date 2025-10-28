@@ -52,7 +52,7 @@ Im Folgenden sind exemplarisch thematisch gebündelte Fragen aufgeführt, die al
 
 ### Selbstreflexion der individuellen Prägung  
 
-Rassistische sowie eurozentrische und kolonial geprägte Haltungen werden im Laufe des Lebens erlernt, ohne dass man sich dessen zwingendermassen bewusst ist.[[21]](#footnote-22) In Bezug auf die Arbeit im Museum bedeutet dies, dass wir je nach Hintergrund, Sozialisierung, Erziehung und Bildung Objekte und deren Ikonografien unterschiedlich lesen, interpretieren, beschreiben und dokumentieren. Die Assoziationen, die ein Objekt oder ein Bild bei uns hervorrufen, hängen stark von unserem eigenen Hintergrund, unserem Repertoire an Erfahrungen, von Wissen und unserem Welt- und Menschenbild sowie von den uns bekannten Objekt- und Bildwelten ab. Gleichzeitig treffen wir rassistische Objekte und Dokumentationen aus vorangehender Praxis an, die wir nicht immer direkt als solche dechiffrieren.[[22]](#footnote-23) Eine vertiefte rassismuskritische Selbstreflexion und damit einhergehend eine Perspektivenerweiterung oder ein Perspektivenwechsel treiben eine sensibilisierte Dokumentationspraxis voran.  
+Rassistische sowie eurozentrische und kolonial geprägte Haltungen werden im Laufe des Lebens erlernt, ohne dass man sich dessen zwingendermassen bewusst ist.[[21]](#footnote-22) In Bezug auf die Arbeit im Museum bedeutet dies, dass wir je nach Hintergrund, Sozialisierung, Erziehung und Bildung [Objekte](#_Objekt) und deren Ikonografien unterschiedlich lesen, interpretieren, beschreiben und dokumentieren. Die Assoziationen, die ein Objekt oder ein Bild bei uns hervorrufen, hängen stark von unserem eigenen Hintergrund, unserem Repertoire an Erfahrungen, von Wissen und unserem Welt- und Menschenbild sowie von den uns bekannten Objekt- und Bildwelten ab. Gleichzeitig treffen wir rassistische [Objekte](#_Objekt) und Dokumentationen aus vorangehender Praxis an, die wir nicht immer direkt als solche dechiffrieren.[[22]](#footnote-23) Eine vertiefte rassismuskritische Selbstreflexion und damit einhergehend eine Perspektivenerweiterung oder ein Perspektivenwechsel treiben eine sensibilisierte Dokumentationspraxis voran.  
 Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzustossen:  
 
 * Welche Reaktion löst das Thema Rassismus bei mir aus (Verärgerung, Scham, Gleichgültigkeit, Wut)?  
@@ -62,7 +62,9 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
 
-![alt:alt text, extra:Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image009.jpg)  
+![alt:alt text, extra:](/images/image009.jpg)  
+
+Abbildung : «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM  
 
 [[start:literature]]
 
@@ -78,18 +80,20 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ### Wer dokumentiert was/wen/wessen Geschichte?  
 
-Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse können dazu führen, dass gewisse Akteur:innen in der Sammlungs- oder Museumsgeschichte nicht repräsentiert sind, sei dies als Hersteller:innen von Objekten oder als nicht berücksichtigte oder respektierte Wissensträger:innen und Dokumentar:innen. Die folgenden Fragen dienen als Denkanstösse für die kritische Überprüfung der Sammlungs- und Museumsgeschichte in Bezug auf involvierte Personen.  
+Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse können dazu führen, dass gewisse Akteur:innen in der Sammlungs- oder Museumsgeschichte nicht repräsentiert sind, sei dies als Hersteller:innen von [Objekten](#_Objekt) oder als nicht berücksichtigte oder respektierte Wissensträger:innen und Dokumentar:innen. Die folgenden Fragen dienen als Denkanstösse für die kritische Überprüfung der Sammlungs- und Museumsgeschichte in Bezug auf involvierte Personen.  
 
 * Welche und wessen Geschichten sind in der Dokumentation und Sammlungsdatenbank erfasst?  
-* Wie wurde in der Vergangenheit und wie wird heute subalternes Wissen oder zum Beispiel Wissen von den Hersteller:innen der Objekte oder deren Umfeld dokumentiert?  
+* Wie wurde in der Vergangenheit und wie wird heute subalternes Wissen oder zum Beispiel Wissen von den Hersteller:innen der [Objekte](#_Objekt) oder deren Umfeld dokumentiert?  
 * An welchen Wissenssystemen orientieren wir uns als Dokumentar:innen (disziplinäres, akademisches, eurozentrisches Wissen)?  
-* Sind die Hersteller:innen der Objekte bekannt und werden diese mit Namen genannt? Was sind die Gründe dafür, falls sie nicht genannt werden, sind es rassistische Motive oder gibt es andere Gründe?[[23]](#footnote-24)  
+* Sind die Hersteller:innen der [Objekte](#_Objekt) bekannt und werden diese mit Namen genannt? Was sind die Gründe dafür, falls sie nicht genannt werden, sind es rassistische Motive oder gibt es andere Gründe?[[23]](#footnote-24)  
 * In welchen Fällen muss bei unbekannten Hersteller:innen darauf hingewiesen werden, warum diese nicht genannt werden (können)?  
 * Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen Communities an? Welche Stimmen fehlen?  
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 
-![alt:alt text, extra:Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image010.jpg)  
+![alt:alt text, extra:](/images/image010.jpg)  
+
+Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich  
 
 [[start:literature]]
 
@@ -109,7 +113,7 @@ Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objek
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z. B. primitiv, wild, einfach, Natur)?  
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?  
 * Beispiel Kleidung: Wie sind Kleidungsstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «Exotismus» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus/exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
 
 ### Denkanstoss: Institutionelle Positionierung  
 
@@ -122,7 +126,9 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
 
-![alt:alt text, extra:Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image011.jpg)  
+![alt:alt text, extra:](/images/image011.jpg)  
+
+Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM  
 
 [[start:literature]]
 
