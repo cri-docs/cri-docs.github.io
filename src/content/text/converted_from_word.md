@@ -10,7 +10,7 @@ Arbeitsgruppe «Critical GLAM»
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Reinigung und Registrierung, Stiftung Kunst Kultur Geschichte Winterthur, Foto: Bruno Augsburger © SKKG
+Abbildung 1: Reinigung und Registrierung, Stiftung Kunst Kultur Geschichte Winterthur, Foto: Bruno Augsburger © SKKG
 
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
 
@@ -64,147 +64,143 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM»
 
 Inhalt
 
-[1 Editorial 8](#_Toc212453087)
+[1 Einleitung 9](#_Toc212469158)
 
-[1.1 Eckpfeiler und Rahmenbedingungen des Handbuchs [[Eckpfeiler und Rahmenbedingungen]] 10](#_Toc212453088)
+[2 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 13](#_Toc212469159)
 
-[1.2 Die Arbeitsgruppe 12](#_Toc212453089)
+[2.1 Was ist Rassismus? 13](#_Toc212469160)
 
-[2 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 12](#_Toc212453090)
+[2.1.1 Rassismus auf der individuellen Ebene 14](#_Toc212469161)
 
-[2.1 Was ist Rassismus? 13](#_Toc212453091)
+[2.1.2 Struktureller Rassismus 14](#_Toc212469162)
 
-[2.1.1 Rassismus auf der individuellen Ebene 13](#_Toc212453092)
+[2.2 Wie weiter in der Praxis? 15](#_Toc212469163)
 
-[2.1.2 Struktureller Rassismus 13](#_Toc212453093)
+[2.2.1 Verborgene Rassismen in der Datenbank 15](#_Toc212469164)
 
-[2.2 Wie weiter in der Praxis? 14](#_Toc212453094)
+[2.2.2 Selbstreflexion der individuellen Prägung 16](#_Toc212469165)
 
-[2.2.1 Verborgene Rassismen in der Datenbank 14](#_Toc212453095)
+[2.2.3 Wer dokumentiert was/wen/wessen Geschichte? 17](#_Toc212469166)
 
-[2.2.2 Selbstreflexion der individuellen Prägung 15](#_Toc212453096)
+[2.2.4 Selbstverständlichkeit der Verschlagwortung 19](#_Toc212469167)
 
-[2.2.3 Wer dokumentiert was/wen/wessen Geschichte? 16](#_Toc212453097)
+[2.2.5 Denkanstoss: Institutionelle Positionierung 19](#_Toc212469168)
 
-[2.2.4 Selbstverständlichkeit der Verschlagwortung 18](#_Toc212453098)
+[3 Sammlungen und Museen als Orte der Kolonialität 22](#_Toc212469169)
 
-[2.2.5 Denkanstoss: Institutionelle Positionierung 18](#_Toc212453099)
+[4 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 35](#_Toc212469170)
 
-[3 Sammlungen und Museen als Orte der Kolonialität 21](#_Toc212453100)
+[5 Communities, Sammlungen und Sorgfalt 44](#_Toc212469171)
 
-[4 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 34](#_Toc212453101)
+[6 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 52](#_Toc212469172)
 
-[5 Communities, Sammlungen und Sorgfalt 43](#_Toc212453102)
+[7 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Interne Verwendung und Veröffentlichung von Daten]] 62](#_Toc212469173)
 
-[6 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 51](#_Toc212453103)
+[7.1 Sammlungsdatenbanken 62](#_Toc212469174)
 
-[7 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Interne Verwendung und Veröffentlichung von Daten]] 61](#_Toc212453104)
+[7.1.1 Beschreibung 64](#_Toc212469175)
 
-[7.1 Sammlungsdatenbanken 61](#_Toc212453105)
+[7.1.2 Bezeichnung, Titel 64](#_Toc212469176)
 
-[7.1.1 Beschreibung 63](#_Toc212453106)
+[7.1.3 Schlagwörter, Keywords 65](#_Toc212469177)
 
-[7.1.2 Bezeichnung, Titel 63](#_Toc212453107)
+[7.1.4 Inschriften, Beschriftung, Signaturen 65](#_Toc212469178)
 
-[7.1.3 Schlagwörter, Keywords 64](#_Toc212453108)
+[7.1.5 Klassifikation, Gattung, Objektart, Objekttyp 65](#_Toc212469179)
 
-[7.1.4 Inschriften, Beschriftung, Signaturen 64](#_Toc212453109)
+[7.1.6 Provenienz 66](#_Toc212469180)
 
-[7.1.5 Klassifikation, Gattung, Objektart, Objekttyp 64](#_Toc212453110)
+[7.2 Metadaten in Online-Sammlungen: 5 Ansätze 66](#_Toc212469181)
 
-[7.1.6 Provenienz 65](#_Toc212453111)
+[7.2.1 (1) Titel als diskriminierend markieren 68](#_Toc212469182)
 
-[7.2 Metadaten in Online-Sammlungen: 5 Ansätze 65](#_Toc212453112)
+[7.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 71](#_Toc212469183)
 
-[7.2.1 (1) Titel als diskriminierend markieren 67](#_Toc212453113)
+[7.2.3 (3) Titel neu formulieren 73](#_Toc212469184)
 
-[7.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 70](#_Toc212453114)
+[7.2.4 (5) Allgemeine Inhaltswarnung 78](#_Toc212469185)
 
-[7.2.3 (3) Titel neu formulieren 72](#_Toc212453115)
+[8 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 81](#_Toc212469186)
 
-[7.2.4 (5) Allgemeine Inhaltswarnung 77](#_Toc212453116)
+[Bernisches Historisches Museum 81](#_Toc212469187)
 
-[8 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 80](#_Toc212453117)
+[ETH-Bibliothek, ETH Zürich 83](#_Toc212469188)
 
-[Bernisches Historisches Museum 80](#_Toc212453118)
+[Fotostiftung Schweiz 85](#_Toc212469189)
 
-[ETH-Bibliothek, ETH Zürich 82](#_Toc212453119)
+[Historisches Museum Basel 86](#_Toc212469190)
 
-[Fotostiftung Schweiz 84](#_Toc212453120)
+[Kunsthaus Zürich 87](#_Toc212469191)
 
-[Historisches Museum Basel 85](#_Toc212453121)
+[Museum für Kommunikation 88](#_Toc212469192)
 
-[Kunsthaus Zürich 86](#_Toc212453122)
+[Schweizerisches Nationalmuseum 89](#_Toc212469193)
 
-[Museum für Kommunikation 87](#_Toc212453123)
+[Stiftung für Kunst, Kultur und Geschichte 91](#_Toc212469194)
 
-[Schweizerisches Nationalmuseum 88](#_Toc212453124)
+[9 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Grundsätze in der Überarbeitung von Datensätzen]] 92](#_Toc212469195)
 
-[Stiftung für Kunst, Kultur und Geschichte 90](#_Toc212453125)
+[10 Lösungsansätze aus den Sammlungen 96](#_Toc212469196)
 
-[9 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Grundsätze in der Überarbeitung von Datensätzen]] 91](#_Toc212453126)
+[Der M\*automat 96](#_Toc212469197)
 
-[10 Lösungsansätze aus den Sammlungen 95](#_Toc212453127)
+[Eine Sparkasse 99](#_Toc212469198)
 
-[Der M\*automat 95](#_Toc212453128)
+[Die Stickvorlage 101](#_Toc212469199)
 
-[Eine Sparkasse 98](#_Toc212453129)
+[Der «Schwarze Peter» 104](#_Toc212469200)
 
-[Die Stickvorlage 100](#_Toc212453130)
+[Die Pudding-Werbung 106](#_Toc212469201)
 
-[Der «Schwarze Peter» 103](#_Toc212453131)
+[Das Puppenspiel 108](#_Toc212469202)
 
-[Die Pudding-Werbung 105](#_Toc212453132)
+[Die 12 kleinen N\*lein 110](#_Toc212469203)
 
-[Das Puppenspiel 107](#_Toc212453133)
+[Die Portraitserie 112](#_Toc212469204)
 
-[Die 12 kleinen N\*lein 109](#_Toc212453134)
+[Die elektrische Reklame für die Schuhcrème 114](#_Toc212469205)
 
-[Die Portraitserie 111](#_Toc212453135)
+[Die «exotisch»-erotischen Nippes 115](#_Toc212469206)
 
-[Die elektrische Reklame für die Schuhcrème 113](#_Toc212453136)
+[Der Nick-N\* 118](#_Toc212469207)
 
-[Die «exotisch»-erotischen Nippes 114](#_Toc212453137)
+[Eine Fotoreportage aus den USA 120](#_Toc212469208)
 
-[Der Nick-N\* 117](#_Toc212453138)
+[11 Vertiefungen 123](#_Toc212469209)
 
-[Eine Fotoreportage aus den USA 119](#_Toc212453139)
+[Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 123](#_Toc212469210)
 
-[11 Vertiefungen 122](#_Toc212453140)
+[Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 127](#_Toc212469211)
 
-[Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 122](#_Toc212453141)
+[12 Glossar 129](#_Toc212469212)
 
-[Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 126](#_Toc212453142)
+[BIPoC 129](#_Toc212469213)
 
-[12 Glossar 128](#_Toc212453143)
+[Community und Herkunftsgesellschaft 129](#_Toc212469214)
 
-[BIPoC 128](#_Toc212453144)
+[«Rassifizierte Communities» 129](#_Toc212469215)
 
-[Community und Herkunftsgesellschaft 128](#_Toc212453145)
+[Dekolonisierung und Dekolonialismus 130](#_Toc212469216)
 
-[«Rassifizierte Communities» 128](#_Toc212453146)
+[Exotismus/exotisierend 131](#_Toc212469217)
 
-[Dekolonisierung und Dekolonialismus 129](#_Toc212453147)
+[Indigen 131](#_Toc212469218)
 
-[Exotismus/exotisierend 130](#_Toc212453148)
+[Kolonialismus und Kolonialisierung 132](#_Toc212469219)
 
-[Indigen 130](#_Toc212453149)
+[Objekt 133](#_Toc212469220)
 
-[Kolonialismus und Kolonialisierung 131](#_Toc212453150)
+[Postkolonialismus und Postkoloniale Studien 133](#_Toc212469221)
 
-[Objekt 132](#_Toc212453151)
+[Schwarz/weiss 133](#_Toc212469222)
 
-[Postkolonialismus und Postkoloniale Studien 132](#_Toc212453152)
+[Selbstbezeichnung und Fremdzuschreibung 134](#_Toc212469223)
 
-[Schwarz/weiss 132](#_Toc212453153)
+[13 Nachwort 136](#_Toc212469224)
 
-[Selbstbezeichnung und Fremdzuschreibung 133](#_Toc212453154)
+[14 Bibliografie 137](#_Toc212469225)
 
-[13 Nachwort 135](#_Toc212453155)
-
-[14 Bibliografie 136](#_Toc212453156)
-
-[15 Impressum 144](#_Toc212453157)
+[15 Impressum 145](#_Toc212469226)
 
 # Einleitung
 
@@ -260,7 +256,7 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 
 [[start:about]]
 
-## Die Arbeitsgruppe
+#### Die Arbeitsgruppe
 
 Die Mitglieder der AG sind mehrheitlich *weisse* Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich *weisse* Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen.
 
@@ -339,7 +335,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -367,7 +363,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
+Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
 
 [[start:literature]]
 
@@ -401,7 +397,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -575,7 +571,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
+Abbildung 6: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)
 
@@ -695,7 +691,7 @@ Denis Pourawa schlug eine Umbenennung des Objekts in *Nââkweta* vor. Der Begri
 
 ![](data:image/png;base64...)
 
-Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
+Abbildung 7: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
 
 Indigene Epistemologien sind direkt mit indigenen Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[110]](#footnote-111) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von indigenen Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des Objekts gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.
 
@@ -764,7 +760,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
+Abbildung 8: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
 
 #### **Auswirkungen von geweissten Räumen**
 
@@ -965,9 +961,9 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
+Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1007,11 +1003,11 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
@@ -1172,13 +1168,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM
+Abbildung 19: Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der Objekte sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![C:\Users\snmchug\Downloads\2024Usakos.JPG](data:image/jpeg;base64...)
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM
+Abbildung 20: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
