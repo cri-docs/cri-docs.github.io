@@ -20,7 +20,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 ### Rassismus auf der individuellen Ebene  
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl *weisse* Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz/weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
 
 ### Struktureller Rassismus  
 
@@ -87,7 +87,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * An welchen Wissenssystemen orientieren wir uns als Dokumentar:innen (disziplinäres, akademisches, eurozentrisches Wissen)?  
 * Sind die Hersteller:innen der [Objekte](#_Objekt) bekannt und werden diese mit Namen genannt? Was sind die Gründe dafür, falls sie nicht genannt werden, sind es rassistische Motive oder gibt es andere Gründe?[[23]](#footnote-24)  
 * In welchen Fällen muss bei unbekannten Hersteller:innen darauf hingewiesen werden, warum diese nicht genannt werden (können)?  
-* Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen Communities an? Welche Stimmen fehlen?  
+* Bei welchen Themen bietet sich eine Zusammenarbeit mit und [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft) und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen [Communities](#_Community_und_Herkunftsgesellschaft) an? Welche Stimmen fehlen?  
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 

@@ -64,143 +64,143 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM»
 
 Inhalt
 
-[1 Einleitung 9](#_Toc212542380)
+[Einleitung 9](#_Toc212543555)
 
-[2 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 13](#_Toc212542381)
+[1 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 13](#_Toc212543556)
 
-[2.1 Was ist Rassismus? 13](#_Toc212542382)
+[1.1 Was ist Rassismus? 13](#_Toc212543557)
 
-[2.1.1 Rassismus auf der individuellen Ebene 14](#_Toc212542383)
+[1.1.1 Rassismus auf der individuellen Ebene 14](#_Toc212543558)
 
-[2.1.2 Struktureller Rassismus 14](#_Toc212542384)
+[1.1.2 Struktureller Rassismus 14](#_Toc212543559)
 
-[2.2 Wie weiter in der Praxis? 15](#_Toc212542385)
+[1.2 Wie weiter in der Praxis? 15](#_Toc212543560)
 
-[2.2.1 Verborgene Rassismen in der Datenbank 15](#_Toc212542386)
+[1.2.1 Verborgene Rassismen in der Datenbank 15](#_Toc212543561)
 
-[2.2.2 Selbstreflexion der individuellen Prägung 16](#_Toc212542387)
+[1.2.2 Selbstreflexion der individuellen Prägung 16](#_Toc212543562)
 
-[2.2.3 Wer dokumentiert was/wen/wessen Geschichte? 17](#_Toc212542388)
+[1.2.3 Wer dokumentiert was/wen/wessen Geschichte? 17](#_Toc212543563)
 
-[2.2.4 Selbstverständlichkeit der Verschlagwortung 19](#_Toc212542389)
+[1.2.4 Selbstverständlichkeit der Verschlagwortung 19](#_Toc212543564)
 
-[2.2.5 Denkanstoss: Institutionelle Positionierung 19](#_Toc212542390)
+[1.2.5 Denkanstoss: Institutionelle Positionierung 19](#_Toc212543565)
 
-[3 Sammlungen und Museen als Orte der Kolonialität 22](#_Toc212542391)
+[2 Sammlungen und Museen als Orte der Kolonialität 22](#_Toc212543566)
 
-[4 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 35](#_Toc212542392)
+[3 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 35](#_Toc212543567)
 
-[5 Communities, Sammlungen und Sorgfalt 44](#_Toc212542393)
+[4 Communities, Sammlungen und Sorgfalt 44](#_Toc212543568)
 
-[6 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 52](#_Toc212542394)
+[5 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 52](#_Toc212543569)
 
-[7 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Interne Verwendung und Veröffentlichung von Daten]] 62](#_Toc212542395)
+[6 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] 62](#_Toc212543570)
 
-[7.1 Sammlungsdatenbanken 62](#_Toc212542396)
+[6.1 Sammlungsdatenbanken 62](#_Toc212543571)
 
-[7.1.1 Beschreibung 64](#_Toc212542397)
+[6.1.1 Beschreibung 64](#_Toc212543572)
 
-[7.1.2 Bezeichnung, Titel 64](#_Toc212542398)
+[6.1.2 Bezeichnung, Titel 64](#_Toc212543573)
 
-[7.1.3 Schlagwörter, Keywords 65](#_Toc212542399)
+[6.1.3 Schlagwörter, Keywords 65](#_Toc212543574)
 
-[7.1.4 Inschriften, Beschriftung, Signaturen 65](#_Toc212542400)
+[6.1.4 Inschriften, Beschriftung, Signaturen 65](#_Toc212543575)
 
-[7.1.5 Klassifikation, Gattung, Objektart, Objekttyp 65](#_Toc212542401)
+[6.1.5 Klassifikation, Gattung, Objektart, Objekttyp 65](#_Toc212543576)
 
-[7.1.6 Provenienz 66](#_Toc212542402)
+[6.1.6 Provenienz 66](#_Toc212543577)
 
-[7.2 Metadaten in Online-Sammlungen: 5 Ansätze 66](#_Toc212542403)
+[6.2 Metadaten in Online-Sammlungen: 5 Ansätze 66](#_Toc212543578)
 
-[7.2.1 (1) Titel als diskriminierend markieren 68](#_Toc212542404)
+[6.2.1 (1) Titel als diskriminierend markieren 68](#_Toc212543579)
 
-[7.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 71](#_Toc212542405)
+[6.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 71](#_Toc212543580)
 
-[7.2.3 (3) Titel neu formulieren 73](#_Toc212542406)
+[6.2.3 (3) Titel neu formulieren 73](#_Toc212543581)
 
-[7.2.4 (5) Allgemeine Inhaltswarnung 78](#_Toc212542407)
+[6.2.4 (5) Allgemeine Inhaltswarnung 78](#_Toc212543582)
 
-[8 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 81](#_Toc212542408)
+[7 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 81](#_Toc212543583)
 
-[Bernisches Historisches Museum 81](#_Toc212542409)
+[Bernisches Historisches Museum 81](#_Toc212543584)
 
-[ETH-Bibliothek, ETH Zürich 83](#_Toc212542410)
+[ETH-Bibliothek, ETH Zürich 83](#_Toc212543585)
 
-[Fotostiftung Schweiz 85](#_Toc212542411)
+[Fotostiftung Schweiz 85](#_Toc212543586)
 
-[Historisches Museum Basel 86](#_Toc212542412)
+[Historisches Museum Basel 86](#_Toc212543587)
 
-[Kunsthaus Zürich 87](#_Toc212542413)
+[Kunsthaus Zürich 87](#_Toc212543588)
 
-[Museum für Kommunikation 88](#_Toc212542414)
+[Museum für Kommunikation 88](#_Toc212543589)
 
-[Schweizerisches Nationalmuseum 89](#_Toc212542415)
+[Schweizerisches Nationalmuseum 89](#_Toc212543590)
 
-[Stiftung für Kunst, Kultur und Geschichte 91](#_Toc212542416)
+[Stiftung für Kunst, Kultur und Geschichte 91](#_Toc212543591)
 
-[9 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Grundsätze in der Überarbeitung von Datensätzen]] 92](#_Toc212542417)
+[8 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]] 93](#_Toc212543592)
 
-[10 Lösungsansätze aus den Sammlungen 96](#_Toc212542418)
+[9 Lösungsansätze aus den Sammlungen 96](#_Toc212543593)
 
-[Der M\*automat 96](#_Toc212542419)
+[Der M\*automat 96](#_Toc212543594)
 
-[Eine Sparkasse 99](#_Toc212542420)
+[Eine Sparkasse 99](#_Toc212543595)
 
-[Die Stickvorlage 101](#_Toc212542421)
+[Die Stickvorlage 101](#_Toc212543596)
 
-[Der «Schwarze Peter» 104](#_Toc212542422)
+[Der «Schwarze Peter» 104](#_Toc212543597)
 
-[Die Pudding-Werbung 106](#_Toc212542423)
+[Die Pudding-Werbung 106](#_Toc212543598)
 
-[Das Puppenspiel 108](#_Toc212542424)
+[Das Puppenspiel 108](#_Toc212543599)
 
-[Die 12 kleinen N\*lein 110](#_Toc212542425)
+[Die 12 kleinen N\*lein 110](#_Toc212543600)
 
-[Die Portraitserie 112](#_Toc212542426)
+[Die Portraitserie 112](#_Toc212543601)
 
-[Die elektrische Reklame für die Schuhcrème 114](#_Toc212542427)
+[Die elektrische Reklame für die Schuhcrème 114](#_Toc212543602)
 
-[Die ‹exotisch›-erotischen Nippes 116](#_Toc212542428)
+[Die ‹exotisch›-erotischen Nippes 116](#_Toc212543603)
 
-[Der Nick-N\* 118](#_Toc212542429)
+[Der Nick-N\* 118](#_Toc212543604)
 
-[Eine Fotoreportage aus den USA 120](#_Toc212542430)
+[Eine Fotoreportage aus den USA 120](#_Toc212543605)
 
-[11 Vertiefungen 123](#_Toc212542431)
+[10 Vertiefungen 123](#_Toc212543606)
 
-[Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 123](#_Toc212542432)
+[Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 123](#_Toc212543607)
 
-[Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 127](#_Toc212542433)
+[Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 127](#_Toc212543608)
 
-[12 Glossar 129](#_Toc212542434)
+[11 Glossar 129](#_Toc212543609)
 
-[BIPoC 129](#_Toc212542435)
+[BIPoC 129](#_Toc212543610)
 
-[Community und Herkunftsgesellschaft 129](#_Toc212542436)
+[Community und Herkunftsgesellschaft 129](#_Toc212543611)
 
-[«Rassifizierte Communities» 129](#_Toc212542437)
+[«Rassifizierte Communities» 129](#_Toc212543612)
 
-[Dekolonisierung und Dekolonialismus 130](#_Toc212542438)
+[Dekolonisierung und Dekolonialismus 130](#_Toc212543613)
 
-[Exotismus/exotisierend 131](#_Toc212542439)
+[Exotismus/exotisierend 131](#_Toc212543614)
 
-[Indigen 131](#_Toc212542440)
+[Indigen 131](#_Toc212543615)
 
-[Kolonialismus und Kolonialisierung 132](#_Toc212542441)
+[Kolonialismus und Kolonialisierung 132](#_Toc212543616)
 
-[Objekt 133](#_Toc212542442)
+[Objekt 133](#_Toc212543617)
 
-[Postkolonialismus und Postkoloniale Studien 133](#_Toc212542443)
+[Postkolonialismus und Postkoloniale Studien 133](#_Toc212543618)
 
-[Schwarz/weiss 133](#_Toc212542444)
+[Schwarz/weiss 133](#_Toc212543619)
 
-[Selbstbezeichnung und Fremdzuschreibung 134](#_Toc212542445)
+[Selbstbezeichnung und Fremdzuschreibung 134](#_Toc212543620)
 
-[13 Nachwort 136](#_Toc212542446)
+[12 Nachwort 136](#_Toc212543621)
 
-[14 Bibliografie 137](#_Toc212542447)
+[13 Bibliografie 137](#_Toc212543622)
 
-[15 Impressum 145](#_Toc212542448)
+[14 Impressum 145](#_Toc212543623)
 
 # Einleitung
 
@@ -292,7 +292,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 ### Rassismus auf der individuellen Ebene
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl *weisse* Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz/weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)
 
 ### Struktureller Rassismus
 
@@ -358,7 +358,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * An welchen Wissenssystemen orientieren wir uns als Dokumentar:innen (disziplinäres, akademisches, eurozentrisches Wissen)?
 * Sind die Hersteller:innen der [Objekte](#_Objekt) bekannt und werden diese mit Namen genannt? Was sind die Gründe dafür, falls sie nicht genannt werden, sind es rassistische Motive oder gibt es andere Gründe?[[23]](#footnote-24)
 * In welchen Fällen muss bei unbekannten Hersteller:innen darauf hingewiesen werden, warum diese nicht genannt werden (können)?
-* Bei welchen Themen bietet sich eine Zusammenarbeit mit und Herkunftsgesellschaften und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen Communities an? Welche Stimmen fehlen?
+* Bei welchen Themen bietet sich eine Zusammenarbeit mit und [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft) und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen [Communities](#_Community_und_Herkunftsgesellschaft) an? Welche Stimmen fehlen?
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?
 
 ![](data:image/jpeg;base64...)
@@ -438,7 +438,7 @@ Enzyklopädische und universalistische Sammlungen[[26]](#footnote-27), auf deren
 
 Die zunehmende Akkumulation von Naturbelegstücken und Artefakten in europäischen Kunst- und Wunderkammern, Raritätenkabinetten und Bibliotheken des 17. und 18. Jh. stand vielerorts auch im Zusammenhang mit der kolonialen Expansion Europas. Sammeln erfolgte dabei auch im Rahmen von Plünderungen oder unter asymmetrischen Machtkonstellationen über die neuen Handelswege.[[35]](#footnote-36) Aus diesen frühen privaten oder bereits (halb-)öffentlichen Sammlungen entstanden in der zweiten Hälfte des 19. Jh. im Zuge einer Ausdifferenzierung von Sammlungs- und Wissensbereichen viele heutige Museen, so auch in der Schweiz.[[36]](#footnote-37) Museen waren und sind – dies insbesondere auch im Rahmen der Nationalstaatenbildung des 19. Jh. – wichtige Orte der ideellen Konzeption der Nation und politische Repräsentationsorte, an denen wirtschaftliche, kulturelle und wissenschaftliche Errungenschaften zur Schau gestellt werden.[[37]](#footnote-38)
 
-Bruno Latour ging noch einen Schritt weiter. Er sah in den Museen selbst gar «Kalkulationszentren», die die Welt durch ihr Netzwerk an Akteur:innen wie Sammler:innen und Händler:innen kolonisieren. Ihre [Objekte](#_Objekt), die als Proben oder Repräsentationen vereinfacht, verglichen und reproduziert werden, sowie ihre Ergebnisse dienen der Aufrechterhaltung einer Dominanz über die Welt und ihre Bewohner:innen.[[38]](#footnote-39) Museen sind gemäss dieser Lesart keine blossen Akkumulationsorte von im Rahmen kolonialer Strukturen gesammelten [Objekten](#_Objekt), sondern Triebfedern ebendieser Sammlungskultur. Besonders deutlich wird dies anhand der sich um 1900 verbreitenden «Rettungsethnologie», die der damals sehr populären Vorstellung folgte, dass aussereuropäische [Objekte](#_Objekt) gerettet werden müssten, weil die Bevölkerung, die diese Dinge herstellt, dem Untergang geweiht sei.[[39]](#footnote-40) Dieses «Rettungsparadigma» galt auch in den Disziplinen der Medizin, Naturkunde, Geografie oder Archäologie. Sammeln wurde zu einem Massenphänomen und führte im letzten Drittel des 19. Jh. zu einer bisher ungesehenen Anhäufung von aussereuropäischen [Museumsobjekten](#_Objekt) jedweder Natur und damit dem Entzug ebendieser *Naturalia,* *Ethnographica* und *Zoologica* aus ihren ursprünglichen Kontexten.[[40]](#footnote-41)
+Bruno Latour ging noch einen Schritt weiter. Er sah in den Museen selbst gar «Kalkulationszentren», die die Welt durch ihr Netzwerk an Akteur:innen wie Sammler:innen und Händler:innen kolonisieren. Ihre [Objekte](#_Objekt), die als Proben oder Repräsentationen vereinfacht, verglichen und reproduziert werden, sowie ihre Ergebnisse dienen der Aufrechterhaltung einer Dominanz über die Welt und ihre Bewohner:innen.[[38]](#footnote-39) Museen sind gemäss dieser Lesart keine blossen Akkumulationsorte von im Rahmen kolonialer Strukturen gesammelten [Objekten](#_Objekt), sondern Triebfedern ebendieser Sammlungskultur. Besonders deutlich wird dies anhand der sich um 1900 verbreitenden «Rettungsethnologie», die der damals sehr populären Vorstellung folgte, dass aussereuropäische [Objekte](#_Objekt) gerettet werden müssten, weil die Bevölkerung, die diese Dinge herstellt, dem Untergang geweiht sei.[[39]](#footnote-40) Dieses «Rettungsparadigma» galt auch in den Disziplinen der Medizin, Naturkunde, Geografie oder Archäologie. Sammeln wurde zu einem Massenphänomen und führte im letzten Drittel des 19. Jh. zu einer bisher ungesehenen Anhäufung von aussereuropäischen Museumsobjekten jedweder Natur und damit dem Entzug ebendieser *Naturalia,* *Ethnographica* und *Zoologica* aus ihren ursprünglichen Kontexten.[[40]](#footnote-41)
 
 Nicht nur sind viele Museumssammlungen in kolonialen Kontexten gewachsen. Es hat sich auch ein damit verbundenes ideelles Erbe in hiesige Sammlungen als «Kolonialität» eingeschrieben. Aníbal Quijano prägte den Begriff der «Kolonialität»[[41]](#footnote-42) als den [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) überdauernde Denk- und Machtmuster desselben. So ist beispielsweise das Konzept einer [*weissen*](#_Schwarz/weiss) Vorherrschaft eine wissensprägende Struktur der Neuzeit und allgegenwärtig in historisch gewachsenen Museumssammlungen. In der Logik der Kolonialität kommt dem Rassismus eine entscheidende Rolle zu, da er Menschen unterteilt in solche, die das Privileg haben zu klassifizieren, und solche, die eine Klassifizierung erdulden müssen.[[42]](#footnote-43)
 
@@ -565,7 +565,7 @@ Der vorliegende Beitrag veranschaulicht anhand konkreter historischer Beispiele 
 
 #### **Primäre koloniale Sammlungen**
 
-‹Primär› bedeutet, dass die [Sammlungsobjekte](#_Objekt) direkt von den Kolonien in die Schweiz gelangten.
+‹Primär› bedeutet, dass die Sammlungsobjekte direkt von den Kolonien in die Schweiz gelangten.
 
 Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte oder Kaufleute kistenweise [Objekte](#_Objekt), Präparate und Kulturgegenstände von ihren Kolonialexpeditionen in die Schweiz.[[78]](#footnote-79) Solche Privatsammlungen gelangten oft als Schenkungen an Schweizer Museen, Universitäten, Gelehrtengesellschaften und Kunsthäuser. Ein Beispiel dafür ist die Insektensammlung von Heinrich Escher-Zollikofer (1776–1853). Er reiste 1795 als Kaufmann nach Nordamerika, wo er elf Jahre lang mit Kolonialwaren handelte, die von versklavten Menschen angebaut wurden.[[79]](#footnote-80) Diese kolonialen Handelstätigkeiten ermöglichten es ihm, in Nord- und Zentralamerika eine grosse Insektensammlung aufzubauen, die er in der Schweiz durch Zukäufe erweiterte. 1858 wurden die rund 60’000 Präparate der ETH Zürich geschenkt.[[80]](#footnote-81)
 
@@ -1030,7 +1030,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 **[[end:plus]]**
 
-**[start:minus]]**
+**[[start:minus]]**
 
 * Kann als Whitewashing (deutsch weisswaschen/Schönfärberei)/Geschichtsrevisionismus interpretiert werden
 * Die Auseinandersetzung mit der Geschichte bzw. eine begleitende Erklärung fehlt je nach Umsetzung
@@ -1274,14 +1274,14 @@ Die Überarbeitung von Datensätzen in Datenbanken hängt stark von den technisc
 1. Datenbank nach sensiblen Inhalten durchsuchen. Dies kann bspw. über eine Abfrage von explizit rassistischen Begriffen in der Freitextsuche erfolgen (eine entsprechende Wortliste ist im Anhang beigefügt). Rassistische Inhalte in umfangreichen Sammlungen ausfindig zu machen, ist aufwendig. Neben Begriffen sind es meist Motive oder bildliche Inhalte, die rassistische Stereotype reproduzieren. In vielen Fällen wird bei der Inventarisierung jedoch nicht oder nur unzulänglich auf die semantische Ebene eines [Objekts](#_Objekt) eingegangen.
 2. [Objekte](#_Objekt), die von rassistischen Begriffen und bildlichen Inhalten betroffen sind, in einer Liste oder einem Objektset sammeln oder durch eine spezielle Markierung kennzeichnen.
 3. Begriffe definieren, die in der Institution nicht reproduziert werden sollen. Das bedeutet, pro Begriff festzulegen, welche alternativen oder einordnenden Schreibweisen zukünftig verwendet werden sollen.
-4. Rassistische Fremdzuschreibung gegebenenfalls durch [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) ersetzen: Wenn auf einen rassistischen Begriff nicht verzichtet werden kann, da er z. B. als objektimmanente Inschrift auftritt, die aus dokumentarischen Gründen im Datensatz aufgenommen werden muss, kann dieser in Anführungszeichen gesetzt und durch Begriffe wie sogenannt:e «…», kunsthistorisch bezeichnet als «…», ehemals bezeichnet als «…», von dem:der Künstler:in bezeichnet als «...», stereotype:r «…» usw. ergänzt werden.
+4. Rassistische [Fremdzuschreibung](#_Selbstbezeichnung_und_Fremdzuschrei) gegebenenfalls durch [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) ersetzen: Wenn auf einen rassistischen Begriff nicht verzichtet werden kann, da er z. B. als objektimmanente Inschrift auftritt, die aus dokumentarischen Gründen im Datensatz aufgenommen werden muss, kann dieser in Anführungszeichen gesetzt und durch Begriffe wie sogenannt:e «…», kunsthistorisch bezeichnet als «…», ehemals bezeichnet als «…», von dem:der Künstler:in bezeichnet als «...», stereotype:r «…» usw. ergänzt werden.
 5. Handlungsanweisungen festlegen, wie in den jeweiligen Datenfeldern Änderungen am Datensatz vorgenommen werden. Beispiele können sein:
    1. Bei rassistischen Titeln und Inschriften den Hinweis «[sic!]» für die Abschriften implementieren.
    2. Regeln einführen, wann welche Schlagworte den Datensätzen hinzugefügt werden.
    3. (optional) Regeln für die Präsentation der [Objekte](#_Objekt) und Objektinformationen in der Online-Sammlung beschliessen.
    4. Einschätzung der (technischen) Möglichkeiten, die zur Verfügung stehen, um sensible Informationen für die Nutzer:innen sichtbar/unsichtbar zu machen oder um den Nutzer:innen zu ermöglichen, dies selbst zu entscheiden (z. B. Blurfilter, der sich pro Bild ausschalten lässt).
    5. Definieren, welche Inhalte nicht zur Verfügung stehen sollen, und Erarbeiten eines Konzepts, unter welchen Umständen sensible oder rassistische Abbildungen oder historische Objekttitel für Externe zur Verfügung stehen sollen. Wichtig zu beachten ist dabei, dass der Zugang für wissenschaftliche Forschung weiterhin gewährleistet ist.
-6. Bei sensiblen Inhalten **Hinweise** implementieren, um die Nutzer:innen der Datenbank darauf aufmerksam zu machen, dass rassistische Sprache und rassistische Inhalte und Motive vorkommen.
+6. Bei sensiblen Inhalten Hinweise implementieren, um die Nutzer:innen der Datenbank darauf aufmerksam zu machen, dass rassistische Sprache und rassistische Inhalte und Motive vorkommen.
 7. Sensiblen [Objekten](#_Objekt) einen «Inhaltshinweis» mitgeben. Die verschiedenen Inhaltshinweise zu spezifischen rassistischen und diskriminierenden Praktiken können zum Beispiel in einer Dropdown-Liste implementiert und angewählt werden.
 8. Wenn immer möglich sollte bei sensiblen [Objekten](#_Objekt) ein ergänzender Text hinzugefügt werden, der das [Objekt](#_Objekt) kontextualisiert. Dieser kann in einem speziell dazu implementierten Datenfeld beigefügt werden.
 
@@ -2069,7 +2069,7 @@ Die Wörter «Dekolonisierung» und «Dekolonialismus» werden oft synonym verwe
 
 Diese Debatte wirft wichtige Fragen über Ethik, Kultur, Identität und die Rolle von Museen in der Gesellschaft auf. Es geht darum, wie wir Geschichte und Kultur darstellen und wertschätzen, und wie wir mit den oft schmerzhaften und problematischen Aspekten unserer Vergangenheit umgehen.
 
-## Exotismus/exotisierend
+## Exotismus und exotisierend
 
 Das Adjektiv ‹exotisch› bedeutet ‹aus fernen Ländern stammend, fremdländisch› und wurde im 17. Jh. aus dem Lateinischen exōticus (= «ausländisch, fremd») und Griechischen exōtikós (= «aussen, auswärts, ausserhalb») entlehnt.[[226]](#footnote-227) Daraus erschliesst sich, dass der Blick auf etwas vermeintlich «Exotisches» ein eurozentrischer und (kolonial-)historisch geprägter ist.[[227]](#footnote-228) Der Begriff «Exotismus» im Kontext von Kunst und Design birgt gerade in Bezug der rassismuskritischen Dokumentationspraxis eine gewisse Doppeldeutigkeit. Einerseits bezeichnet er eine bestimmte Ästhetik oder einen Stil, der von nicht-europäischen Kontexten geprägt ist. Dieser geht vor allem auf die Wahrnehmung von «fremden» Kulturen aus und schliesst eine Faszination ein. Andererseits wird er aber im kolonialen Kontext auch als Wahrnehmung von kolonialisierten Gesellschaften beschrieben, die abwertend und rassistisch ist. «Exotisierend» ist nicht nur eine Wahrnehmung oder Denkweise, sondern die aktive Handlung, die das Bild verzerrt, stereotypisiert und rassifiziert. Im Kontext der kolonialen Rezeptionsobjekte, die in Sammlungen zu finden sind, empfiehlt es sich, von einer «Exotisierung» zu sprechen.
 
@@ -2089,7 +2089,7 @@ Wenn wir in diesem Handbuch von «Objekt» sprechen, so sei anzumerken, dass es 
 
 Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf die kulturellen Aspekte des [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) und somit auf die diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekte und ihre Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räumen durch [Kolonialismus](#_Kolonialismus_und_Kolonialisierung), Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.[[234]](#footnote-235)
 
-## Schwarz/weiss
+## Schwarz und *weiss*
 
 Die Schreibweisen «Schwarz» (Grossschreibung) und «*weiss*» (kursiv) dienen der Darstellung soziopolitischer Konstrukte. Sie werden im deutschsprachigen Raum verwendet: «Schwarz» als [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) vs. «*weiss*»[-Sein] als Definition für nicht-rassifizierte Personen. Sie verdeutlichen und signalisieren einen kulturellen und soziopolitischen Umbruch in der Wahrnehmung und im Diskurs über den Anti-Schwarzen-Rassismus seit der Gründung der Black-Lives-Matter Bewegung 2013 in den USA und den Demonstrationen rund um den rassistisch motivierten Mord an George Floyd 2020. Dieser Diskurs hat auch die Auseinandersetzung mit kolonialen Vergangenheiten und Debatten um strukturellen und institutionellen Rassismus in Europa und in der Schweiz verstärkt sowie die Sprache und das Schriftbild, die im Zusammenhang dieser Auseinandersetzungen verwendet werden, geprägt. Verschiedenste Autor:innen, Wissenschaftler:innen, Institutionen und Projekte haben in diesem Zusammenhang die Schreibweisen «Schwarz» (Grossschreibung) und «*weiss*» (kursiv) für sich übernommen – so auch die Autor:innen dieses Handbuchs. Jedoch muss an dieser Stelle die historisch gewachsene und auch heute feststellbare Vielfalt von Verwendungszusammenhängen und semantischen Aufladungen dieser Begriffe benannt werden. Das Adjektiv «schwarz» bzw. das Substantiv «Schwarz» hat sich im deutschsprachigen Raum als gesellschaftliche Konvention durchgesetzt. Damit wurde die noch vor wenigen Jahrzehnten verbreitete Verwendung des N-Wortes kompromisslos stigmatisiert. Allerdings muss gesagt werden: «Schwarz» ist und war nicht immer eine [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei). Dieses Adjektiv und das Substantiv werden und wurden auch als [Fremdbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) verwendet, zum Teil durchaus auch mit rassistischen Konnotationen. Und «*Weiss*» wurde, historisch gesehen, als eine [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) verwendet, und kann je nach Kontext auch heute noch als solche eingesetzt werden, mit positiven, neutralen oder selbstkritischen Konnotationen. Das Adjektiv «*weiss*» und das Substantiv «*Weisse:r*» werden zudem auch immer wieder als [Fremdbezeichnungen](#_Selbstbezeichnung_und_Fremdzuschrei) verwendet – und beziehen sich dann nicht abstrakt auf eine Position in einem Diskurs, sondern ganz konkret auf Individuen, die aufgrund ihrer phänotypischen Erscheinung als «*weiss*» gelesen werden. Der Vorschlag, das Adjektiv «schwarz» grosszuschreiben, ist auch auf einen Einfluss der englischen Sprache zurückzuführen. In den USA hat es sich schon vor Jahrzehnten eingebürgert, «Black» zurecht nicht bloss als eine Farbe, sondern als eine rassifizierte (Selbst-)Bezeichnung zu begreifen. Im Englischen werden sowohl Substantive als auch Adjektive i. d. R. kleingeschrieben. Mit einigen Ausnahmen – u. a. eben bei religiösen (Christian, Buddhist), nationalen (French, Senegalese, Swiss) oder sprachlichen (Catalan, Arabic, Hausa) Labels bzw. bei Labels, die sich auf sprachliche/ethnische/rassifizierte Identitäten beziehen (Hispanic, Black, Italian-American etc.). In diesen Fällen werden sowohl die entsprechenden Substantive als auch die Adjektive grossgeschrieben. Die Praxis, «Black» grosszuschreiben, stellt eine egalitäre Angleichung an andere gesellschaftliche Gruppen und nicht eine separierende Andersbehandlung dar. In der deutschen Sprache ist die Grossschreibung bei Substantiven ohnehin schon gegeben. Bei Adjektiven stellt sie hingegen eine Abweichung von der Norm dar. Somit führt diese Schreibweise auch – so könnte man argumentieren – eine neue gruppenspezifische Ungleichbehandlung ein.
 
@@ -2546,7 +2546,7 @@ Alle Mitglieder der Geschäftsleitungen der beteiligten Institutionen
 139. Mit Metadaten sind alle Angaben zur Dokumentation von Sammlungsobjekten gemeint, die schriftlich in verschiedenen Feldern der Datenbank festgehalten sind. Wichtig ist festzuhalten, dass zwischen «Daten» und (strukturierten) «Metadaten» (die, wie das Wort sagt, eine Metaebene höher liegen, und die «Daten» kategorisieren, messbar und auffindbar machen) unterschieden wird. So sind z.  B. beschreibende Texte, die nicht in strukturierten Datenfeldern eingetragen sind, oder Fotos von den Sammlungsobjekten selbst «Daten»-Elemente, die wiederum mit den Datensätzen der Sammlungsobjekte verknüpft sind. [↑](#footnote-ref-140)
 140. Beispiele für einen rassismuskritischen Umgang mit Datenbanken finden sich im Kapitel 7 «Lösungsansätze aus den Sammlungen». [↑](#footnote-ref-141)
 141. Hug, Céline Florence: Base de Données, in: Petrella, Sara und Steity, Mylène (Hg.): Histoire coloniale et voix autochtones. Zürich 2025, S. 68-74. [↑](#footnote-ref-142)
-142. Die Begriffe werden im Kapitel 10 «Lösungsansätze aus den Sammlungen» synonym, jedoch auf die Institution passend und deren Verwendung entsprechend, geführt. [↑](#footnote-ref-143)
+142. Die Begriffe werden im Kapitel «Lösungsansätze aus den Sammlungen» synonym, jedoch auf die Institution passend und deren Verwendung entsprechend, geführt. [↑](#footnote-ref-143)
 143. Siehe z. B. Fallbeispiel 9 im Kapitel 10 «Lösungsansätze aus den Sammlungen». [↑](#footnote-ref-144)
 144. Tisa Francini, Ester: Perspektivenwechsel im Museum. Kolonialität der Archive und Restitutionsdebatten, in: Tonella, Denise, Amstad, Marina, Meyer, Pascale, Umurungi, Marilyn, Schwere, Raphael (Hg): Kolonial. Globale Verflechtungen der Schweiz, Zürich 2024, S. 241. [↑](#footnote-ref-145)
 145. Schweizerischer Arbeitskreis für Provenienzforschung, <<https://provenienzforschung.ch>>, Stand: 26.05.2025. [↑](#footnote-ref-146)

@@ -15,7 +15,7 @@ toc:
   - level: 2
     title: "12.4 Dekolonisierung und Dekolonialismus"
   - level: 2
-    title: "12.5 Exotismus/exotisierend"
+    title: "12.5 Exotismus und exotisierend"
   - level: 2
     title: "12.6 Indigen"
   - level: 2
@@ -25,7 +25,7 @@ toc:
   - level: 2
     title: "12.9 Postkolonialismus und Postkoloniale Studien"
   - level: 2
-    title: "12.10 Schwarz/weiss"
+    title: "12.10 Schwarz und weiss"
   - level: 2
     title: "12.11 Selbstbezeichnung und Fremdzuschreibung"
 ---
@@ -50,7 +50,7 @@ Die Wörter «Dekolonisierung» und «Dekolonialismus» werden oft synonym verwe
 
 Diese Debatte wirft wichtige Fragen über Ethik, Kultur, Identität und die Rolle von Museen in der Gesellschaft auf. Es geht darum, wie wir Geschichte und Kultur darstellen und wertschätzen, und wie wir mit den oft schmerzhaften und problematischen Aspekten unserer Vergangenheit umgehen.  
 
-## 12.5 Exotismus/exotisierend  
+## 12.5 Exotismus und exotisierend  
 
 Das Adjektiv ‹exotisch› bedeutet ‹aus fernen Ländern stammend, fremdländisch› und wurde im 17. Jh. aus dem Lateinischen exōticus (= «ausländisch, fremd») und Griechischen exōtikós (= «aussen, auswärts, ausserhalb») entlehnt.[[226]](#footnote-227) Daraus erschliesst sich, dass der Blick auf etwas vermeintlich «Exotisches» ein eurozentrischer und (kolonial-)historisch geprägter ist.[[227]](#footnote-228) Der Begriff «Exotismus» im Kontext von Kunst und Design birgt gerade in Bezug der rassismuskritischen Dokumentationspraxis eine gewisse Doppeldeutigkeit. Einerseits bezeichnet er eine bestimmte Ästhetik oder einen Stil, der von nicht-europäischen Kontexten geprägt ist. Dieser geht vor allem auf die Wahrnehmung von «fremden» Kulturen aus und schliesst eine Faszination ein. Andererseits wird er aber im kolonialen Kontext auch als Wahrnehmung von kolonialisierten Gesellschaften beschrieben, die abwertend und rassistisch ist. «Exotisierend» ist nicht nur eine Wahrnehmung oder Denkweise, sondern die aktive Handlung, die das Bild verzerrt, stereotypisiert und rassifiziert. Im Kontext der kolonialen Rezeptionsobjekte, die in Sammlungen zu finden sind, empfiehlt es sich, von einer «Exotisierung» zu sprechen.  
 
@@ -70,7 +70,7 @@ Wenn wir in diesem Handbuch von «Objekt» sprechen, so sei anzumerken, dass es 
 
 Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf die kulturellen Aspekte des [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) und somit auf die diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekte und ihre Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räumen durch [Kolonialismus](#_Kolonialismus_und_Kolonialisierung), Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.[[234]](#footnote-235)  
 
-## 12.10 Schwarz/weiss  
+## 12.10 Schwarz und *weiss*  
 
 Die Schreibweisen «Schwarz» (Grossschreibung) und «*weiss*» (kursiv) dienen der Darstellung soziopolitischer Konstrukte. Sie werden im deutschsprachigen Raum verwendet: «Schwarz» als [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) vs. «*weiss*»[-Sein] als Definition für nicht-rassifizierte Personen. Sie verdeutlichen und signalisieren einen kulturellen und soziopolitischen Umbruch in der Wahrnehmung und im Diskurs über den Anti-Schwarzen-Rassismus seit der Gründung der Black-Lives-Matter Bewegung 2013 in den USA und den Demonstrationen rund um den rassistisch motivierten Mord an George Floyd 2020. Dieser Diskurs hat auch die Auseinandersetzung mit kolonialen Vergangenheiten und Debatten um strukturellen und institutionellen Rassismus in Europa und in der Schweiz verstärkt sowie die Sprache und das Schriftbild, die im Zusammenhang dieser Auseinandersetzungen verwendet werden, geprägt. Verschiedenste Autor:innen, Wissenschaftler:innen, Institutionen und Projekte haben in diesem Zusammenhang die Schreibweisen «Schwarz» (Grossschreibung) und «*weiss*» (kursiv) für sich übernommen – so auch die Autor:innen dieses Handbuchs. Jedoch muss an dieser Stelle die historisch gewachsene und auch heute feststellbare Vielfalt von Verwendungszusammenhängen und semantischen Aufladungen dieser Begriffe benannt werden. Das Adjektiv «schwarz» bzw. das Substantiv «Schwarz» hat sich im deutschsprachigen Raum als gesellschaftliche Konvention durchgesetzt. Damit wurde die noch vor wenigen Jahrzehnten verbreitete Verwendung des N-Wortes kompromisslos stigmatisiert. Allerdings muss gesagt werden: «Schwarz» ist und war nicht immer eine [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei). Dieses Adjektiv und das Substantiv werden und wurden auch als [Fremdbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) verwendet, zum Teil durchaus auch mit rassistischen Konnotationen. Und «*Weiss*» wurde, historisch gesehen, als eine [Selbstbezeichnung](#_Selbstbezeichnung_und_Fremdzuschrei) verwendet, und kann je nach Kontext auch heute noch als solche eingesetzt werden, mit positiven, neutralen oder selbstkritischen Konnotationen. Das Adjektiv «*weiss*» und das Substantiv «*Weisse:r*» werden zudem auch immer wieder als [Fremdbezeichnungen](#_Selbstbezeichnung_und_Fremdzuschrei) verwendet – und beziehen sich dann nicht abstrakt auf eine Position in einem Diskurs, sondern ganz konkret auf Individuen, die aufgrund ihrer phänotypischen Erscheinung als «*weiss*» gelesen werden. Der Vorschlag, das Adjektiv «schwarz» grosszuschreiben, ist auch auf einen Einfluss der englischen Sprache zurückzuführen. In den USA hat es sich schon vor Jahrzehnten eingebürgert, «Black» zurecht nicht bloss als eine Farbe, sondern als eine rassifizierte (Selbst-)Bezeichnung zu begreifen. Im Englischen werden sowohl Substantive als auch Adjektive i. d. R. kleingeschrieben. Mit einigen Ausnahmen – u. a. eben bei religiösen (Christian, Buddhist), nationalen (French, Senegalese, Swiss) oder sprachlichen (Catalan, Arabic, Hausa) Labels bzw. bei Labels, die sich auf sprachliche/ethnische/rassifizierte Identitäten beziehen (Hispanic, Black, Italian-American etc.). In diesen Fällen werden sowohl die entsprechenden Substantive als auch die Adjektive grossgeschrieben. Die Praxis, «Black» grosszuschreiben, stellt eine egalitäre Angleichung an andere gesellschaftliche Gruppen und nicht eine separierende Andersbehandlung dar. In der deutschen Sprache ist die Grossschreibung bei Substantiven ohnehin schon gegeben. Bei Adjektiven stellt sie hingegen eine Abweichung von der Norm dar. Somit führt diese Schreibweise auch – so könnte man argumentieren – eine neue gruppenspezifische Ungleichbehandlung ein.  
 

@@ -211,7 +211,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 [[end:plus]]
 
-**[start:minus]]**  
+[[start:minus]]
 
 * Kann als Whitewashing (deutsch weisswaschen/Schönfärberei)/Geschichtsrevisionismus interpretiert werden  
 * Die Auseinandersetzung mit der Geschichte bzw. eine begleitende Erklärung fehlt je nach Umsetzung  
