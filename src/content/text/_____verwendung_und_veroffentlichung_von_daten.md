@@ -237,7 +237,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 ![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
 
-(4) Individuelle Inhaltswarnungen  
+### (4) Individuelle Inhaltswarnungen  
 
 Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Anklicken erscheinen der Originaltitel, eine Warnung und eine Begriffserklärung.  
 
