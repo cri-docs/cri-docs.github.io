@@ -57,150 +57,150 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM»
 * Rassistische, diskriminierende Begriffe in Originaltiteln sowie historische Zitate werden bei der Erstzitierung ausgeschrieben, aber durch Anführungs- und Schlusszeichen gekennzeichnet.
 * Bei der Zweitnennung rassistischer und diskriminierender Begriffe werden sie jeweils nur mit dem Anfangsbuchstaben und einem Asterisk (\*) geschrieben, um die Begriffe in der weiteren Analyse nicht zu reproduzieren.
 * Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.
-* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: Schwarz (Grossschreibung) und *weiss* (kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.
-* Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – ist im Glossar im Kapitel 13 des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
+* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz/weiss) (Grossschreibung) und[*weiss*](#_Schwarz/weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.
+* Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – ist im [Glossar](#_Glossar) des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
 
 [[end:infobox]]
 
 Inhalt
 
-[1 Einleitung 9](#_Toc212469158)
+[1 Einleitung 9](#_Toc212542380)
 
-[2 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 13](#_Toc212469159)
+[2 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 13](#_Toc212542381)
 
-[2.1 Was ist Rassismus? 13](#_Toc212469160)
+[2.1 Was ist Rassismus? 13](#_Toc212542382)
 
-[2.1.1 Rassismus auf der individuellen Ebene 14](#_Toc212469161)
+[2.1.1 Rassismus auf der individuellen Ebene 14](#_Toc212542383)
 
-[2.1.2 Struktureller Rassismus 14](#_Toc212469162)
+[2.1.2 Struktureller Rassismus 14](#_Toc212542384)
 
-[2.2 Wie weiter in der Praxis? 15](#_Toc212469163)
+[2.2 Wie weiter in der Praxis? 15](#_Toc212542385)
 
-[2.2.1 Verborgene Rassismen in der Datenbank 15](#_Toc212469164)
+[2.2.1 Verborgene Rassismen in der Datenbank 15](#_Toc212542386)
 
-[2.2.2 Selbstreflexion der individuellen Prägung 16](#_Toc212469165)
+[2.2.2 Selbstreflexion der individuellen Prägung 16](#_Toc212542387)
 
-[2.2.3 Wer dokumentiert was/wen/wessen Geschichte? 17](#_Toc212469166)
+[2.2.3 Wer dokumentiert was/wen/wessen Geschichte? 17](#_Toc212542388)
 
-[2.2.4 Selbstverständlichkeit der Verschlagwortung 19](#_Toc212469167)
+[2.2.4 Selbstverständlichkeit der Verschlagwortung 19](#_Toc212542389)
 
-[2.2.5 Denkanstoss: Institutionelle Positionierung 19](#_Toc212469168)
+[2.2.5 Denkanstoss: Institutionelle Positionierung 19](#_Toc212542390)
 
-[3 Sammlungen und Museen als Orte der Kolonialität 22](#_Toc212469169)
+[3 Sammlungen und Museen als Orte der Kolonialität 22](#_Toc212542391)
 
-[4 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 35](#_Toc212469170)
+[4 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 35](#_Toc212542392)
 
-[5 Communities, Sammlungen und Sorgfalt 44](#_Toc212469171)
+[5 Communities, Sammlungen und Sorgfalt 44](#_Toc212542393)
 
-[6 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 52](#_Toc212469172)
+[6 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 52](#_Toc212542394)
 
-[7 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Interne Verwendung und Veröffentlichung von Daten]] 62](#_Toc212469173)
+[7 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Interne Verwendung und Veröffentlichung von Daten]] 62](#_Toc212542395)
 
-[7.1 Sammlungsdatenbanken 62](#_Toc212469174)
+[7.1 Sammlungsdatenbanken 62](#_Toc212542396)
 
-[7.1.1 Beschreibung 64](#_Toc212469175)
+[7.1.1 Beschreibung 64](#_Toc212542397)
 
-[7.1.2 Bezeichnung, Titel 64](#_Toc212469176)
+[7.1.2 Bezeichnung, Titel 64](#_Toc212542398)
 
-[7.1.3 Schlagwörter, Keywords 65](#_Toc212469177)
+[7.1.3 Schlagwörter, Keywords 65](#_Toc212542399)
 
-[7.1.4 Inschriften, Beschriftung, Signaturen 65](#_Toc212469178)
+[7.1.4 Inschriften, Beschriftung, Signaturen 65](#_Toc212542400)
 
-[7.1.5 Klassifikation, Gattung, Objektart, Objekttyp 65](#_Toc212469179)
+[7.1.5 Klassifikation, Gattung, Objektart, Objekttyp 65](#_Toc212542401)
 
-[7.1.6 Provenienz 66](#_Toc212469180)
+[7.1.6 Provenienz 66](#_Toc212542402)
 
-[7.2 Metadaten in Online-Sammlungen: 5 Ansätze 66](#_Toc212469181)
+[7.2 Metadaten in Online-Sammlungen: 5 Ansätze 66](#_Toc212542403)
 
-[7.2.1 (1) Titel als diskriminierend markieren 68](#_Toc212469182)
+[7.2.1 (1) Titel als diskriminierend markieren 68](#_Toc212542404)
 
-[7.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 71](#_Toc212469183)
+[7.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 71](#_Toc212542405)
 
-[7.2.3 (3) Titel neu formulieren 73](#_Toc212469184)
+[7.2.3 (3) Titel neu formulieren 73](#_Toc212542406)
 
-[7.2.4 (5) Allgemeine Inhaltswarnung 78](#_Toc212469185)
+[7.2.4 (5) Allgemeine Inhaltswarnung 78](#_Toc212542407)
 
-[8 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 81](#_Toc212469186)
+[8 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 81](#_Toc212542408)
 
-[Bernisches Historisches Museum 81](#_Toc212469187)
+[Bernisches Historisches Museum 81](#_Toc212542409)
 
-[ETH-Bibliothek, ETH Zürich 83](#_Toc212469188)
+[ETH-Bibliothek, ETH Zürich 83](#_Toc212542410)
 
-[Fotostiftung Schweiz 85](#_Toc212469189)
+[Fotostiftung Schweiz 85](#_Toc212542411)
 
-[Historisches Museum Basel 86](#_Toc212469190)
+[Historisches Museum Basel 86](#_Toc212542412)
 
-[Kunsthaus Zürich 87](#_Toc212469191)
+[Kunsthaus Zürich 87](#_Toc212542413)
 
-[Museum für Kommunikation 88](#_Toc212469192)
+[Museum für Kommunikation 88](#_Toc212542414)
 
-[Schweizerisches Nationalmuseum 89](#_Toc212469193)
+[Schweizerisches Nationalmuseum 89](#_Toc212542415)
 
-[Stiftung für Kunst, Kultur und Geschichte 91](#_Toc212469194)
+[Stiftung für Kunst, Kultur und Geschichte 91](#_Toc212542416)
 
-[9 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Grundsätze in der Überarbeitung von Datensätzen]] 92](#_Toc212469195)
+[9 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Grundsätze in der Überarbeitung von Datensätzen]] 92](#_Toc212542417)
 
-[10 Lösungsansätze aus den Sammlungen 96](#_Toc212469196)
+[10 Lösungsansätze aus den Sammlungen 96](#_Toc212542418)
 
-[Der M\*automat 96](#_Toc212469197)
+[Der M\*automat 96](#_Toc212542419)
 
-[Eine Sparkasse 99](#_Toc212469198)
+[Eine Sparkasse 99](#_Toc212542420)
 
-[Die Stickvorlage 101](#_Toc212469199)
+[Die Stickvorlage 101](#_Toc212542421)
 
-[Der «Schwarze Peter» 104](#_Toc212469200)
+[Der «Schwarze Peter» 104](#_Toc212542422)
 
-[Die Pudding-Werbung 106](#_Toc212469201)
+[Die Pudding-Werbung 106](#_Toc212542423)
 
-[Das Puppenspiel 108](#_Toc212469202)
+[Das Puppenspiel 108](#_Toc212542424)
 
-[Die 12 kleinen N\*lein 110](#_Toc212469203)
+[Die 12 kleinen N\*lein 110](#_Toc212542425)
 
-[Die Portraitserie 112](#_Toc212469204)
+[Die Portraitserie 112](#_Toc212542426)
 
-[Die elektrische Reklame für die Schuhcrème 114](#_Toc212469205)
+[Die elektrische Reklame für die Schuhcrème 114](#_Toc212542427)
 
-[Die «exotisch»-erotischen Nippes 115](#_Toc212469206)
+[Die ‹exotisch›-erotischen Nippes 116](#_Toc212542428)
 
-[Der Nick-N\* 118](#_Toc212469207)
+[Der Nick-N\* 118](#_Toc212542429)
 
-[Eine Fotoreportage aus den USA 120](#_Toc212469208)
+[Eine Fotoreportage aus den USA 120](#_Toc212542430)
 
-[11 Vertiefungen 123](#_Toc212469209)
+[11 Vertiefungen 123](#_Toc212542431)
 
-[Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 123](#_Toc212469210)
+[Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 123](#_Toc212542432)
 
-[Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 127](#_Toc212469211)
+[Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 127](#_Toc212542433)
 
-[12 Glossar 129](#_Toc212469212)
+[12 Glossar 129](#_Toc212542434)
 
-[BIPoC 129](#_Toc212469213)
+[BIPoC 129](#_Toc212542435)
 
-[Community und Herkunftsgesellschaft 129](#_Toc212469214)
+[Community und Herkunftsgesellschaft 129](#_Toc212542436)
 
-[«Rassifizierte Communities» 129](#_Toc212469215)
+[«Rassifizierte Communities» 129](#_Toc212542437)
 
-[Dekolonisierung und Dekolonialismus 130](#_Toc212469216)
+[Dekolonisierung und Dekolonialismus 130](#_Toc212542438)
 
-[Exotismus/exotisierend 131](#_Toc212469217)
+[Exotismus/exotisierend 131](#_Toc212542439)
 
-[Indigen 131](#_Toc212469218)
+[Indigen 131](#_Toc212542440)
 
-[Kolonialismus und Kolonialisierung 132](#_Toc212469219)
+[Kolonialismus und Kolonialisierung 132](#_Toc212542441)
 
-[Objekt 133](#_Toc212469220)
+[Objekt 133](#_Toc212542442)
 
-[Postkolonialismus und Postkoloniale Studien 133](#_Toc212469221)
+[Postkolonialismus und Postkoloniale Studien 133](#_Toc212542443)
 
-[Schwarz/weiss 133](#_Toc212469222)
+[Schwarz/weiss 133](#_Toc212542444)
 
-[Selbstbezeichnung und Fremdzuschreibung 134](#_Toc212469223)
+[Selbstbezeichnung und Fremdzuschreibung 134](#_Toc212542445)
 
-[13 Nachwort 136](#_Toc212469224)
+[13 Nachwort 136](#_Toc212542446)
 
-[14 Bibliografie 137](#_Toc212469225)
+[14 Bibliografie 137](#_Toc212542447)
 
-[15 Impressum 145](#_Toc212469226)
+[15 Impressum 145](#_Toc212542448)
 
 # Einleitung
 
@@ -440,7 +440,7 @@ Die zunehmende Akkumulation von Naturbelegstücken und Artefakten in europäisch
 
 Bruno Latour ging noch einen Schritt weiter. Er sah in den Museen selbst gar «Kalkulationszentren», die die Welt durch ihr Netzwerk an Akteur:innen wie Sammler:innen und Händler:innen kolonisieren. Ihre [Objekte](#_Objekt), die als Proben oder Repräsentationen vereinfacht, verglichen und reproduziert werden, sowie ihre Ergebnisse dienen der Aufrechterhaltung einer Dominanz über die Welt und ihre Bewohner:innen.[[38]](#footnote-39) Museen sind gemäss dieser Lesart keine blossen Akkumulationsorte von im Rahmen kolonialer Strukturen gesammelten [Objekten](#_Objekt), sondern Triebfedern ebendieser Sammlungskultur. Besonders deutlich wird dies anhand der sich um 1900 verbreitenden «Rettungsethnologie», die der damals sehr populären Vorstellung folgte, dass aussereuropäische [Objekte](#_Objekt) gerettet werden müssten, weil die Bevölkerung, die diese Dinge herstellt, dem Untergang geweiht sei.[[39]](#footnote-40) Dieses «Rettungsparadigma» galt auch in den Disziplinen der Medizin, Naturkunde, Geografie oder Archäologie. Sammeln wurde zu einem Massenphänomen und führte im letzten Drittel des 19. Jh. zu einer bisher ungesehenen Anhäufung von aussereuropäischen [Museumsobjekten](#_Objekt) jedweder Natur und damit dem Entzug ebendieser *Naturalia,* *Ethnographica* und *Zoologica* aus ihren ursprünglichen Kontexten.[[40]](#footnote-41)
 
-Nicht nur sind viele Museumssammlungen in kolonialen Kontexten gewachsen. Es hat sich auch ein damit verbundenes ideelles Erbe in hiesige Sammlungen als «Kolonialität» eingeschrieben. Aníbal Quijano prägte den Begriff der «Kolonialität»[[41]](#footnote-42) als den [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) überdauernde Denk- und Machtmuster desselben. So ist beispielsweise das Konzept einer *weissen* Vorherrschaft eine wissensprägende Struktur der Neuzeit und allgegenwärtig in historisch gewachsenen Museumssammlungen. In der Logik der Kolonialität kommt dem Rassismus eine entscheidende Rolle zu, da er Menschen unterteilt in solche, die das Privileg haben zu klassifizieren, und solche, die eine Klassifizierung erdulden müssen.[[42]](#footnote-43)
+Nicht nur sind viele Museumssammlungen in kolonialen Kontexten gewachsen. Es hat sich auch ein damit verbundenes ideelles Erbe in hiesige Sammlungen als «Kolonialität» eingeschrieben. Aníbal Quijano prägte den Begriff der «Kolonialität»[[41]](#footnote-42) als den [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) überdauernde Denk- und Machtmuster desselben. So ist beispielsweise das Konzept einer [*weissen*](#_Schwarz/weiss) Vorherrschaft eine wissensprägende Struktur der Neuzeit und allgegenwärtig in historisch gewachsenen Museumssammlungen. In der Logik der Kolonialität kommt dem Rassismus eine entscheidende Rolle zu, da er Menschen unterteilt in solche, die das Privileg haben zu klassifizieren, und solche, die eine Klassifizierung erdulden müssen.[[42]](#footnote-43)
 
 #### **Rassismus**
 
@@ -573,7 +573,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
-Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunst[objekte](#_Objekt) aus den Kolonien zu.[[81]](#footnote-82)
+Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)
 
 In der Schweiz dienten koloniale Sammlungen vor allem dazu, Schweizer:innen mit ‹fremden› Kulturen sowie der ‹exotischen› Natur, die sie bewohnten, vertraut zu machen. Die [Objekte](#_Objekt) wurden oft als materielle Beweise für die «zivilisatorische Unterlegenheit» kolonisierter Menschen präsentiert und legitimierten damit die Kolonialherrschaft mit. Durch Betrachtung ‹exotischer› [Objekte](#_Objekt) konnten sich Schweizer Museumsbesuchende zudem vom kolonisierten ‹Anderen› abgrenzen (sog. *Othering*) und sich dadurch ihrer Zugehörigkeit zu einer ‹zivilisierten› europäischen Kultur vergewissern (siehe Abschnitt «Koloniale Rezeptionsobjekte»).[[82]](#footnote-83)
 
@@ -669,7 +669,7 @@ Die Dokumentation von [Objekten](#_Objekt) ist nie neutral, sondern spiegelt die
 
 [[start:external]]
 
-Worte spiegeln Vorstellungen wider. Sie formen Identitäten und kreieren neue Realitäten. Oftmals gibt es mehr als nur einen Begriff, um etwas zu beschreiben. Beschreiben und Dokumentieren sind zentrale Mittel für das Verständnis von Sammlungen und die Arbeit mit Datenbanken. Die vermeintliche Neutralität der Dokumentation ist jedoch in den Fokus aktueller post- und dekolonialer Debatten geraten.[[97]](#footnote-98) So scheinen Datenbanken, Depots und Restaurierungslabors zeitlos zu sein und eine vermeintliche Objektivität auszustrahlen. Aktuelle Diskussionen, experimentelle Praktiken und [Community](#_Community_und_Herkunftsgesellschaft)-basierte Projekte verdeutlichen jedoch, dass die Wahl der verwendeten Begriffe und die Priorisierung bestimmter Sprachformen stets auch eine Reflexion gesellschaftlicher und kultureller Machtverhältnisse sind.
+Worte spiegeln Vorstellungen wider. Sie formen Identitäten und kreieren neue Realitäten. Oftmals gibt es mehr als nur einen Begriff, um etwas zu beschreiben. Beschreiben und Dokumentieren sind zentrale Mittel für das Verständnis von Sammlungen und die Arbeit mit Datenbanken. Die vermeintliche Neutralität der Dokumentation ist jedoch in den Fokus aktueller [post](#_Postkolonialismus_und_Postkoloniale)- und [dekolonialer](#_Dekolonisierung_und_Dekolonialismus) Debatten geraten.[[97]](#footnote-98) So scheinen Datenbanken, Depots und Restaurierungslabors zeitlos zu sein und eine vermeintliche Objektivität auszustrahlen. Aktuelle Diskussionen, experimentelle Praktiken und [Community](#_Community_und_Herkunftsgesellschaft)-basierte Projekte verdeutlichen jedoch, dass die Wahl der verwendeten Begriffe und die Priorisierung bestimmter Sprachformen stets auch eine Reflexion gesellschaftlicher und kultureller Machtverhältnisse sind.
 
 Sprache ist ein fundamentales Werkzeug zum Vermitteln, Verwenden, Verstehen und Erhalten von Wissen. Gleichzeitig kann sie fehlerhaft verwendet werden, Missverständnisse erzeugen, Stereotype verstärken, Schaden anrichten oder dazu dienen, paradoxerweise auch Dinge zu verschweigen. Wer spricht und in wessen Namen? Wessen Stimme ist präsent oder wem wird Gehör verschafft in Museen, Datenbanken, Ausstellungen und Katalogen? Die Bedeutung der Sprache wird von der samoanischen Sprachwissenschaftlerin Aiono Fanaafi Ma’ia’i hervorgehoben: «A leai se gagana, ua leai se aganu’u. A leai se aganu’u, ona pō lea o le nu’u.»[[98]](#footnote-99) (deutsch *Wo es keine Sprache gibt, gibt es keine Kultur. Ohne Kultur fällt Dunkelheit über das Dorf.*[[99]](#footnote-100)). Sprache ist mehr als nur ein Mittel der Kommunikation. Sie umfasst Namen, Benennungspraktiken, Gesänge, Erzählungen, Kunst, Symbole und vieles mehr – alles einzigartige Bestandteile und Kennzeichen unseres kulturellen Seins.
 
@@ -832,7 +832,7 @@ Anderson, Derek: An Epistemological Conception of Safe Spaces, in: Social Episte
 
 [[end:literature]]
 
-# Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Interne Verwendung und Veröffentlichung von Daten]]
+# Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]]
 
 Informationen, die als Metadaten[[139]](#footnote-140) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet, etwa bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der [Objekte](#_Objekt) in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von [Objekten](#_Objekt) in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[140]](#footnote-141) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und [Objekte](#_Objekt) online einem breiten Publikum zur Verfügung stehen und welche nicht.
 
@@ -1263,7 +1263,7 @@ Die Sammlung im Umfang von rund 100’000 Kunstwerken und historischen [Objekten
 
 Über die «Sammlung digital» ist die Sammlung der SKKG seit Anfang März 2025 zum ersten Mal online zugänglich.[[174]](#footnote-175) Seither weist ein Disclaimer die Öffentlichkeit auf die Weiterarbeit an der Sammlungsdokumentation und damit der laufenden Verbesserung der Daten hin.[[175]](#footnote-176) Dazu gehören u. a. die kritische Auseinandersetzung mit diskriminierungskritischen Themen und die Sichtbarmachung der daraus hervorgehenden Ergebnisse im Laufe der Zeit. In den «Frequently Asked Questions» (FAQs) ist festgehalten, dass die Titel und weiteren Angaben zu den Kunstwerken und [Objekten](#_Objekt) weitestgehend von Auktionshäusern stammen und von der SKKG nicht weiter überprüft, recherchiert und überarbeitet wurden. Einschlägige Wörter sind zurzeit komplett lesbar (ohne die Verwendung von Sternchen), auch Bilder mit diskriminierenden Motiven werden angezeigt und sind aktuell weder kommentiert noch kontextualisiert. Teilweise werden schon jetzt mehrere Objekt- bzw. Werktitel parallel geführt, sodass ein neutral formulierter als bevorzugter Titel verwendet und auch in den Suchresultaten angezeigt wird, problematischere Titel jedoch als alternative Titel zu finden sind. Was aussteht, sind Texte auf der «Sammlung digital», die vorhandene Problematiken objektspezifisch oder objektübergreifend adressieren und kontextualisieren.
 
-# Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Grundsätze in der Überarbeitung von Datensätzen]]
+# Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]]
 
 Die Überarbeitung von Datensätzen ist eine Gratwanderung zwischen verschiedenen Anforderungen an die Dokumentationspraxis. Einerseits soll der Reproduktion von Rassismus in den Datensätzen entgegengewirkt werden und damit historisch belastete Begriffe, Motive und Ideologien aus den Datensätzen entfernt werden. Andererseits heisst Dokumentieren auch immer, die Sammlungsgeschichte und die Quellenlage transparent zu halten und die Auffindbarkeit von Datensätzen und Informationen zu gewährleisten. Dies spricht gegen das Entfernen belasteter Begriffe. Historische Forschung zu ermöglichen, ist ein verpflichtender Grundsatz, dem sich Museen mit den Ethischen Richtlinien des ICOM verschrieben haben. Das bedeutet, dass Begriffe nicht einfach aus den Datensätzen entfernt und Datensätze nicht überarbeitet werden können, wenn die Rekonstruktion dieser Änderungen nicht gewährleistet ist. Die Arbeitsgruppe empfiehlt in diesem Zusammenhang, Überarbeitungen jeglicher Art zu dokumentieren – sei es durch eine Änderungshistorie, die in der Datenbank implementiert ist, oder durch einen internen Verweis in einer Auflistung. Es sollte in der Datenbank nachvollziehbar sein, welche Änderungen vorgenommen werden, wie problematische Inhalte kontextualisiert und kritische Auseinandersetzungen gekennzeichnet werden.
 
@@ -1477,7 +1477,7 @@ Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markie
 
 Für die Präsentation des [Objekts](#_Objekt) in der Sammlung Online nach der Überarbeitung wird in den Freischaltungsoptionen der einzelnen Datenbankfelder das Feld «Inschrift» abgewählt. Somit erscheint der rassistische Begriff «N\*» zukünftig nicht mehr online.
 
-Das [Objekt](#_Objekt)ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -1537,7 +1537,7 @@ Eine neue Klassifikation wird zugewiesen: Spiele und Spielzeug, Spielkarten (Kar
 Deklaration als rassistisches Objekt:
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache» markiert.
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -1593,7 +1593,7 @@ Die Bezeichnung des [Objekts](#_Objekt) wird in der **Änderungshistorie gespeic
 Deklaration als rassistisches Objekt:
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «[Schwarze](#_Schwarz/weiss) Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -1859,7 +1859,7 @@ Die rassistische Bezeichnung des** [Objekts](#_Objekt) **wird** in der **Änderu
 **Deklaration als rassistisches Objekt:
 Das** [Objekt](#_Objekt) **wird mit den Schlagworten «**[Exotisierung](#_Exotismus/exotisierend)**», «Stereotyp», «**[Schwarze](#_Schwarz/weiss) **Person» klassifiziert und der Kontext zum** [Objekt](#_Objekt) **im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.**
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -2380,7 +2380,7 @@ Alle Mitglieder der Geschäftsleitungen der beteiligten Institutionen
 3. Das Museum für Naturkunde Berlin wird im Jahr 2025 einen Leitfaden für den Umgang mit naturhistorischen Sammlungen und kolonialen Kontexten herausgeben, siehe: Museum für Naturkunde Berlin: Leitfaden zum Umgang mit naturkundlichem Sammlungsgut aus kolonialen Kontexten, <<https://www.museumfuernaturkunde.berlin/de/wissenschaft/leitfaden-zum-umgang-mit-naturkundlichem-sammlungsgut-aus-kolonialen-kontexten>>, Stand: 28.08.25. [↑](#footnote-ref-4)
 4. Schweizerisches Nationalmuseum ̶ Bernisches Historisches Museum ̶ ETH-Bibliothek, Sammlungen und Archive, ETH Zürich ̶ Fotostiftung Schweiz ̶ Historisches Museum Basel ̶ Kunsthaus Zürich ̶ Museum für Kommunikation, Bern ̶ Stiftung für Kunst, Kultur und Geschichte. [↑](#footnote-ref-5)
 5. Dieser Fokus ergibt sich aus den in den Institutionen verwendeten Beispielen in diesem Handbuch. Weitere Diskriminierungsformen werden in diesem Handbuch nicht oder nur ansatzweise diskutiert. [↑](#footnote-ref-6)
-6. vgl. Glossareintrag «Objekt» im Kapitel 13. [↑](#footnote-ref-7)
+6. vgl. Glossareintrag «[Objekt](#_Objekt)» dieses Handbuchs. [↑](#footnote-ref-7)
 7. Im «Leitfaden zum Umgang mit Sammlungsgut aus kolonialen Kontexten» vom Deutschen Museumbund wird für kolonial geprägte Objekte der Begriff «Rezeptionsobjekte» verwendet: «Das Objekt spiegelt koloniales Denken wider oder transportiert Stereotype, denen koloniale Rassismen unterliegen.», vgl. Deutscher Museumsbund e.V. (Hg.): Leitfaden Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 20213, S.  39. [↑](#footnote-ref-8)
 8. Schär, Bernhard: Rassismus, in: Historisches Lexikon der Schweiz online, 08.04.2024, <<https://hls-dhs-dss.ch/de/articles/060537/2024-04-08/>>, Stand: 03.09.2025. Weitere zentrale Literaturhinweise finden sich in diesem HLS-Artikel. [↑](#footnote-ref-9)
 9. Ethische Richtlinien von ICOM: <<https://www.museums.ch/de/fachwelt/angebote/publikationen/ethische-richtlinien-811.html> >, Stand: 03.09.2025, diese werden aktuell überarbeitet und voraussichtlich 2026 in Kraft treten, siehe <<https://www.museums.ch/de/fachwelt/fachthemen/ethik-1153.html>> , Stand: 03.09.2025. [↑](#footnote-ref-10)
@@ -2591,7 +2591,7 @@ Alle Mitglieder der Geschäftsleitungen der beteiligten Institutionen
 176. Die Befolgung von Standards zur Erschliessung ermöglicht die Nutzung und den Austausch von Daten über Institutionsgrenzen hinweg. Es gibt hilfreiche Handreichungen, die sich spezifisch an Museen/Sammlungen wenden: Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025. – ­Minimaldatensatz Empfehlung für Sammlungen und Museen: <<https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678>>, Stand: 09.04.2025. – ­Als Austauschformat für Museen und Sammlungen empfiehlt der ICOM Lido: < <https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido//>>, Stand: 09.04.2025 –Austauschformat Spectrum: <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025. –Ebenso widmen sich die ethischen Richtlinien für Museen von ICOM dem Thema der Standards bei der Objekterfassung: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>>, S. 15, Kapitel 2.20, Stand: 05.05.2025.
 
      [↑](#footnote-ref-177)
-177. Die Beispiele zeigen Auszüge aus Datenbanken, wie sie vor einer Bearbeitung aussehen. Die AG hat sich in der Ausarbeitung des Handbuchs intensiv mit den Fragen zu «Reproduktion» und «Zensur» auseinandergesetzt und diskutiert. Dabei haben wir gelernt, dass es sinnvoll und hilfreich ist, Dinge so konkret wie möglich zu benennen, wenn Detailfragen am Beispiel diskutiert werden sollen. Demnach wird auch der in der Infobox (S. 4) erläuterte Umgang mit Sprache hier nicht durchgehend angewandt. [↑](#footnote-ref-178)
+177. Die Beispiele zeigen Auszüge aus Datenbanken, wie sie vor einer Bearbeitung aussehen. Die AG hat sich in der Ausarbeitung des Handbuchs intensiv mit den Fragen zu «Reproduktion» und «Zensur» auseinandergesetzt und diskutiert. Dabei haben wir gelernt, dass es sinnvoll und hilfreich ist, Dinge so konkret wie möglich zu benennen, wenn Detailfragen am Beispiel diskutiert werden sollen. Demnach wird auch der im Disclaimer erläuterte Umgang mit Sprache hier nicht durchgehend angewandt. [↑](#footnote-ref-178)
 178. Dieses Feld wurde speziell für die rassismuskritische Überarbeitung neu in der Datenbank implementiert. Die hier hinterlegten Begriffe weisen die internen wie externen Nutzer:innen des Datensatzes auf diffamierenden Sprachgebrauch, rassistische und diskriminierende Bildinhalte oder problematische Kontexte hin. [↑](#footnote-ref-179)
 179. o. A.: Die schwarze Baden-Schenkung, in: Chronik der Stadt Zürich, 1. Februar 1913, <<https://www.e-newspaperarchives.ch/?a=d&d=CSZ19130201-01.2.2>>, Stand: 28.08.2025. [↑](#footnote-ref-180)
 180. Humboldt-Universität zu Berlin, Institut für Europäische Ethnologie, Das Institut: FAQ zur Umbenennung der «Mohrenstrasse» (im Folgenden: M\*-Strasse), Historische Bedeutung des Begriffs, o. D., < [FAQ zur Umbenennung der "Mohrenstraße" (im Folgenden: M\*-Straße) — Institut für Europäische Ethnologie](https://www.euroethno.hu-berlin.de/de/das-institut/faq-zur-umbenennung)>, Stand: 07.05.2025. [↑](#footnote-ref-181)

@@ -216,7 +216,7 @@ Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markie
 
 Für die Präsentation des [Objekts](#_Objekt) in der Sammlung Online nach der Überarbeitung wird in den Freischaltungsoptionen der einzelnen Datenbankfelder das Feld «Inschrift» abgewählt. Somit erscheint der rassistische Begriff «N\*» zukünftig nicht mehr online.  
 
-Das [Objekt](#_Objekt)ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -275,7 +275,7 @@ Eine neue Klassifikation wird zugewiesen: Spiele und Spielzeug, Spielkarten (Kar
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache» markiert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -330,7 +330,7 @@ Die Bezeichnung des [Objekts](#_Objekt) wird in der **Änderungshistorie gespeic
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «[Schwarze](#_Schwarz/weiss) Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -591,7 +591,7 @@ Die rassistische Bezeichnung des** [Objekts](#_Objekt) **wird** in der **Änderu
 **Deklaration als rassistisches Objekt:  
 Das** [Objekt](#_Objekt) **wird mit den Schlagworten «**[Exotisierung](#_Exotismus/exotisierend)**», «Stereotyp», «**[Schwarze](#_Schwarz/weiss) **Person» klassifiziert und der Kontext zum** [Objekt](#_Objekt) **im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.**  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
