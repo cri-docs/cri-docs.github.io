@@ -5,9 +5,17 @@ order: 0
 index: -1  
 ---  
 
+[[start:title]]
+
 **Rassismuskritische Dokumentation.**  
 
+[[end:title]]
+
+[[start:subtitle]]
+
 **Ein Handbuch für GLAM-Institutionen**  
+
+[[end:subtitle]]
 
 Version 1.8, Oktober 2025  
 
@@ -303,7 +311,7 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 
 # Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]]  
 
-Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, **Rassismen zu erkennen**, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Die Umsetzung einer antirassistischen Dokumentationspraxis ist ein kontinuierlicher Prozess, der nie abgeschlossen ist und stets erneut kritisch hinterfragt und angepasst werden muss. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus zu klären, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben sowie Lösungsansätze zu präsentieren.  
+Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, Rassismen zu erkennen, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Die Umsetzung einer antirassistischen Dokumentationspraxis ist ein kontinuierlicher Prozess, der nie abgeschlossen ist und stets erneut kritisch hinterfragt und angepasst werden muss. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus zu klären, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben sowie Lösungsansätze zu präsentieren.  
 
 ## ****Was ist Rassismus?****  
 
