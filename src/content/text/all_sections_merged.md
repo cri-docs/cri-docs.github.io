@@ -1318,11 +1318,8 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image031.jpg)  
 
 [[start:metadata]]
-
-Metadaten des unbereinigten Datensatzes:  
-
 [[start:before]]
-
+Metadaten des unbereinigten Datensatzes:  
 **Inventarnummer**: DEP-2443  
 
 **Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
@@ -1339,9 +1336,8 @@ Metadaten des unbereinigten Datensatzes:
 
 [[end:before]]
 
-Metadaten des bereinigten Datensatzes  
-
 [[start:after]]
+Metadaten des bereinigten Datensatzes  
 
 **Inventarnummer**: DEP-2443  
 

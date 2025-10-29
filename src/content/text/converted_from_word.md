@@ -1298,11 +1298,8 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM
 
 [[start:metadata]]
-
-Metadaten des unbereinigten Datensatzes:
-
 [[start:before]]
-
+Metadaten des unbereinigten Datensatzes:
 **Inventarnummer**: DEP-2443
 
 **Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand
@@ -1319,9 +1316,8 @@ Metadaten des unbereinigten Datensatzes:
 
 [[end:before]]
 
-Metadaten des bereinigten Datensatzes
-
 [[start:after]]
+Metadaten des bereinigten Datensatzes
 
 **Inventarnummer**: DEP-2443
 
@@ -2533,7 +2529,7 @@ Alle Mitglieder der Geschäftsleitungen der beteiligten Institutionen
 133. Vgl. Venugopal, Arun: Museums as White Spaces, WNYC, 04.05.2015, <<https://www.wnyc.org/story/museums-white-spaces>>, Stand: 20.06.2024. – Domínguez, Silvia, Simón Weffer, und David G. Embrick: White sanctuaries: White supremacy, racism, space, and fine arts in two metropolitan museums, in: American Behavioral Scientist 64 (14), 2020, S. 2028–2043. – Klonk, Charlotte: Myth and Reality of the White Cube, in: From Museum Critique to the Critical Museum, Murawska-Muthesius, Katarzyna (Hg.), Burlington: Ashgate Publishing 2015, S. 67–79. [↑](#footnote-ref-134)
 134. BIPoC ist ein Akronym und steht für Black, Indigenous, and People of Color. [↑](#footnote-ref-135)
 135. Garfinkel, Harold: Ethnomethodology's Program, in: Social Psychology Quarterly 59 (1), 1996, S. 5–21. – Garfinkel, Harold: Studies in Ethnomethodology. Cambridge 1967. – Linstead, Stephen Andrew: Ethnomethodology and Sociology: An Introduction, in: Sociological Review 54 (3), 2006, S. 399–404. [↑](#footnote-ref-136)
-136. Der Begriff *safe spaces* beschreibt Räume oder Umgebungen, in denen sich Menschen sicher fühlen, sich ausdrücken können und in denen sie sich gesehen, gehört und akzeptiert fühlen, ohne Angst vor Diskriminierung, Kritik, Unglauben, Verurteilung, Belästigung oder anderen subtilen oder expliziten Formen emotionaler oder physischer Gewalt oder Überlegenheitsgebaren haben zu müssen. Vgl. Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < <https://www.goethe.de/prj/zei/en/art/22554555.html>>, Stand: 02.08.2024. – Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, [< https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/](https://ethz-my.sharepoint.com/personal/rospano_ethz_ch/Documents/Handbuch_Sammlungsdokumentation/%3C%20https%3A/www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean) >, Stand: 02.08.2024. - Onwuamaegbu, Natachi: Sichere Räume in der Gesellschaft schaffen., The Black and White: The Student News Site of Walt Whitman High School, Datum? < [www.theblackandwhite.net](http://www.theblackandwhite.net/)>, Stand: 02.08.2024.–.– Anderson, Derek: An Epistemological Conception of Safe Spaces. Social Epistemology 35 (3), 2021, S. 285–311.
+136. Der Begriff *safe spaces* beschreibt Räume oder Umgebungen, in denen sich Menschen sicher fühlen, sich ausdrücken können und in denen sie sich gesehen, gehört und akzeptiert fühlen, ohne Angst vor Diskriminierung, Kritik, Unglauben, Verurteilung, Belästigung oder anderen subtilen oder expliziten Formen emotionaler oder physischer Gewalt oder Überlegenheitsgebaren haben zu müssen. Vgl. Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < <https://www.goethe.de/prj/zei/en/art/22554555.html>>, Stand: 02.08.2024. – Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, [< https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/](https://ethz-my.sharepoint.com/personal/rospano_ethz_ch/Documents/Handbuch_Sammlungsdokumentation/%3C%20https%3A/www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean) >, Stand: 02.08.2024. - Onwuamaegbu, Natachi: Sichere Räume in der Gesellschaft schaffen., The Black and White: The Student News Site of Walt Whitman High School, Datum? < [www.theblackandwhite.net](http://www.theblackandwhite.net/%22%20%5Co%20%22http%3A//www.theblackandwhite.net/)>, Stand: 02.08.2024.–.– Anderson, Derek: An Epistemological Conception of Safe Spaces. Social Epistemology 35 (3), 2021, S. 285–311.
 
      Mehrere Forschende unterschiedlicher Disziplinen weisen jedoch darauf hin, dass *safe spaces* nicht per se sicher sind, da auch in diesen Räumen negativ konnotierte Erfahrungen gemacht werden können. Vgl. Karin Flensner; Marie Von der Lippe: Safe from what and safe for whom? A critical discussion of the conceptual metaphor of ‘safe space’, in: Intercultural Education 30 (3), 2019, S. 275–288. – Hill, David: Communication as a moral vocation: Safe space and freedom of speech. In: The Sociological Review 68 (1), 2020, S. 3–16. [↑](#footnote-ref-137)
 137. Janes, Robert R.: Museums in a Troubled World – Renewal, Irrelevance or Collapse? London 2009, S. 17. [↑](#footnote-ref-138)
