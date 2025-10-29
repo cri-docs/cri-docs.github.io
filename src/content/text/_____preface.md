@@ -22,7 +22,7 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 
 ![alt:alt text, extra:](/images/image001.jpg)  
 
-[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html)  
+[ETH-Bibliothek, Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html)  
 
 ![alt:alt text, extra:](/images/image002.jpg)  
 
@@ -48,4 +48,6 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)  
 
-![alt:alt text, extra:](/images/image008.jpg)
+![alt:alt text, extra:](/images/image008.jpg)  
+
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)

@@ -48,15 +48,14 @@ Dank
 
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
+Denise Tonella  
+Heidi Amrein  
+Michael Gasser  
 Heidi Brunner  
 Mariama de Brito Henn  
-Noémie Etienne  
 Erika Hebeisen  
-Danielle Isler  
 Annette Kniep  
-Chonja Lee  
 Jonas Lendenmann  
-Monique Ligtenberg  
 Isabelle Münzner  
 Ruby Satele Asiata  
 Mira Shah  
@@ -66,4 +65,4 @@ Balthasar Zimmermann
 Christine Müller Stalder  
 Sabina Horber  
 
-Alle Mitglieder der Geschäftsleitungen der beteiligten Institutionen
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)

@@ -1,26 +1,21 @@
-**[[start:title]]**
+[[start:title]]
 
-**Rassismuskritische Dokumentation.**
+Rassismuskritische Dokumentation.
 
-**[[end:title]]**
+[[end:title]]
 
-**[[start:subtitle]]**
+[[start:subtitle]]
 
-**Ein Handbuch für GLAM-Institutionen**
+Ein Handbuch für GLAM-Institutionen
+Version 1.0, November 2025
 
-**[[end:subtitle]]**
-
-Version 1.8, Oktober 2025
-
-Arbeitsgruppe «Critical GLAM»
+[[end:subtitle]]
 
 [headerimg]
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Reinigung und Registrierung, Stiftung Kunst Kultur Geschichte Winterthur, Foto: Bruno Augsburger © SKKG
-
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 [[start:infobox]]
 
@@ -83,7 +78,7 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 [Bernisches Historisches Museum](https://www.bhm.ch/de)
 ![](data:image/jpeg;base64...)
 
-[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html)
+[ETH-Bibliothek, Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html)
 ![](data:image/jpeg;base64...)
 
 [Historisches Museum Basel](https://www.hmb.ch/)
@@ -103,6 +98,8 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)
 ![](data:image/jpeg;base64...)
+
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
 
 [[end:preface]]
 
@@ -1184,13 +1181,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht des «BHM LAB» im Bernischen Historischen Museum (2023?) © BHM
+Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![C:\Users\snmchug\Downloads\2024Usakos.JPG](data:image/jpeg;base64...)
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023?) © BHM
+Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
@@ -2362,15 +2359,14 @@ Dank
 
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:
 
+Denise Tonella
+Heidi Amrein
+Michael Gasser
 Heidi Brunner
 Mariama de Brito Henn
-Noémie Etienne
 Erika Hebeisen
-Danielle Isler
 Annette Kniep
-Chonja Lee
 Jonas Lendenmann
-Monique Ligtenberg
 Isabelle Münzner
 Ruby Satele Asiata
 Mira Shah
@@ -2380,7 +2376,7 @@ Balthasar Zimmermann
 Christine Müller Stalder
 Sabina Horber
 
-Alle Mitglieder der Geschäftsleitungen der beteiligten Institutionen
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
 
 1. Der Begriff Dekolonialisierung kommt ursprünglich aus den Geschichtswissenschaften und beschreibt zum einen die formale Auflösung der Kolonialreiche in den 1940er- bis 1960er-Jahren und zum anderen das Hinterfragen, Sichtbarmachen und Überwinden kolonialer Stereotype, Denkmuster und Strukturen (vgl. hierzu: Gouaffo, Albert: Dekolonisierung, in: Göttsche, Dirk; Dunker, Axel; Dürbeck, Gabriele (Hg.): Handbuch Postkolonialismus und Literatur, Stuttgart 2017, S. 131-133.). Kolonialismus und die daraus resultierenden Unterdrückungsformen sind noch immer aktuell und Dekolonialisierungsprozesse gehen weit über die Befreiung der Kolonialstaaten Mitte des 20. Jh. hinaus (historische Entkolonisierung). Im Kontext von Museen, Sammlungen und Archiven bedeutet Dekolonialisierung also, Denkmuster und koloniale Stereotypen offenzulegen und nicht mehr zu reproduzieren. [↑](#footnote-ref-2)
 2. Siehe z. B. den Kulturgüterstreit zwischen Zürich und St. Gallen. Im Verlauf des Zweiten Villmergerkrieges wurden 19’712 verschiedene Kulturgüter aus der Stiftsbibliothek St. Gallen nach Zürich gebracht. 1996 ersuchte der St. Galler Regierungsrat die Rückgabe (vgl. hierzu: Newsservice Bund: Kulturgüterstreit St. Gallen - Zürich: Erfolgreicher Abschluss der Vermittlung des Bundes vom 27. April 2006, <[news.admin.ch/de/nsb?id=4853](https://www.news.admin.ch/de/nsb?id=4853)>, Stand 28.08.2025.). [↑](#footnote-ref-3)
