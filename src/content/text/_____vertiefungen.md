@@ -29,7 +29,7 @@ Im Mittelalter (ca. 6.-15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarz
 
 ![alt:alt text, extra:Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image044.jpg)  
 
-Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
+Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. [Schwarze](#_Schwarz/weiss) Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
 Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identität zu bilden. Mit den Kreuzzügen im 12. Jh. setzt eine Bedeutungserweiterung des «M\*»-Begriffs sowie eine veränderte Wahrnehmung Schwarzer Körper ein. Christliche Kreuzritter kommen im Nahen Osten und Ägypten intensiv mit Muslim:innen und immer wieder auch mit Schwarzen Soldaten in Kontakt. Auch zahlreiche Schweizer Adlige[[208]](#footnote-209) nehmen an den Kreuzzügen teil und sind mit der Ikonografie des «M\*en», die sich aus diesen Begegnungen entwickelt, vertraut. Nach Schär und Darman kommen drei Bedeutungsaspekte Schwarzer Körper hinzu:  
 

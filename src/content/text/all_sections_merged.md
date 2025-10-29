@@ -22,6 +22,51 @@ Abbildung : Reinigung und Registrierung, Stiftung Kunst Kultur Geschichte Winter
 
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)  
 
+[[start:infobox]]
+
+# Disclaimer
+
+**Umgang mit Sprache und Bildern**  
+
+Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM» zu folgendem Umgang mit Sprache und Bildern entschieden:  
+
+* Rassistische Bilder sind gewaltvolle Darstellungen. Im Handbuch werden Bilder nur gezeigt, wenn der Umgang mit ihnen am konkreten Beispiel besprochen wird.  
+* Rassistische, diskriminierende Begriffe in Originaltiteln sowie historische Zitate werden bei der Erstzitierung ausgeschrieben, aber durch Anführungs- und Schlusszeichen gekennzeichnet.  
+* Bei der Zweitnennung rassistischer und diskriminierender Begriffe werden sie jeweils nur mit dem Anfangsbuchstaben und einem Asterisk (\*) geschrieben, um die Begriffe in der weiteren Analyse nicht zu reproduzieren.  
+* Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.  
+* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz/weiss) (Grossschreibung) und[*weiss*](#_Schwarz/weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
+* Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – ist im [Glossar](#_Glossar) des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
+[[end:infobox]]
+
+[[start:about]]
+
+# Über uns
+
+**Über uns**  
+
+Die Mitglieder der AG sind mehrheitlich *weisse* Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich *weisse* Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen.  
+
+Mitwirkende:  
+
+[Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
+
+[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
+
+[Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
+
+[Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
+
+[Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
+
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
+
+[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Céline Hug und Dario Donati  
+
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
+
+Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
+[[end:about]]
+
 [[start:preface]]
 
 # Vorwort
@@ -63,22 +108,6 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)   
 ![alt:alt text, extra:](/images/image008.jpg)
 [[end:preface]]
-
-[[start:infobox]]
-
-# Disclaimer
-
-**Umgang mit Sprache und Bildern**  
-
-Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM» zu folgendem Umgang mit Sprache und Bildern entschieden:  
-
-* Rassistische Bilder sind gewaltvolle Darstellungen. Im Handbuch werden Bilder nur gezeigt, wenn der Umgang mit ihnen am konkreten Beispiel besprochen wird.  
-* Rassistische, diskriminierende Begriffe in Originaltiteln sowie historische Zitate werden bei der Erstzitierung ausgeschrieben, aber durch Anführungs- und Schlusszeichen gekennzeichnet.  
-* Bei der Zweitnennung rassistischer und diskriminierender Begriffe werden sie jeweils nur mit dem Anfangsbuchstaben und einem Asterisk (\*) geschrieben, um die Begriffe in der weiteren Analyse nicht zu reproduzieren.  
-* Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.  
-* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz/weiss) (Grossschreibung) und[*weiss*](#_Schwarz/weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
-* Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – ist im [Glossar](#_Glossar) des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
-[[end:infobox]]
 
 Inhalt  
 
@@ -272,35 +301,6 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 
 [[end:literature]]
 
-[[start:about]]
-
-# Über uns
-
-#### Die Arbeitsgruppe  
-
-Die Mitglieder der AG sind mehrheitlich *weisse* Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich *weisse* Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen.  
-
-Mitwirkende:  
-
-[Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
-
-[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
-
-[Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
-
-[Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
-
-[Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
-
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
-
-[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Céline Hug und Dario Donati  
-
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
-
-Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
-[[end:about]]
-
 # Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]]  
 
 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, **Rassismen zu erkennen**, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Die Umsetzung einer antirassistischen Dokumentationspraxis ist ein kontinuierlicher Prozess, der nie abgeschlossen ist und stets erneut kritisch hinterfragt und angepasst werden muss. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus zu klären, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben sowie Lösungsansätze zu präsentieren.  
@@ -311,7 +311,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 ### Rassismus auf der individuellen Ebene  
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz/weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl *weisse* Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
 
 ### Struktureller Rassismus  
 
@@ -404,7 +404,7 @@ Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objek
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z. B. primitiv, wild, einfach, Natur)?  
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?  
 * Beispiel Kleidung: Wie sind Kleidungsstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus/exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «Exotismus» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
 
 ### Denkanstoss: Institutionelle Positionierung  
 
@@ -2005,7 +2005,7 @@ Im Mittelalter (ca. 6.-15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarz
 
 ![alt:alt text, extra:Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image044.jpg)  
 
-Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
+Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. [Schwarze](#_Schwarz/weiss) Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
 Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identität zu bilden. Mit den Kreuzzügen im 12. Jh. setzt eine Bedeutungserweiterung des «M\*»-Begriffs sowie eine veränderte Wahrnehmung Schwarzer Körper ein. Christliche Kreuzritter kommen im Nahen Osten und Ägypten intensiv mit Muslim:innen und immer wieder auch mit Schwarzen Soldaten in Kontakt. Auch zahlreiche Schweizer Adlige[[208]](#footnote-209) nehmen an den Kreuzzügen teil und sind mit der Ikonografie des «M\*en», die sich aus diesen Begegnungen entwickelt, vertraut. Nach Schär und Darman kommen drei Bedeutungsaspekte Schwarzer Körper hinzu:  
 
@@ -2076,7 +2076,7 @@ In diesem Jahrhundert ist das kolonialrassistisch geprägte Wort «Eingeborene»
 
 ## Kolonialismus und Kolonialisierung  
 
-Jürgen Osterhammel definiert Kolonialismus wie folgt: «Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»*[[231]](#footnote-232)* Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».  
+Jürgen Osterhammel definiert Kolonialismus wie folgt: «Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»[[231]](#footnote-232) Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».  
 
 ## Objekt  
 
