@@ -92,28 +92,44 @@ Die im September 2022 ins Leben gerufene Arbeitsgruppe «Critical GLAM» ist ein
 Oktober 2025  
 Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen  
 
-[Bernisches Historisches Museum](https://www.bhm.ch/de)   
+[Bernisches Historisches Museum](https://www.bhm.ch/de)  
+
+
 ![alt:alt text, extra:](/images/image001.jpg)  
 
-[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html)   
+[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html)  
+
+
 ![alt:alt text, extra:](/images/image002.jpg)  
 
-[Historisches Museum Basel](https://www.hmb.ch/)   
-![alt:C:\Users\snmchug\Downloads\HMB-Logo.png, extra:](/images/image003.jpg)  
+[Historisches Museum Basel](https://www.hmb.ch/)  
 
-[Kunsthaus Zürich](https://www.kunsthaus.ch/)   
+
+![alt:alt text, extra:](/images/image003.jpg)  
+
+[Kunsthaus Zürich](https://www.kunsthaus.ch/)  
+
+
 ![alt:alt text, extra:](/images/image004.jpg)  
 
-[Museum für Kommunikation](https://www.mfk.ch/)   
+[Museum für Kommunikation](https://www.mfk.ch/)  
+
+
 ![alt:alt text, extra:](/images/image005.jpg)  
 
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/)   
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/)  
+
+
 ![alt:alt text, extra:](/images/image006.jpg)  
 
-[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)   
+[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)  
+
+
 ![alt:alt text, extra:](/images/image007.jpg)  
 
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)   
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)  
+
+
 ![alt:alt text, extra:](/images/image008.jpg)
 [[end:preface]]
 
