@@ -44,17 +44,11 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer**: DEP-2443  
-
 **Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
-
 **Klassifikation**: Figurenuhr  
-
 **Datierung**: 1646  
-
 **Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-
 **Schlagworte**: Personenwappen, Hans Rudolf Rahn  
-
 **Herstellung**: Augsburg  
 
 [[end:before]]
@@ -63,19 +57,12 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer**: DEP-2443  
-
 **Bezeichnung**: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
-
 **Klassifikation**: Figurenuhr  
-
 **Datierung**: 1646  
-
 **Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-
 **Schlagworte**: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
-
 **Herstellung**: Augsburg  
-
 **Inhaltshinweis**[[178]](#footnote-179): «Rassifizierung»  
 
 [[end:after]]
