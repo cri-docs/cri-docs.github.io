@@ -109,7 +109,7 @@ Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objek
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z. B. primitiv, wild, einfach, Natur)?  
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?  
 * Beispiel Kleidung: Wie sind Kleidungsstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «Exotismus» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus/exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
 
 ### Denkanstoss: Institutionelle Positionierung  
 
