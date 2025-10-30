@@ -42,6 +42,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer**: DEP-2443  
 
 **Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
@@ -59,7 +60,7 @@ Metadaten des unbereinigten Datensatzes:
 [[end:before]]
 
 [[start:after]]
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer**: DEP-2443  
 
@@ -122,7 +123,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer:** H/57166  
 **Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes  
@@ -161,6 +162,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
+
 Inventarnummer: LM-99968  
 Bezeichnung: Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
 Klassifikation: Stickvorlage  
@@ -169,7 +171,8 @@ Inschrift (Titel): «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten»,
 Schlagworte: -  
 [[end:before]]
 [[start:after]]
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
+
 Inventarnummer: LM-99968  
 Bezeichnung: Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
 **Klassifikation:** Stickvorlage  
@@ -218,6 +221,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer:** LM-43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
@@ -227,7 +231,8 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
+
 **Inventarnummer:** LM-43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
@@ -274,6 +279,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer:** LM-140862  
 **Bezeichnung:** Flandor. Dessert-Crème-Pudding  
 **Klassifikation:** Plakat  
@@ -286,7 +292,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer:** LM-140862  
 **Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
@@ -311,7 +317,7 @@ Das Auffinden von sensiblen und rassistischen Abbildungen, wie wir sie in diesem
 **Bearbeitung in der Datenbank:**  
 
 Bezeichnung:  
-Die Bezeichnung des [Objekts](#_Objekt) wird in der **Änderungshistorie gespeichert und angepasst. Sie lautet nun: «Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.»**  
+Die Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeichert und angepasst. Sie lautet nun: «Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten Schwarzen Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.»  
 
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «Schwarze Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.  
@@ -320,7 +326,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 [[end:block]]
 
-## 10.6 **Das Puppenspiel**  
+## 10.6 Das Puppenspiel  
 
 
 ![alt:alt text, extra:  
@@ -331,6 +337,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer:** 44618.01  
 **Objekttitel:** «Clownpuppe mit Zylinder; zu Humpty Dumpty-Zirkus»  
 **Datierung:** um 1910  
@@ -338,7 +345,7 @@ Metadaten des unbereinigten Datensatzes:
 [[end:before]]
 
 [[start:after]]
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Notiz:** Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.  
 
@@ -384,7 +391,8 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
+
 **Inventarnummer:** H/57900  
 **Titel:** Bilderbuch «Die zwölf N\*»  
 **Nebentitel (Originaltitel):** Die 12 Negerlein. Ein drolliges Bilderbuch von F. Gareis (mit Vermerk: rassistischer Titel)  
@@ -425,6 +433,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer:** 1995.423  
 **Titel Online:** Köpfe 30, Trudi als Neger 1933 (Quelle: Originaltitel Autor:in)  
 **Beschreibung/Art des Dokuments:** Kontaktabzug  
@@ -438,7 +447,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer:** 1995.423  
 **Titel Online:** Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)  
@@ -488,6 +497,7 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer:** H/47660  
 **Titel:** Elektrische Reklame für die Schuhcrème «Marga» mit zwei beweglichen Figuren und Lichtreflex: «Negerjunge in orientalischer Kleidung putzt einem Herrn mit Zylinder die Schuhe»  
 **Datierung:** 1940-1950 (Herstellung)  
@@ -495,7 +505,8 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
+
 **Inventarnummer:** H/47660  
 **Titel:** Elektrische Reklame für Schuhcrème «Marga»  
 **Datierung:** 1940-1950 (Herstellung)  
@@ -536,6 +547,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer:** LM-83097.2  
 **Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
 **Bezeichnung (Objekt):** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
@@ -547,7 +559,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer:** LM-83097.2  
 **Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
@@ -591,6 +603,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+
 **Inventarnummer:** LM-69377.1-2  
 **Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.  
 **Klassifikation**: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
@@ -603,7 +616,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer:** LM-69377.1-2  
 **Bezeichnung:** Knieender Mann in weissem Gewand, stereotypisierte Schwarze Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.  
@@ -661,7 +674,7 @@ Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 
 [[start:after]]
 
-Metadaten des überarbeiteten Datensatzes  
+Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer: 1982.03.023**  
 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
