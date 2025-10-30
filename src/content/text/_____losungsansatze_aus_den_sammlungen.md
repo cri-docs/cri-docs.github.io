@@ -150,21 +150,21 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-Inventarnummer: LM-99968  
-Bezeichnung: Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
-Klassifikation: Stickvorlage  
-Datierung: Um 1900  
-Inschrift (Titel): «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
-Schlagworte: -  
+**Inventarnummer:** LM-99968  
+**Bezeichnung:** Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
+**Klassifikation:** Stickvorlage  
+**Datierung:** Um 1900  
+**Inschrift (Titel):** «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
+**Schlagworte:** -  
 [[end:before]]
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-Inventarnummer: LM-99968  
-Bezeichnung: Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
+**Inventarnummer:** LM-99968  
+**Bezeichnung:** Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
 **Klassifikation:** Stickvorlage  
-Datierung: Um 1900  
-Inschrift: «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
+**Datierung:** Um 1900  
+**Inschrift:** «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
 Schlagworte: -  
 Inhaltshinweis: «Abwertende Sprache»  
 [[end:after]]
@@ -553,8 +553,8 @@ Metadaten des überarbeiteten Datensatzes:
 **Bezeichnung (Objekt):** «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».  
 **Klassifikation:** Nippes (Ziergegenstände)  
 **Datierung:** 1950  
-**Schlagworte:** «Schwarze **Person», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**  
-**Inhaltshinweis: «Rassismus», «Sexismus», «abwertende Sprache», «**Exotisierung**», «Stereotyp»**  
+**Schlagworte:** «SchwarzePerson**», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**  
+**Inhaltshinweis:** «Rassismus», «Sexismus», «abwertende Sprache», «Exotisierung», «Stereotyp»  
 
 [[end:after]]
 
@@ -618,7 +618,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Kontext**  
 
-Die Figur zeigt eine stereotypisierte Schwarze zum Christentum konvertierte Person. Das [Objekt](#_Objekt) zeugt somit von europäischen Missionierungsbestrebungen und -erfolgen in kolonisierten Gebieten. Diese Missionierungen bewegten sich im Spannungsfeld zwischen den humanitär-fürsorgerischen Ambitionen der christlichen Missionarsgesellschaften und den meist gewaltvollen Bekehrungs- und Aufklärungsbestrebungen, die damit einhergingen. Die Spenden kamen der Mission des Kapuzinerordens zugute. Dieser betrachtete die kolonisierte Bevölkerung als «kindlich», «religionslos (heidnisch)» und «unzivilisiert». Sein Ziel war deren Christianisierung. Um dieses zu erreichen, sammelten auch andere katholische sowie evangelische Kirchen Spenden. Opferstöcke wurden zum Geldsammeln bei den Kirchgemeinden verwendet. Die kolonisierte und konvertierte Person, die hier als Figur auf der Dose abgebildet wird, erscheint in einer stark rassifizierten und den Kolonialist:innen untergeordneten Symbolik. Ein in die Figur eingebauter Mechanismus, der diese beim Geldeinwurf dankend nicken lässt, verstärkt die devote Haltung der Kolonisierten gegenüber den europäischen Spendenden. Somit zeugt das [Objekt](#_Objekt) von einer rassistischen Abbildungs- und Alltagspraxis**.**[[204]](#footnote-205) **Weder der Begriff noch der missionarische Hintergrund werden im Datensatz weiter in ihre koloniale Geschichte eingebettet. Auch wird der Gebrauch des** [Objekts](#_Objekt) **nicht beschrieben.**  
+Die Figur zeigt eine stereotypisierte Schwarze zum Christentum konvertierte Person. Das [Objekt](#_Objekt) zeugt somit von europäischen Missionierungsbestrebungen und -erfolgen in kolonisierten Gebieten. Diese Missionierungen bewegten sich im Spannungsfeld zwischen den humanitär-fürsorgerischen Ambitionen der christlichen Missionarsgesellschaften und den meist gewaltvollen Bekehrungs- und Aufklärungsbestrebungen, die damit einhergingen. Die Spenden kamen der Mission des Kapuzinerordens zugute. Dieser betrachtete die kolonisierte Bevölkerung als «kindlich», «religionslos (heidnisch)» und «unzivilisiert». Sein Ziel war deren Christianisierung. Um dieses zu erreichen, sammelten auch andere katholische sowie evangelische Kirchen Spenden. Opferstöcke wurden zum Geldsammeln bei den Kirchgemeinden verwendet. Die kolonisierte und konvertierte Person, die hier als Figur auf der Dose abgebildet wird, erscheint in einer stark rassifizierten und den Kolonialist:innen untergeordneten Symbolik. Ein in die Figur eingebauter Mechanismus, der diese beim Geldeinwurf dankend nicken lässt, verstärkt die devote Haltung der Kolonisierten gegenüber den europäischen Spendenden. Somit zeugt das [Objekt](#_Objekt) von einer rassistischen Abbildungs- und Alltagspraxis.[[204]](#footnote-205) Weder der Begriff noch der missionarische Hintergrund werden im Datensatz weiter in ihre koloniale Geschichte eingebettet. Auch wird der Gebrauch des [Objekts](#_Objekt) nicht beschrieben.  
 
 [[start:block]]
 
