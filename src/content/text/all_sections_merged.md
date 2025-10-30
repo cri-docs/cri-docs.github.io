@@ -1702,8 +1702,9 @@ Sensibler Titel[[196]](#footnote-197): Köpfe 30 – Trudi als Neger, 1933 (Quel
 **Beschreibung/Art des Dokuments:** Kontaktabzug  
 **Gattung:** Inszenierte Fotografie, Porträtfotografie  
 **Datierung:** 1933  
-**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing **Person/Körperschaft (Autor:in):** Herbert Matter  
-**Objekt Status:** **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**  
+**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing  
+**Person/Körperschaft (Autor:in):** Herbert Matter  
+**Objekt Status:** Zu prüfen (Diskriminierung/Sensible Bildinhalte)  
 
 [[end:after]]
 
@@ -1812,7 +1813,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Bezeichnung (Objekt):** «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».  
 **Klassifikation:** Nippes (Ziergegenstände)  
 **Datierung:** 1950  
-**Schlagworte:** «SchwarzePerson**», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**  
+**Schlagworte:** «Schwarze Person», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)»  
 **Inhaltshinweis:** «Rassismus», «Sexismus», «abwertende Sprache», «Exotisierung», «Stereotyp»  
 
 [[end:after]]
@@ -2025,7 +2026,6 @@ BIPoC ist ein Akronym für *Black, Indigenous and People of Color*. PoC steht f�
 Begriffe wie «Herkunftsgesellschaft» und «Community» können im Zusammenhang mit kolonialen Sammlungen oder Projekten der Dekolonisierung auch eine Form von Othering hervorrufen, wenn diese generalisierend und global als potenzielle Ansprechpartner:innen verwendet werden. Die Begriffe können indessen gut in einzelnen, spezifischen Fällen verwendet werden, z. B. bei indigenen Gemeinschaften, die sich nach eigener Entscheidung durch den Nationalstaat nicht als angemessen vertreten empfinden und sich selbst als «Community» bezeichnen. Jedoch muss sorgsam hinterfragt werden, wo und in welchem Kontext diese Begriffe angebracht sind, damit sie nicht als weitere Pendants zu «Urbevölkerung», «Ureinwohner» oder «Stämmen» funktionieren. Alternativ sollte abgewogen werden, ob die Selbstbezeichnungen der jeweiligen Ethnien oder zuständigen Behördenstellen zu nennen sind oder ob es sich wirklich um «Communities» mit Gruppengemeinschaft mit gleichen Interessen und Zielen handelt.  
 
 ## «Rassifizierte Communities»  
-![alt:alt text, extra:](/images/image047.jpg)  
 
 Die Idee, dass Menschen, die in der sozialen Interaktion von Rassifizierungsprozessen betroffen sind, zwangsläufig «Communities» konstituieren, ist im anglo-amerikanischen Raum seit dem 20. Jh. stark verbreitet, wo es seit der Segregation allgemein eine prononcierte Tendenz gibt, die Gesellschaft als eine Summe von vielen «Communities» zu lesen, in denen die Mitgliedschaft durch einzelne Eigenschaften gegeben ist. Diese Leseart wurde teils unhinterfragt auf die zeitgenössische europäische Bevölkerung übernommen. Wie der Historiker Pap Ndiaye, der sowohl zur Geschichte der US-Afroamerikaner[[224]](#footnote-225) als auch zur schwarzen Bevölkerung in Frankreich[[225]](#footnote-226) gearbeitet hat, auf überzeugende Weise darzulegen wusste, wäre es für europäische Gesellschaften, die im Unterschied zu den amerikanischen nicht aus kolonialen Sklavenhaltergesellschaften hervorgegangen sind, verfehlt, von einer «communauté noire» zu sprechen. Eine solche gibt es gemäss Ndiaye in Frankreich nicht: zu heterogen seien die Schwarzen in Frankreich in Bezug auf ihre Herkunft, soziale Lage, Sprache, Religion, Staatsbürgerschaft. Es gebe keine soziale Interaktion und gemeinschaftliche Organisation, die eine panschwarze Community hervorbringen würde. Französische Staatsbürger aus den Karibikdepartements, deren Familien auf den transatlantischen Handel mit versklavten Menschen zurückgehen, und postkoloniale Immigranten aus Afrika bilden in Frankreich weder eine «schwarze Community», noch vermischen sich die unterschiedlichen afrikanischen Immigrantengruppen – wie etwa die mehrheitlich muslimischen Senegales:innen und die mehrheitlich christlichen Kongoles:innen – zu einer einheitlichen «afrikanischen Community». Was es hingegen sehr wohl gibt, ist eine «condition noire», die Menschen schwarzer Hautfarbe in ihrer Interaktion mit Behörden, Medien und Nicht-Schwarzen teilen. Aus dieser «condition noire», wovon Rassismuserfahrung eine zentrale Komponente darstellt, erwächst zwar durchaus eine «identité noire», aber keine «communauté». Das heisst, dass in Frankreich nicht zwingend eine Community, wie man sie im amerikanischen Raum beobachten kann, existiert. Diese Heterogenität, die Ndiaye im französischen Kontext und in Bezug auf die Sprache, Herkunft etc. feststellt, kann auch auf die Schweiz übertragen werden. Unabhängig davon wird der Begriff zum Teil von verschiedenen Schwarzen für sich und die Gemeinschaften, in denen sie sich bewegen, übernommen: Es gibt Webseiten, Vereine, Individuen etc., die von einer bzw. im Namen einer «Black Community» oder «afrikanischen Community» sprechen. In diesem Zusammenhang versteht die AG den Begriff als «Selbstbezeichnung» für diese Organisationsform, der mit diesem Hintergrund für das Handbuch übernommen wird.  
 

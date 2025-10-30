@@ -443,8 +443,9 @@ Sensibler Titel[[196]](#footnote-197): Köpfe 30 – Trudi als Neger, 1933 (Quel
 **Beschreibung/Art des Dokuments:** Kontaktabzug  
 **Gattung:** Inszenierte Fotografie, Porträtfotografie  
 **Datierung:** 1933  
-**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing **Person/Körperschaft (Autor:in):** Herbert Matter  
-**Objekt Status:** **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**  
+**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing  
+**Person/Körperschaft (Autor:in):** Herbert Matter  
+**Objekt Status:** Zu prüfen (Diskriminierung/Sensible Bildinhalte)  
 
 [[end:after]]
 
@@ -553,7 +554,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Bezeichnung (Objekt):** «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».  
 **Klassifikation:** Nippes (Ziergegenstände)  
 **Datierung:** 1950  
-**Schlagworte:** «SchwarzePerson**», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**  
+**Schlagworte:** «Schwarze Person», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)»  
 **Inhaltshinweis:** «Rassismus», «Sexismus», «abwertende Sprache», «Exotisierung», «Stereotyp»  
 
 [[end:after]]
