@@ -1423,8 +1423,6 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM
 
-Metadaten des unbereinigten Datensatzes:
-
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:
@@ -1462,10 +1460,10 @@ Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er 
 **Bearbeitungen in der Datenbank:**
 
 Bezeichnung:
-**Die rassistische Bezeichnung des** [Objekts](#_Objekt) **wird** in der **Änderungshistorie gespeichert.** Eine möglichst objektive und genaue Bezeichnung wird formuliert. Sie lautet nun: «Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.»
+Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeichert. Eine möglichst objektive und genaue Bezeichnung wird formuliert. Sie lautet nun: «Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.»
 
 Inschrift:
-Die erfasste Inschrift wird in der **Änderungshistorie gespeichert.** Die Inschrift wird originalgetreu im Feld «Beschriftung» erfasst und der redaktionelle Hinweis [sic!] beigefügt: «NEGER-STICKBUCH [sic!]».
+Die erfasste Inschrift wird in der Änderungshistorie gespeichert. Die Inschrift wird originalgetreu im Feld «Beschriftung» erfasst und der redaktionelle Hinweis [sic!] beigefügt: «NEGER-STICKBUCH [sic!]».
 
 Deklaration als rassistisches Objekt:
 Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markiert.
@@ -1492,9 +1490,7 @@ Metadaten des unbereinigten Datensatzes:
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter
 **Datierung:** 1900-1910
 **Inschrift: -**
-**Schlagworte: -**
-
-[[end:before]]
+**Schlagworte: -**[[end:before]]
 
 [[start:after]]
 
@@ -1603,17 +1599,13 @@ Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Gesc
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:
-
 **Inventarnummer:** 44618.01
-
 **Objekttitel:** «Clownpuppe mit Zylinder; zu Humpty Dumpty-Zirkus»
-
 **Datierung:** um 1910
 
 [[end:before]]
 
 [[start:after]]
-
 Metadaten des überarbeiteten Datensatzes
 
 **Notiz:** Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.
@@ -1655,27 +1647,18 @@ Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern.
 Metadaten des unbereinigten Datensatzes:
 
 **Inventarnummer:** H/57900
-
 **Titel:** Bilderbuch, «Die zwölf Negerlein/Ein drolliges Bilderbuch von F. Gareis»
-
 **Datierung:** 1910 (Herstellung)
-
 [[end:before]]
 
 [[start:after]]
 
 Metadaten des überarbeiteten Datensatzes
-
 **Inventarnummer:** H/57900
-
 **Titel:** Bilderbuch «Die zwölf N\*»
-
 **Nebentitel (Originaltitel):** Die 12 Negerlein. Ein drolliges Bilderbuch von F. Gareis (mit Vermerk: rassistischer Titel)
-
 **Datierung:** 1910 (Herstellung)
-
 **Verschlagwortung:** «Rassistischer Inhalt/Darstellung»
-
 **Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)
 
 [[end:after]]
@@ -1712,19 +1695,13 @@ Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Her
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:
-
 **Inventarnummer:** 1995.423
-
 **Titel Online:** Köpfe 30, Trudi als Neger 1933 (Quelle: Originaltitel Autor:in)
 **Beschreibung/Art des Dokuments:** Kontaktabzug
 **Gattung:** Inszenierte Fotografie, Porträtfotografie
-
 **Datierung:** 1933
-
 **Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff
-
 **Person/Körperschaft (Autor:in):** Herbert Matter
-
 **Objekt Status:** Online
 
 [end:before]]
@@ -1734,19 +1711,13 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des überarbeiteten Datensatzes
 
 **Inventarnummer:** 1995.423
-
 **Titel Online:** Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)
-
 Sensibler Titel[[196]](#footnote-197): Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)
-
 «Köpfe 30» (Trudy Hess, schwarz geschminkt)
 **Beschreibung/Art des Dokuments:** Kontaktabzug
 **Gattung:** Inszenierte Fotografie, Porträtfotografie
-
 **Datierung:** 1933
-
 **Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing **Person/Körperschaft (Autor:in):** Herbert Matter
-
 **Objekt Status:** **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**
 
 [[end:after]]
@@ -1895,8 +1866,7 @@ Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseu
 Metadaten des unbereinigten Datensatzes:
 **Inventarnummer:** LM-69377.1-2
 **Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.
-
-Klassifikation: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli
+**Klassifikation**: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli
 **Bezeichnung:** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli
 **Datierung:** 1940-1960
@@ -1952,17 +1922,13 @@ Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotost
 
 Metadaten des unbereinigten Datensatzes:
 
-**Inventarnummer: 1982.03.023**
-
-**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
+**Inventarnummer: 1982.03.023
+Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 **Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung
 **Gattung:** -
-
 **Datierung:** 1965
-
 **Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier **Person/Körperschaft (Autor:in):** Annemarie Meier
-
 **Objekt Status:** Online
 
 [end:before]]
@@ -1972,21 +1938,14 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des überarbeiteten Datensatzes
 
 **Inventarnummer: 1982.03.023**
-
 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
-
 **Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)
-
 **Sensibler Serientitel Bemerkung:** Amerika Neger
-
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung
 **Gattung:** -
-
 **Datierung:** 1965
-
 **Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus
 **Person/Körperschaft (Autor:in):** Annemarie Meier
-
 **Objekt Status:** **Online**
 
 [[end:after]]
@@ -2080,7 +2039,7 @@ BIPoC ist ein Akronym für *Black, Indigenous and People of Color*. PoC steht f�
 
 Begriffe wie «Herkunftsgesellschaft» und «Community» können im Zusammenhang mit kolonialen Sammlungen oder Projekten der Dekolonisierung auch eine Form von Othering hervorrufen, wenn diese generalisierend und global als potenzielle Ansprechpartner:innen verwendet werden. Die Begriffe können indessen gut in einzelnen, spezifischen Fällen verwendet werden, z. B. bei indigenen Gemeinschaften, die sich nach eigener Entscheidung durch den Nationalstaat nicht als angemessen vertreten empfinden und sich selbst als «Community» bezeichnen. Jedoch muss sorgsam hinterfragt werden, wo und in welchem Kontext diese Begriffe angebracht sind, damit sie nicht als weitere Pendants zu «Urbevölkerung», «Ureinwohner» oder «Stämmen» funktionieren. Alternativ sollte abgewogen werden, ob die Selbstbezeichnungen der jeweiligen Ethnien oder zuständigen Behördenstellen zu nennen sind oder ob es sich wirklich um «Communities» mit Gruppengemeinschaft mit gleichen Interessen und Zielen handelt.
 
-## «Rassifizierte Communities»
+## «Rassifizierte Communities»![](data:image/png;base64...)
 
 Die Idee, dass Menschen, die in der sozialen Interaktion von Rassifizierungsprozessen betroffen sind, zwangsläufig «Communities» konstituieren, ist im anglo-amerikanischen Raum seit dem 20. Jh. stark verbreitet, wo es seit der Segregation allgemein eine prononcierte Tendenz gibt, die Gesellschaft als eine Summe von vielen «Communities» zu lesen, in denen die Mitgliedschaft durch einzelne Eigenschaften gegeben ist. Diese Leseart wurde teils unhinterfragt auf die zeitgenössische europäische Bevölkerung übernommen. Wie der Historiker Pap Ndiaye, der sowohl zur Geschichte der US-Afroamerikaner[[224]](#footnote-225) als auch zur schwarzen Bevölkerung in Frankreich[[225]](#footnote-226) gearbeitet hat, auf überzeugende Weise darzulegen wusste, wäre es für europäische Gesellschaften, die im Unterschied zu den amerikanischen nicht aus kolonialen Sklavenhaltergesellschaften hervorgegangen sind, verfehlt, von einer «communauté noire» zu sprechen. Eine solche gibt es gemäss Ndiaye in Frankreich nicht: zu heterogen seien die Schwarzen in Frankreich in Bezug auf ihre Herkunft, soziale Lage, Sprache, Religion, Staatsbürgerschaft. Es gebe keine soziale Interaktion und gemeinschaftliche Organisation, die eine panschwarze Community hervorbringen würde. Französische Staatsbürger aus den Karibikdepartements, deren Familien auf den transatlantischen Handel mit versklavten Menschen zurückgehen, und postkoloniale Immigranten aus Afrika bilden in Frankreich weder eine «schwarze Community», noch vermischen sich die unterschiedlichen afrikanischen Immigrantengruppen – wie etwa die mehrheitlich muslimischen Senegales:innen und die mehrheitlich christlichen Kongoles:innen – zu einer einheitlichen «afrikanischen Community». Was es hingegen sehr wohl gibt, ist eine «condition noire», die Menschen schwarzer Hautfarbe in ihrer Interaktion mit Behörden, Medien und Nicht-Schwarzen teilen. Aus dieser «condition noire», wovon Rassismuserfahrung eine zentrale Komponente darstellt, erwächst zwar durchaus eine «identité noire», aber keine «communauté». Das heisst, dass in Frankreich nicht zwingend eine Community, wie man sie im amerikanischen Raum beobachten kann, existiert. Diese Heterogenität, die Ndiaye im französischen Kontext und in Bezug auf die Sprache, Herkunft etc. feststellt, kann auch auf die Schweiz übertragen werden. Unabhängig davon wird der Begriff zum Teil von verschiedenen Schwarzen für sich und die Gemeinschaften, in denen sie sich bewegen, übernommen: Es gibt Webseiten, Vereine, Individuen etc., die von einer bzw. im Namen einer «Black Community» oder «afrikanischen Community» sprechen. In diesem Zusammenhang versteht die AG den Begriff als «Selbstbezeichnung» für diese Organisationsform, der mit diesem Hintergrund für das Handbuch übernommen wird.
 
@@ -2387,7 +2346,7 @@ Sabina Horber
 
 Die Geschäftsleitungen der beteiligten Institutionen.
 
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) ![](data:image/png;base64...)
 
 1. Der Begriff Dekolonialisierung kommt ursprünglich aus den Geschichtswissenschaften und beschreibt zum einen die formale Auflösung der Kolonialreiche in den 1940er- bis 1960er-Jahren und zum anderen das Hinterfragen, Sichtbarmachen und Überwinden kolonialer Stereotype, Denkmuster und Strukturen (vgl. hierzu: Gouaffo, Albert: Dekolonisierung, in: Göttsche, Dirk; Dunker, Axel; Dürbeck, Gabriele (Hg.): Handbuch Postkolonialismus und Literatur, Stuttgart 2017, S. 131-133.). Kolonialismus und die daraus resultierenden Unterdrückungsformen sind noch immer aktuell und Dekolonialisierungsprozesse gehen weit über die Befreiung der Kolonialstaaten Mitte des 20. Jh. hinaus (historische Entkolonisierung). Im Kontext von Museen, Sammlungen und Archiven bedeutet Dekolonialisierung also, Denkmuster und koloniale Stereotypen offenzulegen und nicht mehr zu reproduzieren. [↑](#footnote-ref-2)
 2. Siehe z. B. den Kulturgüterstreit zwischen Zürich und St. Gallen. Im Verlauf des Zweiten Villmergerkrieges wurden 19’712 verschiedene Kulturgüter aus der Stiftsbibliothek St. Gallen nach Zürich gebracht. 1996 ersuchte der St. Galler Regierungsrat die Rückgabe (vgl. hierzu: Newsservice Bund: Kulturgüterstreit St. Gallen - Zürich: Erfolgreicher Abschluss der Vermittlung des Bundes vom 27. April 2006, <[news.admin.ch/de/nsb?id=4853](https://www.news.admin.ch/de/nsb?id=4853)>, Stand 28.08.2025.). [↑](#footnote-ref-3)

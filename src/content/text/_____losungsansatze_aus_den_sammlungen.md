@@ -158,8 +158,6 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 ![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
-Metadaten des unbereinigten Datensatzes:  
-
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
@@ -196,10 +194,10 @@ Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er 
 **Bearbeitungen in der Datenbank:**  
 
 Bezeichnung:  
-**Die rassistische Bezeichnung des** [Objekts](#_Objekt) **wird** in der **Änderungshistorie gespeichert.** Eine möglichst objektive und genaue Bezeichnung wird formuliert. Sie lautet nun: «Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.»  
+Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeichert. Eine möglichst objektive und genaue Bezeichnung wird formuliert. Sie lautet nun: «Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.»  
 
 Inschrift:  
-Die erfasste Inschrift wird in der **Änderungshistorie gespeichert.** Die Inschrift wird originalgetreu im Feld «Beschriftung» erfasst und der redaktionelle Hinweis [sic!] beigefügt: «NEGER-STICKBUCH [sic!]».  
+Die erfasste Inschrift wird in der Änderungshistorie gespeichert. Die Inschrift wird originalgetreu im Feld «Beschriftung» erfasst und der redaktionelle Hinweis [sic!] beigefügt: «NEGER-STICKBUCH [sic!]».  
 
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markiert.  
@@ -225,8 +223,6 @@ Metadaten des unbereinigten Datensatzes:
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
 **Datierung:** 1900-1910  
 **Inschrift: -**  
-**Schlagworte: -**  
-
 [[end:before]]
 
 [[start:after]]
@@ -327,24 +323,21 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.6 **Das Puppenspiel**  
 
 
-![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image036.jpg)  
+![alt:alt text, extra:  
+![alt:alt text, extra:](/images/image045.jpg) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image036.jpg)  
 
 [[start:metadata]]
 
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
-
 **Inventarnummer:** 44618.01  
-
 **Objekttitel:** «Clownpuppe mit Zylinder; zu Humpty Dumpty-Zirkus»  
-
 **Datierung:** um 1910  
 
 [[end:before]]
 
 [[start:after]]
-
 Metadaten des überarbeiteten Datensatzes  
 
 **Notiz:** Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.  
@@ -385,27 +378,18 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer:** H/57900  
-
 **Titel:** Bilderbuch, «Die zwölf Negerlein/Ein drolliges Bilderbuch von F. Gareis»  
-
 **Datierung:** 1910 (Herstellung)  
-
 [[end:before]]
 
 [[start:after]]
 
 Metadaten des überarbeiteten Datensatzes  
-
 **Inventarnummer:** H/57900  
-
 **Titel:** Bilderbuch «Die zwölf N\*»  
-
 **Nebentitel (Originaltitel):** Die 12 Negerlein. Ein drolliges Bilderbuch von F. Gareis (mit Vermerk: rassistischer Titel)  
-
 **Datierung:** 1910 (Herstellung)  
-
 **Verschlagwortung:** «Rassistischer Inhalt/Darstellung»  
-
 **Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)  
 
 [[end:after]]
@@ -441,19 +425,13 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 [[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
-
 **Inventarnummer:** 1995.423  
-
 **Titel Online:** Köpfe 30, Trudi als Neger 1933 (Quelle: Originaltitel Autor:in)  
 **Beschreibung/Art des Dokuments:** Kontaktabzug  
 **Gattung:** Inszenierte Fotografie, Porträtfotografie  
-
 **Datierung:** 1933  
-
 **Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff  
-
 **Person/Körperschaft (Autor:in):** Herbert Matter  
-
 **Objekt Status:** Online  
 
 [end:before]]  
@@ -463,19 +441,13 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des überarbeiteten Datensatzes  
 
 **Inventarnummer:** 1995.423  
-
 **Titel Online:** Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)  
-
 Sensibler Titel[[196]](#footnote-197): Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)  
-
 «Köpfe 30» (Trudy Hess, schwarz geschminkt)  
 **Beschreibung/Art des Dokuments:** Kontaktabzug  
 **Gattung:** Inszenierte Fotografie, Porträtfotografie  
-
 **Datierung:** 1933  
-
 **Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing **Person/Körperschaft (Autor:in):** Herbert Matter  
-
 **Objekt Status:** **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**  
 
 [[end:after]]
@@ -621,8 +593,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 Metadaten des unbereinigten Datensatzes:  
 **Inventarnummer:** LM-69377.1-2  
 **Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.  
-
-Klassifikation: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
+**Klassifikation**: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
 **Bezeichnung:** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
 **Datierung:** 1940-1960  
@@ -677,17 +648,13 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer: 1982.03.023**  
-
-**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
+**Inventarnummer: 1982.03.023  
+Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 **Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)  
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung  
 **Gattung:** -  
-
 **Datierung:** 1965  
-
 **Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier **Person/Körperschaft (Autor:in):** Annemarie Meier  
-
 **Objekt Status:** Online  
 
 [end:before]]  
@@ -697,21 +664,14 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des überarbeiteten Datensatzes  
 
 **Inventarnummer: 1982.03.023**  
-
 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
-
 **Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)  
-
 **Sensibler Serientitel Bemerkung:** Amerika Neger  
-
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung  
 **Gattung:** -  
-
 **Datierung:** 1965  
-
 **Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus  
 **Person/Körperschaft (Autor:in):** Annemarie Meier  
-
 **Objekt Status:** **Online**  
 
 [[end:after]]

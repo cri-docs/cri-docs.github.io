@@ -59,4 +59,4 @@ Sabina Horber
 
 Die Geschäftsleitungen der beteiligten Institutionen.  
 
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) ![](data:image/png;base64...)
