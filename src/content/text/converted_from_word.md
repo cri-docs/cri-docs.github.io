@@ -97,143 +97,145 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 
 Inhalt
 
-[Einleitung 9](#_Toc212543555)
+[Einleitung 8](#_Toc212716204)
 
-[1 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 13](#_Toc212543556)
+[1 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 12](#_Toc212716205)
 
-[1.1 Was ist Rassismus? 13](#_Toc212543557)
+[1.1 Was ist Rassismus? 12](#_Toc212716206)
 
-[1.1.1 Rassismus auf der individuellen Ebene 14](#_Toc212543558)
+[1.1.1 Rassismus auf der individuellen Ebene 12](#_Toc212716207)
 
-[1.1.2 Struktureller Rassismus 14](#_Toc212543559)
+[1.1.2 Struktureller Rassismus 13](#_Toc212716208)
 
-[1.2 Wie weiter in der Praxis? 15](#_Toc212543560)
+[1.2 Wie weiter in der Praxis? 14](#_Toc212716209)
 
-[1.2.1 Verborgene Rassismen in der Datenbank 15](#_Toc212543561)
+[1.2.1 Verborgene Rassismen in der Datenbank 14](#_Toc212716210)
 
-[1.2.2 Selbstreflexion der individuellen Prägung 16](#_Toc212543562)
+[1.2.2 Selbstreflexion der individuellen Prägung 14](#_Toc212716211)
 
-[1.2.3 Wer dokumentiert was/wen/wessen Geschichte? 17](#_Toc212543563)
+[1.2.3 Wer dokumentiert was/wen/wessen Geschichte? 15](#_Toc212716212)
 
-[1.2.4 Selbstverständlichkeit der Verschlagwortung 19](#_Toc212543564)
+[1.2.4 Selbstverständlichkeit der Verschlagwortung 17](#_Toc212716213)
 
-[1.2.5 Denkanstoss: Institutionelle Positionierung 19](#_Toc212543565)
+[1.2.5 Denkanstoss: Institutionelle Positionierung 18](#_Toc212716214)
 
-[2 Sammlungen und Museen als Orte der Kolonialität 22](#_Toc212543566)
+[2 Sammlungen und Museen als Orte der Kolonialität 20](#_Toc212716215)
 
-[3 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 35](#_Toc212543567)
+[3 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 33](#_Toc212716216)
 
-[4 Communities, Sammlungen und Sorgfalt 44](#_Toc212543568)
+[4 Communities, Sammlungen und Sorgfalt 42](#_Toc212716217)
 
-[5 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 52](#_Toc212543569)
+[5 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 50](#_Toc212716218)
 
-[6 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] 62](#_Toc212543570)
+[6 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] 60](#_Toc212716219)
 
-[6.1 Sammlungsdatenbanken 62](#_Toc212543571)
+[6.1 Sammlungsdatenbanken 60](#_Toc212716220)
 
-[6.1.1 Beschreibung 64](#_Toc212543572)
+[6.1.1 Beschreibung 62](#_Toc212716221)
 
-[6.1.2 Bezeichnung, Titel 64](#_Toc212543573)
+[6.1.2 Bezeichnung, Titel 62](#_Toc212716222)
 
-[6.1.3 Schlagwörter, Keywords 65](#_Toc212543574)
+[6.1.3 Schlagwörter, Keywords 63](#_Toc212716223)
 
-[6.1.4 Inschriften, Beschriftung, Signaturen 65](#_Toc212543575)
+[6.1.4 Inschriften, Beschriftung, Signaturen 63](#_Toc212716224)
 
-[6.1.5 Klassifikation, Gattung, Objektart, Objekttyp 65](#_Toc212543576)
+[6.1.5 Klassifikation, Gattung, Objektart, Objekttyp 63](#_Toc212716225)
 
-[6.1.6 Provenienz 66](#_Toc212543577)
+[6.1.6 Provenienz 64](#_Toc212716226)
 
-[6.2 Metadaten in Online-Sammlungen: 5 Ansätze 66](#_Toc212543578)
+[6.2 Metadaten in Online-Sammlungen: 5 Ansätze 64](#_Toc212716227)
 
-[6.2.1 (1) Titel als diskriminierend markieren 68](#_Toc212543579)
+[6.2.1 (1) Titel als diskriminierend markieren 66](#_Toc212716228)
 
-[6.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 71](#_Toc212543580)
+[6.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 68](#_Toc212716229)
 
-[6.2.3 (3) Titel neu formulieren 73](#_Toc212543581)
+[6.2.3 (3) Titel neu formulieren 70](#_Toc212716230)
 
-[6.2.4 (5) Allgemeine Inhaltswarnung 78](#_Toc212543582)
+[6.2.4 (4) Individuelle Inhaltswarnungen 71](#_Toc212716231)
 
-[7 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 81](#_Toc212543583)
+[6.2.5 (5) Allgemeine Inhaltswarnung 74](#_Toc212716232)
 
-[Bernisches Historisches Museum 81](#_Toc212543584)
+[7 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 77](#_Toc212716233)
 
-[ETH-Bibliothek, ETH Zürich 83](#_Toc212543585)
+[7.1 Bernisches Historisches Museum 77](#_Toc212716234)
 
-[Fotostiftung Schweiz 85](#_Toc212543586)
+[7.2 ETH-Bibliothek, ETH Zürich 79](#_Toc212716235)
 
-[Historisches Museum Basel 86](#_Toc212543587)
+[7.3 Fotostiftung Schweiz 81](#_Toc212716236)
 
-[Kunsthaus Zürich 87](#_Toc212543588)
+[7.4 Historisches Museum Basel 82](#_Toc212716237)
 
-[Museum für Kommunikation 88](#_Toc212543589)
+[7.5 Kunsthaus Zürich 83](#_Toc212716238)
 
-[Schweizerisches Nationalmuseum 89](#_Toc212543590)
+[7.6 Museum für Kommunikation 84](#_Toc212716239)
 
-[Stiftung für Kunst, Kultur und Geschichte 91](#_Toc212543591)
+[7.7 Schweizerisches Nationalmuseum 85](#_Toc212716240)
 
-[8 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]] 93](#_Toc212543592)
+[7.8 Stiftung für Kunst, Kultur und Geschichte 87](#_Toc212716241)
 
-[9 Lösungsansätze aus den Sammlungen 96](#_Toc212543593)
+[8 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]] 89](#_Toc212716242)
 
-[Der M\*automat 96](#_Toc212543594)
+[9 Lösungsansätze aus den Sammlungen 92](#_Toc212716243)
 
-[Eine Sparkasse 99](#_Toc212543595)
+[Der M\*automat 92](#_Toc212716244)
 
-[Die Stickvorlage 101](#_Toc212543596)
+[Eine Sparkasse 95](#_Toc212716245)
 
-[Der «Schwarze Peter» 104](#_Toc212543597)
+[Die Stickvorlage 97](#_Toc212716246)
 
-[Die Pudding-Werbung 106](#_Toc212543598)
+[Der «Schwarze Peter» 100](#_Toc212716247)
 
-[Das Puppenspiel 108](#_Toc212543599)
+[Die Pudding-Werbung 102](#_Toc212716248)
 
-[Die 12 kleinen N\*lein 110](#_Toc212543600)
+[Das Puppenspiel 104](#_Toc212716249)
 
-[Die Portraitserie 112](#_Toc212543601)
+[Die 12 kleinen N\*lein 106](#_Toc212716250)
 
-[Die elektrische Reklame für die Schuhcrème 114](#_Toc212543602)
+[Die Portraitserie 108](#_Toc212716251)
 
-[Die ‹exotisch›-erotischen Nippes 116](#_Toc212543603)
+[Die elektrische Reklame für die Schuhcrème 110](#_Toc212716252)
 
-[Der Nick-N\* 118](#_Toc212543604)
+[Die ‹exotisch›-erotischen Nippes 112](#_Toc212716253)
 
-[Eine Fotoreportage aus den USA 120](#_Toc212543605)
+[Das Missionsn\*li 115](#_Toc212716254)
 
-[10 Vertiefungen 123](#_Toc212543606)
+[Eine Fotoreportage aus den USA 117](#_Toc212716255)
 
-[Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 123](#_Toc212543607)
+[10 Vertiefungen 119](#_Toc212716256)
 
-[Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 127](#_Toc212543608)
+[10.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 119](#_Toc212716257)
 
-[11 Glossar 129](#_Toc212543609)
+[10.2 Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 123](#_Toc212716258)
 
-[BIPoC 129](#_Toc212543610)
+[11 Glossar 125](#_Toc212716259)
 
-[Community und Herkunftsgesellschaft 129](#_Toc212543611)
+[BIPoC 125](#_Toc212716260)
 
-[«Rassifizierte Communities» 129](#_Toc212543612)
+[Community und Herkunftsgesellschaft 125](#_Toc212716261)
 
-[Dekolonisierung und Dekolonialismus 130](#_Toc212543613)
+[«Rassifizierte Communities»![](data:image/png;base64...) 125](#_Toc212716262)
 
-[Exotismus/exotisierend 131](#_Toc212543614)
+[Dekolonisierung und Dekolonialismus 126](#_Toc212716263)
 
-[Indigen 131](#_Toc212543615)
+[Exotismus und exotisierend 127](#_Toc212716264)
 
-[Kolonialismus und Kolonialisierung 132](#_Toc212543616)
+[Indigen 127](#_Toc212716265)
 
-[Objekt 133](#_Toc212543617)
+[Kolonialismus und Kolonialisierung 128](#_Toc212716266)
 
-[Postkolonialismus und Postkoloniale Studien 133](#_Toc212543618)
+[Objekt 129](#_Toc212716267)
 
-[Schwarz/weiss 133](#_Toc212543619)
+[Postkolonialismus und Postkoloniale Studien 129](#_Toc212716268)
 
-[Selbstbezeichnung und Fremdzuschreibung 134](#_Toc212543620)
+[Schwarz und weiss 129](#_Toc212716269)
 
-[12 Nachwort 136](#_Toc212543621)
+[Selbstbezeichnung und Fremdzuschreibung 130](#_Toc212716270)
 
-[13 Bibliografie 137](#_Toc212543622)
+[12 Nachwort 132](#_Toc212716271)
 
-[14 Impressum 145](#_Toc212543623)
+[13 Bibliografie 133](#_Toc212716272)
+
+[14 Impressum 141](#_Toc212716273)
 
 # Einleitung
 
@@ -2013,7 +2015,7 @@ Die wissenschaftlich-rassistischen Klassifikationen finden Eingang in öffentlic
 
 #### Anti-Schwarzer-Rassismus in der Gegenwart
 
-Wie Schwarze Menschen in der Schweiz bis heute zur Projektionsfläche kolonialer Stereotype werden, zeigen Beispiele und die daraus entstandenen Debatten aus Darstellungen während der Fasnacht[[217]](#footnote-218) oder in Werbefiguren – etwa beim früheren Logo einer Luzerner Kaffeemarke.[[218]](#footnote-219) Dort wurde lange Zeit eine karikaturhafte Figur eines Schwarzen Mannes mit überzeichneten Lippen und Ohrringen verwendet – ein Bild, das direkt aus der kolonialen Bildsprache stammt. Solche Darstellungen reduzieren Schwarze Menschen auf ‹exotische›, ‹primitive› oder ‹kindliche› Stereotype. Sie entstammen einer kolonialen Fantasie, in der Schwarze Menschen nicht als Individuen, sondern als «Andere» oder «Fremde» imaginiert und rassialisiert und exotisiert wurden. Auch heute begegnen Schwarze Menschen in der Schweiz immer wieder ähnlichen Mustern: Sie werden unvermittelt nach ihrer Herkunft gefragt («Woher kommst du wirklich?»), als «anders» markiert oder auf ihre Hautfarbe reduziert. Diese Erfahrungen zeigen, wie tief koloniale Denkmuster – etwa die Idee der weißen Überlegenheit oder der «Exotik» Schwarzer Körper – noch immer im kollektiven Bewusstsein verankert sind.
+Wie Schwarze Menschen in der Schweiz bis heute zur Projektionsfläche kolonialer Stereotype werden, zeigen Beispiele und die daraus entstandenen Debatten aus Darstellungen während der Fasnacht[[217]](#footnote-218) oder in Werbefiguren – etwa beim früheren Logo einer Luzerner Kaffeemarke.[[218]](#footnote-219) Dort wurde lange Zeit eine karikaturhafte Figur eines Schwarzen Mannes mit überzeichneten Lippen und Ohrringen verwendet – ein Bild, das direkt aus der kolonialen Bildsprache stammt. Solche Darstellungen reduzieren Schwarze Menschen auf ‹exotische›, ‹primitive› oder ‹kindliche› Stereotype. Sie entstammen einer kolonialen Fantasie, in der Schwarze Menschen nicht als Individuen, sondern als «Andere» oder «Fremde» imaginiert und rassialisiert und exotisiert wurden. Auch heute begegnen Schwarze Menschen in der Schweiz immer wieder ähnlichen Mustern: Sie werden unvermittelt nach ihrer Herkunft gefragt («Woher kommst du wirklich?»), als «anders» markiert oder auf ihre Hautfarbe reduziert. Diese Erfahrungen zeigen, wie tief koloniale Denkmuster – etwa die Idee der weissen Überlegenheit oder der «Exotik» Schwarzer Körper – noch immer im kollektiven Bewusstsein verankert sind.
 
 ## Rassismus, Diskriminierung und Künstliche Intelligenz (KI)
 
@@ -2083,7 +2085,7 @@ Das vorliegende Handbuch ist ein Versuch, die Dokumentationspraxis in GLAM-Insti
 
 Eine Erfahrung, die die Arbeitsgruppe teilen kann, ist, dass es Zeit und Ressourcen, Mut, Geduld und Kreativität braucht, um Prozesse, wie die Überarbeitung der Sammlungsdatenbank, in Institutionen anstossen und vorantreiben zu können. Aber auch, dass es die Zusammenarbeit bestärken kann: Niemand steht allein vor dieser Herausforderung. Vernetzung und Austausch mit anderen Institutionen sowie mit Expert:innen zu Antirassismus und zu [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus)sfragen sind hilfreich, um ins Handeln zu kommen. So kann es gelingen, die Dokumentationspraxis im Sinne einer inklusiven Institution zu erweitern.
 
-Das Handbuch ist in dem Sinne ein Anfang: Es bietet nicht nur Hilfestellung in der Entwicklung eines Umgangs mit antischwarzem Rassismus, sondern soll auch Wegbereiter sein für weitere Initiativen und Projekte, die sich anderen Diskriminierungsformen annehmen.
+Das Handbuch bildet einen Anfang: Es bietet nicht nur Hilfestellung in der Entwicklung eines Umgangs mit Anti-Schwarzem-Rassismus, sondern soll auch Wegbereiter sein für weitere Initiativen und Projekte, die sich anderen Diskriminierungsformen annehmen.
 
 Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über konstruktives Feedback und darüber, mit anderen Arbeitsgruppen, Institutionen sowie Interessierten in Austausch zu treten: info@criticalGLAM.ch.
 
@@ -2295,34 +2297,34 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 
 # Impressum
 
-Mitwirkende Institutionen:
-[Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber
-[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi
-[Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold
-[Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler
-[Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick
-[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Céline Hug und Dario Donati
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser
+**Mitwirkende Institutionen:**
+[Bernisches Historisches Museum](https://www.bhm.ch/de)
+[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich
+[Historisches Museum Basel](https://www.hmb.ch/)
+[Kunsthaus Zürich](https://www.kunsthaus.ch/)
+[Museum für Kommunikation](https://www.mfk.ch/), Bern
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/)
+[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)
 
-Kontakt: mailto:info@criticalGLAM.ch
+**Kontakt:** mailto:info@criticalGLAM.ch
 
-Konzept- und Projektbegleitung:
+**Konzept- und Projektbegleitung:**
 [Danielle Isler](https://www.danielle-isler.com/)
 
-Textbeiträge:
+**Textbeiträge:**
 Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, Chonja Lee, Monique Ligtenberg, Ruby Satele Asiata
 
-Fotos:
+**Fotos:**
 Siehe Copyright-Angaben
 
-Design und Entwicklung
+**Design und Entwicklung:**
 [Astrom / Zimmer & Tereszkiewicz](https://azt.ch/)
 
-Lektorat:
+**Lektorat:**
 [Fachübersetzungsdienst GmbH | Übersetzungsbüro | FÜD](https://www.fachuebersetzungsdienst.com/)
 
-Dank
+**Dank**
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:
 
 Denise Tonella
