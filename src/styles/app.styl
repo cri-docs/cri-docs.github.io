@@ -75,6 +75,7 @@
 
 @media print
   *
+    // transform scale(0.5)
     box-decoration-break clone
   :root
     --font-size 10pt
@@ -86,6 +87,8 @@
     --text-container-width clamp(500px, 78%, 650px)
     --index-width 0
 
+p:empty
+  padding 0 !important
 
 @page
   size A4 portrait
