@@ -1689,7 +1689,7 @@ Metadaten des unbereinigten Datensatzes:
 **Person/Körperschaft (Autor:in):** Herbert Matter  
 **Objekt Status:** Online  
 
-[end:before]]  
+[[end:before]]
 
 [[start:after]]
 
@@ -1726,10 +1726,10 @@ Die dritte Komponente ist die rassistische Bildtradition, an die sich das [Objek
 **Bearbeitung in der Datenbank**  
 
 Titel:  
-**Die in der Datenbank hinterlegten Titel-Typen werden angepasst und mit dem neu angelegten Titel-Typen «Sensibler Titel» ausgewiesen. Im überarbeiteten Titel Online wird das N-Wort mit Asterisk geschrieben und zusätzlich in Klammer als «sensibler Originaltitel» gekennzeichnet. Die problematische Originalschreibweise des Titels bleibt intern unter Angabe der Quelle (Originaltitel Autor:in) als Titel-Typ «Sensibler Originaltitel» erhalten und wird dort einmalig ausgeschrieben. Der problematische Titel wird unter Angabe der Quelle (**Originaltitel Autor:in**) in diese Kategorie/dieses Typenfeld verschoben werden. Der explizit** diskriminierende und verletzende Titel wird zusätzlich mit einem Asterisk gekürzt und in einem Bemerkungsfeld einmalig ausgeschrieben (N\*-Wort).  
+Die in der Datenbank hinterlegten Titel-Typen werden angepasst und mit dem neu angelegten Titel-Typen «Sensibler Titel» ausgewiesen. Im überarbeiteten Titel Online wird das N-Wort mit Asterisk geschrieben und zusätzlich in Klammer als «sensibler Originaltitel» gekennzeichnet. Die problematische Originalschreibweise des Titels bleibt intern unter Angabe der Quelle (Originaltitel Autor:in) als Titel-Typ «Sensibler Originaltitel» erhalten und wird dort einmalig ausgeschrieben. Der problematische Titel wird unter Angabe der Quelle (Originaltitel Autor:in) in diese Kategorie/dieses Typenfeld verschoben werden. Der explizit diskriminierende und verletzende Titel wird zusätzlich mit einem Asterisk gekürzt und in einem Bemerkungsfeld einmalig ausgeschrieben (N\*-Wort).  
 
 Deklaration als rassistisches Objekt:  
-Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwortet. Zudem wird der Objektstatus angepasst. Der Objektstatus wird auf «**Zu prüfen (Diskriminierung/Sensible Bildinhalte)» gewechselt.** Damit wird der rassistische Bildinhalt intern zur Prüfung gegeben und vorübergehend offline genommen. Sensible Bildinhalte sollen künftig in der Online-Datenbank nicht mehr sichtbar sein und durch einen Platzhalter ersetzt werden. Vor Ort sind die [Objekte](#_Objekt) weiterhin konsultierbar.  
+Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwortet. Zudem wird der Objektstatus angepasst. Der Objektstatus wird auf «Zu prüfen (Diskriminierung/Sensible Bildinhalte)» gewechselt. Damit wird der rassistische Bildinhalt intern zur Prüfung gegeben und vorübergehend offline genommen. Sensible Bildinhalte sollen künftig in der Online-Datenbank nicht mehr sichtbar sein und durch einen Platzhalter ersetzt werden. Vor Ort sind die [Objekte](#_Objekt) weiterhin konsultierbar.  
 
 [[end:block]]
 
@@ -1827,13 +1827,13 @@ Auf Ebene der Sprache werden kolonial-rassistische Terminologien reproduziert. D
 
 [[start:block]]
 
-**Bearbeitungen in der Datenbank:**  
+Bearbeitungen in der Datenbank:  
 
-**Bezeichnung:  
-Die rassistische Bezeichnung des** [Objekts](#_Objekt) **wird** in der **Änderungshistorie gespeichert. Anschliessend wird eine neue Bezeichnung formuliert und angepasst. Der rassistische Begriff «N\*» wird somit entfernt. Die neue Bezeichnung lautet: «Stark stereotypisierte weibliche** Schwarze **Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».**  
+Bezeichnung:  
+Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeichert. Anschliessend wird eine neue Bezeichnung formuliert und angepasst. Der rassistische Begriff «N\*» wird somit entfernt. Die neue Bezeichnung lautet: «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».  
 
-**Deklaration als rassistisches Objekt:  
-Das** [Objekt](#_Objekt) **wird mit den Schlagworten «**Exotisierung**», «Stereotyp», «**Schwarze **Person» klassifiziert und der Kontext zum** [Objekt](#_Objekt) **im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.**  
+Deklaration als rassistisches Objekt:  
+Das [Objekt](#_Objekt) wird mit den Schlagworten «Exotisierung», «Stereotyp», «Schwarze Person» klassifiziert und der Kontext zum [Objekt](#_Objekt) im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.  
 
 Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
@@ -1884,10 +1884,10 @@ Die Figur zeigt eine stereotypisierte Schwarze zum Christentum konvertierte Pers
 **Bearbeitungen in der Datenbank:**  
 
 Bezeichnung:  
-**Die rassistische Bezeichnung des** [Objekts](#_Objekt) **wird** in der **Änderungshistorie gespeichert.** Eine möglichst objektive und genaue Bezeichnung wird formuliert. Sie lautet nun: «Knieender Mann in weissem Gewand, stereotypisierte [Schwarze](#_Schwarz/weiss) Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.»  
+Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeichert. Eine möglichst objektive und genaue Bezeichnung wird formuliert. Sie lautet nun: «Knieender Mann in weissem Gewand, stereotypisierte [Schwarze](#_Schwarz/weiss) Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.»  
 
 Klassifikation:  
-**Die rassistische Klassifikation des** [Objekts](#_Objekt) **wird** in der **Änderungshistorie gespeichert und eine** neue Klassifikation wird zugewiesen; Religion und Kult, Kirchenausstattung (christ.), Opferstock.  
+Die rassistische Klassifikation des [Objekts](#_Objekt) wird in der Änderungshistorie gespeichert und eine neue Klassifikation wird zugewiesen; Religion und Kult, Kirchenausstattung (christ.), Opferstock.  
 
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus, abwertende Sprache» markiert. Zudem werden die Schlagworte «Mission», «Koloniale Verflechtung» hinzugefügt und der Kontext zum [Objekt](#_Objekt) wird in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld erläutert.  
@@ -1916,7 +1916,7 @@ Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 **Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier **Person/Körperschaft (Autor:in):** Annemarie Meier  
 **Objekt Status:** Online  
 
-[end:before]]  
+[[end:before]]
 
 [[start:after]]
 
@@ -1947,9 +1947,11 @@ Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Ei
 **Bearbeitung in der Datenbank**  
 
 Titel:  
-**Die Titel-Typen werden angepasst und neu mit den Titel-Typen «Sensibler Titel» und «Sensibler Serientitel» ausgewiesen. Der problematische Titel wird unter Angabe der Quelle (Originaltitel Autor:in) in diese Kategorie/dieses Typenfeld verschoben. Der explizit diskriminierende und verletzende Titel wird als online angezeigter «Serientitel» mit Asterisk gekürzt und mit der Bemerkung «sensibler Originaltitel» versehen.**  
+Die Titel-Typen werden angepasst und neu mit den Titel-Typen «Sensibler Titel» und «Sensibler Serientitel» ausgewiesen. Der problematische Titel wird unter Angabe der Quelle (Originaltitel Autor:in) in diese Kategorie/dieses Typenfeld verschoben. Der explizit diskriminierende und verletzende Titel wird als online angezeigter «Serientitel» mit Asterisk gekürzt und mit der Bemerkung «sensibler Originaltitel» versehen.  
 
 Deklaration als rassistisches Objekt:  
+Das [Objekt](#_Objekt) wird mit den Keywords «Othering», «Segregation» und «Rassismus» verschlagwortet.  
+
 [[end:block]]
 
 # Vertiefungen  
