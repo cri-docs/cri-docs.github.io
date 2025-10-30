@@ -15,7 +15,7 @@ Version 1.0, November 2025
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+Abbildung 1: Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 [[start:infobox]]
 
@@ -340,7 +340,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -368,7 +368,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
+Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
 
 [[start:literature]]
 
@@ -402,7 +402,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -576,7 +576,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
+Abbildung 6: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)
 
@@ -696,7 +696,7 @@ Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vo
 
 ![](data:image/png;base64...)
 
-Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
+Abbildung 7: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[110]](#footnote-111) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.
 
@@ -765,7 +765,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
+Abbildung 8: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
 
 #### **Auswirkungen von geweissten Räumen**
 
@@ -966,9 +966,9 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
+Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1008,11 +1008,11 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
@@ -1173,13 +1173,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
+Abbildung 19: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![C:\Users\snmchug\Downloads\2024Usakos.JPG](data:image/jpeg;base64...)
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
+Abbildung 20: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
@@ -1322,7 +1322,7 @@ Metadaten des unbereinigten Datensatzes:
 [[end:before]]
 
 [[start:after]]
-Metadaten des bereinigten Datensatzes
+Metadaten des überarbeiteten Datensatzes
 
 **Inventarnummer**: DEP-2443
 
@@ -1386,7 +1386,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des bereinigten Datensatzes
+Metadaten des überarbeiteten Datensatzes
 
 **Inventarnummer:** H/57166
 **Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes
@@ -1434,10 +1434,9 @@ Klassifikation: Stickvorlage
 Datierung: Um 1900
 Inschrift (Titel): «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»
 Schlagworte: -
-Herstellung:
 [[end:before]]
 [[start:after]]
-Metadaten des bereinigten Datensatzes
+Metadaten des überarbeiteten Datensatzes
 Inventarnummer: LM-99968
 Bezeichnung: Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.
 **Klassifikation:** Stickvorlage
@@ -1483,35 +1482,34 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:
+**Inventarnummer:** LM-43897
+**Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt
+**Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter
+**Datierung:** 1900-1910
+**Inschrift: -**
+**Schlagworte: -**
 
-Inventarnummer: LM-43897
+[[end:before]]
 
-Bezeichnung: Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt
+[[start:after]]
 
-Klassifikation: Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter
+Metadaten des überarbeiteten Datensatzes
+**Inventarnummer:** LM-43897
+**Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege
+**Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)
+**Datierung:** 1900-1910
+**Inschrift:** «Der Schwarze Peter»
+**Schlagworte: -**
+**Inhaltshinweis:** «Rassismus» und «abwertende Sprache»
 
-Datierung: 1900-1910
+[[end:after]]
 
-Inschrift: -
-
-Schlagworte: -
-
-Metadaten des überarbeiteten Datensatz:
-
-Inventarnummer: LM-43897
-
-Bezeichnung: Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege
-
-Klassifikation: Spiele und Spielzeug, Spielkarten (Karten Spiel)
-
-Datum: 1900-1910
-
-Inschrift: «Der Schwarze Peter»
-
-Schlagworte: -
-
-Inhaltshinweis: «Rassismus» und «abwertende Sprache»
+[[end:metadata]]
 
 **Kontext**
 
@@ -1560,7 +1558,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des bereinigten Datensatzes
+Metadaten des überarbeiteten Datensatzes
 
 **Inventarnummer:** LM-140862
 **Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**
@@ -1616,7 +1614,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des bereinigten Datensatzes
+Metadaten des überarbeiteten Datensatzes
 
 **Notiz:** Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.
 
@@ -1650,27 +1648,39 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 
 Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:
 
-Inventarnummer: H/57900
+**Inventarnummer:** H/57900
 
-Titel: Bilderbuch, «Die zwölf Negerlein/Ein drolliges Bilderbuch von F. Gareis»
+**Titel:** Bilderbuch, «Die zwölf Negerlein/Ein drolliges Bilderbuch von F. Gareis»
 
-Datierung: 1910 (Herstellung)
+**Datierung:** 1910 (Herstellung)
 
-Metadaten des überarbeiteten Datensatzes:
+[[end:before]]
 
-Inventarnummer: H/57900
+[[start:after]]
 
-Titel: Bilderbuch «Die zwölf N\*»
+Metadaten des überarbeiteten Datensatzes
 
-Nebentitel (Originaltitel): Die 12 Negerlein. Ein drolliges Bilderbuch von F. Gareis (mit Vermerk: rassistischer Titel)
+**Inventarnummer:** H/57900
 
-Datierung: 1910 (Herstellung)
+**Titel:** Bilderbuch «Die zwölf N\*»
 
-Verschlagwortung: «Rassistischer Inhalt/Darstellung»
+**Nebentitel (Originaltitel):** Die 12 Negerlein. Ein drolliges Bilderbuch von F. Gareis (mit Vermerk: rassistischer Titel)
 
-Forschung: Festhalten des historischen Kontexts/Problematik (s. u. Kontext)
+**Datierung:** 1910 (Herstellung)
+
+**Verschlagwortung:** «Rassistischer Inhalt/Darstellung»
+
+**Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)
+
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**
 
@@ -1697,49 +1707,51 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 
 Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:
 
-Beschreibung/Art des Dokuments: Kontaktabzug
+**Inventarnummer:** 1995.423
 
-Gattung: Inszenierte Fotografie, Porträtfotografie
+**Titel Online:** Köpfe 30, Trudi als Neger 1933 (Quelle: Originaltitel Autor:in)
+**Beschreibung/Art des Dokuments:** Kontaktabzug
+**Gattung:** Inszenierte Fotografie, Porträtfotografie
 
-Datierung: 1933
+**Datierung:** 1933
 
-Inschrift: Köpfe 30, Trudi als Neger 1933
+**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff
 
-Titel Online: Köpfe 30, Trudi als Neger 1933 (Quelle: Originaltitel Autor:in)
+**Person/Körperschaft (Autor:in):** Herbert Matter
 
-Schlagworte: Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff
+**Objekt Status:** Online
 
-Inventarnummer: 1995.423
+[end:before]]
 
-Person/Körperschaft (Autor:in): Herbert Matter
+[[start:after]]
 
-Objekt Status: Online
+Metadaten des überarbeiteten Datensatzes
 
-Metadaten des überarbeiteten Datensatzes:
+**Inventarnummer:** 1995.423
 
-Beschreibung/Art des Dokuments: Kontaktabzug
-
-Gattung: Inszenierte Fotografie, Porträtfotografie
-
-Datierung: 1933
-
-Inschrift: Köpfe 30, Trudi als Neger 1933
-
-Titel Online: Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)
+**Titel Online:** Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)
 
 Sensibler Titel[[196]](#footnote-197): Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)
 
 «Köpfe 30» (Trudy Hess, schwarz geschminkt)
+**Beschreibung/Art des Dokuments:** Kontaktabzug
+**Gattung:** Inszenierte Fotografie, Porträtfotografie
 
-Schlagworte: Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing
+**Datierung:** 1933
 
-Inventarnummer: 1995.423
+**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing **Person/Körperschaft (Autor:in):** Herbert Matter
 
-Person/Körperschaft (Autor:in): Herbert Matter
+**Objekt Status:** **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**
 
-Objekt Status: **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**
 
@@ -1771,25 +1783,27 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 
 Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:
+**Inventarnummer:** H/47660
+**Titel:** Elektrische Reklame für die Schuhcrème «Marga» mit zwei beweglichen Figuren und Lichtreflex: «Negerjunge in orientalischer Kleidung putzt einem Herrn mit Zylinder die Schuhe»
+**Datierung:** 1940-1950 (Herstellung)
+[[end:before]]
 
-Inventarnummer: H/47660
+[[start:after]]
 
-Titel: Elektrische Reklame für die Schuhcrème «Marga» mit zwei beweglichen Figuren und Lichtreflex: «Negerjunge in orientalischer Kleidung putzt einem Herrn mit Zylinder die Schuhe»
+Metadaten des überarbeiteten Datensatzes
+**Inventarnummer:** H/47660
+**Titel:** Elektrische Reklame für Schuhcrème «Marga»
+**Datierung:** 1940-1950 (Herstellung)
+**Verschlagwortung:** «Rassistischer Inhalt/Darstellung»
+**Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)
+[[end:after]]
 
-Datierung: 1940-1950 (Herstellung)
-
-Metadaten des überarbeiteten Datensatzes:
-
-Inventarnummer: H/47660
-
-Titel: Elektrische Reklame für Schuhcrème «Marga»
-
-Datierung: 1940-1950 (Herstellung)
-
-Verschlagwortung: «Rassistischer Inhalt/Darstellung»
-
-Forschung: Festhalten des historischen Kontexts/der Problematik (s. u. Kontext)
+[[end:metadata]]
 
 **Kontext**
 
@@ -1818,39 +1832,35 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:
+**Inventarnummer:** LM-83097.2
+**Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.
+**Bezeichnung (Objekt):** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.
+**Klassifikation:** Nippes (Ziergegenstände)
+**Datierung:** 1950
+**Schlagworte:** -
 
-Bezeichnung (übergreifend, da es sich um ein Teilobjekt handelt): Figuren, «Neger», aus Gips oder Ton zum Aufstellen.
+[[end:before]]
 
-Bezeichnung (Objekt): Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.
+[[start:after]]
 
-Inventarnummer: LM-83097.2
+Metadaten des überarbeiteten Datensatzes
 
-Klassifikation: Nippes (Ziergegenstände)
-
-Datierung: 1950
-
-Inschrift: -
-
-Schlagworte: -
-
-Metadaten des überarbeiteten Datensatzes:
-
-Bezeichnung (übergreifend, da es sich um ein Teilobjekt handelt): Figuren «N\*», aus Gips oder Ton zum Aufstellen.
-
-Inventarnummer: LM-83097.2
-
-Beschrieb (Objekt): **«Stark stereotypisierte weibliche** Schwarze **Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte»**.
-
-Klassifikation: Nippes (Ziergegenstände)
-
-Datierung: 1950
-
-Inschrift: -
-
-Schlagworte: «Schwarze **Person», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**
-
+**Inventarnummer:** LM-83097.2
+**Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.
+**Bezeichnung (Objekt):** «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».
+**Klassifikation:** Nippes (Ziergegenstände)
+**Datierung:** 1950
+**Schlagworte:** «Schwarze **Person», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**
 **Inhaltshinweis: «Rassismus», «Sexismus», «abwertende Sprache», «**Exotisierung**», «Stereotyp»**
+
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**
 
@@ -1872,41 +1882,42 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 [[end:block]]
 
-## **Der Nick-N\***
+## **Das Missionsn\*li**
 
 ![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg](data:image/jpeg;base64...)
 
 Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:
-
-Inventarnummer: LM-69377.1-2
-
-Bezeichnung: Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.
+**Inventarnummer:** LM-69377.1-2
+**Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.
 
 Klassifikation: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli
+**Bezeichnung:** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.
+**Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli
+**Datierung:** 1940-1960
+**Schlagworte:** Religiöse Themen allgemein
 
-Datierung: 1940-1960
+[[end:before]]
 
-Inschrift: -
+[[start:after]]
 
-Schlagworte: Religiöse Themen allgemein
+Metadaten des überarbeiteten Datensatzes
 
-Metadaten des überarbeiteten Datensatzes:
+**Inventarnummer:** LM-69377.1-2
+**Bezeichnung:** Knieender Mann in weissem Gewand, stereotypisierte Schwarze Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.
+**Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock
+**Datierung:** 1940-1960
+**Schlagworte:** «Religiöse Themen allgemein», «Mission», «Koloniale Verflechtung», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)», «Kapuzinerorden»
+**Inhaltshinweis:** «Rassismus», «abwertende Sprache»
 
-Inventarnummer: LM-69377.1-2
+[[end:after]]
 
-Bezeichnung: Knieender Mann in weissem Gewand, stereotypisierte Schwarze Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.
-
-Klassifikation: Religion und Kult, Kirchenausstattung (christ.), Opferstock
-
-Datum: 1940-1960
-
-Inschrift: -
-
-Schlagworte: «Religiöse Themen allgemein», «Mission», «Koloniale Verflechtung», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)», «Kapuzinerorden»
-
-Inhaltshinweis: «Rassismus», «abwertende Sprache»
+[[end:metadata]]
 
 **Kontext**
 
@@ -1935,51 +1946,52 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 
 Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:
 
-Beschreibung/Art des Dokuments: Abzug, Vergrösserung
+**Inventarnummer: 1982.03.023**
 
-Gattung: -
+**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
+**Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)
+**Beschreibung/Art des Dokuments:** Abzug, Vergrösserung
+**Gattung:** -
 
-Datierung: 1965
+**Datierung:** 1965
 
-Inschrift: -
+**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier **Person/Körperschaft (Autor:in):** Annemarie Meier
 
-Titel Online: USA, 1965 (Quelle: deskriptiver Titel)
+**Objekt Status:** Online
 
-Serientitel: Amerika Neger (Quelle: Originaltitel Autor:in)
+[end:before]]
 
-Schlagworte: Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier
+[[start:after]]
 
-Inventarnummer: **1982.03.023**
+Metadaten des überarbeiteten Datensatzes
 
-Person/Körperschaft (Autor:in): Annemarie Meier
+**Inventarnummer: 1982.03.023**
 
-Objekt Status: Online
+**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 
-Metadaten des überarbeiteten Datensatzes:
+**Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)
 
-Beschreibung/Art des Dokuments: Abzug, Vergrösserung
+**Sensibler Serientitel Bemerkung:** Amerika Neger
 
-Gattung: -
+**Beschreibung/Art des Dokuments:** Abzug, Vergrösserung
+**Gattung:** -
 
-Datierung: 1965
+**Datierung:** 1965
 
-Inschrift: -
+**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus
+**Person/Körperschaft (Autor:in):** Annemarie Meier
 
-Titel Online: USA, 1965 (Quelle: deskriptiver Titel)
+**Objekt Status:** **Online**
 
-Sensibler Serientitel: Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)
+[[end:after]]
 
-Sensibler Serientitel Bemerkung: Amerika Neger
-
-Schlagworte: Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus
-
-Inventarnummer: **1982.03.023**
-
-Person/Körperschaft (Autor:in): Annemarie Meier
-
-Obj.Status: Online
+[[end:metadata]]
 
 **Kontext**
 
@@ -2540,7 +2552,7 @@ Die Geschäftsleitungen der beteiligten Institutionen.
 133. Vgl. Venugopal, Arun: Museums as White Spaces, WNYC, 04.05.2015, <<https://www.wnyc.org/story/museums-white-spaces>>, Stand: 20.06.2024. – Domínguez, Silvia, Simón Weffer, und David G. Embrick: White sanctuaries: White supremacy, racism, space, and fine arts in two metropolitan museums, in: American Behavioral Scientist 64 (14), 2020, S. 2028–2043. – Klonk, Charlotte: Myth and Reality of the White Cube, in: From Museum Critique to the Critical Museum, Murawska-Muthesius, Katarzyna (Hg.), Burlington: Ashgate Publishing 2015, S. 67–79. [↑](#footnote-ref-134)
 134. BIPoC ist ein Akronym und steht für Black, Indigenous, and People of Color. [↑](#footnote-ref-135)
 135. Garfinkel, Harold: Ethnomethodology's Program, in: Social Psychology Quarterly 59 (1), 1996, S. 5–21. – Garfinkel, Harold: Studies in Ethnomethodology. Cambridge 1967. – Linstead, Stephen Andrew: Ethnomethodology and Sociology: An Introduction, in: Sociological Review 54 (3), 2006, S. 399–404. [↑](#footnote-ref-136)
-136. Der Begriff *safe spaces* beschreibt Räume oder Umgebungen, in denen sich Menschen sicher fühlen, sich ausdrücken können und in denen sie sich gesehen, gehört und akzeptiert fühlen, ohne Angst vor Diskriminierung, Kritik, Unglauben, Verurteilung, Belästigung oder anderen subtilen oder expliziten Formen emotionaler oder physischer Gewalt oder Überlegenheitsgebaren haben zu müssen. Vgl. Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < <https://www.goethe.de/prj/zei/en/art/22554555.html>>, Stand: 02.08.2024. – Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, [< https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/](https://ethz-my.sharepoint.com/personal/rospano_ethz_ch/Documents/Handbuch_Sammlungsdokumentation/%3C%20https%3A/www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean) >, Stand: 02.08.2024. - Onwuamaegbu, Natachi: Sichere Räume in der Gesellschaft schaffen., The Black and White: The Student News Site of Walt Whitman High School, Datum? < [www.theblackandwhite.net](http://www.theblackandwhite.net/%22%20%5Co%20%22http%3A//www.theblackandwhite.net/)>, Stand: 02.08.2024.–.– Anderson, Derek: An Epistemological Conception of Safe Spaces. Social Epistemology 35 (3), 2021, S. 285–311.
+136. Der Begriff *safe spaces* beschreibt Räume oder Umgebungen, in denen sich Menschen sicher fühlen, sich ausdrücken können und in denen sie sich gesehen, gehört und akzeptiert fühlen, ohne Angst vor Diskriminierung, Kritik, Unglauben, Verurteilung, Belästigung oder anderen subtilen oder expliziten Formen emotionaler oder physischer Gewalt oder Überlegenheitsgebaren haben zu müssen. Vgl. Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < <https://www.goethe.de/prj/zei/en/art/22554555.html>>, Stand: 02.08.2024. – Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, [< https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/](https://ethz-my.sharepoint.com/personal/rospano_ethz_ch/Documents/Handbuch_Sammlungsdokumentation/%3C%20https%3A/www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean) >, Stand: 02.08.2024. - Onwuamaegbu, Natachi: Sichere Räume in der Gesellschaft schaffen., The Black and White: The Student News Site of Walt Whitman High School, Datum? < [www.theblackandwhite.net](http://www.theblackandwhite.net/)>, Stand: 02.08.2024.–.– Anderson, Derek: An Epistemological Conception of Safe Spaces. Social Epistemology 35 (3), 2021, S. 285–311.
 
      Mehrere Forschende unterschiedlicher Disziplinen weisen jedoch darauf hin, dass *safe spaces* nicht per se sicher sind, da auch in diesen Räumen negativ konnotierte Erfahrungen gemacht werden können. Vgl. Karin Flensner; Marie Von der Lippe: Safe from what and safe for whom? A critical discussion of the conceptual metaphor of ‘safe space’, in: Intercultural Education 30 (3), 2019, S. 275–288. – Hill, David: Communication as a moral vocation: Safe space and freedom of speech. In: The Sociological Review 68 (1), 2020, S. 3–16. [↑](#footnote-ref-137)
 137. Janes, Robert R.: Museums in a Troubled World – Renewal, Irrelevance or Collapse? London 2009, S. 17. [↑](#footnote-ref-138)
@@ -2605,7 +2617,9 @@ Die Geschäftsleitungen der beteiligten Institutionen.
 186. Eckert, Mascha, Lumme, Christin, Pfaller, Sebastian: Vom Zuschieben und Zuschreiben. Das Kartenspiel Schwarzer Peter in der Sammlung des Deutschen Spielearchivs Nürnberg, Boardgame Historian, 2021, < [bghistorian.hypotheses.org/1454](https://ethz-my.sharepoint.com/personal/rospano_ethz_ch/Documents/Handbuch_Sammlungsdokumentation/bghistorian.hypotheses.org/1454) >, Stand: 25.02.2025. [↑](#footnote-ref-187)
 187. GRA Stiftung gegen Rassismus und Antisemitismus: Glossar: Blackfacing, < <https://www.gra.ch/bildung/glossar/blackfacing/>> Stand: 25.05.2025. Siehe hierzu auch Fallbeispiel 8 in diesem Kapitel. [↑](#footnote-ref-188)
 188. McClintock, Anne: Imperial Leather. Race, Gender and Sexuality in the Colonial Contest, New York 1995, S. 31-36. [↑](#footnote-ref-189)
-189. Moritz Florin, «Kommerz und Vielfalt: Diversität in Zirkusunternehmen in den USA, Europa und Russland, 1850–1914», in: *Diversität historisch: Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel,* hrsg. von Moritz Florin, Victoria Gutsche und Natalie Krentz, Bielefeld: transcript, 2018, S. 121–141, S. 128. [↑](#footnote-ref-190)
+189. Moritz Florin, «Kommerz und Vielfalt: Diversität in Zirkusunternehmen in den USA, Europa und Russland, 1850–1914», in: *Diversität historisch: Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel,* hrsg. von Moritz Florin,
+
+     Victoria Gutsche und Natalie Krentz, Bielefeld: transcript, 2018, S. 121–141, S. 128. [↑](#footnote-ref-190)
 190. Moritz Florin, «Kommerz und Vielfalt: Diversität in Zirkusunternehmen in den USA, Europa und Russland, 1850–1914», in: *Diversität historisch: Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel,* hrsg. von Moritz Florin, Victoria Gutsche und Natalie Krentz, Bielefeld: transcript, 2018, S. 121–141, S. 137. [↑](#footnote-ref-191)
 191. Moritz Florin, «Kommerz und Vielfalt: Diversität in Zirkusunternehmen in den USA, Europa und Russland, 1850–1914», in: *Diversität historisch: Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel,* hrsg. von Moritz Florin, Victoria Gutsche und Natalie Krentz, Bielefeld: transcript, 2018, S. 121–141, S. 137. [↑](#footnote-ref-192)
 192. Schmidt-Wulffen, Wulf: Die «Zehn kleine Negerlein». Zur Geschichte der Rassendiskriminierung im Kinderbuch, Berlin 2010, S. 59 ff. [↑](#footnote-ref-193)

@@ -27,7 +27,7 @@ toc:
   - level: 2
     title: "10.10 Die ‹exotisch›-erotischen Nippes"
   - level: 2
-    title: "10.11 Der Nick-N*"
+    title: "10.11 Das Missionsn*li"
   - level: 2
     title: "10.12 Eine Fotoreportage aus den USA"
 ---
@@ -37,7 +37,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## 10.1 Der M\*automat  
 
 
-![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image031.jpg)  
+![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image030.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -59,7 +59,7 @@ Metadaten des unbereinigten Datensatzes:
 [[end:before]]
 
 [[start:after]]
-Metadaten des bereinigten Datensatzes  
+Metadaten des überarbeiteten Datensatzes  
 
 **Inventarnummer**: DEP-2443  
 
@@ -106,7 +106,7 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 ## 10.2 Eine Sparkasse  
 
 
-![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image032.jpg)  
+![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image031.jpg)  
 
 [[start:metadata]]
 
@@ -122,7 +122,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des bereinigten Datensatzes  
+Metadaten des überarbeiteten Datensatzes  
 
 **Inventarnummer:** H/57166  
 **Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes  
@@ -156,7 +156,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.3 **Die Stickvorlage**  
 
 
-![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
+![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
 Metadaten des unbereinigten Datensatzes:  
 
@@ -169,10 +169,9 @@ Klassifikation: Stickvorlage
 Datierung: Um 1900  
 Inschrift (Titel): «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
 Schlagworte: -  
-Herstellung:  
 [[end:before]]
 [[start:after]]
-Metadaten des bereinigten Datensatzes  
+Metadaten des überarbeiteten Datensatzes  
 Inventarnummer: LM-99968  
 Bezeichnung: Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
 **Klassifikation:** Stickvorlage  
@@ -188,7 +187,7 @@ Inhaltshinweis: «Abwertende Sprache»
 Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901-1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
-![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image034.jpg)  
+![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image033.jpg)  
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des [Objekts](#_Objekt) wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem [Objekt](#_Objekt) somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von [Objekten](#_Objekt) des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
@@ -214,37 +213,36 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.4 **Der «Schwarze Peter»**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+
+[[start:metadata]]
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+**Inventarnummer:** LM-43897  
+**Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
+**Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
+**Datierung:** 1900-1910  
+**Inschrift: -**  
+**Schlagworte: -**  
 
-Inventarnummer: LM-43897  
+[[end:before]]
 
-Bezeichnung: Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
+[[start:after]]
 
-Klassifikation: Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
+Metadaten des überarbeiteten Datensatzes  
+**Inventarnummer:** LM-43897  
+**Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege  
+**Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
+**Datierung:** 1900-1910  
+**Inschrift:** «Der Schwarze Peter»  
+**Schlagworte: -**  
+**Inhaltshinweis:** «Rassismus» und «abwertende Sprache»  
 
-Datierung: 1900-1910  
+[[end:after]]
 
-Inschrift: -  
-
-Schlagworte: -  
-
-Metadaten des überarbeiteten Datensatz:  
-
-Inventarnummer: LM-43897  
-
-Bezeichnung: Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege  
-
-Klassifikation: Spiele und Spielzeug, Spielkarten (Karten Spiel)  
-
-Datum: 1900-1910  
-
-Inschrift: «Der Schwarze Peter»  
-
-Schlagworte: -  
-
-Inhaltshinweis: «Rassismus» und «abwertende Sprache»  
+[[end:metadata]]
 
 **Kontext**  
 
@@ -273,7 +271,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.5 **Die Pudding-Werbung**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 [[start:metadata]]
 
@@ -292,7 +290,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des bereinigten Datensatzes  
+Metadaten des überarbeiteten Datensatzes  
 
 **Inventarnummer:** LM-140862  
 **Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
@@ -329,7 +327,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.6 **Das Puppenspiel**  
 
 
-![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image037.jpg)  
+![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image036.jpg)  
 
 [[start:metadata]]
 
@@ -347,7 +345,7 @@ Metadaten des unbereinigten Datensatzes:
 
 [[start:after]]
 
-Metadaten des bereinigten Datensatzes  
+Metadaten des überarbeiteten Datensatzes  
 
 **Notiz:** Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.  
 
@@ -378,29 +376,41 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 ## 10.7 **Die 12 kleinen N\*lein**  
 
 
-![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image038.jpg)  
+![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image037.jpg)  
+
+[[start:metadata]]
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
 
-Inventarnummer: H/57900  
+**Inventarnummer:** H/57900  
 
-Titel: Bilderbuch, «Die zwölf Negerlein/Ein drolliges Bilderbuch von F. Gareis»  
+**Titel:** Bilderbuch, «Die zwölf Negerlein/Ein drolliges Bilderbuch von F. Gareis»  
 
-Datierung: 1910 (Herstellung)  
+**Datierung:** 1910 (Herstellung)  
 
-Metadaten des überarbeiteten Datensatzes:  
+[[end:before]]
 
-Inventarnummer: H/57900  
+[[start:after]]
 
-Titel: Bilderbuch «Die zwölf N\*»  
+Metadaten des überarbeiteten Datensatzes  
 
-Nebentitel (Originaltitel): Die 12 Negerlein. Ein drolliges Bilderbuch von F. Gareis (mit Vermerk: rassistischer Titel)  
+**Inventarnummer:** H/57900  
 
-Datierung: 1910 (Herstellung)  
+**Titel:** Bilderbuch «Die zwölf N\*»  
 
-Verschlagwortung: «Rassistischer Inhalt/Darstellung»  
+**Nebentitel (Originaltitel):** Die 12 Negerlein. Ein drolliges Bilderbuch von F. Gareis (mit Vermerk: rassistischer Titel)  
 
-Forschung: Festhalten des historischen Kontexts/Problematik (s. u. Kontext)  
+**Datierung:** 1910 (Herstellung)  
+
+**Verschlagwortung:** «Rassistischer Inhalt/Darstellung»  
+
+**Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)  
+
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**  
 
@@ -424,51 +434,53 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 ## 10.8 **Die Portraitserie**  
 
 
-![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image039.jpg)  
+![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image038.jpg)  
+
+[[start:metadata]]
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
 
-Beschreibung/Art des Dokuments: Kontaktabzug  
+**Inventarnummer:** 1995.423  
 
-Gattung: Inszenierte Fotografie, Porträtfotografie  
+**Titel Online:** Köpfe 30, Trudi als Neger 1933 (Quelle: Originaltitel Autor:in)  
+**Beschreibung/Art des Dokuments:** Kontaktabzug  
+**Gattung:** Inszenierte Fotografie, Porträtfotografie  
 
-Datierung: 1933  
+**Datierung:** 1933  
 
-Inschrift: Köpfe 30, Trudi als Neger 1933  
+**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff  
 
-Titel Online: Köpfe 30, Trudi als Neger 1933 (Quelle: Originaltitel Autor:in)  
+**Person/Körperschaft (Autor:in):** Herbert Matter  
 
-Schlagworte: Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff  
+**Objekt Status:** Online  
 
-Inventarnummer: 1995.423  
+[end:before]]  
 
-Person/Körperschaft (Autor:in): Herbert Matter  
+[[start:after]]
 
-Objekt Status: Online  
+Metadaten des überarbeiteten Datensatzes  
 
-Metadaten des überarbeiteten Datensatzes:  
+**Inventarnummer:** 1995.423  
 
-Beschreibung/Art des Dokuments: Kontaktabzug  
-
-Gattung: Inszenierte Fotografie, Porträtfotografie  
-
-Datierung: 1933  
-
-Inschrift: Köpfe 30, Trudi als Neger 1933  
-
-Titel Online: Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)  
+**Titel Online:** Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)  
 
 Sensibler Titel[[196]](#footnote-197): Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)  
 
 «Köpfe 30» (Trudy Hess, schwarz geschminkt)  
+**Beschreibung/Art des Dokuments:** Kontaktabzug  
+**Gattung:** Inszenierte Fotografie, Porträtfotografie  
 
-Schlagworte: Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing  
+**Datierung:** 1933  
 
-Inventarnummer: 1995.423  
+**Schlagworte:** Gesicht, Locken, Mädchen, Schminken, Schwarz, Stoff, Rassismus, Blackfacing **Person/Körperschaft (Autor:in):** Herbert Matter  
 
-Person/Körperschaft (Autor:in): Herbert Matter  
+**Objekt Status:** **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**  
 
-Objekt Status: **Zu prüfen (Diskriminierung/Sensible Bildinhalte)**  
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**  
 
@@ -497,27 +509,29 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 ## 10.9 **Die elektrische Reklame für die Schuhcrème**  
 
 
-![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image040.jpg)  
+![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image039.jpg)  
+
+[[start:metadata]]
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+**Inventarnummer:** H/47660  
+**Titel:** Elektrische Reklame für die Schuhcrème «Marga» mit zwei beweglichen Figuren und Lichtreflex: «Negerjunge in orientalischer Kleidung putzt einem Herrn mit Zylinder die Schuhe»  
+**Datierung:** 1940-1950 (Herstellung)  
+[[end:before]]
 
-Inventarnummer: H/47660  
+[[start:after]]
 
-Titel: Elektrische Reklame für die Schuhcrème «Marga» mit zwei beweglichen Figuren und Lichtreflex: «Negerjunge in orientalischer Kleidung putzt einem Herrn mit Zylinder die Schuhe»  
+Metadaten des überarbeiteten Datensatzes  
+**Inventarnummer:** H/47660  
+**Titel:** Elektrische Reklame für Schuhcrème «Marga»  
+**Datierung:** 1940-1950 (Herstellung)  
+**Verschlagwortung:** «Rassistischer Inhalt/Darstellung»  
+**Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)  
+[[end:after]]
 
-Datierung: 1940-1950 (Herstellung)  
-
-Metadaten des überarbeiteten Datensatzes:  
-
-Inventarnummer: H/47660  
-
-Titel: Elektrische Reklame für Schuhcrème «Marga»  
-
-Datierung: 1940-1950 (Herstellung)  
-
-Verschlagwortung: «Rassistischer Inhalt/Darstellung»  
-
-Forschung: Festhalten des historischen Kontexts/der Problematik (s. u. Kontext)  
+[[end:metadata]]
 
 **Kontext**  
 
@@ -543,41 +557,37 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.10 **Die** ‹exotisch›-**erotischen Nippes**  
 
 
-![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image041.jpg)  
+![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image040.jpg)  
+
+[[start:metadata]]
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
+**Inventarnummer:** LM-83097.2  
+**Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
+**Bezeichnung (Objekt):** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
+**Klassifikation:** Nippes (Ziergegenstände)  
+**Datierung:** 1950  
+**Schlagworte:** -  
 
-Bezeichnung (übergreifend, da es sich um ein Teilobjekt handelt): Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
+[[end:before]]
 
-Bezeichnung (Objekt): Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
+[[start:after]]
 
-Inventarnummer: LM-83097.2  
+Metadaten des überarbeiteten Datensatzes  
 
-Klassifikation: Nippes (Ziergegenstände)  
-
-Datierung: 1950  
-
-Inschrift: -  
-
-Schlagworte: -  
-
-Metadaten des überarbeiteten Datensatzes:  
-
-Bezeichnung (übergreifend, da es sich um ein Teilobjekt handelt): Figuren «N\*», aus Gips oder Ton zum Aufstellen.  
-
-Inventarnummer: LM-83097.2  
-
-Beschrieb (Objekt): **«Stark stereotypisierte weibliche** Schwarze **Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte»**.  
-
-Klassifikation: Nippes (Ziergegenstände)  
-
-Datierung: 1950  
-
-Inschrift: -  
-
-Schlagworte: «Schwarze **Person», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**  
-
+**Inventarnummer:** LM-83097.2  
+**Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
+**Bezeichnung (Objekt):** «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».  
+**Klassifikation:** Nippes (Ziergegenstände)  
+**Datierung:** 1950  
+**Schlagworte:** «Schwarze **Person», «**[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)**»**  
 **Inhaltshinweis: «Rassismus», «Sexismus», «abwertende Sprache», «**Exotisierung**», «Stereotyp»**  
+
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**  
 
@@ -599,40 +609,41 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 [[end:block]]
 
-## 10.11 **Der Nick-N\***  
+## 10.11 **Das Missionsn\*li**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM](/images/image042.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM](/images/image041.jpg)  
+
+[[start:metadata]]
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
-
-Inventarnummer: LM-69377.1-2  
-
-Bezeichnung: Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.  
+**Inventarnummer:** LM-69377.1-2  
+**Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.  
 
 Klassifikation: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
+**Bezeichnung:** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
+**Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
+**Datierung:** 1940-1960  
+**Schlagworte:** Religiöse Themen allgemein  
 
-Datierung: 1940-1960  
+[[end:before]]
 
-Inschrift: -  
+[[start:after]]
 
-Schlagworte: Religiöse Themen allgemein  
+Metadaten des überarbeiteten Datensatzes  
 
-Metadaten des überarbeiteten Datensatzes:  
+**Inventarnummer:** LM-69377.1-2  
+**Bezeichnung:** Knieender Mann in weissem Gewand, stereotypisierte Schwarze Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.  
+**Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock  
+**Datierung:** 1940-1960  
+**Schlagworte:** «Religiöse Themen allgemein», «Mission», «Koloniale Verflechtung», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)», «Kapuzinerorden»  
+**Inhaltshinweis:** «Rassismus», «abwertende Sprache»  
 
-Inventarnummer: LM-69377.1-2  
+[[end:after]]
 
-Bezeichnung: Knieender Mann in weissem Gewand, stereotypisierte Schwarze Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.  
-
-Klassifikation: Religion und Kult, Kirchenausstattung (christ.), Opferstock  
-
-Datum: 1940-1960  
-
-Inschrift: -  
-
-Schlagworte: «Religiöse Themen allgemein», «Mission», «Koloniale Verflechtung», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)», «Kapuzinerorden»  
-
-Inhaltshinweis: «Rassismus», «abwertende Sprache»  
+[[end:metadata]]
 
 **Kontext**  
 
@@ -658,53 +669,54 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 ## 10.12 **Eine Fotoreportage aus den USA**  
 
 
-![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image043.jpg)  
+![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image042.jpg)  
+
+[[start:metadata]]
+
+[[start:before]]
 
 Metadaten des unbereinigten Datensatzes:  
 
-Beschreibung/Art des Dokuments: Abzug, Vergrösserung  
+**Inventarnummer: 1982.03.023**  
 
-Gattung: -  
+**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
+**Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)  
+**Beschreibung/Art des Dokuments:** Abzug, Vergrösserung  
+**Gattung:** -  
 
-Datierung: 1965  
+**Datierung:** 1965  
 
-Inschrift: -  
+**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier **Person/Körperschaft (Autor:in):** Annemarie Meier  
 
-Titel Online: USA, 1965 (Quelle: deskriptiver Titel)  
+**Objekt Status:** Online  
 
-Serientitel: Amerika Neger (Quelle: Originaltitel Autor:in)  
+[end:before]]  
 
-Schlagworte: Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier  
+[[start:after]]
 
-Inventarnummer: **1982.03.023**  
+Metadaten des überarbeiteten Datensatzes  
 
-Person/Körperschaft (Autor:in): Annemarie Meier  
+**Inventarnummer: 1982.03.023**  
 
-Objekt Status: Online  
+**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 
-Metadaten des überarbeiteten Datensatzes:  
+**Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)  
 
-Beschreibung/Art des Dokuments: Abzug, Vergrösserung  
+**Sensibler Serientitel Bemerkung:** Amerika Neger  
 
-Gattung: -  
+**Beschreibung/Art des Dokuments:** Abzug, Vergrösserung  
+**Gattung:** -  
 
-Datierung: 1965  
+**Datierung:** 1965  
 
-Inschrift: -  
+**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus  
+**Person/Körperschaft (Autor:in):** Annemarie Meier  
 
-Titel Online: USA, 1965 (Quelle: deskriptiver Titel)  
+**Objekt Status:** **Online**  
 
-Sensibler Serientitel: Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)  
+[[end:after]]
 
-Sensibler Serientitel Bemerkung: Amerika Neger  
-
-Schlagworte: Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus  
-
-Inventarnummer: **1982.03.023**  
-
-Person/Körperschaft (Autor:in): Annemarie Meier  
-
-Obj.Status: Online  
+[[end:metadata]]
 
 **Kontext**  
 
