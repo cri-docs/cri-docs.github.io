@@ -37,7 +37,7 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM»
 * Rassistische, diskriminierende Begriffe in Originaltiteln sowie historische Zitate werden bei der Erstzitierung ausgeschrieben, aber durch Anführungs- und Schlusszeichen gekennzeichnet.  
 * Bei der Zweitnennung rassistischer und diskriminierender Begriffe werden sie jeweils nur mit dem Anfangsbuchstaben und einem Asterisk (\*) geschrieben, um die Begriffe in der weiteren Analyse nicht zu reproduzieren.  
 * Um alle Geschlechter anzusprechen, wird die Doppelpunkt-Schreibweise verwendet (Bsp.: Mitarbeiter:innen). Wenn nur ein Geschlecht benannt ist, bezieht sich dies ausschliesslich auf das genannte Geschlecht.  
-* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: [Schwarz](#_Schwarz/weiss) (Grossschreibung) und[*weiss*](#_Schwarz/weiss)(kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
+* Die beiden Begriffe «schwarz» und «weiss» werden folgendermassen geschrieben: Schwarz (Grossschreibung) und *weiss* (kursiv). Diese Schreibweisen zeigen an, dass es sich nicht um eigentliche Hautfarben, sondern um politische und soziale Konstruktionen handelt.  
 * Die AG hat sich in der Erarbeitung intensiv mit rassistischen Begriffen befasst und sich schliesslich für gemeinsame Richtlinien entschieden. Die Reflexion zu einigen – in diesem Handbuch oft verwendeten Begriffen – ist im [Glossar](#_Glossar) des Handbuchs nachzulesen. Die thematisierten Begriffe sind im Text durch eine Markierung visuell hervorgehoben (und durch einen Hyperlink mit dem entsprechenden Eintrag verknüpft).
 [[end:infobox]]
 
@@ -50,21 +50,13 @@ Für das Verfassen dieses Handbuchs hat sich die Arbeitsgruppe «Critical GLAM»
 Die Mitglieder der AG sind mehrheitlich *weisse* Mitarbeiter:innen ohne eigene Rassismuserfahrungen. Dies spiegelt die derzeitige Realität von GLAM-Institutionen wider, in denen hauptsächlich *weisse* Personen im Bereich der Sammlungsdokumentation arbeiten. Den eigenen Erfahrungshintergrund zu reflektieren, ist bei der Auseinandersetzung mit Rassismus unabdingbar. Für die kritische Überprüfung der eigenen Arbeit hat die AG bereits in der Konzeption und ersten Ausarbeitungsphase des Handbuchs die Antirassismus-Expertin Danielle Isler beigezogen.  
 
 Mitwirkende:  
-
 [Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
-
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
-
 [Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
-
 [Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
-
 [Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
-
 [Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
-
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Céline Hug und Dario Donati  
-
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
 
 Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
@@ -475,7 +467,7 @@ Die zunehmende Akkumulation von Naturbelegstücken und Artefakten in europäisch
 
 Bruno Latour ging noch einen Schritt weiter. Er sah in den Museen selbst gar «Kalkulationszentren», die die Welt durch ihr Netzwerk an Akteur:innen wie Sammler:innen und Händler:innen kolonisieren. Ihre [Objekte](#_Objekt), die als Proben oder Repräsentationen vereinfacht, verglichen und reproduziert werden, sowie ihre Ergebnisse dienen der Aufrechterhaltung einer Dominanz über die Welt und ihre Bewohner:innen.[[38]](#footnote-39) Museen sind gemäss dieser Lesart keine blossen Akkumulationsorte von im Rahmen kolonialer Strukturen gesammelten [Objekten](#_Objekt), sondern Triebfedern ebendieser Sammlungskultur. Besonders deutlich wird dies anhand der sich um 1900 verbreitenden «Rettungsethnologie», die der damals sehr populären Vorstellung folgte, dass aussereuropäische [Objekte](#_Objekt) gerettet werden müssten, weil die Bevölkerung, die diese Dinge herstellt, dem Untergang geweiht sei.[[39]](#footnote-40) Dieses «Rettungsparadigma» galt auch in den Disziplinen der Medizin, Naturkunde, Geografie oder Archäologie. Sammeln wurde zu einem Massenphänomen und führte im letzten Drittel des 19. Jh. zu einer bisher ungesehenen Anhäufung von aussereuropäischen Museumsobjekten jedweder Natur und damit dem Entzug ebendieser *Naturalia,* *Ethnographica* und *Zoologica* aus ihren ursprünglichen Kontexten.[[40]](#footnote-41)  
 
-Nicht nur sind viele Museumssammlungen in kolonialen Kontexten gewachsen. Es hat sich auch ein damit verbundenes ideelles Erbe in hiesige Sammlungen als «Kolonialität» eingeschrieben. Aníbal Quijano prägte den Begriff der «Kolonialität»[[41]](#footnote-42) als den [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) überdauernde Denk- und Machtmuster desselben. So ist beispielsweise das Konzept einer [*weissen*](#_Schwarz/weiss) Vorherrschaft eine wissensprägende Struktur der Neuzeit und allgegenwärtig in historisch gewachsenen Museumssammlungen. In der Logik der Kolonialität kommt dem Rassismus eine entscheidende Rolle zu, da er Menschen unterteilt in solche, die das Privileg haben zu klassifizieren, und solche, die eine Klassifizierung erdulden müssen.[[42]](#footnote-43)  
+Nicht nur sind viele Museumssammlungen in kolonialen Kontexten gewachsen. Es hat sich auch ein damit verbundenes ideelles Erbe in hiesige Sammlungen als «Kolonialität» eingeschrieben. Aníbal Quijano prägte den Begriff der «Kolonialität»[[41]](#footnote-42) als den [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) überdauernde Denk- und Machtmuster desselben. So ist beispielsweise das Konzept einer *weissen* Vorherrschaft eine wissensprägende Struktur der Neuzeit und allgegenwärtig in historisch gewachsenen Museumssammlungen. In der Logik der Kolonialität kommt dem Rassismus eine entscheidende Rolle zu, da er Menschen unterteilt in solche, die das Privileg haben zu klassifizieren, und solche, die eine Klassifizierung erdulden müssen.[[42]](#footnote-43)  
 
 #### **Rassismus**  
 
@@ -784,15 +776,15 @@ Aber wie wird «Weiss-Sein» definiert? Für Weiss-Sein gibt es unterschiedliche
 
 Die britisch-australische Philosophin und Geschlechterforscherin Sara Ahmed schreibt, dass die Kolonisierung die Welt zu einer [*weissen*](#_Schwarz/weiss) Welt gemacht hat, die folglich auch für bestimmte Körper – sprich für bestimmte Menschen – gestaltet ist.[[129]](#footnote-130) Sie schlägt vor, Weiss-Sein durch die Linse der Phänomenologie zu betrachten, und definiert Weiss-Sein als eine fortwährende Orientierung, die nicht zu enden scheint.[[130]](#footnote-131)  
 
-Weiss-Sein ist in der westlichen Welt die Norm, der Status quo, und führt folglich dazu, dass alles (Menschen, Kulturen, Religionen, Ideologien, Perspektiven, Normen, Praktiken, Lebensrealitäten u. v. m.), was tendenziell mit Weiss-Sein in Verbindung gebracht wird, willkommener ist. Im Gegensatz dazu ist alles, was normalerweise nicht mit Weiss-Sein assoziiert wird, nicht nur nicht willkommen, sondern hat tendenziell auch negative Konnotationen, während Weiss-Sein positive Konnotationen geniesst. Weiss-Sein als eine Orientierung oder als ein Kompass in dieser Welt lenkt Menschen in eine bestimmte Richtung, nämlich hin zu sich selbst, zum Weiss-Sein, und beeinflusst, wie sie soziale Räume einnehmen und welche Möglichkeiten sie haben. Folglich sind einige Menschen, zum Beispiel aufgrund ihrer Hautfarbe, Rassifizierung, Ethnizität, Kultur, Religion oder ihres Aussehens, in [*weiss*](#_Schwarz/weiss) dominierten Räumen strukturell privilegierter, haben mehr Perspektiven als andere und können sich in dieser Welt leichter und sicherer bewegen als andere.  
+Weiss-Sein ist in der westlichen Welt die Norm, der Status quo, und führt folglich dazu, dass alles (Menschen, Kulturen, Religionen, Ideologien, Perspektiven, Normen, Praktiken, Lebensrealitäten u. v. m.), was tendenziell mit Weiss-Sein in Verbindung gebracht wird, willkommener ist. Im Gegensatz dazu ist alles, was normalerweise nicht mit Weiss-Sein assoziiert wird, nicht nur nicht willkommen, sondern hat tendenziell auch negative Konnotationen, während Weiss-Sein positive Konnotationen geniesst. Weiss-Sein als eine Orientierung oder als ein Kompass in dieser Welt lenkt Menschen in eine bestimmte Richtung, nämlich hin zu sich selbst, zum Weiss-Sein, und beeinflusst, wie sie soziale Räume einnehmen und welche Möglichkeiten sie haben. Folglich sind einige Menschen, zum Beispiel aufgrund ihrer Hautfarbe, Rassifizierung, Ethnizität, Kultur, Religion oder ihres Aussehens, in *weiss* dominierten Räumen strukturell privilegierter, haben mehr Perspektiven als andere und können sich in dieser Welt leichter und sicherer bewegen als andere.  
 
-Wenn die Welt – wie von Sara Ahmed beschrieben – als [*weisse*](#_Schwarz/weiss) Welt verstanden wird, lässt sich daraus ableiten, dass bestimmte soziale Räume – etwa Museen – ein höheres Mass an Weiss-Sein aufweisen als die Welt im Allgemeinen. Sie fungieren als verdichtete Zonen oder gar als Verstärker eines ohnehin wirkmächtigen Weiss-Seins. Wie bereits erläutert, handelt es sich bei Weiss-Sein nicht um eine tatsächliche Eigenschaft, sondern um ein Konstrukt, das hergestellt werden muss, um zu existieren.[[131]](#footnote-132) Folglich können soziale Räume[[132]](#footnote-133), die mit Formen von Weiss-Sein assoziiert werden, als «geweisste Räume» bezeichnet werden. In der wissenschaftlichen Literatur wird dafür häufig auch der Begriff «[*weisse*](#_Schwarz/weiss) Räume» verwendet.[[133]](#footnote-134) Die Autorin argumentiert jedoch, dass dieser Begriff zu kurz greife, da er suggeriere, solche Räume seien von Natur aus [*weiss*](#_Schwarz/weiss). Tatsächlich handelt es sich aber um Räume, die ‹[*weiss*](#_Schwarz/weiss)gemacht› werden – sie besitzen keine inhärente ‹Weisse›, sondern werden durch soziale Prozesse entsprechend markiert und strukturiert. Der Begriff «[*weisse*](#_Schwarz/weiss)Räume» tendiert dazu, diese Prozesse zu verdecken und unsichtbar zu machen. Deshalb hat die Autorin in Zusammenarbeit mit der deutschen Sozialanthropologin Katharina Schramm den Begriff «Geweisste Räume» (englisch *Whitened spaces*) entwickelt, um die sozialen Praktiken, Normen und Prozesse sichtbar zu machen, die dazu führen, dass Räume als [*weiss*](#_Schwarz/weiss)wahrgenommen oder definiert werden, und um aufzuzeigen, wie sich solche Räume auf BIPoC[[134]](#footnote-135) auswirken.  
+Wenn die Welt – wie von Sara Ahmed beschrieben – als *weisse* Welt verstanden wird, lässt sich daraus ableiten, dass bestimmte soziale Räume – etwa Museen – ein höheres Mass an Weiss-Sein aufweisen als die Welt im Allgemeinen. Sie fungieren als verdichtete Zonen oder gar als Verstärker eines ohnehin wirkmächtigen Weiss-Seins. Wie bereits erläutert, handelt es sich bei Weiss-Sein nicht um eine tatsächliche Eigenschaft, sondern um ein Konstrukt, das hergestellt werden muss, um zu existieren.[[131]](#footnote-132) Folglich können soziale Räume[[132]](#footnote-133), die mit Formen von Weiss-Sein assoziiert werden, als «geweisste Räume» bezeichnet werden. In der wissenschaftlichen Literatur wird dafür häufig auch der Begriff «*weisse* Räume» verwendet.[[133]](#footnote-134) Die Autorin argumentiert jedoch, dass dieser Begriff zu kurz greife, da er suggeriere, solche Räume seien von Natur aus *weiss*. Tatsächlich handelt es sich aber um Räume, die ‹*weiss* gemacht› werden – sie besitzen keine inhärente ‹Weisse›, sondern werden durch soziale Prozesse entsprechend markiert und strukturiert. Der Begriff «*weisse* Räume» tendiert dazu, diese Prozesse zu verdecken und unsichtbar zu machen. Deshalb hat die Autorin in Zusammenarbeit mit der deutschen Sozialanthropologin Katharina Schramm den Begriff «Geweisste Räume» (englisch *Whitened spaces*) entwickelt, um die sozialen Praktiken, Normen und Prozesse sichtbar zu machen, die dazu führen, dass Räume als *weiss* wahrgenommen oder definiert werden, und um aufzuzeigen, wie sich solche Räume auf BIPoC[[134]](#footnote-135) auswirken.  
 
 Soziale Räume sind grundsätzlich nie neutral und weisen immer auch ausschliessende Eigenschaften auf.[[135]](#footnote-136) Sind Museen geweisste Räume, schliessen sie im Prozess des ‹Weissmachens› systematisch Menschen, Normen, Praktiken usw. aus, die nicht mit Weiss-Sein korrelieren.  
 
 Dieser Ausschluss kann explizit sein, ist aber oft implizit. Beispiele dafür, wie geweisste Räume Ausschlüsse erzeugen können, sind wirtschaftliche Barrieren wie teure Eintrittsgebühren, Barrieren für die Zugänglichkeit wie schlechter oder kein Nahverkehr, sprachliche Barrieren wie eine elitäre Sprache, fehlende Übersetzungen oder die Verwendung von Begriffen, die [BIPoC](#_BIPoC) beleidigen. Auch Mikroaggressionen und Makroaggressionen oder Unsichtbarmachungen, beispielsweise durch das Negieren der Individualität einer [BIPoC](#_BIPoC) zugunsten einer repräsentierenden Rolle für eine gesamte Ethnie, ein Land, einen Kontinent oder eine rassifizierte Gruppe, kommen vor. «Racial Profiling» (deutsch *rassistische Profilerstellung*) durch Polizei, Sicherheitspersonal oder durch andere Personen sowie die Art der (Innen-)Dekoration wie Darstellungen oder Artefakte von Kolonisator:innen wirken ausschliessend.  
 
-Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden, sondern auch durch das Definieren einer hauptsächlich [*weissen*](#_Schwarz/weiss)Zielgruppe. An ihr orientieren sich die Ausstellungskultur, das Bildungs- und Vermittlungsangebot, die Dokumentationspraxis, der Umgang mit Sammlungen, die Inhalte und die Sprachen sowie die von der Institution gelebte Kultur.  
+Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden, sondern auch durch das Definieren einer hauptsächlich *weissen* Zielgruppe. An ihr orientieren sich die Ausstellungskultur, das Bildungs- und Vermittlungsangebot, die Dokumentationspraxis, der Umgang mit Sammlungen, die Inhalte und die Sprachen sowie die von der Institution gelebte Kultur.  
 
 
 ![alt:alt text, extra:](/images/image015.jpg)  
@@ -1230,7 +1222,7 @@ Ein zweites wichtiges Projekt war die Ausstellung «Koloniale Spuren – Sammlun
 Ein drittes Projekt umfasst die Denkmäler der ETH Zürich. Über 100 Gedenkobjekte auf dem gesamten Campus wurden auf ihre historischen Kontexte hin untersucht. Eine 2022 in Auftrag gegebene Studie zeigte, dass rund zwei Drittel der geehrten Persönlichkeiten koloniale, rassistische oder sexistische Positionen vertraten oder von kolonialen Strukturen profitierten. Diese Ergebnisse führten zur Entwicklung der «ETH Decol Initiative», die bis 2029 sowohl neue Forschungsprojekte zur Geschichte der Institution als auch Massnahmen zur kritischen Kontextualisierung von Denkmälern vorsieht. Erste Schritte beinhalten erläuternde Informationstafeln vor Ort sowie einen digitalen Rundgang[[171]](#footnote-172), der vertiefende Informationen zu den gewürdigten Personen bietet. Langfristig sollen künstlerische Interventionen neue Perspektiven auf die Erinnerungskultur eröffnen.  
 
 
-![alt:alt text, extra:Abbildung 21: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich © ETH](/images/image028.jpg)  
+![alt:alt text, extra:Abbildung 21: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich](/images/image028.jpg)  
 
 ## Fotostiftung Schweiz  
 
@@ -1401,9 +1393,9 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 
 [[start:metadata]]
 
-Metadaten des unbereinigten Datensatzes:  
-
 [[start:before]]
+
+Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer:** H/57166  
 **Titel:** Sparkasse, grössere männliche Negerbüste  
@@ -1411,9 +1403,9 @@ Metadaten des unbereinigten Datensatzes:
 
 [[end:before]]
 
-Metadaten des bereinigten Datensatzes  
-
 [[start:after]]
+
+Metadaten des bereinigten Datensatzes  
 
 **Inventarnummer:** H/57166  
 **Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes  
@@ -1452,8 +1444,8 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 Metadaten des unbereinigten Datensatzes:  
 
 [[start:metadata]]
-Metadaten des unbereinigten Datensatzes:  
 [[start:before]]
+Metadaten des unbereinigten Datensatzes:  
 Inventarnummer: LM-99968  
 Bezeichnung: Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
 Klassifikation: Stickvorlage  
@@ -1462,8 +1454,8 @@ Inschrift (Titel): «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten»,
 Schlagworte: -  
 Herstellung:  
 [[end:before]]
-Metadaten des bereinigten Datensatzes  
 [[start:after]]
+Metadaten des bereinigten Datensatzes  
 Inventarnummer: LM-99968  
 Bezeichnung: Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
 **Klassifikation:** Stickvorlage  
@@ -1566,37 +1558,38 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:  
+**Inventarnummer:** LM-140862  
+**Bezeichnung:** Flandor. Dessert-Crème-Pudding  
+**Klassifikation:** Plakat  
+**Datierung:** 1900-1910  
+**Inschrift: -**  
+**Schlagworte:** «Werbegrafik»  
+**Herstellung:**  
 
-Inventarnummer: LM-140862  
+[[end:before]]
 
-Bezeichnung: Flandor. Dessert-Crème-Pudding  
+[[start:after]]
 
-Klassifikation: Plakat  
+Metadaten des bereinigten Datensatzes  
 
-Datierung: 1900-1910  
+**Inventarnummer:** LM-140862  
+**Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
+**Klassifikation:** Plakat  
+**Datierung:** 1900-1910  
+**Inschrift:** «Flandor. Dessert-Crème-Pudding»  
+**Schlagworte:** «Werbegrafik», «Schwarze Person», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)»  
+**Inhaltshinweis:** «Stereotyp», «Warenrassismus», «Rassismus»  
 
-Inschrift: -  
+[[end:after]]
 
-Schlagworte: «Werbegrafik»  
+[[end:metadata]]
 
-Metadaten des überarbeiteten Datensatzes:  
-
-Inventarnummer: LM-140862  
-
-Bezeichnung: **Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
-
-Klassifikation: Plakat  
-
-Datierung: 1900-1910  
-
-Inschrift: «Flandor. Dessert-Crème-Pudding»  
-
-Schlagworte: «Werbegrafik», «Schwarze Person», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)»  
-
-Inhaltshinweis: «Stereotyp», «Warenrassismus», «Rassismus»  
-
-Kontext  
+**Kontext**  
 
 Ab dem Jahr 2010 sammelt das Schweizerische Nationalmuseum in Zusammenarbeit mit der «Swiss Graphic Design Foundation» Arbeiten aus den Lebenswerken von bedeutenden Schweizer Gestaltenden. Das Konvolut mit Arbeiten von Donald Brun gehört dabei zu den früheren Konvoluten, es wird 2012 in die Sammlung aufgenommen. Das Plakat wurde von der Druckerei Wassermann in Basel produziert. Der Gestalter Donald Brun war ebenfalls in Basel tätig. Daher ist es naheliegend, davon auszugehen, dass Flandor das Produkt eines Herstellers aus dem Raum Basel war. Der Stil von Donald Brun wird der sogenannten «Basler Schule» zugeordnet. Typische Merkmale der Arbeiten Bruns sind die «Sachplakat-Tradition», der illustrative Witz und die kräftige Farbgebung, die er meist als Lithografien umsetzt. Unter Sachplakat-Tradition wird die prägnante Bewerbung eines Produkts oder einer Dienstleistung verstanden. Damit verbunden ist eine klare Bildsprache, mit dem beworbenen Produkt/der beworbenen Dienstleistung im Mittelpunkt. Ziel ist es oftmals, die Werbebotschaft humorvoll zu vermitteln und die Betrachtenden zum Schmunzeln zu bringen. Man kann davon ausgehen, dass Brun als «Kind seiner Zeit» einen anderen Humor in Bezug auf die Darstellung und Wahrnehmung Schwarzer Menschen hatte. Im heutigen Kontext fällt auf, dass hier mit der Assoziation eines Schwarzen Dienenden (in Anlehnung an höfische Sklav:innen) und anderen solchen Darstellungen, die in der Werbung und Kunst verwendet wurden, gespielt wird. Das Plakat reiht sich damit wie die Reihe von Werbungen, die unter dem Begriff des «Warenrassismus» (*commodity racism*), entwickelt von Anne McClintock[[188]](#footnote-189), subsummiert werden können. Dabei zeigt sich, wie die kapitalistische Konsumkultur die Verbreitung kolonialer Vorstellungen, Konzepte und Bilder befördert. Besonders auffällig ist auch die verzerrte Grössenrelation Pudding/Mensch. Der Mensch erscheint im Verhältnis zum goldenen/weissen Pudding kindlich, verkleinert und marginal. Dies ist möglicherweise aber auch im Zusammenhang mit der Tradition des Sachplakates zu sehen, welches das beworbene Produkt oftmals unnatürlich vergrössert darstellt. Auch die kindliche Darstellung von erwachsenen Personen ist bei Brun generell weit verbreitet und wird oftmals eingesetzt. Grundsätzlich reiht sich diese Abbildung in eine Darstellungstradition ein, die weit verbreitet war und mit der Abwertung, Verkindlichung (teilweise auch Exotisierung) von Schwarzen Menschen in Verbindung steht.  
 
@@ -1621,17 +1614,29 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image037.jpg)  
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:  
 
-Inventarnummer: 44618.01  
+**Inventarnummer:** 44618.01  
 
-Objekttitel: «Clownpuppe mit Zylinder; zu Humpty Dumpty-Zirkus»  
+**Objekttitel:** «Clownpuppe mit Zylinder; zu Humpty Dumpty-Zirkus»  
 
-Datierung: um 1910  
+**Datierung:** um 1910  
 
-Metadaten des überarbeiteten Datensatzes:  
+[[end:before]]
 
-Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.  
+[[start:after]]
+
+Metadaten des bereinigten Datensatzes  
+
+**Notiz:** Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.  
+
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**  
 
@@ -2326,21 +2331,13 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 # Impressum  
 
 Mitwirkende Institutionen:  
-
 [Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
-
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
-
 [Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
-
 [Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
-
 [Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
-
 [Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
-
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Céline Hug und Dario Donati  
-
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
 
 Kontakt: mailto:info@criticalGLAM.ch  
@@ -2355,19 +2352,19 @@ Fotos:
 Siehe Copyright-Angaben  
 
 Design und Entwicklung  
-
 [Astrom / Zimmer & Tereszkiewicz](https://azt.ch/)  
 
 Lektorat:  
 [Fachübersetzungsdienst GmbH | Übersetzungsbüro | FÜD](https://www.fachuebersetzungsdienst.com/)  
 
 Dank  
-
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
 Denise Tonella  
 Heidi Amrein  
 Michael Gasser  
+Juri Jaquement  
+Johannes Sauter  
 Heidi Brunner  
 Mariama de Brito Henn  
 Erika Hebeisen  
@@ -2381,5 +2378,7 @@ Laura Walde
 Balthasar Zimmermann  
 Christine Müller Stalder  
 Sabina Horber  
+
+Die Geschäftsleitungen der beteiligten Institutionen.  
 
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)  

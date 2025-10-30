@@ -110,9 +110,9 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 
 [[start:metadata]]
 
-Metadaten des unbereinigten Datensatzes:  
-
 [[start:before]]
+
+Metadaten des unbereinigten Datensatzes:  
 
 **Inventarnummer:** H/57166  
 **Titel:** Sparkasse, grössere männliche Negerbüste  
@@ -120,9 +120,9 @@ Metadaten des unbereinigten Datensatzes:
 
 [[end:before]]
 
-Metadaten des bereinigten Datensatzes  
-
 [[start:after]]
+
+Metadaten des bereinigten Datensatzes  
 
 **Inventarnummer:** H/57166  
 **Titel:** Sparbüchse in Form einer Karikatur eines Schwarzen Mannes  
@@ -161,8 +161,8 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 Metadaten des unbereinigten Datensatzes:  
 
 [[start:metadata]]
-Metadaten des unbereinigten Datensatzes:  
 [[start:before]]
+Metadaten des unbereinigten Datensatzes:  
 Inventarnummer: LM-99968  
 Bezeichnung: Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
 Klassifikation: Stickvorlage  
@@ -171,8 +171,8 @@ Inschrift (Titel): «NEGER-STICK-BUCH», Inschrift: «Alle Rechte vorbehalten»,
 Schlagworte: -  
 Herstellung:  
 [[end:before]]
-Metadaten des bereinigten Datensatzes  
 [[start:after]]
+Metadaten des bereinigten Datensatzes  
 Inventarnummer: LM-99968  
 Bezeichnung: Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
 **Klassifikation:** Stickvorlage  
@@ -275,37 +275,38 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:  
+**Inventarnummer:** LM-140862  
+**Bezeichnung:** Flandor. Dessert-Crème-Pudding  
+**Klassifikation:** Plakat  
+**Datierung:** 1900-1910  
+**Inschrift: -**  
+**Schlagworte:** «Werbegrafik»  
+**Herstellung:**  
 
-Inventarnummer: LM-140862  
+[[end:before]]
 
-Bezeichnung: Flandor. Dessert-Crème-Pudding  
+[[start:after]]
 
-Klassifikation: Plakat  
+Metadaten des bereinigten Datensatzes  
 
-Datierung: 1900-1910  
+**Inventarnummer:** LM-140862  
+**Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
+**Klassifikation:** Plakat  
+**Datierung:** 1900-1910  
+**Inschrift:** «Flandor. Dessert-Crème-Pudding»  
+**Schlagworte:** «Werbegrafik», «Schwarze Person», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)»  
+**Inhaltshinweis:** «Stereotyp», «Warenrassismus», «Rassismus»  
 
-Inschrift: -  
+[[end:after]]
 
-Schlagworte: «Werbegrafik»  
+[[end:metadata]]
 
-Metadaten des überarbeiteten Datensatzes:  
-
-Inventarnummer: LM-140862  
-
-Bezeichnung: **Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
-
-Klassifikation: Plakat  
-
-Datierung: 1900-1910  
-
-Inschrift: «Flandor. Dessert-Crème-Pudding»  
-
-Schlagworte: «Werbegrafik», «Schwarze Person», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)»  
-
-Inhaltshinweis: «Stereotyp», «Warenrassismus», «Rassismus»  
-
-Kontext  
+**Kontext**  
 
 Ab dem Jahr 2010 sammelt das Schweizerische Nationalmuseum in Zusammenarbeit mit der «Swiss Graphic Design Foundation» Arbeiten aus den Lebenswerken von bedeutenden Schweizer Gestaltenden. Das Konvolut mit Arbeiten von Donald Brun gehört dabei zu den früheren Konvoluten, es wird 2012 in die Sammlung aufgenommen. Das Plakat wurde von der Druckerei Wassermann in Basel produziert. Der Gestalter Donald Brun war ebenfalls in Basel tätig. Daher ist es naheliegend, davon auszugehen, dass Flandor das Produkt eines Herstellers aus dem Raum Basel war. Der Stil von Donald Brun wird der sogenannten «Basler Schule» zugeordnet. Typische Merkmale der Arbeiten Bruns sind die «Sachplakat-Tradition», der illustrative Witz und die kräftige Farbgebung, die er meist als Lithografien umsetzt. Unter Sachplakat-Tradition wird die prägnante Bewerbung eines Produkts oder einer Dienstleistung verstanden. Damit verbunden ist eine klare Bildsprache, mit dem beworbenen Produkt/der beworbenen Dienstleistung im Mittelpunkt. Ziel ist es oftmals, die Werbebotschaft humorvoll zu vermitteln und die Betrachtenden zum Schmunzeln zu bringen. Man kann davon ausgehen, dass Brun als «Kind seiner Zeit» einen anderen Humor in Bezug auf die Darstellung und Wahrnehmung Schwarzer Menschen hatte. Im heutigen Kontext fällt auf, dass hier mit der Assoziation eines Schwarzen Dienenden (in Anlehnung an höfische Sklav:innen) und anderen solchen Darstellungen, die in der Werbung und Kunst verwendet wurden, gespielt wird. Das Plakat reiht sich damit wie die Reihe von Werbungen, die unter dem Begriff des «Warenrassismus» (*commodity racism*), entwickelt von Anne McClintock[[188]](#footnote-189), subsummiert werden können. Dabei zeigt sich, wie die kapitalistische Konsumkultur die Verbreitung kolonialer Vorstellungen, Konzepte und Bilder befördert. Besonders auffällig ist auch die verzerrte Grössenrelation Pudding/Mensch. Der Mensch erscheint im Verhältnis zum goldenen/weissen Pudding kindlich, verkleinert und marginal. Dies ist möglicherweise aber auch im Zusammenhang mit der Tradition des Sachplakates zu sehen, welches das beworbene Produkt oftmals unnatürlich vergrössert darstellt. Auch die kindliche Darstellung von erwachsenen Personen ist bei Brun generell weit verbreitet und wird oftmals eingesetzt. Grundsätzlich reiht sich diese Abbildung in eine Darstellungstradition ein, die weit verbreitet war und mit der Abwertung, Verkindlichung (teilweise auch Exotisierung) von Schwarzen Menschen in Verbindung steht.  
 
@@ -330,17 +331,29 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ![alt:alt text, extra:![](data:image/png;base64...) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image037.jpg)  
 
+[[start:metadata]]
+
+[[start:before]]
+
 Metadaten des unbereinigten Datensatzes:  
 
-Inventarnummer: 44618.01  
+**Inventarnummer:** 44618.01  
 
-Objekttitel: «Clownpuppe mit Zylinder; zu Humpty Dumpty-Zirkus»  
+**Objekttitel:** «Clownpuppe mit Zylinder; zu Humpty Dumpty-Zirkus»  
 
-Datierung: um 1910  
+**Datierung:** um 1910  
 
-Metadaten des überarbeiteten Datensatzes:  
+[[end:before]]
 
-Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.  
+[[start:after]]
+
+Metadaten des bereinigten Datensatzes  
+
+**Notiz:** Die Metadaten erfordern keine Überarbeitung, da sich die problematische Darstellung des Clowns darin nicht niederschlägt.  
+
+[[end:after]]
+
+[[end:metadata]]
 
 **Kontext**  
 
