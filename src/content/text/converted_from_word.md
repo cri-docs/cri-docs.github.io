@@ -931,7 +931,7 @@ Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. Mär
 
 Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinzugefügt, z. B.: «[Problematischer Titel]\*». Ergänzend kann eine Stellungnahme oder ein Verweis auf ein Glossar erfolgen.
 
-**Beispiele**: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[147]](#footnote-148) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[148]](#footnote-149) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[149]](#footnote-150)
+Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[147]](#footnote-148) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[148]](#footnote-149) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[149]](#footnote-150)
 
 **Vor- und Nachteile**:
 
@@ -974,7 +974,7 @@ Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingefügt oder Abbildungen werden unscharf dargestellt oder weggelassen.
 
-**Beispiele**: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[150]](#footnote-151) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[151]](#footnote-152)
+Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[150]](#footnote-151) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[151]](#footnote-152)
 
 **Vor- und Nachteile**:
 
@@ -1022,7 +1022,7 @@ Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezeichnungen ersetzt.
 
-**Beispiele**: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](#footnote-153) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[153]](#footnote-154) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[154]](#footnote-155)
+Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](#footnote-153) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[153]](#footnote-154) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[154]](#footnote-155)
 
 **Vor- und Nachteile**:
 
@@ -1066,7 +1066,7 @@ Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Anklicken erscheinen der Originaltitel, eine Warnung und eine Begriffserklärung.
 
-**Beispiele**: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[156]](#footnote-157)
+Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[156]](#footnote-157)
 
 **Vor- und Nachteile**:
 
@@ -1116,7 +1116,7 @@ Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der Startseite oder in der Objektansicht eingefügt.
 
-**Beispiele**: [Museum of Archaeology and Anthropology, Cambridge](https://collections.maa.cam.ac.uk/)[[157]](#footnote-158) | [Getty, Los Angeles, CA](https://www.getty.edu/art/collection/object/108GHT)[[158]](#footnote-159) | [PARC (Portal for African Research Collections), Basel](https://www.parc-portal.org/en/simple/ethical-guidelines)[[159]](#footnote-160) | [Black Cultural Archives, London](https://www.calmview.eu/BCA/CalmView/default.aspx)[[160]](#footnote-161) | [MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg](https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf)[[161]](#footnote-162) | [Schweizerisches Nationalmuseum, Zürich](https://sammlung.nationalmuseum.ch/)[[162]](#footnote-163) | [Museum Fünf Kontinente, München](https://onlinedatenbank-museum-fuenf-kontinente.de/)[[163]](#footnote-164)
+Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collections.maa.cam.ac.uk/)[[157]](#footnote-158) | [Getty, Los Angeles, CA](https://www.getty.edu/art/collection/object/108GHT)[[158]](#footnote-159) | [PARC (Portal for African Research Collections), Basel](https://www.parc-portal.org/en/simple/ethical-guidelines)[[159]](#footnote-160) | [Black Cultural Archives, London](https://www.calmview.eu/BCA/CalmView/default.aspx)[[160]](#footnote-161) | [MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg](https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf)[[161]](#footnote-162) | [Schweizerisches Nationalmuseum, Zürich](https://sammlung.nationalmuseum.ch/)[[162]](#footnote-163) | [Museum Fünf Kontinente, München](https://onlinedatenbank-museum-fuenf-kontinente.de/)[[163]](#footnote-164)
 
 **Vor- und Nachteile**:
 
@@ -2552,7 +2552,7 @@ Version 1.0, November 2025
 
      Insgesamt wurden 103 Institutionen in die Analyse einbezogen. Von diesen waren 84 über eine Online-Sammlung zugänglich. 73 enthielten problematische Metadaten. 15 wiesen eine Strategie auf (z. B. allgemeine Inhaltswarnung, individuelle Inhaltswarnung, Titel neu formuliert, Metadaten als diskriminierend markiert). [↑](#footnote-ref-147)
 147. Salzburg Museum, <<https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b>>, Stand: 08.07.2025. [↑](#footnote-ref-148)
-148. Salzburg Museum, <<https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar>>, Stand: 08.07.2025. [↑](#footnote-ref-149)
+148. Salzburg Museum, <<https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b>>, Stand: 08.07.2025. [↑](#footnote-ref-149)
 149. Museum Ludwig, <<https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464>>, Stand: 08.07.2025. [↑](#footnote-ref-150)
 150. Staatliche Kunstsammlung Dresden, <<https://skd-online-collection.skd.museum/Details/Index/351932>>, Stand: 08.07.2025. [↑](#footnote-ref-151)
 151. ETH Bibliothek, Zürich, <<http://doi.org/10.3932/ethz-a-000024423>>, Stand: 08.07.2025. [↑](#footnote-ref-152)
