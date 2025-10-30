@@ -7,7 +7,8 @@ export function createMarkedRenderer(pageInfo) {
     image({ href, title, text, ...attrs }) {
       let _text = text.replaceAll("alt:", "")
       let [altText, extraText] = _text.split(", extra:")
-      extraText = extraText ? extraText.split(/Abbildung\s*\d+:\s*/i)[1] || "" : ""
+      console.log("Image altText and extraText:", altText, extraText)
+      extraText = extraText ? extraText.split(/Abbildung\s*\d*:\s*/i)[1] || extraText || "" : ""
       return `<figure>
                 <img src="${href}" alt="${altText}"/>
                 ${extraText ? `<figcaption>${extraText}</figcaption>` : ""}

@@ -3,7 +3,10 @@
   import { page } from "$app/stores"
 
   import footnotesData from "|/content/text/footnotes.json"
-  import { currentFootnote } from "$lib/state.svelte.js"
+  import {
+    currentFootnote,
+    currentFootnoteIsSetFixed,
+  } from "$lib/state.svelte.js"
 
   import styles from "./main.module.styl"
   import { marked } from "marked"
@@ -21,6 +24,7 @@
   $effect(() => {
     if (Math.abs(y - scrollAtFootnote) > 200) {
       currentFootnote.set(null)
+      currentFootnoteIsSetFixed.set(false)
       scrollAtFootnote = null
     }
   })
@@ -28,7 +32,12 @@
 
 <svelte:window bind:scrollY={y} />
 
-<div class={styles.container}>
+<div
+  class={[
+    styles.container,
+    $currentFootnoteIsSetFixed && styles.currentFootnoteIsSetFixed,
+  ].join(" ")}
+>
   {#if footnotesData[$currentFootnote]}
     <div class={styles.footnote}>
       <p>
