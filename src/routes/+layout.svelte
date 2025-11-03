@@ -89,7 +89,9 @@
     <Header />
     <Navigation {sites} />
   {/if}
-  <BiPrinter class={styles.print} onclick={printPDF} />
+  <button class={styles.print} onclick={printPDF}>
+    <BiPrinter />
+  </button>
   <main>
     <img
       src="/images/landing.jpg"

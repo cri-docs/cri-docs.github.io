@@ -13,7 +13,8 @@
   align-items flex-start
   overflow hidden
   @media _mobile
-    flex-direction column
+    flex-direction column-reverse
+    justify-content flex-end
     width 100vw
     height 100dvh
     overflow-y scroll
@@ -34,20 +35,27 @@
     cursor pointer
     transition left 0.5s
     @media _mobile
+      display flex
+      justify-content center
+      align-items center
       top 1rem
       left calc(100vw - 1rem)
-      padding 0.9rem
-      padding-bottom 1rem
+      padding 0.5rem
       transform translate(-100%, 0%)
-    &.svg
-      padding-top 2px
+      background-color var(--color)
+      border-radius 50%
+      svg
+        display flex
+        justify-content center
+        align-items center
     &.isCollapsed
-      left calc(-2 * var(--buttons-width))
       left calc(var(--buttons-width) / 2)
+      @media _mobile
+        transform rotate(180deg) translate(100%, 0%)
+        left var(--buttons-width)
     &.isCollapsedFully
       @media _mobile
         left var(--buttons-width)
-      // left calc(var(--header-width-full) + 1rem)
   .welcomeText
     width var(--header-width-full)
     height var(--header-height-full)

@@ -76,18 +76,14 @@
 </script>
 
 <div class={[styles.container, !$menuIsOpen ? styles.isClosed : ""].join(" ")}>
-  {#if $headerIsOpen}
-    <BiChevronDoubleLeft
-      class={[styles.toggle, styles.open].join(" ")}
-      onclick={toggle}
-    />
-  {:else}
-    <BiChevronLeft
-      class={[styles.toggle, styles.close].join(" ")}
-      onclick={toggle}
-    />
-  {/if}
-  <div class={styles.buttons}>
+  <button class={[styles.toggle, styles.open].join(" ")} onclick={toggle}>
+    {#if $headerIsOpen}
+      <BiChevronDoubleLeft />
+    {:else}
+      <BiChevronLeft />
+    {/if}
+  </button>
+  <nav class={styles.buttons}>
     {#if $isMobile}
       <button
         class:active={activeSubPage === "welcome"}
@@ -106,7 +102,7 @@
       class:active={activeSubPage === "about"}
       onclick={() => setSubPage("about")}>Über uns</button
     >
-  </div>
+  </nav>
   {#if activeSubPage === "disclaimer"}
     <div class={[styles.disclaimer, styles.otherSubContainer].join(" ")}>
       {@html marked.parse(disclaimerData?.infobox)}

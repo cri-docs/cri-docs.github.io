@@ -109,7 +109,7 @@
         class:disabled={!nextPost}
         disabled={!nextPost ? "true" : "false"}
       >
-        Nächstes Kapitel <BiChevronRight />
+        Nächstes Kapitel<BiChevronRight />
       </a>
     </div>
   {/if}

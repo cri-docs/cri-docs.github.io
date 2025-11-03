@@ -13,8 +13,6 @@
 
   import { DotLottie } from "@lottiefiles/dotlottie-web"
   import { useResize } from "$lib/useResize"
-  import BiChevronDoubleLeft from "$lib/icones/BiChevronDoubleLeft.svelte"
-  import BiChevronLeft from "$lib/icones/BiChevronLeft.svelte"
   import BiChevronDoubleRight from "$lib/icones/BiChevronDoubleRight.svelte"
   import BiChevronRight from "$lib/icones/BiChevronRight.svelte"
 
@@ -126,7 +124,7 @@
   ].join(" ")}
 >
   {#if !isFullyCollapsed}
-    <BiChevronRight
+    <button
       class={[
         styles.icon,
         styles.svg,
@@ -134,9 +132,11 @@
         !$headerIsOpen ? styles.isCollapsed : "",
       ].join(" ")}
       onclick={handleClick}
-    />
+    >
+      <BiChevronRight />
+    </button>
   {:else}
-    <BiChevronDoubleRight
+    <button
       class={[
         styles.icon,
         styles.svg,
@@ -144,45 +144,21 @@
         !$headerIsOpen ? styles.isCollapsed : "",
       ].join(" ")}
       onclick={handleClick}
-    />
+    >
+      <BiChevronDoubleRight />
+    </button>
   {/if}
-  <!-- {#if !$isMobile}
-    <img
-      src="/icon.svg"
-      class={[
-        styles.icon,
-        styles.svg,
-        isFullyCollapsed ? styles.isCollapsedFully : "",
-      ].join(" ")}
-      alt="logo for Sammlungsdokumentation im Fokus"
-      onclick={handleClick}
-    />
-  {:else}
-    <canvas
-      id="dotlottie-canvas"
-      class={[
-        styles.icon,
-        isFullyCollapsed ? styles.isCollapsedFully : "",
-      ].join(" ")}
-      onclick={handleClick}
-    ></canvas>
-  {/if} -->
   {#if !$isMobile || activeSubPage == "welcome"}
     <div class={styles.welcomeText}>
       <a href="/">
         <h1 class={styles.title}>
           {infoData?.title}
-          <!-- Sammlungs- <br /> dokumentation <br /> im Fokus -->
         </h1>
       </a>
       <h2>
         {infoData?.subtitle}
-        <!-- Ein rassismuskritisches Handbuch für die Praxis mit besonderem Fokus auf
-        den Anti-Schwarzen-Rassismus -->
       </h2>
     </div>
   {/if}
-  <div class={styles.infoContainer}>
-    <Menu {sites} {setSubPage} {activeSubPage} />
-  </div>
+  <Menu {sites} {setSubPage} {activeSubPage} />
 </header>

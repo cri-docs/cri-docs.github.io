@@ -19,7 +19,7 @@
     --text-width calc(var(--text-container-width) - 3 * var(--padding))
     max-width 900px
     padding var(--padding)
-    padding-left 3rem
+    padding-left 5rem
     margin 0
   @media print
     --w calc(var(--text-container-width) + 2 * var(--padding))
@@ -92,6 +92,8 @@
     // font-weight 900
     max-width 70%
     break-before page
+    @media _mobile
+      max-width 95%
     @media print
       font-size calc(var(--title-font-size) * 0.8)
       max-width 100%

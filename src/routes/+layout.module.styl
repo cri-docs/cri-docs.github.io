@@ -34,22 +34,25 @@
   .background
     @media print
       display none
-  .print
+  .print svg
     --border-width: 1px;
-    position: fixed;
-    bottom: calc(var(--padding) + 4rem);
-    right: var(--padding);
-    z-index: 15;
-    height: calc(5rem + var(--border-width));
-    width: calc(5rem + var(--border-width));
-    padding: 1rem;
-    border-radius: 100%;
-    cursor: pointer;
-    transition: left 0.5s;
+    position fixed
+    bottom calc(var(--padding) + 4rem)
+    right var(--padding)
+    z-index 15
+    height calc(5rem + var(--border-width))
+    width calc(5rem + var(--border-width))
+    padding 1rem
+    border-radius 100%
+    cursor pointer
+    transition left 0.5s
     @media _mobile
-      top calc(100dvh - 5rem - var(--border-width) - 1rem);
-      right 1rem
+      bottom calc(var(--padding) + 5rem)
+      height 3.5rem
+      width 3.5rem
       transform translate(0%, 0%)
+      background-color var(--color)
+      color white
     @media print
       display none
 
