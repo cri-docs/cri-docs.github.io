@@ -6,6 +6,8 @@
   import { markdown } from "$lib/markdownRenderer"
   import styles from "|/routes/[slug]/page.module.styl"
   import printStyles from "./main.module.styl"
+  import infoData from "|/content/text/info.json"
+
   const { data } = $props()
 
   const componentRegistry = {
@@ -40,6 +42,20 @@
 </script>
 
 <div class={[styles.container, printStyles.container].join(" ")}>
+  <div class={printStyles.header}>
+    <h1 class={printStyles.title}>
+      {infoData.title}
+      <br />
+      <br />
+      {infoData.subtitle}
+    </h1>
+    <figure>
+      <img src="/images/landing.jpg" alt={infoData.imageAlt} />
+      <figcaption class={styles.caption}>
+        {infoData.captionLanding}
+      </figcaption>
+    </figure>
+  </div>
   {#if mark}
     {@html mark}
   {/if}

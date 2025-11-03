@@ -1,15 +1,26 @@
 .container
-  :global(.heading)
+  color black
+  :global(.toc)
+  :global(.header)
+    display none
+  .header
     break-after page
     font-size 5rem
-    h1
+    .title
+      margin-top 0
       margin-bottom 0.5rem
+      text-align: left;
+      font-size: var(--title-font-size);
+      line-height: 1.05;
+      font-family: var(--font-header);
+      break-after initial
+      margin-bottom 1lh
+      width 450px
     figure
       justify-content flex-start
       height calc(90vh - 5lh)
       max-height unset
       padding 0
-      overflow hidden
       img
         height 100%
         width auto
