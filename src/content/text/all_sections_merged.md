@@ -5,6 +5,8 @@ order: 0
 index: -1  
 ---  
 
+[[start:heading]]
+
 [[start:title]]
 
 Rassismuskritische Dokumentation.  
@@ -22,6 +24,8 @@ Ein Handbuch für GLAM-Institutionen
 ![alt:alt text, extra:](/images/image000.jpg)  
 
 Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)  
+
+[[end:heading]]
 
 [[start:infobox]]
 
