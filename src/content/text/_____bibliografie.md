@@ -8,13 +8,11 @@ color: "default"
 toc:
 ---
 
-[[start:bib]]
-
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.  
 
 Apraku, Josephine: Mein Workbook zu Rassismus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023.  
 
-Aram, Mattioli: Verlorene Welten. Eine Geschichte der Indianer Nordamerikas 1700-1910, Stuttgart 2017.  
+Aram, Mattioli: Verlorene Welten. Eine Geschichte der Indianer Nordamerikas 1700–1910, Stuttgart 2017.  
 
 Arbeitsgruppe Dekolonialisierung, Sammlungen und Archive der ETH Zürich: Dekolonialisierung der Sammlungen und Archive der ETH Zürich. Ein Leitfaden aus der Praxis (E-Book), 2024. Online: <<https://doi.org/10.3929/ethz-b-000691291>/>, Stand: 25.04.2025.  
 
@@ -36,13 +34,13 @@ Bürgi, Jonas: Diversität in der Archiv- und Sammlungsarbeit. Ein langer Weg au
 
 Bystron, Daniela; [Fäser](https://www.transcript-verlag.de/author/faeser-anne-320029845/), Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
 
-Carlen, Louis: Der Schweizer Adel und die Kreuzzüge, in: Nachrichten des Schweizerischen Burgenvereins 38:6, Zürich 1965, S. 138-139.  
+Carlen, Louis: Der Schweizer Adel und die Kreuzzüge, in: Nachrichten des Schweizerischen Burgenvereins 38:6, Zürich 1965, S. 138–139.  
 
 Cockrell, Dale: Demons of Disorder: Early Blackface Minstrels and Their World, Cambridge, NY; New York, NY; Melbourne; Madrid; Kapstadt; Singapur 1997.  
 
-Darman, Ashkira; Schär, Bernhard: Zürcher «Mohren»-Fantasien. Eine bau- und begriffsgeschichtliche Auslegeordnung, ca. 1400-2022 (E-Book), Zürich 2023. Online: <<https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/publikationen/2023/zuercher-mohren-fantasien/zuercher-m-fantasien.pdf>/>, Stand: 07.05.2025.  
+Darman, Ashkira; Schär, Bernhard: Zürcher «Mohren»-Fantasien. Eine bau- und begriffsgeschichtliche Auslegeordnung, ca. 1400–2022 (E-Book), Zürich 2023. Online: <<https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/publikationen/2023/zuercher-mohren-fantasien/zuercher-m-fantasien.pdf>/>, Stand: 07.05.2025.  
 
-de Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018-22.04.2019], Stuttgart 2021.  
+de Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.  
 
 Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field (E-Book), Washington, DC 2020. Online: < <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>>.  
 
@@ -76,15 +74,15 @@ Fischer, Hartwig: A Message from Director Hartwig Fischer, British Museum London
 
 Florin, Moritz: Kommerz und Vielfalt: Diversität in Zirkusunternehmen in den USA, Europa und Russland, 1850–1914, in: Florin, Moritz; Gutsche, Victoria; Krentz, Natalie (Hg.): Diversität historisch. Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel, Bielefeld 2018, S. 121–141.  
 
-Gasser, Michael; Willi, Stephanie: Decolonising Collections. ETH Library’s Current Initiatives, in: Das offene Bibliotheksjournal, 11(4) (E-Book), 2024, S. 1-9. Online: <<https://www.o-bib.de/bib/article/view/6066>/>, Stand: 01.10.2025.  
+Gasser, Michael; Willi, Stephanie: Decolonising Collections. ETH Library’s Current Initiatives, in: Das offene Bibliotheksjournal, 11(4) (E-Book), 2024, S. 1–9. Online: <<https://www.o-bib.de/bib/article/view/6066>/>, Stand: 01.10.2025.  
 
 Glossar für eine rassismussensible Sprache, NoToRacism.ch, 2022, <<https://www.notoracism.ch/glossar>/>, Stand: 25.05.2025.  
 
-Gouaffo, Albert: Dekolonisierung, in: Göttsche, Dirk; Dunker, Axel; Dürbeck, Gabriele (Hg.): Handbuch Postkolonialismus und Literatur, Stuttgart 2017, S. 131-133.  
+Gouaffo, Albert: Dekolonisierung, in: Göttsche, Dirk; Dunker, Axel; Dürbeck, Gabriele (Hg.): Handbuch Postkolonialismus und Literatur, Stuttgart 2017, S. 131–133.  
 
 Historisches Lexikon der Schweiz (Hg.): Koloniale Verflechtungen der Schweiz, Historisches Lexikon der Schweiz, 15.04.2025, <<https://hls-dhs-dss.ch/de/dossiers/000033/2025-04-15/>>, Stand 22.04.2025.  
 
-Hug, Céline Florence: Traitement des continuités coloniales dans un outil de travail muséologique, in: Petrella, Sara; Steity, Mylène (Hg.): Histoire coloniale et voix autochtones, Genf; Zürich 2025, S. 68-77.  
+Hug, Céline Florence: Traitement des continuités coloniales dans un outil de travail muséologique, in: Petrella, Sara; Steity, Mylène (Hg.): Histoire coloniale et voix autochtones, Genf; Zürich 2025, S. 68–77.  
 
 Hund, Wulf D.: Rassismus, Bielefeld 2007.  
 
@@ -126,7 +124,7 @@ National Museum of World Cultures (Hg.): Words Matter. An Unfinished Guide to Wo
 
 Nationaler Diskriminierungs- und Rassismusmonitor (Hg.): Rassismusforschung I. Theoretische und interdisziplinäre Perspektiven, Bielefeld 2023.  
 
-o. A.: Benin verpflichtet. Wie mit geraubten Königsschätzen umgehen? [Ausstellung Völkerkunde Museum der Universität Zürich, 24.08.2024-14.09.2025], <<https://www.musethno.uzh.ch/de/ausstellungen/benin-verpflichtet.html>/>, Stand 16.05.2025.  
+o. A.: Benin verpflichtet. Wie mit geraubten Königsschätzen umgehen? [Ausstellung Völkerkunde Museum der Universität Zürich, 24.08.2024–14.09.2025], <<https://www.musethno.uzh.ch/de/ausstellungen/benin-verpflichtet.html>/>, Stand 16.05.2025.  
 
 o. A.: Bust of Maria Cerri Capranica, Getty Center, Los Angeles, CA, <<https://www.getty.edu/art/collection/object/108GHT/>>, Stand: 08.07.2025.  
 
@@ -138,9 +136,9 @@ o. A.: Glossar «Blackfacing», GRA Stiftung gegen Rassismus und Antisemitismus,
 
 o. A.: Glossar «Neger», GRA Stiftung gegen Rassismus und Antisemitismus, <<https://www.gra.ch/bildung/glossar/neger>/>, Stand: 26.02.2025.  
 
-o. A.: Im Dialog mit Benin. Kunst, Kolonialismus und Restitution [Ausstellung Museum Rietberg, 23.08.2024-16.02.2025], <<https://rietberg.ch/ausstellungen/imdialogmitbenin>/>, Stand 16.05.2025.  
+o. A.: Im Dialog mit Benin. Kunst, Kolonialismus und Restitution [Ausstellung Museum Rietberg, 23.08.2024–16.02.2025], <<https://rietberg.ch/ausstellungen/imdialogmitbenin>/>, Stand 16.05.2025.  
 
-o. A.: Koloniale Spuren – Sammlungen im Kontext [Ausstellung extract ETH Zürich, 30.08.2024-13.07.2025], <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>/>, Stand 31.07.2025.  
+o. A.: Koloniale Spuren – Sammlungen im Kontext [Ausstellung extract ETH Zürich, 30.08.2024–13.07.2025], <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>/>, Stand 31.07.2025.  
 
 o. A.: Kulturgüterstreit St. Gallen-Zürich. Erfolgreicher Abschluss der Vermittlung des Bundes, admin.ch, 27.04.2006, <<https://www.news.admin.ch/de/nsb?id=4853/>>, Stand 28.08.2025.  
 
@@ -168,7 +166,7 @@ Pfrunder, Peter (Hg.): 99 Fotografien, Zürich 2021.
 
 Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2013.  
 
-Pyke, Karen D.: What Is Internalized Racial Oppression and Why Don't We Study It? Acknowledging Racism's Hidden Injuries, in: Sociological Perspectives 53:4, London 2010, S. 551-572.  
+Pyke, Karen D.: What Is Internalized Racial Oppression and Why Don't We Study It? Acknowledging Racism's Hidden Injuries, in: Sociological Perspectives 53:4, London 2010, S. 551–572.  
 
 Rijksmuseum, Amsterdam, <<https://id.rijksmuseum.nl/200109696/>>, Stand: 08.07.2025.  
 
@@ -186,7 +184,7 @@ Schweizerische Eidgenossenschaft (Hg.): Glossar. Rassismus, Fachstelle für Rass
 
 Schweizerischer Arbeitskreis für Provenienzforschung, <[https://provenienzforschung.ch](https://provenienzforschung.ch/)/>, Stand: 26.05.2025.  
 
-Schweizerisches Nationalmuseum (Hg.): Kolonial. Globale Verflechtungen der Schweiz [Ausstellung Schweizerisches Nationalmuseum, 13.09.2024-19.01.2025], Zürich 2024.  
+Schweizerisches Nationalmuseum (Hg.): Kolonial. Globale Verflechtungen der Schweiz [Ausstellung Schweizerisches Nationalmuseum, 13.09.2024–19.01.2025], Zürich 2024.  
 
 Schweizerisches Nationalmuseum, Zürich, <<https://sammlung.nationalmuseum.ch/de/maincategory/>>, Stand: 08.07.2025.  
 
@@ -210,7 +208,6 @@ Virtueller Lesesaal, Diskriminierungsfreie Verzeichnis, Virtueller Lesesaal, ETH
 
 Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html/>>, Stand: 18.08.202.  
 
-Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera (Hg.): Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Göttingen 2018, S. 31-44.  
+Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera (Hg.): Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Göttingen 2018, S. 31–44.  
 
-Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, musethno.uzh.ch, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.  
-[[end:bib]]
+Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, musethno.uzh.ch, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.

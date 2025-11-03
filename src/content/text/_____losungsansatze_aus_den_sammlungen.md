@@ -7,34 +7,34 @@ index: 9
 color: "default"
 toc:
   - level: 2
-    title: "10.1 Der M*automat"
+    title: "10.1 M*automat"
   - level: 2
-    title: "10.2 Eine Sparkasse"
+    title: "10.2 Sparkasse"
   - level: 2
-    title: "10.3 Die Stickvorlage"
+    title: "10.3 Stickvorlage"
   - level: 2
-    title: "10.4 Der «Schwarze Peter»"
+    title: "10.4 «Schwarzer Peter»"
   - level: 2
-    title: "10.5 Die Pudding-Werbung"
+    title: "10.5 Pudding-Werbung"
   - level: 2
-    title: "10.6 Das Puppenspiel"
+    title: "10.6 Puppenspiel"
   - level: 2
-    title: "10.7 Die 12 kleinen N*lein"
+    title: "10.7 12 kleinen N*lein"
   - level: 2
-    title: "10.8 Die Portraitserie"
+    title: "10.8 Portraitserie"
   - level: 2
-    title: "10.9 Die elektrische Reklame für die Schuhcrème"
+    title: "10.9 Elektrische Reklame für eine Schuhcrème"
   - level: 2
-    title: "10.10 Die ‹exotisch›-erotischen Nippes"
+    title: "10.10 ‹Exotisch›-erotische Nippes"
   - level: 2
-    title: "10.11 Das Missionsn*li"
+    title: "10.11 Missionsn*li"
   - level: 2
-    title: "10.12 Eine Fotoreportage aus den USA"
+    title: "10.12 Fotoreportage aus den USA"
 ---
 
 Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen werden in den folgenden Abschnitten rassistische Begriffe und Bilder reproduziert.[[177]](#footnote-178) Die Beispiele aus den Institutionen bilden die Recherchen, teilweise auch Diskussionen und Prozesse ab, die zu den Entscheidungen bezüglich der Eingriffe in die Datensätze führten. Diese werden jeweils unter dem «Kontext» beschrieben.  
 
-## 10.1 Der M\*automat  
+## 10.1 M\*automat  
 
 
 ![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
@@ -91,7 +91,7 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 
 [[end:block]]
 
-## 10.2 Eine Sparkasse  
+## 10.2 Sparkasse  
 
 
 ![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image033.jpg)  
@@ -141,7 +141,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 [[end:block]]
 
-## 10.3 **Die Stickvorlage**  
+## 10.3 **Stickvorlage**  
 
 
 ![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
@@ -172,7 +172,7 @@ Inhaltshinweis: «Abwertende Sprache»
 
 **Kontext**  
 
-Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901-1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
+Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
 ![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image035.jpg)  
@@ -198,7 +198,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 [[end:block]]
 
-## 10.4 **Der «Schwarze Peter»**  
+## 10.4 **«Schwarzer Peter»**  
 
 
 ![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
@@ -212,7 +212,7 @@ Metadaten des unbereinigten Datensatzes:
 **Inventarnummer:** LM-43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
-**Datierung:** 1900-1910  
+**Datierung:** 1900–1910  
 **Inschrift: -**  
 [[end:before]]
 
@@ -223,7 +223,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Inventarnummer:** LM-43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
-**Datierung:** 1900-1910  
+**Datierung:** 1900–1910  
 **Inschrift:** «Der Schwarze Peter»  
 **Schlagworte: -**  
 **Inhaltshinweis:** «Rassismus» und «abwertende Sprache»  
@@ -256,7 +256,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 [[end:block]]
 
-## 10.5 **Die Pudding-Werbung**  
+## 10.5 **Pudding-Werbung**  
 
 
 ![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
@@ -270,7 +270,7 @@ Metadaten des unbereinigten Datensatzes:
 **Inventarnummer:** LM-140862  
 **Bezeichnung:** Flandor. Dessert-Crème-Pudding  
 **Klassifikation:** Plakat  
-**Datierung:** 1900-1910  
+**Datierung:** 1900–1910  
 **Inschrift: -**  
 **Schlagworte:** «Werbegrafik»  
 **Herstellung:**  
@@ -284,7 +284,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Inventarnummer:** LM-140862  
 **Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
 **Klassifikation:** Plakat  
-**Datierung:** 1900-1910  
+**Datierung:** 1900–1910  
 **Inschrift:** «Flandor. Dessert-Crème-Pudding»  
 **Schlagworte:** «Werbegrafik», «Schwarze Person», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)»  
 **Inhaltshinweis:** «Stereotyp», «Warenrassismus», «Rassismus»  
@@ -313,7 +313,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 [[end:block]]
 
-## 10.6 Das Puppenspiel  
+## 10.6 Puppenspiel  
 
 
 ![alt:alt text, extra:  
@@ -360,7 +360,7 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 
 [[end:block]]
 
-## 10.7 **Die 12 kleinen N\*lein**  
+## 10.7 **12 kleinen N\*lein**  
 
 
 ![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image039.jpg)  
@@ -410,7 +410,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 
 [[end:block]]
 
-## 10.8 **Die Portraitserie**  
+## 10.8 **Portraitserie**  
 
 
 ![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image040.jpg)  
@@ -453,7 +453,7 @@ Sensibler Titel[[196]](#footnote-197): Köpfe 30 – Trudi als Neger, 1933 (Quel
 
 **Kontext**  
 
-Der Autor Herbert Matter (1907-1984), ein Pionier im Bereich der Fotografik, hat sich für die Integration von Fotografie in Grafiken und Plakaten in den 1930er-Jahren eine Art Fotothek angelegt, auf die er in seinem fotografischen Schaffen zurückgriff. In seinem Archiv, das in der Fotostiftung Schweiz liegt, finden sich rund 4000 thematisch geordnete Aufnahmen, darunter mehrere mit dem Serientitel «Köpfe».[[197]](#footnote-198) Der hier abgebildete Bogen mit Kontakten stammt aus der benannten Kartei und zeigt das von Matter vielfach abgelichtete Model Trudi Hess. In seinem Nachlass finden wir sie nicht nur «als N\*», sondern – mit den Augen zu engen Schlitzen gezogen – auch «als Chinesin» (Inv. Nr. 1989.570).  
+Der Autor Herbert Matter (1907–1984), ein Pionier im Bereich der Fotografik, hat sich für die Integration von Fotografie in Grafiken und Plakaten in den 1930er-Jahren eine Art Fotothek angelegt, auf die er in seinem fotografischen Schaffen zurückgriff. In seinem Archiv, das in der Fotostiftung Schweiz liegt, finden sich rund 4000 thematisch geordnete Aufnahmen, darunter mehrere mit dem Serientitel «Köpfe».[[197]](#footnote-198) Der hier abgebildete Bogen mit Kontakten stammt aus der benannten Kartei und zeigt das von Matter vielfach abgelichtete Model Trudi Hess. In seinem Nachlass finden wir sie nicht nur «als N\*», sondern – mit den Augen zu engen Schlitzen gezogen – auch «als Chinesin» (Inv. Nr. 1989.570).  
 
 Auf bildinhaltlicher Ebene zeigen sich hier einige Mechanismen, die auf einen tiefsitzenden strukturellen Rassismus zur Entstehungszeit der Aufnahmen hinweisen.  
 
@@ -475,10 +475,10 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 
 [[end:block]]
 
-## 10.9 **Die elektrische Reklame für die Schuhcrème**  
+## 10.9 **Elektrische Reklame für eine Schuhcrème**  
 
 
-![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940-1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image041.jpg)  
+![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image041.jpg)  
 
 [[start:metadata]]
 
@@ -488,7 +488,7 @@ Metadaten des unbereinigten Datensatzes:
 
 **Inventarnummer:** H/47660  
 **Titel:** Elektrische Reklame für die Schuhcrème «Marga» mit zwei beweglichen Figuren und Lichtreflex: «Negerjunge in orientalischer Kleidung putzt einem Herrn mit Zylinder die Schuhe»  
-**Datierung:** 1940-1950 (Herstellung)  
+**Datierung:** 1940–1950 (Herstellung)  
 [[end:before]]
 
 [[start:after]]
@@ -497,7 +497,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Inventarnummer:** H/47660  
 **Titel:** Elektrische Reklame für Schuhcrème «Marga»  
-**Datierung:** 1940-1950 (Herstellung)  
+**Datierung:** 1940–1950 (Herstellung)  
 **Verschlagwortung:** «Rassistischer Inhalt/Darstellung»  
 **Forschung:** Festhalten des historischen Kontexts/Problematik (s. u. Kontext)  
 [[end:after]]
@@ -508,7 +508,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 Das [Objekt](#_Objekt) mit Inv. Nr. H/47660 ist eine elektrische Werbetafel, die einen Schwarzen Jungen in orientalisierender Kleidung zeigt, der, wenn die Tafel eingeschaltet wird, einem elegant gekleideten *weissen* Herrn die Schuhe putzt. Das [Objekt](#_Objekt) wurde im Inventarbuch des Bernischen Historischen Museums erstmals als «Elektrische Reklame für die Schuhcrème «Marga» mit zwei beweglichen Figuren und Lichtreflex: Negerjunge in orientalischer Kleidung putzt einem Herrn mit Zylinder die Schuhe» mit Verwendung des herabwürdigenden Begriffes «N\*» verzeichnet.  
 
-Die rassistische Bildsprache, die hier verwendet wird, ist bereits in der Zeit um den Sezessionskrieg (1861-1865) in den USA geläufig und suggeriert eine Überlegenheit *weisser* über Schwarze Menschen, indem den Schwarzen Menschen die dienende Rolle zugeteilt wird.[[200]](#footnote-201) Unterstrichen wird diese Aussage durch die zweideutige Werbebotschaft «Überall bevorzugt», die sich auf die zu bewerbende Schuhcrème bezieht, aber auch die bevorzugte Stellung des *weissen* Herren gegenüber dem Schwarzen Kind hervorhebt.  
+Die rassistische Bildsprache, die hier verwendet wird, ist bereits in der Zeit um den Sezessionskrieg (1861–1865) in den USA geläufig und suggeriert eine Überlegenheit *weisser* über Schwarze Menschen, indem den Schwarzen Menschen die dienende Rolle zugeteilt wird.[[200]](#footnote-201) Unterstrichen wird diese Aussage durch die zweideutige Werbebotschaft «Überall bevorzugt», die sich auf die zu bewerbende Schuhcrème bezieht, aber auch die bevorzugte Stellung des *weissen* Herren gegenüber dem Schwarzen Kind hervorhebt.  
 
 [[start:block]]
 
@@ -525,7 +525,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 [[end:block]]
 
-## 10.10 **Die** ‹exotisch›-**erotischen Nippes**  
+## 10.10 ‹Exotisch›-**erotische Nippes**  
 
 
 ![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image042.jpg)  
@@ -581,10 +581,10 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 [[end:block]]
 
-## 10.11 **Das Missionsn\*li**  
+## 10.11 **Missionsn\*li**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940-1960. Schweizerisches Nationalmuseum © SNM](/images/image043.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image043.jpg)  
 
 [[start:metadata]]
 
@@ -597,7 +597,7 @@ Metadaten des unbereinigten Datensatzes:
 **Klassifikation**: Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
 **Bezeichnung:** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
-**Datierung:** 1940-1960  
+**Datierung:** 1940–1960  
 **Schlagworte:** Religiöse Themen allgemein  
 
 [[end:before]]
@@ -609,7 +609,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Inventarnummer:** LM-69377.1-2  
 **Bezeichnung:** Knieender Mann in weissem Gewand, stereotypisierte Schwarze Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock  
-**Datierung:** 1940-1960  
+**Datierung:** 1940–1960  
 **Schlagworte:** «Religiöse Themen allgemein», «Mission», «Koloniale Verflechtung», «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)», «Kapuzinerorden»  
 **Inhaltshinweis:** «Rassismus», «abwertende Sprache»  
 
@@ -638,10 +638,10 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 
 [[end:block]]
 
-## 10.12 **Eine Fotoreportage aus den USA**  
+## 10.12 **Fotoreportage aus den USA**  
 
 
-![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Fotoabzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image044.jpg)  
+![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image044.jpg)  
 
 [[start:metadata]]
 
