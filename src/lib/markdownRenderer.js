@@ -7,7 +7,6 @@ export function createMarkedRenderer(pageInfo) {
     image({ href, title, text, ...attrs }) {
       let _text = text.replaceAll("alt:", "")
       let [altText, extraText] = _text.split(", extra:")
-      console.log("Image altText and extraText:", altText, extraText)
       extraText = extraText ? extraText.split(/Abbildung\s*\d*:\s*/i)[1] || extraText || "" : ""
       return `<figure>
                 <img src="${href}" alt="${altText}"/>
@@ -23,7 +22,6 @@ export function createMarkedRenderer(pageInfo) {
       const chapter = headingNumber ? headingNumber.split(".")[0] : null
       let subChapter = headingNumber && headingNumber.split(".").length > 1 ? headingNumber.split(".")[1] : null
       if(subChapter?.startsWith("0")) subChapter = subChapter.replace(/^0+/, "") || ""
-      console.log(subChapter)
       headingNumber = headingNumber ? `${+chapter-1}${subChapter ? "." + subChapter : ""}` : null
       const id = slugify(headingText)
       const plainText = headingText.replace(/(?<!\\)[#_*~`[\]()>#+\=|{}.]/g, "")
@@ -74,7 +72,6 @@ function processCustomBlocks(content) {
         const image = lines[2] || ""
         const version = lines[4] || ""
         const info = lines[6] || ""
-        console.log("Heading block lines:", image)
         return `<div class="${blockType}">\n\n# ${lines[0].trim()}\n\n${image.trim()}\n\n${version.trim()}  \n${info.trim()}\n\n</div>`
       }else{
         return `<div class="${blockType}">\n\n${blockContent.trim()}\n\n</div>`
@@ -101,7 +98,6 @@ export function mountEmbeddedComponents(componentRegistry) {
   placeholders.forEach((placeholder) => {
     const componentName = placeholder.dataset.svelteComponent
     const Component = componentRegistry[componentName]
-    // console.log("Found placeholders:", componentName, Component)
 
     if (Component) {
       try {

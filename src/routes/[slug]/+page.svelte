@@ -59,34 +59,6 @@
       }
     }
   })
-
-  if (browser) {
-    onMount(() => {
-      const headers = Array.from(
-        document.querySelectorAll("h1, h2, h3, h4, h5, h6")
-      )
-      const observer = new IntersectionObserver(
-        (entries) => {
-          entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-              activeHeader.set(entry.target.id || entry.target.textContent)
-            }
-          })
-        },
-        {
-          rootMargin: "0px 0px -50% 0px",
-          threshold: 0.2,
-        }
-      )
-      headers.forEach((header) => {
-        observer.observe(header)
-      })
-      return () => {
-        headers.forEach((header) => observer.unobserve(header))
-        observer.disconnect()
-      }
-    })
-  }
 </script>
 
 <section class={styles.container} key={data.site.fields.slug}>

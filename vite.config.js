@@ -45,7 +45,6 @@ const injectStylusBreakpoints = (options={}) => {
           return str += `\n${_mediaQuery}`
         },'')
         _code = `${_mediaQueries}\n${code}`
-        // console.log('CODE',_code)
       }
       return {
         code: _code,
