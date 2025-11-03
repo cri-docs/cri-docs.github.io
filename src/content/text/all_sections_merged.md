@@ -18,8 +18,6 @@ Rassismuskritische Dokumentation.
 Ein Handbuch für GLAM-Institutionen  
 [[end:subtitle]]
 
-[headerimg]  
-
 
 ![alt:alt text, extra:](/images/image000.jpg)  
 
