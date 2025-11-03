@@ -38,23 +38,42 @@ Siehe Copyright-Angaben
 **Dank**  
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
-Denise Tonella  
-Heidi Amrein  
-Michael Gasser  
-Juri Jaquement  
-Johannes Sauter  
-Heidi Brunner  
-Mariama de Brito Henn  
-Erika Hebeisen  
 Annette Kniep  
-Jonas Lendenmann  
-Isabelle Münzner  
-Ruby Satele Asiata  
-Mira Shah  
-Marilyn Umurungi  
-Laura Walde  
+
 Balthasar Zimmermann  
+
 Christine Müller Stalder  
+
+Denise Tonella  
+
+Erika Hebeisen  
+
+Heidi Amrein  
+
+Heidi Brunner  
+
+Isabelle Münzner  
+
+Johannes Sauter  
+
+Jonas Lendenmann  
+
+Juri Jaquement  
+
+Laura Walde  
+
+Madleina Deplazes  
+
+Mariama de Brito Henn  
+
+Marilyn Umurungi  
+
+Michael Gasser  
+
+Mira Shah  
+
+Ruby Satele Asiata  
+
 Sabina Horber  
 
 Die Geschäftsleitungen der beteiligten Institutionen.  

@@ -166,7 +166,7 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 
 * Ohne begleitende Erklärung bleibt unklar, was und warum zensiert wurde  
 * Verdeckt problematische Inhalte, ohne sie aufzuarbeiten  
-* Mit einer fehlenden Abbildung entfällt die Auseinander-setzung mit dieser wie auch die Sensibilisierung auf andere solche Darstellungen  
+* Mit einer fehlenden Abbildung entfällt die Auseinandersetzung mit dieser wie auch die Sensibilisierung auf andere solche Darstellungen  
 
 [[end:minus]]
 
