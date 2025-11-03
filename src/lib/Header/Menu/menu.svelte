@@ -4,7 +4,7 @@
   import { activeHeader, headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import aboutData from "|/content/text/about.json"
   import imprintData from "|/content/text/imprint.json"
-  import disclaimerData from "|/content/text/disclaimer.json"
+  import disclaimerData from "|/content/text/infobox.json"
 
   import { slugify } from "$lib/utils.js"
 
@@ -107,7 +107,7 @@
   </div>
   {#if activeSubPage === "disclaimer"}
     <div class={[styles.disclaimer, styles.otherSubContainer].join(" ")}>
-      {@html marked.parse(disclaimerData.disclaimer)}
+      {@html marked.parse(disclaimerData?.infobox)}
     </div>
   {:else if activeSubPage === "about"}
     <div class={[styles.imprint, styles.otherSubContainer].join(" ")}>
@@ -125,7 +125,6 @@
                 href={`/${site.fields.slug}`}
                 onclick={navigate}
                 class:active={$page.params.slug === site.fields.slug}
-                data-sveltekit-noscroll
               >
                 <div>
                   {site.fields.index > 0 ? site.fields.index : ""}
