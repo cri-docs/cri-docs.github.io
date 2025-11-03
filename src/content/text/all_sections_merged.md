@@ -5,7 +5,7 @@ order: 0
 index: -1  
 ---  
 
-[[start:heading]]
+[[start:header]]
 
 [[start:title]]
 
@@ -23,7 +23,7 @@ Ein Handbuch für GLAM-Institutionen
 
 Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)  
 
-[[end:heading]]
+[[end: header]]
 
 [[start:infobox]]
 
