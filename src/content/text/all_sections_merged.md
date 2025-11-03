@@ -115,6 +115,8 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 ![alt:alt text, extra:](/images/image009.jpg)
 [[end:preface]]
 
+[[start:toc]]
+
 Inhalt  
 
 [Einleitung 8](#_Toc213054298)  
@@ -256,6 +258,8 @@ Inhalt
 [13 Bibliografie 133](#_Toc213054366)  
 
 [14 Impressum 141](#_Toc213054367)  
+
+[[end:toc]]
 
 # Einleitung  
 
