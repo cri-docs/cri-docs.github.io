@@ -62,7 +62,9 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
 
-![alt:alt text, extra:Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image010.jpg)  
+![alt:alt text, extra:](/images/image010.jpg)  
+
+Abbildung : «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM  
 
 [[start:literature]]
 
@@ -89,7 +91,9 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 
-![alt:alt text, extra:Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image011.jpg)  
+![alt:alt text, extra:](/images/image011.jpg)  
+
+Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich  
 
 [[start:literature]]
 
@@ -122,7 +126,9 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
 
-![alt:alt text, extra:Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image012.jpg)  
+![alt:alt text, extra:](/images/image012.jpg)  
+
+Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM  
 
 [[start:literature]]
 

@@ -138,7 +138,12 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...) Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image017.jpg)  
+
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler   
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image018.jpg)  
+
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -177,13 +182,17 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image018.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:](/images/image019.jpg)  
+
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 
-![alt:alt text, extra:Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image019.jpg)  
+![alt:alt text, extra:](/images/image020.jpg)  
+
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 
-![alt:alt text, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image020.jpg)  
+![alt:alt text, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -226,7 +235,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -267,13 +276,13 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
+![alt:alt text, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -311,7 +320,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
+![alt:alt text, extra:Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image026.jpg)  
 
 **Zusammenfassung:**  
 

@@ -13,7 +13,7 @@ Ein Handbuch für GLAM-Institutionen
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 1: Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 [[start:infobox]]
 
@@ -340,7 +340,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 2: «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung : «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -368,7 +368,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
+Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
 
 [[start:literature]]
 
@@ -402,7 +402,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -576,7 +576,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 6: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
+Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)
 
@@ -696,7 +696,7 @@ Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vo
 
 ![](data:image/png;base64...)
 
-Abbildung 7: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
+Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[110]](#footnote-111) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.
 
@@ -765,7 +765,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 8: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
+Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
 
 #### **Auswirkungen von geweissten Räumen**
 
@@ -966,9 +966,9 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1008,11 +1008,11 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](data:image/png;base64...)
 
-Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
-Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
@@ -1173,13 +1173,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg](data:image/jpeg;base64...)
 
-Abbildung 19: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
+Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![C:\Users\snmchug\Downloads\2024Usakos.JPG](data:image/jpeg;base64...)
 
-Abbildung 20: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
+Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
@@ -1988,7 +1988,7 @@ Im Mittelalter (ca. 6.-15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarz
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM
+Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.
 
@@ -2105,6 +2105,8 @@ Das Handbuch bildet einen Anfang: Es bietet nicht nur Hilfestellung in der Entwi
 Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über konstruktives Feedback und darüber, mit anderen Arbeitsgruppen, Institutionen sowie Interessierten in Austausch zu treten: info@criticalGLAM.ch.
 
 # Bibliografie
+
+[[start:bib]]
 
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.
 
@@ -2309,6 +2311,7 @@ Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<ht
 Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera (Hg.): Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Göttingen 2018, S. 31-44.
 
 Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, musethno.uzh.ch, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.
+[[end:bib]]
 
 # Impressum
 
