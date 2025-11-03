@@ -24,7 +24,11 @@
     } else {
       const match = data.content.match(/---([\s\S]*?)---/)
       const betweenDashes = match ? match[1] : ""
-      const content = data.content.replace(/---([\s\S]*?)---/, "").trim()
+      let content = data.content.replace(/---([\s\S]*?)---/, "").trim()
+      // let d =
+      //   "# Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] "
+      // d = "Communities, Sammlungen und Sorgfalt"
+      // content = content.split(d)[0] || content
       return marked(content)
     }
   })

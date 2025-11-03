@@ -75,8 +75,7 @@
 
 @media print
   *
-    // transform scale(0.5)
-    box-decoration-break clone
+    // box-decoration-break clone
   :root
     --font-size 10pt
     --text-font-size var(--font-size)
@@ -93,8 +92,8 @@ p:empty
 @page
   size A4 portrait
   margin 10mm 10mm 20mm 25mm
-  // @bottom-right
-  //   content counter(page) " of " counter(pages)
+  @bottom-right
+    content counter(page) " of " counter(pages)
 
 
 *

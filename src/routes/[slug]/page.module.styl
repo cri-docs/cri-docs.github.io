@@ -26,12 +26,10 @@
     align-items flex-start
     justify-content center
     width 100%
-    height 100%
     max-width var(--w)
     margin 0 0 0 0
     padding calc(var(--padding))
     padding-left 0
-    // background-color var(--kd-color-background)
     color var(--kd-color-text)
   > * 
     width var(--text-width)
@@ -291,7 +289,7 @@
   margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
   :global(.glossary)
     color var(--color)
-  @media print
+  @media _print
     display flex
     flex-direction column
     align-items center
@@ -301,7 +299,7 @@
     // margin 0
   figure
     align-items: flex-start
-    @media print
+    @media _print
       align-items: center
       max-width var(--text-container-width)
       margin-right calc(var(--padding) * 2)
@@ -309,7 +307,7 @@
   > div
     text-indent 30px
     width calc(var(--text-width) * 0.85)
-    @media print
+    @media _print
       width calc(var(--text-container-width) - var(--padding) * 2)
       margin-right calc(var(--padding) * 2)
     > * 
@@ -321,5 +319,5 @@
 // [[end:blocks]]
 
 :global(.toc)
-  @media print
+  @media _print
     display none
