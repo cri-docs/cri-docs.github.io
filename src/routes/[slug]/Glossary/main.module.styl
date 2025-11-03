@@ -5,23 +5,29 @@
   cursor pointer
   @media print
     color var(--color)
+  .content
+    @media (hover: hover)
+      &:hover
+        padding 1rem 1.5rem
+        margin -1rem -1.5rem
+        border-radius 99px
+        background-color var(--color)
+        color white
   .popup
     --lines 10
     display flex
     flex-direction column
     align-items flex-start
-    position absolute
+    position fixed
     background-color white
-    top calc(1lh + 1px)
+    top calc(1lh)
     width 400px
     gap .5lh
     margin-top .5rem
     padding 1rem 2rem
-    padding-bottom 5rem
-    // transform translate(-1rem, -3rem)
+    padding-bottom 2rem
     color var(--secondary-color)
     border 1px solid var(--color)
-    // box-shadow 0 -3px 8px var(--color)
     border-radius 4px
     font-size var(--small-font-size)
     z-index 5
@@ -38,6 +44,8 @@
       z-index 50
     @media print
       display none
+    .title 
+      font-weight bold
     .text
       width 100%
       max-height calc( 1l * var(--lines) + 1rem )

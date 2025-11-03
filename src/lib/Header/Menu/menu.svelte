@@ -17,7 +17,6 @@
   import BiChevronDoubleLeft from "$lib/icones/BiChevronDoubleLeft.svelte"
   import BiChevronLeft from "$lib/icones/BiChevronLeft.svelte"
   import { useResize } from "$lib/useResize"
-  import Navigation from "../../../routes/[slug]/Navigation/navigation.svelte"
 
   const { sites, activeSubPage, setSubPage } = $props()
   const { isMobile } = useResize

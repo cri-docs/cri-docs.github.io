@@ -14,8 +14,10 @@
   import { fly } from "svelte/transition"
   import { navigating } from "$app/state"
   import { activeHeader, headerIsOpen } from "$lib/state.svelte"
+  import BiChevronRight from "$lib/icones/BiChevronRight.svelte"
 
   let { data } = $props()
+  let { sites, site } = $page.data
 
   const marked = markdown({
     pageIndex: data?.site?.fields?.index,
@@ -30,6 +32,13 @@
     }
   })
   const currentFootnote = writable(null)
+
+  const nextPost = $derived.by(() => {
+    const currentIndex = sites.findIndex(
+      (site) => site.fields.slug === $page.data.site.fields.slug
+    )
+    return currentIndex < sites.length - 1 ? sites[currentIndex + 1] : undefined
+  })
 
   $effect(() => {
     if ($page) {
@@ -120,6 +129,17 @@
     {:else}
       <p>Loading content...</p>
     {/if}
+  {/if}
+  {#if nextPost}
+    <div class={styles.navigation}>
+      <a
+        href={nextPost?.fields?.slug}
+        class:disabled={!nextPost}
+        disabled={!nextPost ? "true" : "false"}
+      >
+        Nächstes Kapitel <BiChevronRight />
+      </a>
+    </div>
   {/if}
 </section>
 

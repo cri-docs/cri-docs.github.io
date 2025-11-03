@@ -7,7 +7,7 @@
 
   let { sites } = $props()
 
-  const isFullyCollapsed = $derived(!$headerIsOpen && !$menuIsOpen)
+  const isFullyCollapsed = $derived(!$headerIsOpen)
   const nextPost = $derived.by(() => {
     const currentIndex = sites.findIndex(
       (site) => site.fields.slug === $page.data.site.fields.slug
