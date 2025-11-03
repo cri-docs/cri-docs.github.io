@@ -103,9 +103,11 @@
           $page?.params?.slug === intro ? styles.isHome : ""
         } ${styles.hero} ${!$headerIsOpen ? styles.headerIsCollapsed : ""}`}
       />
-      <figcaption class={styles.caption}>
-        {infoData?.captionLanding}
-      </figcaption>
+      {#if $page?.params?.slug === intro}
+        <figcaption class={styles.caption}>
+          {infoData?.captionLanding}
+        </figcaption>
+      {/if}
     </figure>
     <!-- {/if} -->
     <div class={styles.content}>
