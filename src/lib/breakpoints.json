@@ -1,9 +1,9 @@
 {
   "mobile": {
-    "width": [0, 1399]
+    "width": [0, 999]
   },
   "small": {
-    "width": [1400, 1599]
+    "width": [1000, 1599]
   },
   "medium": {
     "width": [1600, 1799]

@@ -13,6 +13,8 @@
   hyphens auto
   font-size var(--text-font-size)
   transition margin 0.5s, width 0.5s
+  @media _small
+    margin-inline auto
   @media _mobile
     --text-width calc(var(--text-container-width) - 3 * var(--padding))
     max-width 900px

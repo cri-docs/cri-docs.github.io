@@ -19,7 +19,7 @@
   import { useResize } from "$lib/useResize"
 
   const { sites, activeSubPage, setSubPage } = $props()
-  const { isMobile } = useResize
+  const { isMobile, isSmall } = useResize
 
   const handleAnchorClick = ({ link }) => {
     event.preventDefault()
@@ -41,8 +41,10 @@
   }
 
   const navigate = (e) => {
-    if (isMobile) {
+    console.log("Navigating to:", $isMobile || $isSmall, headerIsOpen)
+    if ($isMobile || $isSmall) {
       if ($headerIsOpen) headerIsOpen.set(false)
+      if ($menuIsOpen) menuIsOpen.set(false)
     } else {
       if ($headerIsOpen) headerIsOpen.set(false)
     }
