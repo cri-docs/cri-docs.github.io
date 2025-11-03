@@ -36,15 +36,6 @@
       menuIsOpen.set(true)
       lastY = scrollY
     } else {
-      if (dotLottie) {
-        if ($headerIsOpen) {
-          dotLottie.setMode("reverse")
-          dotLottie.play()
-        } else {
-          dotLottie.setMode("normal")
-          dotLottie.play()
-        }
-      }
       headerIsOpen.set(!$headerIsOpen)
       lastY = scrollY
     }
@@ -123,7 +114,7 @@
     isFullyCollapsed ? styles.isCollapsedFully : "",
   ].join(" ")}
 >
-  {#if !isFullyCollapsed}
+  {#if !isFullyCollapsed || $isMobile}
     <button
       class={[
         styles.icon,

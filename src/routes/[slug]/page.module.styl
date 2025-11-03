@@ -19,7 +19,6 @@
     --text-width calc(var(--text-container-width) - 3 * var(--padding))
     max-width 900px
     padding var(--padding)
-    padding-left 5rem
     margin 0
   @media print
     --w calc(var(--text-container-width) + 2 * var(--padding))
@@ -93,6 +92,7 @@
     max-width 70%
     break-before page
     @media _mobile
+      margin-top 0
       max-width 95%
     @media print
       font-size calc(var(--title-font-size) * 0.8)
@@ -120,6 +120,8 @@
   ul
     margin-top 0
     padding 0
+    @media _mobile
+      padding-left 2ch
     li
       position relative
       padding-bottom .5lh
@@ -131,9 +133,9 @@
   ul
     li
       max-width 80%
-      // padding-left 2ch
-      // text-indent -2ch
       list-style none
+      @media _mobile
+        max-width 95%
       &:before
         --size 1.2rem
         --height 1px
@@ -150,7 +152,7 @@
     font-size var(--small-font-size)
     @media _mobile
       width calc(100% + 1 * var(--padding))
-      margin-left calc(var(--padding) * -1)
+      // margin-left calc(var(--padding) * -1)
     th
       padding-right .5rem
       padding-left .5rem
@@ -262,6 +264,11 @@
   font-size var(--small-font-size)
   gap 3rem
   width 80%
+  @media _mobile
+    gap 1rem
+    width 90%
+    li
+      max-width 95% !important
   :global(.plus)
   :global(.minus)
     flex-shrink 0
@@ -286,13 +293,16 @@
   padding calc(var(--padding) * 2)
   padding-left calc(clamp(var(--current-index-width), 100vw, var(--l)))
   padding-right calc(var(--padding) * 3)
-  margin-left calc(var(--padding) * 3 * -1)
+  margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
   background-color var(--background-color-secondary)
   color var(--color-secondary)
   width 100vw
-  margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
   :global(.glossary)
     color var(--color)
+  @media _mobile
+    max-width 100vw
+    padding var(--padding)
+    margin-left calc(-1 * var(--padding))
   @media _print
     display flex
     flex-direction column
@@ -311,6 +321,8 @@
   > div
     text-indent 30px
     width calc(var(--text-width) * 0.85)
+    @media _mobile
+      width calc(100% - var(--padding) * 2)
     @media _print
       width calc(var(--text-container-width) - var(--padding) * 2)
       margin-right calc(var(--padding) * 2)

@@ -52,10 +52,8 @@
       left calc(var(--buttons-width) / 2)
       @media _mobile
         transform rotate(180deg) translate(100%, 0%)
-        left var(--buttons-width)
-    &.isCollapsedFully
-      @media _mobile
-        left var(--buttons-width)
+        left calc(100vw - 1rem)
+    // &.isCollapsedFully
   .welcomeText
     width var(--header-width-full)
     height var(--header-height-full)

@@ -75,7 +75,12 @@
   })
 </script>
 
-<div class={[styles.container, !$menuIsOpen ? styles.isClosed : ""].join(" ")}>
+<div
+  class={[
+    styles.container,
+    !$menuIsOpen && !isMobile ? styles.isClosed : "",
+  ].join(" ")}
+>
   <button class={[styles.toggle, styles.open].join(" ")} onclick={toggle}>
     {#if $headerIsOpen}
       <BiChevronDoubleLeft />
@@ -84,12 +89,12 @@
     {/if}
   </button>
   <nav class={styles.buttons}>
-    {#if $isMobile}
+    <!-- {#if $isMobile}
       <button
         class:active={activeSubPage === "welcome"}
         onclick={() => setSubPage("welcome")}>Start</button
       >
-    {/if}
+    {/if} -->
     <button
       class:active={activeSubPage === "index"}
       onclick={() => setSubPage("index")}>Inhalt</button
