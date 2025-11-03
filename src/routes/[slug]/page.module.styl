@@ -206,6 +206,7 @@
 :global(.literature)
   --p clamp(var(--current-index-width), 100vw, var(--l))
   font-size var(--small-font-size)
+  padding-top 1lh
   ul
     padding-left 2ch
     // text-indent -2ch
@@ -224,6 +225,12 @@
       width calc(100%)
     @media print
       width calc(var(--text-container-width) * 0.8)
+
+:global(.citation)
+  padding-left 3rem
+  padding-right 10rem
+  font-style italic
+  font-weight 400
 
 :global(.block)
   padding 1rem

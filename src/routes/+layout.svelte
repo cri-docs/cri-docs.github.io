@@ -8,6 +8,8 @@
 
   import { headerIsOpen, menuIsOpen } from "$lib/state.svelte"
 
+  import infoData from "|/content/text/info.json"
+
   import "../styles/app.styl"
   import styles from "./+layout.module.styl"
   import Navigation from "./[slug]/Navigation/navigation.svelte"
@@ -93,13 +95,18 @@
     <BiPrinter />
   </button>
   <main>
-    <img
-      src="/images/landing.jpg"
-      alt="Sunset behind some mountains"
-      class={`${
-        $page?.params?.slug === intro ? styles.isHome : ""
-      } ${styles.hero} ${!$headerIsOpen ? styles.headerIsCollapsed : ""}`}
-    />
+    <figure class={styles.topbar}>
+      <img
+        src="/images/landing.jpg"
+        alt="Sunset behind some mountains"
+        class={`${
+          $page?.params?.slug === intro ? styles.isHome : ""
+        } ${styles.hero} ${!$headerIsOpen ? styles.headerIsCollapsed : ""}`}
+      />
+      <figcaption class={styles.caption}>
+        {infoData?.captionLanding}
+      </figcaption>
+    </figure>
     <!-- {/if} -->
     <div class={styles.content}>
       {@render children()}

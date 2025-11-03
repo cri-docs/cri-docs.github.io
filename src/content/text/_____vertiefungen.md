@@ -14,7 +14,9 @@ toc:
 
 ## 11.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz  
 
+[[start:citation]]
 «Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen Weissen und den von ihnen jeweils als ‹anders› hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als ‹Rasse› erfunden und rassistisch bewertet wurde bzw. wird.» (Noah Sow, (K)Erben des Kolonialismus im Wissensarchiv der deutschen Sprache, Ein kritisches Nachschlagewerk, S.38)  
+[[end:citation]]
 
 Im Bewusstsein dieser vielen verschiedenen und komplexen Beziehungsgefüge und in der Kenntnis darüber nur ansatzweise eine Lücke schliessen zu können und viele Aspekte ausklammern zu müssen, widmet sich die Arbeitsgruppe in diesem Handbuch exklusiv dem Anti-Schwarzen -Rassismus in der Schweiz. In diesem Zusammenhang wird der Versuch unternommen, die historischen Dimensionen aufzuarbeiten und Rassismus gegen Schwarze Personen in Beziehung globaler und nationaler sozial-, polit- und wirtschaftshistorischer Ereignisse zu setzen. Diese Kontextualisierung soll helfen, das daraus entstandene rassistische Wissen, die Glaubenssätze, Handlungen und identitären Muster sowie deren Einfluss in die strukturellen und diskursiven Machthierarchien und Wissensarchive darzulegen. Sie sind als Faktoren und Kontinuitäten aber auch als (Um-)Brüche und teils Konjunkturen zu verstehen, die Sammlungsinstitutionen über Jahrhunderte hinweg formten und Ausgang sind für die kritische Betrachtung der Bestände.  
 
