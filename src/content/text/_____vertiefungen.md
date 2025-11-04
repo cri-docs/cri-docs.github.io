@@ -14,7 +14,11 @@ toc:
 
 ## 11.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz  
 
+[[start:citation]]
+
 «Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen Weissen und den von ihnen jeweils als ‹anders› hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als ‹Rasse› erfunden und rassistisch bewertet wurde bzw. wird.» (Noah Sow, (K)Erben des Kolonialismus im Wissensarchiv der deutschen Sprache, Ein kritisches Nachschlagewerk, S.38)  
+
+[[end:citation]]
 
 Im Bewusstsein dieser vielen verschiedenen und komplexen Beziehungsgefüge und in der Kenntnis darüber nur ansatzweise eine Lücke schliessen zu können und viele Aspekte ausklammern zu müssen, widmet sich die Arbeitsgruppe in diesem Handbuch exklusiv dem Anti-Schwarzen -Rassismus in der Schweiz. In diesem Zusammenhang wird der Versuch unternommen, die historischen Dimensionen aufzuarbeiten und Rassismus gegen Schwarze Personen in Beziehung globaler und nationaler sozial-, polit- und wirtschaftshistorischer Ereignisse zu setzen. Diese Kontextualisierung soll helfen, das daraus entstandene rassistische Wissen, die Glaubenssätze, Handlungen und identitären Muster sowie deren Einfluss in die strukturellen und diskursiven Machthierarchien und Wissensarchive darzulegen. Sie sind als Faktoren und Kontinuitäten aber auch als (Um-)Brüche und teils Konjunkturen zu verstehen, die Sammlungsinstitutionen über Jahrhunderte hinweg formten und Ausgang sind für die kritische Betrachtung der Bestände.  
 
@@ -27,18 +31,20 @@ Nach Noah Sow muss «jede Historisierung des Rassismus […] bei der Antike anse
 Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarze Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als Schwarze wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht-weisse Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als Schwarzer Mann dargestellt wird.  
 
 
-![alt:alt text, extra:](/images/image045.jpg)  
-
-Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM  
+![alt:alt text, extra:Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image044.jpg)  
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
 Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identität zu bilden. Mit den Kreuzzügen im 12. Jh. setzt eine Bedeutungserweiterung des «M\*»-Begriffs sowie eine veränderte Wahrnehmung Schwarzer Körper ein. Christliche Kreuzritter kommen im Nahen Osten und Ägypten intensiv mit Muslim:innen und immer wieder auch mit Schwarzen Soldaten in Kontakt. Auch zahlreiche Schweizer Adlige[[208]](#footnote-209) nehmen an den Kreuzzügen teil und sind mit der Ikonografie des «M\*en», die sich aus diesen Begegnungen entwickelt, vertraut. Nach Schär und Darman kommen drei Bedeutungsaspekte Schwarzer Körper hinzu:  
 
+[[start:citation]]
+
 «Erstens wurde der «M\*» zum Symbol für den ungläubigen Feind im Kampf um die heiligen Stätten im Nahen Osten. Der «M\*enkopf» stand in der Folge für diesen Kampf oder sogar für den Sieg über muslimische Menschen, symbolisiert in Form des abgeschlagenen Kopfes. Als Symbol fand er Eingang in die Heraldik und damit in die Gestaltung von verschiedenen Wappen. Zweitens faszinierte die fremde, reiche und in zahlreichen Bereichen überlegene muslimische Welt die Menschen in Europa. In diesem Zusammenhang verkörperte die Figur des «M\*en» Reichtum, Exotik, Reisen und den Fernhandel. Drittens wurde der «M\*» auch mit positiven Schwarzen Figuren wie dem Schwarzen König in Verbindung gebracht.»[[209]](#footnote-210)  
 
+[[end:citation]]
 
-![alt:alt text, extra:![](data:image/jpeg;base64...) Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image046.jpg)  
+
+![alt:alt text, extra:![](data:image/jpeg;base64...) Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image045.jpg)  
 
 #### *Frühe Neuzeit: Schwarze Körper als Eigentum und Statussymbol*  
 

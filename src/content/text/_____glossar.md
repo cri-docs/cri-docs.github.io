@@ -68,7 +68,15 @@ Siehe hierzu für den deutschen Sprachgebrauch, vgl. Mattioli, Aram: Verlorene W
 
 ## 12.7 Kolonialismus und Kolonialisierung  
 
-Jürgen Osterhammel definiert Kolonialismus wie folgt: *«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»* Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».  
+Jürgen Osterhammel definiert Kolonialismus wie folgt:  
+
+[[start:citation]]
+
+«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»  
+
+[[end:citation]]
+
+Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».  
 
 Siehe hierzu Osterhammel, Jürgen, Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 1995, 7. Auflage, S. 21.  
 

@@ -210,4 +210,6 @@ Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<ht
 
 Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera (Hg.): Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Göttingen 2018, S. 31–44.  
 
-Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, musethno.uzh.ch, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.
+Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, musethno.uzh.ch, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.  
+
+[[end:bib]]

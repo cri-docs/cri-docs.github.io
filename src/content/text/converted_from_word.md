@@ -13,7 +13,11 @@ Ein Handbuch für GLAM-Institutionen
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+[[start:captionLanding]]
+
+Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+[[end:captionLanding]]
 
 [[start:infobox]]
 
@@ -340,7 +344,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 2: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -368,7 +372,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
+Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
 
 [[start:literature]]
 
@@ -402,7 +406,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -576,7 +580,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
+Abbildung 6: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)
 
@@ -696,7 +700,7 @@ Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vo
 
 ![](data:image/png;base64...)
 
-Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
+Abbildung 7: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[110]](#footnote-111) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.
 
@@ -765,7 +769,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
+Abbildung 8: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
 
 #### **Auswirkungen von geweissten Räumen**
 
@@ -966,9 +970,9 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
+Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1008,11 +1012,11 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
@@ -1173,13 +1177,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
+Abbildung 19: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![C:\Users\snmchug\Downloads\2024Usakos.JPG](data:image/jpeg;base64...)
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
+Abbildung 20: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
@@ -1974,7 +1978,11 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Othering», «Segregation» und �
 
 ## Geschichte des Anti-Schwarzen-Rassismus in der Schweiz
 
+[[start:citation]]
+
 «Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen Weissen und den von ihnen jeweils als ‹anders› hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als ‹Rasse› erfunden und rassistisch bewertet wurde bzw. wird.» (Noah Sow, (K)Erben des Kolonialismus im Wissensarchiv der deutschen Sprache, Ein kritisches Nachschlagewerk, S.38)
+
+[[end:citation]]
 
 Im Bewusstsein dieser vielen verschiedenen und komplexen Beziehungsgefüge und in der Kenntnis darüber nur ansatzweise eine Lücke schliessen zu können und viele Aspekte ausklammern zu müssen, widmet sich die Arbeitsgruppe in diesem Handbuch exklusiv dem Anti-Schwarzen -Rassismus in der Schweiz. In diesem Zusammenhang wird der Versuch unternommen, die historischen Dimensionen aufzuarbeiten und Rassismus gegen Schwarze Personen in Beziehung globaler und nationaler sozial-, polit- und wirtschaftshistorischer Ereignisse zu setzen. Diese Kontextualisierung soll helfen, das daraus entstandene rassistische Wissen, die Glaubenssätze, Handlungen und identitären Muster sowie deren Einfluss in die strukturellen und diskursiven Machthierarchien und Wissensarchive darzulegen. Sie sind als Faktoren und Kontinuitäten aber auch als (Um-)Brüche und teils Konjunkturen zu verstehen, die Sammlungsinstitutionen über Jahrhunderte hinweg formten und Ausgang sind für die kritische Betrachtung der Bestände.
 
@@ -1988,13 +1996,17 @@ Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwa
 
 ![](data:image/jpeg;base64...)
 
-Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM
+Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.
 
 Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identität zu bilden. Mit den Kreuzzügen im 12. Jh. setzt eine Bedeutungserweiterung des «M\*»-Begriffs sowie eine veränderte Wahrnehmung Schwarzer Körper ein. Christliche Kreuzritter kommen im Nahen Osten und Ägypten intensiv mit Muslim:innen und immer wieder auch mit Schwarzen Soldaten in Kontakt. Auch zahlreiche Schweizer Adlige[[208]](#footnote-209) nehmen an den Kreuzzügen teil und sind mit der Ikonografie des «M\*en», die sich aus diesen Begegnungen entwickelt, vertraut. Nach Schär und Darman kommen drei Bedeutungsaspekte Schwarzer Körper hinzu:
 
+[[start:citation]]
+
 «Erstens wurde der «M\*» zum Symbol für den ungläubigen Feind im Kampf um die heiligen Stätten im Nahen Osten. Der «M\*enkopf» stand in der Folge für diesen Kampf oder sogar für den Sieg über muslimische Menschen, symbolisiert in Form des abgeschlagenen Kopfes. Als Symbol fand er Eingang in die Heraldik und damit in die Gestaltung von verschiedenen Wappen. Zweitens faszinierte die fremde, reiche und in zahlreichen Bereichen überlegene muslimische Welt die Menschen in Europa. In diesem Zusammenhang verkörperte die Figur des «M\*en» Reichtum, Exotik, Reisen und den Fernhandel. Drittens wurde der «M\*» auch mit positiven Schwarzen Figuren wie dem Schwarzen König in Verbindung gebracht.»[[209]](#footnote-210)
+
+[[end:citation]]
 
 ![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)
 
@@ -2070,7 +2082,15 @@ Siehe hierzu für den deutschen Sprachgebrauch, vgl. Mattioli, Aram: Verlorene W
 
 ## Kolonialismus und Kolonialisierung
 
-Jürgen Osterhammel definiert Kolonialismus wie folgt: *«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»* Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».
+Jürgen Osterhammel definiert Kolonialismus wie folgt:
+
+[[start:citation]]
+
+«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»
+
+[[end:citation]]
+
+Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».
 
 Siehe hierzu Osterhammel, Jürgen, Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 1995, 7. Auflage, S. 21.
 
@@ -2103,6 +2123,8 @@ Eine Erfahrung, die die Arbeitsgruppe teilen kann, ist, dass es Zeit und Ressour
 Das Handbuch bildet einen Anfang: Es bietet nicht nur Hilfestellung in der Entwicklung eines Umgangs mit Anti-Schwarzem-Rassismus, sondern soll auch Wegbereiter sein für weitere Initiativen und Projekte, die sich anderen Diskriminierungsformen annehmen.
 
 Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über konstruktives Feedback und darüber, mit anderen Arbeitsgruppen, Institutionen sowie Interessierten in Austausch zu treten: info@criticalGLAM.ch.
+
+[[start:bib]]
 
 # Bibliografie
 
@@ -2309,6 +2331,8 @@ Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<ht
 Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera (Hg.): Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Göttingen 2018, S. 31–44.
 
 Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, musethno.uzh.ch, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.
+
+[[end:bib]]
 
 # Impressum
 

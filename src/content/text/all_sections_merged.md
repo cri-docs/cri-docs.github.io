@@ -21,7 +21,11 @@ Ein Handbuch für GLAM-Institutionen
 
 ![alt:alt text, extra:](/images/image000.jpg)  
 
-Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)  
+[[start:captionLanding]]
+
+Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)  
+
+[[end:captionLanding]]
 
 [[start:infobox]]
 
@@ -359,9 +363,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
 
-![alt:alt text, extra:](/images/image010.jpg)  
-
-Abbildung : «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM  
+![alt:alt text, extra:Abbildung 2: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image010.jpg)  
 
 [[start:literature]]
 
@@ -388,9 +390,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 
-![alt:alt text, extra:](/images/image011.jpg)  
-
-Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich  
+![alt:alt text, extra:Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image011.jpg)  
 
 [[start:literature]]
 
@@ -423,9 +423,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
 
-![alt:alt text, extra:](/images/image012.jpg)  
-
-Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM  
+![alt:alt text, extra:Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image012.jpg)  
 
 [[start:literature]]
 
@@ -597,9 +595,7 @@ Der vorliegende Beitrag veranschaulicht anhand konkreter historischer Beispiele 
 Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte oder Kaufleute kistenweise [Objekte](#_Objekt), Präparate und Kulturgegenstände von ihren Kolonialexpeditionen in die Schweiz.[[78]](#footnote-79) Solche Privatsammlungen gelangten oft als Schenkungen an Schweizer Museen, Universitäten, Gelehrtengesellschaften und Kunsthäuser. Ein Beispiel dafür ist die Insektensammlung von Heinrich Escher-Zollikofer (1776–1853). Er reiste 1795 als Kaufmann nach Nordamerika, wo er elf Jahre lang mit Kolonialwaren handelte, die von versklavten Menschen angebaut wurden.[[79]](#footnote-80) Diese kolonialen Handelstätigkeiten ermöglichten es ihm, in Nord- und Zentralamerika eine grosse Insektensammlung aufzubauen, die er in der Schweiz durch Zukäufe erweiterte. 1858 wurden die rund 60’000 Präparate der ETH Zürich geschenkt.[[80]](#footnote-81)  
 
 
-![alt:alt text, extra:](/images/image014.jpg)  
-
-Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.  
+![alt:alt text, extra:Abbildung 6: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.](/images/image014.jpg)  
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)  
 
@@ -718,9 +714,7 @@ Das Überwinden kolonialer Gedanken und Termini in kulturellen Institutionen erf
 Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vor. Der Begriff kommt aus der *Xârâcùù* Sprache, einer von achtundzwanzig Sprachen in Neukaledonien. Zudem ordnete er das [Objekt](#_Objekt) neu als Symbol des Hauptredners einer Zeremonie ein.[[109]](#footnote-110) Dank dieser neuen Bedeutungsebene veränderte sich auch die Präsentationsform des [Objekts](#_Objekt). Wurde es ursprünglich stets horizontal ausgestellt, wird es nun vertikal gezeigt. In dieser Präsentationform erinnert es noch weniger an eine Monstranz. Der Austausch mit Denis Pourawa veränderte die Art und Weise wie das [Objekt](#_Objekt) benannt, dokumentiert und gezeigt wird (Abb. 1). Auch im Humboldt Forum, wo sich ein ähnliches [Objekt](#_Objekt) befindet, wurde diese Darstellungs- und Präsentationsform übernommen. Dies sind nur zwei Beispiele einer angepassten Objektdokumentation, doch finden sich in vielen europäischen Sammlungen noch immer [Objekte](#_Objekt) mit dem erfundenen Namen.  
 
 
-![alt:alt text, extra:](/images/image015.jpg)  
-
-Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet  
+![alt:alt text, extra:Abbildung 7: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet](/images/image015.jpg)  
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[110]](#footnote-111) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.  
 
@@ -788,9 +782,7 @@ Dieser Ausschluss kann explizit sein, ist aber oft implizit. Beispiele dafür, w
 Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden, sondern auch durch das Definieren einer hauptsächlich *weissen* Zielgruppe. An ihr orientieren sich die Ausstellungskultur, das Bildungs- und Vermittlungsangebot, die Dokumentationspraxis, der Umgang mit Sammlungen, die Inhalte und die Sprachen sowie die von der Institution gelebte Kultur.  
 
 
-![alt:alt text, extra:](/images/image016.jpg)  
-
-Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich  
+![alt:alt text, extra:Abbildung 8: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich](/images/image016.jpg)  
 
 #### **Auswirkungen von geweissten Räumen**  
 
@@ -990,12 +982,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image017.jpg)  
-
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler   
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image018.jpg)  
-
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...) Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -1034,17 +1021,13 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:](/images/image019.jpg)  
-
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image018.jpg)  
 
 
-![alt:alt text, extra:](/images/image020.jpg)  
-
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
+![alt:alt text, extra:Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image019.jpg)  
 
 
-![alt:alt text, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
+![alt:alt text, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image020.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -1087,7 +1070,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -1128,13 +1111,13 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
+![alt:alt text, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -1172,7 +1155,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image026.jpg)  
+![alt:alt text, extra:Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
 
 **Zusammenfassung:**  
 
@@ -1195,16 +1178,12 @@ Ein wichtiger Schritt zur Aufarbeitung ethnografischer Objektbestände wurde im 
 Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattform, die sich als Probebühne, Versuchslabor und Resonanzraum versteht. Sie thematisiert aktuelle, gesellschaftliche Debatten im Spiegel der Geschichte und reflektiert die Sammlungen des Museums und Vermittlungspraktiken. In verschiedenen Projekten findet eine Beschäftigung mit dem Themenschwerpunkt koloniale Verflechtungen und Rassismus statt. Beispiel einer sichtbaren Auseinandersetzung mit dem Thema «Bern und der Kolonialismus» sind Interventionen an verschiedenen Stationen in der Dauerausstellung. Dabei werden ausgewählte [Objekte](#_Objekt) in den Fokus gerückt und zuvor unbeachtete koloniale Verflechtungen und deren Nachwirkungen aufgezeigt.  
 
 
-![alt:C:\\Users\\snmchug\\Downloads\\2023Lab_Interaktion-bild01.jpg, extra:](/images/image027.jpg)  
-
-Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern  
+![alt:C:\\Users\\snmchug\\Downloads\\2023Lab_Interaktion-bild01.jpg, extra:Abbildung 19: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern](/images/image026.jpg)  
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 
-![alt:C:\\Users\\snmchug\\Downloads\\2024Usakos.JPG, extra:](/images/image028.jpg)  
-
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern  
+![alt:C:\\Users\\snmchug\\Downloads\\2024Usakos.JPG, extra:Abbildung 20: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern](/images/image027.jpg)  
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.  
 
@@ -1223,7 +1202,7 @@ Ein zweites wichtiges Projekt war die Ausstellung «Koloniale Spuren – Sammlun
 Ein drittes Projekt umfasst die Denkmäler der ETH Zürich. Über 100 Gedenkobjekte auf dem gesamten Campus wurden auf ihre historischen Kontexte hin untersucht. Eine 2022 in Auftrag gegebene Studie zeigte, dass rund zwei Drittel der geehrten Persönlichkeiten koloniale, rassistische oder sexistische Positionen vertraten oder von kolonialen Strukturen profitierten. Diese Ergebnisse führten zur Entwicklung der «ETH Decol Initiative», die bis 2029 sowohl neue Forschungsprojekte zur Geschichte der Institution als auch Massnahmen zur kritischen Kontextualisierung von Denkmälern vorsieht. Erste Schritte beinhalten erläuternde Informationstafeln vor Ort sowie einen digitalen Rundgang[[171]](#footnote-172), der vertiefende Informationen zu den gewürdigten Personen bietet. Langfristig sollen künstlerische Interventionen neue Perspektiven auf die Erinnerungskultur eröffnen.  
 
 
-![alt:alt text, extra:Abbildung 21: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich](/images/image029.jpg)  
+![alt:alt text, extra:Abbildung 21: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich](/images/image028.jpg)  
 
 ## Fotostiftung Schweiz  
 
@@ -1259,7 +1238,7 @@ Wir sind bestrebt, die durch diese Arbeit gewonnene Sensibilisierung und Erfahru
 Vor uns liegt ein weiter Weg. Wir haben jedoch eine Richtung eingeschlagen, die zu einem geschärften Bewusstsein und neuem Umgang mit [Objekten](#_Objekt) und der Art und Weise, wie wir diese untersuchen, beschreiben, benennen und vermitteln, führt.  
 
 
-![alt:alt text, extra:Abbildung 22: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.-22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM](/images/image030.jpg)  
+![alt:alt text, extra:Abbildung 22: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.-22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM](/images/image029.jpg)  
 
 ## Museum für Kommunikation  
 
@@ -1280,7 +1259,7 @@ In der Folge liessen Céline Hug und Dario Donati in der Datenbank die notwendig
 Das SNM hat sich entschlossen, die von sensiblen Inhalten betroffenen [Objekte](#_Objekt) vorerst aus der Sammlung Online zu entfernen und gegebenenfalls nach deren kritischer Aufarbeitung wieder anzuzeigen.  
 
 
-![alt:alt text, extra:Abbildung 23: Schulklassenworkshop in der Ausstellung «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image031.jpg)  
+![alt:alt text, extra:Abbildung 23: Schulklassenworkshop in der Ausstellung «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image030.jpg)  
 
 ## Stiftung für Kunst, Kultur und Geschichte  
 
@@ -1321,7 +1300,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## M\*automat  
 
 
-![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
+![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image031.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -1378,7 +1357,7 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 ## Sparkasse  
 
 
-![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image033.jpg)  
+![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image032.jpg)  
 
 [[start:metadata]]
 
@@ -1428,7 +1407,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## **Stickvorlage**  
 
 
-![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -1459,7 +1438,7 @@ Inhaltshinweis: «Abwertende Sprache»
 Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
-![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image035.jpg)  
+![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image034.jpg)  
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des [Objekts](#_Objekt) wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem [Objekt](#_Objekt) somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von [Objekten](#_Objekt) des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
@@ -1485,7 +1464,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **«Schwarzer Peter»**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 [[start:metadata]]
 
@@ -1543,7 +1522,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **Pudding-Werbung**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 [[start:metadata]]
 
@@ -1601,7 +1580,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 
 ![alt:alt text, extra:  
-![alt:alt text, extra:](/images/image047.jpg) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image038.jpg)  
+![alt:alt text, extra:](/images/image046.jpg) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image037.jpg)  
 
 [[start:metadata]]
 
@@ -1647,7 +1626,7 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 ## **12 kleinen N\*lein**  
 
 
-![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image039.jpg)  
+![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image038.jpg)  
 
 [[start:metadata]]
 
@@ -1697,7 +1676,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 ## **Portraitserie**  
 
 
-![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image040.jpg)  
+![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image039.jpg)  
 
 [[start:metadata]]
 
@@ -1762,7 +1741,7 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 ## **Elektrische Reklame für eine Schuhcrème**  
 
 
-![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image041.jpg)  
+![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image040.jpg)  
 
 [[start:metadata]]
 
@@ -1812,7 +1791,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image042.jpg)  
+![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image041.jpg)  
 
 [[start:metadata]]
 
@@ -1868,7 +1847,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **Missionsn\*li**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image043.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image042.jpg)  
 
 [[start:metadata]]
 
@@ -1925,7 +1904,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 ## **Fotoreportage aus den USA**  
 
 
-![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image044.jpg)  
+![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image043.jpg)  
 
 [[start:metadata]]
 
@@ -1984,7 +1963,11 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Othering», «Segregation» und �
 
 ## Geschichte des Anti-Schwarzen-Rassismus in der Schweiz  
 
+[[start:citation]]
+
 «Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen Weissen und den von ihnen jeweils als ‹anders› hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als ‹Rasse› erfunden und rassistisch bewertet wurde bzw. wird.» (Noah Sow, (K)Erben des Kolonialismus im Wissensarchiv der deutschen Sprache, Ein kritisches Nachschlagewerk, S.38)  
+
+[[end:citation]]
 
 Im Bewusstsein dieser vielen verschiedenen und komplexen Beziehungsgefüge und in der Kenntnis darüber nur ansatzweise eine Lücke schliessen zu können und viele Aspekte ausklammern zu müssen, widmet sich die Arbeitsgruppe in diesem Handbuch exklusiv dem Anti-Schwarzen -Rassismus in der Schweiz. In diesem Zusammenhang wird der Versuch unternommen, die historischen Dimensionen aufzuarbeiten und Rassismus gegen Schwarze Personen in Beziehung globaler und nationaler sozial-, polit- und wirtschaftshistorischer Ereignisse zu setzen. Diese Kontextualisierung soll helfen, das daraus entstandene rassistische Wissen, die Glaubenssätze, Handlungen und identitären Muster sowie deren Einfluss in die strukturellen und diskursiven Machthierarchien und Wissensarchive darzulegen. Sie sind als Faktoren und Kontinuitäten aber auch als (Um-)Brüche und teils Konjunkturen zu verstehen, die Sammlungsinstitutionen über Jahrhunderte hinweg formten und Ausgang sind für die kritische Betrachtung der Bestände.  
 
@@ -1997,18 +1980,20 @@ Nach Noah Sow muss «jede Historisierung des Rassismus […] bei der Antike anse
 Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarze Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als Schwarze wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht-weisse Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als Schwarzer Mann dargestellt wird.  
 
 
-![alt:alt text, extra:](/images/image045.jpg)  
-
-Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM  
+![alt:alt text, extra:Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image044.jpg)  
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
 Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identität zu bilden. Mit den Kreuzzügen im 12. Jh. setzt eine Bedeutungserweiterung des «M\*»-Begriffs sowie eine veränderte Wahrnehmung Schwarzer Körper ein. Christliche Kreuzritter kommen im Nahen Osten und Ägypten intensiv mit Muslim:innen und immer wieder auch mit Schwarzen Soldaten in Kontakt. Auch zahlreiche Schweizer Adlige[[208]](#footnote-209) nehmen an den Kreuzzügen teil und sind mit der Ikonografie des «M\*en», die sich aus diesen Begegnungen entwickelt, vertraut. Nach Schär und Darman kommen drei Bedeutungsaspekte Schwarzer Körper hinzu:  
 
+[[start:citation]]
+
 «Erstens wurde der «M\*» zum Symbol für den ungläubigen Feind im Kampf um die heiligen Stätten im Nahen Osten. Der «M\*enkopf» stand in der Folge für diesen Kampf oder sogar für den Sieg über muslimische Menschen, symbolisiert in Form des abgeschlagenen Kopfes. Als Symbol fand er Eingang in die Heraldik und damit in die Gestaltung von verschiedenen Wappen. Zweitens faszinierte die fremde, reiche und in zahlreichen Bereichen überlegene muslimische Welt die Menschen in Europa. In diesem Zusammenhang verkörperte die Figur des «M\*en» Reichtum, Exotik, Reisen und den Fernhandel. Drittens wurde der «M\*» auch mit positiven Schwarzen Figuren wie dem Schwarzen König in Verbindung gebracht.»[[209]](#footnote-210)  
 
+[[end:citation]]
 
-![alt:alt text, extra:![](data:image/jpeg;base64...) Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image046.jpg)  
+
+![alt:alt text, extra:![](data:image/jpeg;base64...) Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image045.jpg)  
 
 #### *Frühe Neuzeit: Schwarze Körper als Eigentum und Statussymbol*  
 
@@ -2080,7 +2065,15 @@ Siehe hierzu für den deutschen Sprachgebrauch, vgl. Mattioli, Aram: Verlorene W
 
 ## Kolonialismus und Kolonialisierung  
 
-Jürgen Osterhammel definiert Kolonialismus wie folgt: *«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»* Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».  
+Jürgen Osterhammel definiert Kolonialismus wie folgt:  
+
+[[start:citation]]
+
+«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»  
+
+[[end:citation]]
+
+Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».  
 
 Siehe hierzu Osterhammel, Jürgen, Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 1995, 7. Auflage, S. 21.  
 
@@ -2113,6 +2106,8 @@ Eine Erfahrung, die die Arbeitsgruppe teilen kann, ist, dass es Zeit und Ressour
 Das Handbuch bildet einen Anfang: Es bietet nicht nur Hilfestellung in der Entwicklung eines Umgangs mit Anti-Schwarzem-Rassismus, sondern soll auch Wegbereiter sein für weitere Initiativen und Projekte, die sich anderen Diskriminierungsformen annehmen.  
 
 Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über konstruktives Feedback und darüber, mit anderen Arbeitsgruppen, Institutionen sowie Interessierten in Austausch zu treten: info@criticalGLAM.ch.  
+
+[[start:bib]]
 
 # Bibliografie  
 
@@ -2319,6 +2314,8 @@ Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<ht
 Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera (Hg.): Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Göttingen 2018, S. 31–44.  
 
 Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, musethno.uzh.ch, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.  
+
+[[end:bib]]
 
 # Impressum  
 

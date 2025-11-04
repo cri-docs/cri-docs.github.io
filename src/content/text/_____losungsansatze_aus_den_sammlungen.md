@@ -37,7 +37,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## 10.1 M\*automat  
 
 
-![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
+![alt:alt text, extra:Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image031.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -94,7 +94,7 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 ## 10.2 Sparkasse  
 
 
-![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image033.jpg)  
+![alt:alt text, extra:Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image032.jpg)  
 
 [[start:metadata]]
 
@@ -144,7 +144,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.3 **Stickvorlage**  
 
 
-![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+![alt:alt text, extra:Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -175,7 +175,7 @@ Inhaltshinweis: «Abwertende Sprache»
 Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
-![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image035.jpg)  
+![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons](/images/image034.jpg)  
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des [Objekts](#_Objekt) wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem [Objekt](#_Objekt) somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von [Objekten](#_Objekt) des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
@@ -201,7 +201,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.4 **«Schwarzer Peter»**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 [[start:metadata]]
 
@@ -259,7 +259,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.5 **Pudding-Werbung**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 [[start:metadata]]
 
@@ -317,7 +317,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 
 ![alt:alt text, extra:  
-![alt:alt text, extra:](/images/image047.jpg) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image038.jpg)  
+![alt:alt text, extra:](/images/image046.jpg) Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG](/images/image037.jpg)  
 
 [[start:metadata]]
 
@@ -363,7 +363,7 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 ## 10.7 **12 kleinen N\*lein**  
 
 
-![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image039.jpg)  
+![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image038.jpg)  
 
 [[start:metadata]]
 
@@ -413,7 +413,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 ## 10.8 **Portraitserie**  
 
 
-![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image040.jpg)  
+![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image039.jpg)  
 
 [[start:metadata]]
 
@@ -478,7 +478,7 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 ## 10.9 **Elektrische Reklame für eine Schuhcrème**  
 
 
-![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image041.jpg)  
+![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image040.jpg)  
 
 [[start:metadata]]
 
@@ -528,7 +528,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.10 ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image042.jpg)  
+![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image041.jpg)  
 
 [[start:metadata]]
 
@@ -584,7 +584,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.11 **Missionsn\*li**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image043.jpg)  
+![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image042.jpg)  
 
 [[start:metadata]]
 
@@ -641,7 +641,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 ## 10.12 **Fotoreportage aus den USA**  
 
 
-![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image044.jpg)  
+![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image043.jpg)  
 
 [[start:metadata]]
 
