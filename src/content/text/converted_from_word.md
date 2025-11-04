@@ -344,7 +344,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 1: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung : «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -372,7 +372,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 2: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
+Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
 
 [[start:literature]]
 
@@ -406,7 +406,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 3: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -580,7 +580,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 5: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
+Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)
 
@@ -700,7 +700,7 @@ Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vo
 
 ![](data:image/png;base64...)
 
-Abbildung 6: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
+Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[110]](#footnote-111) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.
 
@@ -769,7 +769,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
+Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
 
 #### **Auswirkungen von geweissten Räumen**
 
@@ -972,13 +972,14 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren
 
 Anpassungen im Frontend der Online-Sammlung
+
 [[**end:block]]**
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung 8: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1018,11 +1019,11 @@ Definition von Kriterien für Platzhalter
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](data:image/png;base64...)
 
-Abbildung 10:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
-Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
@@ -1062,9 +1063,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 **To-do**:
 
 * Archivierung des ursprünglichen Titels zur Wahrung des Kontextes
-* Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche:
-
-ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde zur Definierung eines neuen, deskriptiven Titels
+* Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche: ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde zur Definierung eines neuen, deskriptiven Titels
 
 [[end:block]]
 
@@ -1183,13 +1182,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg](data:image/jpeg;base64...)
 
-Abbildung 18: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
+Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![C:\Users\snmchug\Downloads\2024Usakos.JPG](data:image/jpeg;base64...)
 
-Abbildung 19: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
+Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
@@ -1595,7 +1594,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ![](data:image/png;base64...)
 
-Abbildung 29: Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0
+Abbildung : Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0
 
 ![](data:image/png;base64...)
 
@@ -2006,7 +2005,7 @@ Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwa
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM
+Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.
 
@@ -2580,7 +2579,7 @@ Version 1.0, November 2025
 133. Vgl. Venugopal, Arun: Museums as White Spaces, WNYC, 04.05.2015, <<https://www.wnyc.org/story/museums-white-spaces>>, Stand: 20.06.2024. – Domínguez, Silvia, Simón Weffer, und David G. Embrick: White sanctuaries: White supremacy, racism, space, and fine arts in two metropolitan museums, in: American Behavioral Scientist 64 (14), 2020, S. 2028–2043. – Klonk, Charlotte: Myth and Reality of the White Cube, in: From Museum Critique to the Critical Museum, Murawska-Muthesius, Katarzyna (Hg.), Burlington: Ashgate Publishing 2015, S. 67–79. [↑](#footnote-ref-134)
 134. BIPoC ist ein Akronym und steht für Black, Indigenous, and People of Color. [↑](#footnote-ref-135)
 135. Garfinkel, Harold: Ethnomethodology's Program, in: Social Psychology Quarterly 59 (1), 1996, S. 5–21. – Garfinkel, Harold: Studies in Ethnomethodology. Cambridge 1967. – Linstead, Stephen Andrew: Ethnomethodology and Sociology: An Introduction, in: Sociological Review 54 (3), 2006, S. 399–404. [↑](#footnote-ref-136)
-136. Der Begriff *safe spaces* beschreibt Räume oder Umgebungen, in denen sich Menschen sicher fühlen, sich ausdrücken können und in denen sie sich gesehen, gehört und akzeptiert fühlen, ohne Angst vor Diskriminierung, Kritik, Unglauben, Verurteilung, Belästigung oder anderen subtilen oder expliziten Formen emotionaler oder physischer Gewalt oder Überlegenheitsgebaren haben zu müssen. Vgl. Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < <https://www.goethe.de/prj/zei/en/art/22554555.html>>, Stand: 02.08.2024. – Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, [< https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/](https://ethz-my.sharepoint.com/personal/rospano_ethz_ch/Documents/Handbuch_Sammlungsdokumentation/%3C%20https%3A/www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean) >, Stand: 02.08.2024. - Onwuamaegbu, Natachi: Sichere Räume in der Gesellschaft schaffen., The Black and White: The Student News Site of Walt Whitman High School, Datum? < [www.theblackandwhite.net](http://www.theblackandwhite.net/)>, Stand: 02.08.2024.– Anderson, Derek: An Epistemological Conception of Safe Spaces. Social Epistemology 35 (3), 2021, S. 285–311.
+136. Der Begriff *safe spaces* beschreibt Räume oder Umgebungen, in denen sich Menschen sicher fühlen, sich ausdrücken können und in denen sie sich gesehen, gehört und akzeptiert fühlen, ohne Angst vor Diskriminierung, Kritik, Unglauben, Verurteilung, Belästigung oder anderen subtilen oder expliziten Formen emotionaler oder physischer Gewalt oder Überlegenheitsgebaren haben zu müssen. Vgl. Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < <https://www.goethe.de/prj/zei/en/art/22554555.html>>, Stand: 02.08.2024. – Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, [< https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/](https://ethz-my.sharepoint.com/personal/rospano_ethz_ch/Documents/Handbuch_Sammlungsdokumentation/%3C%20https%3A/www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean) >, Stand: 02.08.2024. - Onwuamaegbu, Natachi: Sichere Räume in der Gesellschaft schaffen., The Black and White: The Student News Site of Walt Whitman High School, Datum? < [www.theblackandwhite.net](http://www.theblackandwhite.net/%22%20%5Co%20%22http%3A//www.theblackandwhite.net/)>, Stand: 02.08.2024.– Anderson, Derek: An Epistemological Conception of Safe Spaces. Social Epistemology 35 (3), 2021, S. 285–311.
 
      Mehrere Forschende unterschiedlicher Disziplinen weisen jedoch darauf hin, dass *safe spaces* nicht per se sicher sind, da auch in diesen Räumen negativ konnotierte Erfahrungen gemacht werden können. Vgl. Karin Flensner; Marie Von der Lippe: Safe from what and safe for whom? A critical discussion of the conceptual metaphor of ‘safe space’, in: Intercultural Education 30 (3), 2019, S. 275–288. – Hill, David: Communication as a moral vocation: Safe space and freedom of speech. In: The Sociological Review 68 (1), 2020, S. 3–16. [↑](#footnote-ref-137)
 137. Janes, Robert R.: Museums in a Troubled World – Renewal, Irrelevance or Collapse? London 2009, S. 17. [↑](#footnote-ref-138)

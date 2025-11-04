@@ -81,4 +81,4 @@ Die Geschäftsleitungen der beteiligten Institutionen.
 Version 1.0, November 2025  
 
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)   
-![alt:alt text, extra:](/images/image047.jpg)
+![alt:alt text, extra:](/images/image048.jpg)
