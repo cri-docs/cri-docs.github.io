@@ -28,9 +28,9 @@
     top calc(var(--padding) - 1rem)
     left calc(var(--buttons-width) / 2)
     left calc(-2 * var(--buttons-width))
-    transform translate(-50%,0) rotate(0deg)
-    height 3rem
-    width 3rem
+    transform translate(calc(-50% - .2rem),0px) rotate(0deg)
+    height 2.5rem
+    width 2.5rem
     z-index 15
     cursor pointer
     transition left 0.5s
@@ -44,10 +44,12 @@
       transform translate(-100%, 0%)
       background-color var(--color)
       border-radius 50%
-      svg
-        display flex
-        justify-content center
-        align-items center
+    svg
+      display flex
+      justify-content center
+      align-items center
+      height 100%
+      width 100%
     &.isCollapsed
       left calc(var(--buttons-width) / 2)
       @media _mobile
@@ -74,9 +76,9 @@
       position relative
       margin 0
       font-family var(--font-header)
-      font-size calc(var(--welcome-font-size) * 1)
+      font-size calc(var(--welcome-font-size) * 0.85)
       // font-weight 900
-      letter-spacing 3px
+      // letter-spacing 3px
       hyphens auto
       // NEIN
       // font-size calc(var(--welcome-font-size)* 4)
@@ -88,9 +90,9 @@
       // width 400px
       margin 0
       font-family var(--font-header)
-      font-size calc(var(--welcome-font-size)* 1)
+      font-size calc(var(--welcome-font-size) * 0.8)
       line-height 1.02
-      letter-spacing 0.5px
+      // letter-spacing 0.5px
       hyphens auto
       // font-weight unset
     h1

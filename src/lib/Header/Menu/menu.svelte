@@ -78,7 +78,7 @@
 <div
   class={[
     styles.container,
-    !$menuIsOpen && !isMobile ? styles.isClosed : "",
+    !$menuIsOpen && !$isMobile ? styles.isClosed : "",
   ].join(" ")}
 >
   <button class={[styles.toggle, styles.open].join(" ")} onclick={toggle}>
