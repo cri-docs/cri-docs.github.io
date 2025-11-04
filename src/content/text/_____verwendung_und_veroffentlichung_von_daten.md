@@ -88,7 +88,12 @@ Die folgende Übersicht stellt aus den oben eruierten Umsetzungsstrategien fünf
 4. Individuelle Inhaltswarnungen  
 5. Allgemeine Inhaltswarnungen für die gesamte Sammlung  
 
+[[start:block]]
+
 Hinweis: Dieses Kapitel enthält weiterführende Links zu [Objekten](#_Objekt) in Online-Sammlungen, deren Titel möglicherweise diskriminierende Begriffe enthalten. Zudem enthalten die illustrativen Darstellungen der Benutzeroberflächen ein entsprechendes Beispiel.  
+
+[[end:block]]
+[[start:block]]
 
 Hinweis zur technischen Umsetzung in den To-do-Punkten: Eine Online-Sammlung besteht technisch aus zwei Teilen: dem sogenannten *Backend* (wo die Daten aus der internen Sammlungsdatenbank wie MuseumPlus, TMS, Axiell, FileMaker etc. importiert werden) und dem *Frontend* (was Nutzer:innen im *Browser* sehen und bedienen können). Wenn in den folgenden To-do-Listen von «Anpassungen im *Frontend* der Online-Sammlung» die Rede ist, bedeutet das z. B.:  
 
@@ -97,6 +102,7 @@ Hinweis zur technischen Umsetzung in den To-do-Punkten: Eine Online-Sammlung bes
 * Neue Buttons, Symbole oder Glossar-Verlinkungen einbauen  
 
 Diese Änderungen erfordern in der Regel eine Zusammenarbeit mit Web-Entwickler:innen oder einer Agentur, die die Online-Sammlung technisch betreut.  
+[[end:block]]
 
 Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. März 2025 überprüft.  
 
@@ -133,12 +139,18 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis  
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren  
-* Anpassungen im Frontend der Online-Sammlung  
 
-[[end:block]]
+Anpassungen im Frontend der Online-Sammlung  
+
+[[**end:block]]**  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...) Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image017.jpg)  
+
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler   
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image018.jpg)  
+
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -172,18 +184,22 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
-* Definition von Kriterien für Platzhalter  
 
+Definition von Kriterien für Platzhalter  
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image018.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:](/images/image019.jpg)  
+
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 
-![alt:alt text, extra:Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image019.jpg)  
+![alt:alt text, extra:](/images/image020.jpg)  
+
+Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 
-![alt:alt text, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image020.jpg)  
+![alt:alt text, extra:Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -219,14 +235,12 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 **To-do**:  
 
 * Archivierung des ursprünglichen Titels zur Wahrung des Kontextes  
-* Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche:  
-  + ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde  
-  + zur Definierung eines neuen, deskriptiven Titels  
+* Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche: ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde zur Definierung eines neuen, deskriptiven Titels  
 
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -267,13 +281,13 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
+![alt:alt text, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -295,7 +309,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 
 [[start:minus]]
 
-* Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen [Objekten](#_Objekt); dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen [Objekten](#_Objekt) inwiefern problematisch sind**.**  
+* Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen [Objekten](#_Objekt); dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen [Objekten](#_Objekt) inwiefern problematisch sind.  
 
 [[end:minus]]
 
@@ -311,7 +325,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
+![alt:alt text, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image026.jpg)  
 
 **Zusammenfassung:**  
 

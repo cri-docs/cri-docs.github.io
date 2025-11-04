@@ -14,6 +14,4 @@ Eine Erfahrung, die die Arbeitsgruppe teilen kann, ist, dass es Zeit und Ressour
 
 Das Handbuch bildet einen Anfang: Es bietet nicht nur Hilfestellung in der Entwicklung eines Umgangs mit Anti-Schwarzem-Rassismus, sondern soll auch Wegbereiter sein für weitere Initiativen und Projekte, die sich anderen Diskriminierungsformen annehmen.  
 
-Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über konstruktives Feedback und darüber, mit anderen Arbeitsgruppen, Institutionen sowie Interessierten in Austausch zu treten: info@criticalGLAM.ch.  
-
-[[start:bib]]
+Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über konstruktives Feedback und darüber, mit anderen Arbeitsgruppen, Institutionen sowie Interessierten in Austausch zu treten: info@criticalGLAM.ch.
