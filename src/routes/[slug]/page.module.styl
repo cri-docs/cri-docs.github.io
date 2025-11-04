@@ -341,7 +341,21 @@
 :global(.bib)
   padding-left 2ch
   text-indent -2ch
-    
+
+:global(.inline)
+  display inline
+  height 1em
+  transform translateY(0.15em)
+  > * 
+    height 100%
+  figure
+    height 100%
+    padding 0 
+    margin 0
+    img
+      height 100%
+      width auto
+      object-fit contain
 // [[end:blocks]]
 
 :global(.toc)
