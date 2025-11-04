@@ -203,6 +203,10 @@
       border-radius 999px
       color white
 
+  a
+    text-decoration underline
+    &:hover
+      color var(--color-secondary)
 
 // [[start:blocks]]
 :global(.literature)
@@ -259,13 +263,13 @@
   :global(.after)
     width calc(50% - 1rem)
 
-:global(.fullimage)
-  width calc(100vw - (var(--nav-width) - var(--padding) * 1))
-  img
-    width 80%
-    height 100%
-    object-fit cover
-    object-position center
+// :global(.fullimage)
+//   width calc(100vw - (var(--nav-width) - var(--padding) * 1))
+//   img
+//     width 80%
+//     height 100%
+//     object-fit cover
+//     object-position center
 
 
 :global(.comp)
