@@ -27,10 +27,27 @@
       const match = data.content.match(/---([\s\S]*?)---/)
       const betweenDashes = match ? match[1] : ""
       let content = data.content.replace(/---([\s\S]*?)---/, "").trim()
-      // let d =
-      //   "# Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] "
-      // d = "Communities, Sammlungen und Sorgfalt"
-      // content = content.split(d)[0] || content
+      // Find the position after "Einleitung"
+      const einleitungMatch = content.match(/# Einleitung/i)
+      if (einleitungMatch) {
+        const einleitungEnd = einleitungMatch.index + einleitungMatch[0].length
+        const beforeEinleitung = content.substring(0, einleitungEnd)
+        const afterEinleitung = content.substring(einleitungEnd)
+
+        const modifiedAfter = afterEinleitung
+          .replace(/\n# /g, (match, offset, string) => {
+            const beforeMatch = string.substring(0, offset)
+            const count = (beforeMatch.match(/\n# /g) || []).length + 2
+            return `\n# ${count}. `
+          })
+          .replace(/\n## /g, (match, offset, string) => {
+            const beforeMatch = string.substring(0, offset)
+            const h1Count = (beforeMatch.match(/\n# /g) || []).length + 1
+            const h2Count = (beforeMatch.match(/\n## /g) || []).length + 1
+            return `\n## ${h1Count}.${h2Count} `
+          })
+        content = beforeEinleitung + modifiedAfter
+      }
       return marked(content)
     }
   })
@@ -55,6 +72,39 @@
         {infoData.captionLanding}
       </figcaption>
     </figure>
+  </div>
+  <div class={printStyles.toc}>
+    <h2 class={printStyles.title}>Inhalt</h2>
+    {#each data.sites as site, index}
+      <div class={printStyles.nav}>
+        <div class={printStyles.set}>
+          <div class={printStyles.number}>
+            {#if site?.fields.index >= 1}{site?.fields?.index}{/if}
+          </div>
+          <div class={printStyles.text}>
+            {site?.fields?.title}
+          </div>
+        </div>
+        <div class={printStyles.subNav}>
+          {#each site?.fields?.toc as subToc}
+            {#if site?.fields.title !== "Glossar"}
+              <div class={printStyles.set}>
+                {#if site?.fields.index >= 1}
+                  <div class={printStyles.number}>
+                    {site?.fields?.index}.{subToc.title
+                      .split(" ")[0]
+                      .split(".")[1]}
+                  </div>
+                {/if}
+                <div class={printStyles.text}>
+                  {subToc.title.replace(subToc.title.split(" ")[0], "")}
+                </div>
+              </div>
+            {/if}
+          {/each}
+        </div>
+      </div>
+    {/each}
   </div>
   {#if mark}
     {@html mark}
