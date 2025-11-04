@@ -85,8 +85,7 @@
         {glossaryData?.[_id]?.name || "Begriff nicht im Glossar gefunden."}
       </span>
       <span class={styles.text}>
-        {marked.parseInline(glossaryData?.[_id]?.content || "")}
-        <!-- <Markdown mark={glossaryData?.[_id]?.content || ""} inline /> -->
+        {@html marked.parseInline(glossaryData?.[_id]?.content || "")}
       </span>
       <!-- {#if !$isMobile}
         <div class={styles.more}>klicken für ganzen Text</div>
