@@ -18,7 +18,7 @@ toc:
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)  
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)  
 
-**Kontakt:** mailto:info@criticalGLAM.ch  
+**Kontakt:** info@criticalGLAM.ch  
 
 **Konzept- und Projektbegleitung:**  
 [Danielle Isler](https://www.danielle-isler.com/)  

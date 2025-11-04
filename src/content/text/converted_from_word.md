@@ -1,5 +1,3 @@
-[[start:header]]
-
 [[start:title]]
 
 Rassismuskritische Dokumentation.
@@ -11,11 +9,11 @@ Rassismuskritische Dokumentation.
 Ein Handbuch für GLAM-Institutionen
 [[end:subtitle]]
 
+[headerimg]
+
 ![](data:image/jpeg;base64...)
 
 Abbildung : Projekt Reinigung und Registrierung, 2021, Stiftung für Kunst, Kultur und Geschichte, Winterthur. Foto: Bruno Augsburger, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
-
-[[end:header]]
 
 [[start:infobox]]
 
@@ -94,8 +92,6 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) ![](data:image/png;base64...)
 
 [[end:preface]]
-
-[[start:toc]]
 
 Inhalt
 
@@ -238,8 +234,6 @@ Inhalt
 [13 Bibliografie 133](#_Toc213054366)
 
 [14 Impressum 141](#_Toc213054367)
-
-[[end:toc]]
 
 # Einleitung
 
@@ -2328,7 +2322,7 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)
 
-**Kontakt:** mailto:info@criticalGLAM.ch
+**Kontakt:** info@criticalGLAM.ch
 
 **Konzept- und Projektbegleitung:**
 [Danielle Isler](https://www.danielle-isler.com/)
