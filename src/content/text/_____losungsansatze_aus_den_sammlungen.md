@@ -37,7 +37,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## 10.1 M\*automat  
 
 
-![alt:alt text, extra:Abbildung 23: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
+![alt:Figur eines Schwarzen Kriegers in goldfarbenem, reich verziertem Kostüm mit kurzen Plattenröcken. Die Figur trägt eine Krone, hält in der rechten Hand einen Bogen und in der linken ein filigranes silbernes Schild. Sie steht auf einem kunstvoll gearbeiteten Holzsockel., extra:Abbildung 23: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -94,7 +94,7 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 ## 10.2 Sparkasse  
 
 
-![alt:alt text, extra:Abbildung 24: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image033.jpg)  
+![alt:Ein Objekt bei dem es sich um eine mechanische Sparbüchse in Form einer Büste eines karikierten Schwarzen Mannes handelt. Er hat einen offenen Mund und eine Hand hält er vor dem Gesicht., extra:Abbildung 24: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -144,7 +144,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.3 **Stickvorlage**  
 
 
-![alt:alt text, extra:Abbildung 25: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+![alt:Rechteckiges Papierobjekt mit blauer Beschriftung und geometrischem Muster. Es ist eine Stickvorlage für Gardinen., extra:Abbildung 25: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -175,7 +175,7 @@ Inhaltshinweis: «Abwertende Sprache»
 Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
-![alt:C:\\Users\\snmchug\\Downloads\\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png, extra:Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)](/images/image035.jpg)  
+![alt:Zwei ovale, blau-weiße Garnetiketten mit Schriftzügen und Zierornamenten. Beide tragen Produktnamen und dekorative Rahmen., extra:Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)](/images/image035.jpg)  
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des [Objekts](#_Objekt) wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem [Objekt](#_Objekt) somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von [Objekten](#_Objekt) des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
@@ -201,7 +201,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.4 **«Schwarzer Peter»**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-15992_LM-43897.jpg, extra:Abbildung 27: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 [[start:metadata]]
 
@@ -259,7 +259,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.5 **Pudding-Werbung**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-23861_LM-140862.jpg, extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
+![alt:Reklameplakat mit einer gelben Puddingform, verziert mit einer kleinen Schwarzen Figur die das Dessert trägt. Oben steht der Schriftzug „Flandor“. Es ist eine historische Lebensmittelwerbung., extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
 
 [[start:metadata]]
 
@@ -321,7 +321,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 Abbildung : Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0  
 
 
-![alt:alt text, extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image039.jpg)  
+![alt:Drei kleine Holzfiguren aufgereiht nebeneinander. Sie tragen Zirkuskleidung oder Accessoires, die auf ihre Rollen hinweisen., extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image039.jpg)  
 
 [[start:metadata]]
 
@@ -367,7 +367,7 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 ## 10.7 **12 kleinen N\*lein**  
 
 
-![alt:alt text, extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image040.jpg)  
+![alt:Orange-grün eingefasstes Buch, dass auf dem Cover zwölf Schwarze Jungen zeigt. Sie steigen auf einen Berg an dessen Ende eine Klippe ist. Einer der jungen stürzt sich von der Klippe ins Maul eines Nilpferdes, das unten auf ihn wartet., extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image040.jpg)  
 
 [[start:metadata]]
 
@@ -482,7 +482,7 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 ## 10.9 **Elektrische Reklame für eine Schuhcrème**  
 
 
-![alt:alt text, extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image042.jpg)  
+![alt:Runde Werbereklame mit gelbem Hintergrund, auf der zwei schwarze Figuren zu sehen sind. Ein Schwarzer Junge putzt einem Herren im Anzug die Schuhe. Darüber steht der Schriftzug „Marga“ in roter Schrift., extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image042.jpg)  
 
 [[start:metadata]]
 
@@ -532,7 +532,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.10 ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:alt text, extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image043.jpg)  
+![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image043.jpg)  
 
 [[start:metadata]]
 
@@ -645,7 +645,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 ## 10.12 **Fotoreportage aus den USA**  
 
 
-![alt:Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung, extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image045.jpg)  
+![alt:Schwarz-weiss-Fotografie einer fröhlichen Gruppe von Schwarzen Menschen, die im Freien in die Kamera lachen. Einige heben die Hände zum Gruss, Bäume sind im Hintergrund sichtbar., extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image045.jpg)  
 
 [[start:metadata]]
 
