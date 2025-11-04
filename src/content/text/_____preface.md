@@ -50,4 +50,5 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 
 ![alt:alt text, extra:](/images/image008.jpg)  
 
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) 
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)   
+![alt:alt text, extra:](/images/image009.jpg)
