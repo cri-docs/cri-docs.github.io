@@ -8,6 +8,8 @@ color: "default"
 toc:
 ---
 
+[[start:bib]]
+
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.  
 
 Apraku, Josephine: Mein Workbook zu Rassismus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023.  

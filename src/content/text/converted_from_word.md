@@ -344,7 +344,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 2: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 1: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -372,7 +372,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 3: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
+Abbildung 2: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
 
 [[start:literature]]
 
@@ -406,7 +406,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 4: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 3: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -463,7 +463,7 @@ Die Herausforderung der Museen besteht heute darin, die Geschichte und das epist
 
 ![Ein Bild, das Schuhwerk, Person, Boden, Im Haus enthält.](data:image/jpeg;base64...)
 
-Abbildung 5: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf
+Abbildung 4: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf
 
 Ein Beispiel für eine Neugestaltung einer problematischen musealen Inszenierung ist die Performance «Wayward Dust» (2020) der Künstlerin Monilola Olayemi Ilupeju. Sie entstaubte im wörtlichen Sinne ein veraltetes Museumsdispositiv des Deutschen Technikmuseums, bevor dieses abgebaut und entsorgt wurde, da es eine rassistische Sicht auf versklavte Menschen in einem Frachtraum replizierte (Abb. 1). Der von der Künstlerin sichergestellte Staub hatte sich in den letzten Jahrzehnten auf den nackten, Schwarzen Körpern der lebensgrossen Ausstellungspuppen angesammelt. Staub im Museum ist ein praktisches Problem, berührt aber auch Fragen von Besitzverhältnissen, Materialität sowie Zeitlichkeit.[[73]](#footnote-74) Er versinnbildlicht die Musealisierung selbst, den Wandel von [Objekten](#_Objekt) zu Erinnerungs- und Bedeutungsträgern innerhalb des Museums sowie die im Laufe der Zeit stets neu zu hinterfragenden Praktiken der Konstruktion und Vermittlung von Wissen. [[end:external]]
 
@@ -580,7 +580,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 6: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
+Abbildung 5: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[81]](#footnote-82)
 
@@ -700,7 +700,7 @@ Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vo
 
 ![](data:image/png;base64...)
 
-Abbildung 7: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
+Abbildung 6: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[110]](#footnote-111) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.
 
@@ -769,7 +769,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 8: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
+Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
 
 #### **Auswirkungen von geweissten Räumen**
 
@@ -919,15 +919,17 @@ Die folgende Übersicht stellt aus den oben eruierten Umsetzungsstrategien fünf
 4. Individuelle Inhaltswarnungen
 5. Allgemeine Inhaltswarnungen für die gesamte Sammlung
 
-Hinweis: Dieses Kapitel enthält weiterführende Links zu [Objekten](#_Objekt) in Online-Sammlungen, deren Titel möglicherweise diskriminierende Begriffe enthalten. Zudem enthalten die illustrativen Darstellungen der Benutzeroberflächen ein entsprechendes Beispiel.
+[[start:block]]
 
-Hinweis zur technischen Umsetzung in den To-do-Punkten: Eine Online-Sammlung besteht technisch aus zwei Teilen: dem sogenannten *Backend* (wo die Daten aus der internen Sammlungsdatenbank wie MuseumPlus, TMS, Axiell, FileMaker etc. importiert werden) und dem *Frontend* (was Nutzer:innen im *Browser* sehen und bedienen können). Wenn in den folgenden To-do-Listen von «Anpassungen im *Frontend* der Online-Sammlung» die Rede ist, bedeutet das z. B.:
-
+* + - 1. Hinweis: Dieses Kapitel enthält weiterführende Links zu [Objekten](#_Objekt) in Online-Sammlungen, deren Titel möglicherweise diskriminierende Begriffe enthalten. Zudem enthalten die illustrativen Darstellungen der Benutzeroberflächen ein entsprechendes Beispiel.
+      2. Hinweis zur technischen Umsetzung in den To-do-Punkten: Eine Online-Sammlung besteht technisch aus zwei Teilen: dem sogenannten *Backend* (wo die Daten aus der internen Sammlungsdatenbank wie MuseumPlus, TMS, Axiell, FileMaker etc. importiert werden) und dem *Frontend* (was Nutzer:innen im *Browser* sehen und bedienen können). Wenn in den folgenden To-do-Listen von «Anpassungen im *Frontend* der Online-Sammlung» die Rede ist, bedeutet das z. B.:
 * Texte oder Warnhinweise auf der Webseite sichtbar machen
 * Gestaltung oder Sichtbarkeit von Bildern oder Titeln ändern
 * Neue Buttons, Symbole oder Glossar-Verlinkungen einbauen
 
 Diese Änderungen erfordern in der Regel eine Zusammenarbeit mit Web-Entwickler:innen oder einer Agentur, die die Online-Sammlung technisch betreut.
+
+[[end:block]]
 
 Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. März 2025 überprüft.
 
@@ -965,14 +967,13 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren
 * Anpassungen im Frontend der Online-Sammlung
-
-**[[end:block]]**
+  [[**end:block]]**
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
+Abbildung 8: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
 
-Abbildung 10: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1007,20 +1008,19 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 
 * Anpassungen im Frontend der Online-Sammlung
 * Definition von Kriterien für Platzhalter
-
-[[end:block]]
+  [[end:block]]
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](data:image/png;base64...)
+
+Abbildung 10:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+
+![](data:image/png;base64...)
 
 Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![](data:image/png;base64...)
 
-Abbildung 12:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
-
-![](data:image/png;base64...)
-
-Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (3) Titel neu formulieren
 
@@ -1064,7 +1064,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp](data:image/png;base64...)
 
-Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (4) Individuelle Inhaltswarnungen
 
@@ -1106,15 +1106,15 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 
 ![](data:image/png;base64...)
 
-Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp](data:image/png;base64...)
 
-Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp](data:image/png;base64...)
 
-Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (5) Allgemeine Inhaltswarnung
 
@@ -1136,7 +1136,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 
 **[[start:minus]]**
 
-* Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen [Objekten](#_Objekt); dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen [Objekten](#_Objekt) inwiefern problematisch sind**.**
+* Bietet keine rassismuskritische Auseinandersetzung mit den einzelnen [Objekten](#_Objekt); dementsprechend können Nutzer:innen gar nicht wissen, welche von diesen [Objekten](#_Objekt) inwiefern problematisch sind.
 
 **[[end:minus]]**
 
@@ -1153,7 +1153,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 
 ![](data:image/png;base64...)
 
-Abbildung 18: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 **Zusammenfassung:**
 
@@ -1177,13 +1177,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![C:\Users\snmchug\Downloads\2023Lab_Interaktion-bild01.jpg](data:image/jpeg;base64...)
 
-Abbildung 19: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
+Abbildung 18: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![C:\Users\snmchug\Downloads\2024Usakos.JPG](data:image/jpeg;base64...)
 
-Abbildung 20: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
+Abbildung 19: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
@@ -1203,7 +1203,7 @@ Ein drittes Projekt umfasst die Denkmäler der ETH Zürich. Über 100 Gedenkobje
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 21: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich
+Abbildung 20: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich
 
 ## Fotostiftung Schweiz
 
@@ -1240,7 +1240,7 @@ Vor uns liegt ein weiter Weg. Wir haben jedoch eine Richtung eingeschlagen, die 
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 22: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.-22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 21: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.-22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM
 
 ## Museum für Kommunikation
 
@@ -1262,7 +1262,7 @@ Das SNM hat sich entschlossen, die von sensiblen Inhalten betroffenen [Objekte](
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 23: Schulklassenworkshop in der Ausstellung «kolonial - Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 22: Schulklassenworkshop in der Ausstellung «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 ## Stiftung für Kunst, Kultur und Geschichte
 
@@ -1304,7 +1304,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 24: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM
+Abbildung 23: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM
 
 [[start:metadata]]
 [[start:before]]
@@ -1362,7 +1362,7 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 25: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.
+Abbildung 24: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.
 
 [[start:metadata]]
 
@@ -1413,7 +1413,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 ![](data:image/jpeg;base64...)
 
-Abbildung 26: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM
+Abbildung 25: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM
 
 [[start:metadata]]
 [[start:before]]
@@ -1445,7 +1445,7 @@ Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmuste
 
 ![C:\Users\snmchug\Downloads\Garnkarte_für_Neger-Garn_der_Firma_Gebr._Wolf_aus_Neukirch-Pleisse_(Sachsen)_vor_1960.png](data:image/png;base64...)
 
-Abbildung 27: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons
+Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des [Objekts](#_Objekt) wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem [Objekt](#_Objekt) somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von [Objekten](#_Objekt) des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.
 
@@ -1472,7 +1472,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg](data:image/jpeg;base64...)
 
-Abbildung 28: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM
+Abbildung 27: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM
 
 [[start:metadata]]
 
@@ -1531,7 +1531,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg](data:image/jpeg;base64...)
 
-Abbildung 29: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM
+Abbildung 28: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM
 
 [[start:metadata]]
 
@@ -1587,9 +1587,13 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 ## Puppenspiel
 
-![](data:image/png;base64...)![](data:image/png;base64...)
+![](data:image/png;base64...)
 
-Abbildung 30: Puppe, Inv. 44618.01, um 1910. Stiftung für Kunst Kultur und Geschichte © SKKG
+Abbildung 29: Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0
+
+![](data:image/png;base64...)
+
+Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
 [[start:metadata]]
 
@@ -2038,9 +2042,18 @@ Pierre-Louis Blanchard ist wissenschaftlicher Mitarbeiter am Schweizerischen Nat
 
 [[start:external]]
 
-Wer heute von Künstlicher Intelligenz (KI)[[219]](#footnote-220) spricht, meint typischerweise Anwendungen, die auf maschinellem Lernen basieren. Dabei kommen künstliche neuronale Netze zum Einsatz. Das sind rechnergestützte mathematische Modelle, die mit grossen Mengen an Trainingsdaten «gefüttert» werden. Diese Trainingsdaten können Texte, Bilder oder andere Informationen sein, je nach Anwendungsbereich der KI. Eine KI wird «trainiert» indem sie versucht, Probleme mit bekannten Lösungen mit Hilfe statistischer Muster und anhand von (Trainings)Daten zu bearbeiten. Sie unternimmt eine extrem grosse Anzahl an Versuchen, bis sie eine passende Lösung gefunden hat. Die KI «lernt» auf diese Weise selbst, das Problem zu bewältigen – im Gegensatz zum herkömmlichen Programmieren, wo Lösungswege direkt von Menschen einprogrammiert werden. Deshalb spricht man von maschinellem Lernen. Ist eine KI erst einmal trainiert, können neue Probleme anhand der gelernten Muster gelöst werden. Diese Technik eröffnet vielfältige Anwendungsmöglichkeiten, zum Beispiel das Erkennen und Erzeugen von Texten, Bildern oder Sprache und Gesprochenem, autonomes Fahren oder Spamfilter, um nur einige zu nennen. Eine KI denkt nicht und hat kein Verständnis für Ethik oder Moral. Sie spiegelt nur die Muster wider, die in den Trainingsdaten enthalten sind. Grosse KI-Modelle von Unternehmen wie OpenAI, Meta oder Google greifen auf riesige Mengen an Daten aus dem gesamten Internet zurück, einschliesslich grosser digitaler Archive wie dem Wikiverse, dem Internet Archive oder Google Books – und damit auch auf deren problematische Seiten. Da Rassismus und Diskriminierung allgegenwärtige gesellschaftliche Realitäten sind, spiegeln sich diese Muster – offen oder latent – auch in diesen Quellen wider. Eine unkritische Nutzung von KI kann daher dazu führen, dass rassistische und diskriminierende Strukturen und Ideologien fortgeschrieben werden. Diese können auch in strukturellen Mustern in Erscheinung treten, die schwer zu erkennen sind. Ein Beispiel für latente, diskriminierende Inhalte sind KI-erstellte Bilder, in denen bestimmte Berufe oder Tätigkeiten stereotypisch Personen eines bestimmten Geschlechts oder einer bestimmten Hautfarbe zugeordnet werden.[[220]](#footnote-221) Um dem entgegenzuwirken, werden bereits heute Regulationsmassnahmen eingesetzt.[[221]](#footnote-222) Automatische Programme (Bots) rufen beim sogenannten «scraping» GLAM-Daten z.B. über Online-Sammlungen und Archive oder Drittanbieter wie Wikimedia ab. So fliessen auch diese Daten in die KI-Modelle ein. Damit haben GLAM-Institutionen bei der Zurverfügungstellung ihrer Daten eine besondere Verantwortung, da auch ihre Bestände potenziell rassistische oder anderweitig diskriminierende Inhalte aufweisen können. Zum Beispiel können historische Fotografien mit Bildunterschriften und -beschreibungen auf vielfältige Weise rassistisch oder diskriminierend sein, sei es latent durch dargestellte Machtstrukturen zwischen dargestellten Personen, oder offen durch rassistische und andere diskriminierende Begriffe und Ausdrücke in Bildbeschreibungen. Durch das Eingreifen beim Training von KI-Modellen oder durch eine rassismuskritische Überarbeitung der Datensätze, kann der Fortschreibung von Rassismus und Diskriminierung entgegengewirkt werden. Die KI kann aber auch als Werkzeug genutzt werden, um rassistische und diskriminierende Inhalte in Daten aufzuspüren. Diese Nutzung von KI findet in vereinzelten Fällen schon Anwendung, so zum Beispiel mit dem *DE-BIAS*-Tool der Europeana, mit dem dank KI-Unterstützung nach sensiblen Begriffen in Texten gesucht werden kann.[[222]](#footnote-223)
+Wer heute von Künstlicher Intelligenz (KI)[[219]](#footnote-220) spricht, meint typischerweise Anwendungen, die auf maschinellem Lernen basieren. Dabei kommen künstliche neuronale Netze zum Einsatz. Das sind rechnergestützte mathematische Modelle, die mit grossen Mengen an Trainingsdaten «gefüttert» werden. Diese Trainingsdaten können Texte, Bilder oder andere Informationen sein, je nach Anwendungsbereich der KI. Eine KI wird «trainiert» indem sie versucht, Probleme mit bekannten Lösungen mit Hilfe statistischer Muster und anhand von (Trainings)Daten zu bearbeiten. Sie unternimmt eine extrem grosse Anzahl an Versuchen, bis sie eine passende Lösung gefunden hat. Die KI «lernt» auf diese Weise selbst, das Problem zu bewältigen – im Gegensatz zum herkömmlichen Programmieren, wo Lösungswege direkt von Menschen einprogrammiert werden. Deshalb spricht man von maschinellem Lernen. Ist eine KI erst einmal trainiert, können neue Probleme anhand der gelernten Muster gelöst werden. Diese Technik eröffnet vielfältige Anwendungsmöglichkeiten, zum Beispiel das Erkennen und Erzeugen von Texten, Bildern oder Sprache und Gesprochenem, autonomes Fahren oder Spamfilter, um nur einige zu nennen. Eine KI denkt nicht und hat kein Verständnis für Ethik oder Moral. Sie spiegelt nur die Muster wider, die in den Trainingsdaten enthalten sind. Grosse KI-Modelle von Unternehmen wie OpenAI, Meta oder Google greifen auf riesige Mengen an Daten aus dem gesamten Internet zurück, einschliesslich grosser digitaler Archive wie dem Wikiverse, dem Internet Archive oder Google Books – und damit auch auf deren problematische Seiten. Da Rassismus und Diskriminierung allgegenwärtige gesellschaftliche Realitäten sind, spiegeln sich diese Muster – offen oder latent – auch in diesen Quellen wider. Eine unkritische Nutzung von KI kann daher dazu führen, dass rassistische und diskriminierende Strukturen und Ideologien fortgeschrieben werden. Diese können auch in strukturellen Mustern in Erscheinung treten, die schwer zu erkennen sind. Ein Beispiel für latente, diskriminierende Inhalte sind KI-erstellte Bilder, in denen bestimmte Berufe oder Tätigkeiten stereotypisch Personen eines bestimmten Geschlechts oder einer bestimmten Hautfarbe zugeordnet werden.[[220]](#footnote-221) Um dem entgegenzuwirken, werden bereits heute Regulationsmassnahmen eingesetzt.[[221]](#footnote-222) Automatische Programme (Bots) rufen beim sogenannten «scraping» GLAM-Daten z.B. über Online-Sammlungen und Archive oder Drittanbieter wie Wikimedia ab. So fliessen auch diese Daten in die KI-Modelle ein. Damit haben GLAM-Institutionen bei der Zurverfügungstellung ihrer Daten eine besondere Verantwortung, da auch ihre Bestände potenziell rassistische oder anderweitig diskriminierende Inhalte aufweisen können. Zum Beispiel können historische Fotografien mit Bildunterschriften und -beschreibungen auf vielfältige Weise rassistisch oder diskriminierend sein, sei es latent durch dargestellte Machtstrukturen zwischen dargestellten Personen, oder offen durch rassistische und andere diskriminierende Begriffe und Ausdrücke in Bildbeschreibungen. Durch das Eingreifen beim Training von KI-Modellen oder durch eine rassismuskritische Überarbeitung der Datensätze, kann der Fortschreibung von Rassismus und Diskriminierung entgegengewirkt werden. Die KI kann aber auch als Werkzeug genutzt werden, um rassistische und diskriminierende Inhalte in Daten aufzuspüren. Diese Nutzung von KI findet in vereinzelten Fällen schon Anwendung, so zum Beispiel mit dem *DE-BIAS* Tool der Europeana, mit dem dank KI-Unterstützung nach sensiblen Begriffen in Texten gesucht werden kann.[[222]](#footnote-223)
 
 [[end:external]]
+
+[[start:literature]]
+
+ICOM Schweiz, Webdossier zu KI im Museum: <<https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html>>, Stand: 01.10.2025.
+
+* Bianchi, Federico, Kalluri, Pratyusha, Durmus, Esin u. a.: Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale, in: 2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago IL USA 2023, S.1493–1504, <<https://doi.org/10.1145/3593013.3594095>>, Stand: 12.08.2025.
+* The DE-BIAS Tool, Europeana PRO, <<https://pro.europeana.eu/page/the-de-bias-tool>>, Stand: 13.08.2025.
+
+[[end:literature]]
 
 # Glossar
 
@@ -2048,9 +2061,7 @@ Das Glossar, das die AG hier zusammengestellt hat, bezieht sich auf Begriffe, di
 
 ## BIPoC
 
-BIPoC ist ein Akronym für *Black, Indigenous and People of Color*. PoC steht für *People of Color*. Beide Begriffe kommen aus dem englischen Sprachgebrauch und stellen einen gegenwärtigen Referenzrahmen für nichtweisse Menschen dar, die aufgrund ihrer Rassifizierung Rassismuserfahrungen machen.
-
-Siehe hierzu: Dos Santos Pinto, Jovita. Un/doing race, S. 13.
+BIPoC ist ein Akronym für *Black, Indigenous and People of Color*. PoC steht für *People of Color*. Beide Begriffe kommen aus dem englischen Sprachgebrauch und stellen einen gegenwärtigen Referenzrahmen für nichtweisse Menschen dar, die aufgrund ihrer Rassifizierung Rassismuserfahrungen machen.[[223]](#footnote-224)
 
 ## Community und Herkunftsgesellschaft
 
@@ -2058,9 +2069,9 @@ Begriffe wie «Herkunftsgesellschaft» und «Community» können im Zusammenhang
 
 ## «Rassifizierte Communities»
 
-Die Idee, dass Menschen, die in der sozialen Interaktion von Rassifizierungsprozessen betroffen sind, zwangsläufig «Communities» konstituieren, ist im anglo-amerikanischen Raum seit dem 20. Jh. stark verbreitet, wo es seit der Segregation allgemein eine prononcierte Tendenz gibt, die Gesellschaft als eine Summe von vielen «Communities» zu lesen, in denen die Mitgliedschaft durch einzelne Eigenschaften gegeben ist. Diese Leseart wurde teils unhinterfragt auf die zeitgenössische europäische Bevölkerung übernommen. Wie der Historiker Pap Ndiaye, der sowohl zur Geschichte der US-Afroamerikaner als auch zur schwarzen Bevölkerung in Frankreich gearbeitet hat, auf überzeugende Weise darzulegen wusste, wäre es für europäische Gesellschaften, die im Unterschied zu den amerikanischen nicht aus kolonialen Sklavenhaltergesellschaften hervorgegangen sind, verfehlt, von einer «communauté noire» zu sprechen. Eine solche gibt es gemäss Ndiaye in Frankreich nicht: zu heterogen seien die Schwarzen in Frankreich in Bezug auf ihre Herkunft, soziale Lage, Sprache, Religion, Staatsbürgerschaft. Es gebe keine soziale Interaktion und gemeinschaftliche Organisation, die eine panschwarze Community hervorbringen würde. Französische Staatsbürger aus den Karibikdepartements, deren Familien auf den transatlantischen Handel mit versklavten Menschen zurückgehen, und postkoloniale Immigranten aus Afrika bilden in Frankreich weder eine «schwarze Community», noch vermischen sich die unterschiedlichen afrikanischen Immigrantengruppen – wie etwa die mehrheitlich muslimischen Senegales:innen und die mehrheitlich christlichen Kongoles:innen – zu einer einheitlichen «afrikanischen Community». Was es hingegen sehr wohl gibt, ist eine «condition noire», die Menschen schwarzer Hautfarbe in ihrer Interaktion mit Behörden, Medien und Nicht-Schwarzen teilen. Aus dieser «condition noire», wovon Rassismuserfahrung eine zentrale Komponente darstellt, erwächst zwar durchaus eine «identité noire», aber keine «communauté». Das heisst, dass in Frankreich nicht zwingend eine Community, wie man sie im amerikanischen Raum beobachten kann, existiert. Diese Heterogenität, die Ndiaye im französischen Kontext und in Bezug auf die Sprache, Herkunft etc. feststellt, kann auch auf die Schweiz übertragen werden. Unabhängig davon wird der Begriff zum Teil von verschiedenen Schwarzen für sich und die Gemeinschaften, in denen sie sich bewegen, übernommen: Es gibt Webseiten, Vereine, Individuen etc., die von einer bzw. im Namen einer «Black Community» oder «afrikanischen Community» sprechen. In diesem Zusammenhang versteht die AG den Begriff als «Selbstbezeichnung» für diese Organisationsform, der mit diesem Hintergrund für das Handbuch übernommen wird.
+Die Idee, dass Menschen, die in der sozialen Interaktion von Rassifizierungsprozessen betroffen sind, zwangsläufig «Communities» konstituieren, ist im anglo-amerikanischen Raum seit dem 20. Jh. stark verbreitet, wo es seit der Segregation allgemein eine prononcierte Tendenz gibt, die Gesellschaft als eine Summe von vielen «Communities» zu lesen, in denen die Mitgliedschaft durch einzelne Eigenschaften gegeben ist. Diese Leseart wurde teils unhinterfragt auf die zeitgenössische europäische Bevölkerung übernommen. Wie der Historiker Pap Ndiaye, der sowohl zur Geschichte der US-Afroamerikaner[[224]](#footnote-225) als auch zur schwarzen Bevölkerung in Frankreich[[225]](#footnote-226) gearbeitet hat, auf überzeugende Weise darzulegen wusste, wäre es für europäische Gesellschaften, die im Unterschied zu den amerikanischen nicht aus kolonialen Sklavenhaltergesellschaften hervorgegangen sind, verfehlt, von einer «communauté noire» zu sprechen. Eine solche gibt es gemäss Ndiaye in Frankreich nicht: zu heterogen seien die Schwarzen in Frankreich in Bezug auf ihre Herkunft, soziale Lage, Sprache, Religion, Staatsbürgerschaft. Es gebe keine soziale Interaktion und gemeinschaftliche Organisation, die eine panschwarze Community hervorbringen würde. Französische Staatsbürger aus den Karibikdepartements, deren Familien auf den transatlantischen Handel mit versklavten Menschen zurückgehen, und postkoloniale Immigranten aus Afrika bilden in Frankreich weder eine «schwarze Community», noch vermischen sich die unterschiedlichen afrikanischen Immigrantengruppen – wie etwa die mehrheitlich muslimischen Senegales:innen und die mehrheitlich christlichen Kongoles:innen – zu einer einheitlichen «afrikanischen Community». Was es hingegen sehr wohl gibt, ist eine «condition noire», die Menschen schwarzer Hautfarbe in ihrer Interaktion mit Behörden, Medien und Nicht-Schwarzen teilen. Aus dieser «condition noire», wovon Rassismuserfahrung eine zentrale Komponente darstellt, erwächst zwar durchaus eine «identité noire», aber keine «communauté». Das heisst, dass in Frankreich nicht zwingend eine Community, wie man sie im amerikanischen Raum beobachten kann, existiert. Diese Heterogenität, die Ndiaye im französischen Kontext und in Bezug auf die Sprache, Herkunft etc. feststellt, kann auch auf die Schweiz übertragen werden. Unabhängig davon wird der Begriff zum Teil von verschiedenen Schwarzen für sich und die Gemeinschaften, in denen sie sich bewegen, übernommen: Es gibt Webseiten, Vereine, Individuen etc., die von einer bzw. im Namen einer «Black Community» oder «afrikanischen Community» sprechen. In diesem Zusammenhang versteht die AG den Begriff als «Selbstbezeichnung» für diese Organisationsform, der mit diesem Hintergrund für das Handbuch übernommen wird.
 
-Siehe hierzu Ndiaye, Pap : Les Noirs américains en marche pour l’égalité, Paris 2009. und Ndiaye, Pap : La condition noire : essai sur une minorité française, Paris 2011.
+Siehe hierzu und
 
 ## Dekolonisierung und Dekolonialismus
 
@@ -2070,15 +2081,11 @@ Diese Debatte wirft wichtige Fragen über Ethik, Kultur, Identität und die Roll
 
 ## Exotismus und exotisierend
 
-Das Adjektiv ‹exotisch› bedeutet ‹aus fernen Ländern stammend, fremdländisch› und wurde im 17. Jh. aus dem Lateinischen exōticus (= «ausländisch, fremd») und Griechischen exōtikós (= «aussen, auswärts, ausserhalb») entlehnt. Daraus erschliesst sich, dass der Blick auf etwas vermeintlich «Exotisches» ein eurozentrischer und (kolonial-)historisch geprägter ist. Der Begriff «Exotismus» im Kontext von Kunst und Design birgt gerade in Bezug der rassismuskritischen Dokumentationspraxis eine gewisse Doppeldeutigkeit. Einerseits bezeichnet er eine bestimmte Ästhetik oder einen Stil, der von nicht-europäischen Kontexten geprägt ist. Dieser geht vor allem auf die Wahrnehmung von «fremden» Kulturen aus und schliesst eine Faszination ein. Andererseits wird er aber im kolonialen Kontext auch als Wahrnehmung von kolonialisierten Gesellschaften beschrieben, die abwertend und rassistisch ist. «Exotisierend» ist nicht nur eine Wahrnehmung oder Denkweise, sondern die aktive Handlung, die das Bild verzerrt, stereotypisiert und rassifiziert. Im Kontext der kolonialen Rezeptionsobjekte, die in Sammlungen zu finden sind, empfiehlt es sich, von einer «Exotisierung» zu sprechen.
-
-Siehe hierzu «exotisch», bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, <<https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025, Danielzik, C., Bendix, D.: Exotik / exotisch, in: Ofuatey-Alazard und Arndt: Wie Rassismus aus Wörtern spricht, S. 633.
+Das Adjektiv ‹exotisch› bedeutet ‹aus fernen Ländern stammend, fremdländisch› und wurde im 17. Jh. aus dem Lateinischen exōticus (= «ausländisch, fremd») und Griechischen exōtikós (= «aussen, auswärts, ausserhalb») entlehnt.[[226]](#footnote-227) Daraus erschliesst sich, dass der Blick auf etwas vermeintlich «Exotisches» ein eurozentrischer und (kolonial-)historisch geprägter ist.[[227]](#footnote-228) Der Begriff «Exotismus» im Kontext von Kunst und Design birgt gerade in Bezug der rassismuskritischen Dokumentationspraxis eine gewisse Doppeldeutigkeit. Einerseits bezeichnet er eine bestimmte Ästhetik oder einen Stil, der von nicht-europäischen Kontexten geprägt ist. Dieser geht vor allem auf die Wahrnehmung von «fremden» Kulturen aus und schliesst eine Faszination ein. Andererseits wird er aber im kolonialen Kontext auch als Wahrnehmung von kolonialisierten Gesellschaften beschrieben, die abwertend und rassistisch ist. «Exotisierend» ist nicht nur eine Wahrnehmung oder Denkweise, sondern die aktive Handlung, die das Bild verzerrt, stereotypisiert und rassifiziert. Im Kontext der kolonialen Rezeptionsobjekte, die in Sammlungen zu finden sind, empfiehlt es sich, von einer «Exotisierung» zu sprechen.
 
 ## Indigen
 
-In diesem Jahrhundert ist das kolonialrassistisch geprägte Wort «Eingeborene» zurecht in Verruf geraten. Zugleich wurde es in der deutschen Wissenschaftssprache zunehmend durch «indigen»/«Indigene» ersetzt. Die deutsche Wissenschaftssprache hat – wie so oft – dieses Wort aus dem Englischen (= «indigenous») übernommen. Mittlerweile gelten «indigen»/«Indigene» landläufig als die neutrale/nicht-diskriminierende Bezeichnung für kolonisierte/ehemals kolonisierte oder – noch weiter gefasst – ganz allgemein für aussereuropäische Ethnien. In Lateinamerika wird «indigena» zudem von Angehörigen amerindischer Bevölkerungsgruppen zum Teil als positive Selbstbezeichnung benutzt – in ablehnender Abgrenzung zu «indio». Die Verwendung der Wörter «indigen»/«Indigen» kann je nach Situation Sinn ergeben. Die Idee, wonach sie ganz allgemein «problemlos» sei, wäre jedoch ahistorisch, und zwar aus folgenden Gründen: (a) Etymologisch ist «Indigene» gleichbedeutend mit *natives* und «Eingeborene» (= «im Land geboren/im Ort geboren»). All diese Begriffe vermitteln implizit die Idee, dass die kolonisierten Völker schon immer an Ort und Stelle waren und quasi zur natürlichen Umwelt des Landes gehörten. Sie schaffen somit eine Dichotomie zwischen den mobilen Europäer:innen, die sich auf dem Globus bewegen, weil sie Akteure dynamischer historischer Prozesse sind, und Nicht-Europäer:innen, die seit Menschengedenken im Einklang mit der Natur in ihren eng umrissenen Heimaten verharrten. Das ist zutiefst verzerrend. (b) Die Vorstellung, dass sich die Menschheit in Europäer:innen/Westliche und Indigene trennen lässt, zu denen man gegebenenfalls noch die «Kreolisierten» addieren kann, beruht im Grunde auf einer kolonialen Dichotomie. Das birgt problematisches Potenzial. Bei einem extensiven Gebrauch dieser Wörter riskiert man, Bevölkerungen miteinander zu vermengen, die eigentlich gar nichts miteinander zu tun haben. Anders gesagt: «Indigene» Akan in Ghana, «indigene» Amazigh in Algerien, «indigene» Aymara in Südamerika, «indigene» Javaner in Indonesien in ein und dieselbe begriffliche Kategorie einordnen zu wollen, ist letztlich eine konzeptuelle Operation, die auf einer kolonialen Taxonomie der Menschheit beruht. (c) Vor allem sollte man bedenken: Im Portugiesischen, Italienischen und Französischen gelten «indigena», «indigeno» bzw. «indigène» – vor allem in Bezug auf Afrika – als problematische, kolonialrassistisch geprägte Ausdrücke (= «Eingeborene»). In den Kolonien Frankreichs, Italiens und Portugals waren dies im 19.–20. Jh. zudem rechtliche Kategorien, die die ‹defizitär zivilisierten› «indigènes» von den «citoyens» unterschieden und in eine subalterne Rechtslage versetzten. Für viele anti-koloniale Bewegungen war die Überwindung/revolutionäre Zerstörung des «indigénat» ein zentrales Ziel des politischen Kampfes. Es empfiehlt sich in jedem Fall, einzeln zu überlegen, ob «indigen» sinnvoll oder problematisch sein oder ob man es mit einem genaueren Begriff ersetzen kann. Beispielsweise kann man – je nachdem – von «westafrikanischen Akan» oder «südostasiatischen Javanern» sprechen oder von «kolonisierten Bevölkerungen» oder von «nicht-europäischen Völkern».
-
-Siehe hierzu für den deutschen Sprachgebrauch, vgl. Mattioli, Aram: Verlorene Welten. Eine Geschichte der Indianer Nordamerikas, Stuttgart 2017, S. 31f und zum nordamerikanischen Kontext und englischsprachigen Sprachgebrauch, vgl. Silverman, David J.: Thundersticks. Firearms and the Violent Transformation of Native America, Cambridge 2016, p. xi. und «Kreolisierung» ist ein vielschichtiger und widersprüchlicher Begriff mit verschiedenen Bedeutungsebenen. Im Allgemeinen wird darunter verstanden, dass durch den Kontakt verschiedener Gruppen neue, eigene Formen entstehen, die aus einer Mischung von Sprache, Kultur und Gesellschaft hervorgehen. Somit ist «Kreolisierung» den Begriffen Transkulturation, Hybridisierung und Diaspora nahe. Global existieren zahlreiche als Kreol bezeichnete Bevölkerungsgruppen und Sprachen. Der Begriff Kreol geht vermutlich auf das lateinische creare (= «kreieren, erschaffen, hervorbringen») zurück. Während der spanischen und portugiesischen Kolonisierung Lateinamerikas und der Karibik wurden mit criollo bzw. crioulo die in den geborenen Kolonien bezeichneten Spanier:innen und Portugies:innen bezeichnet. Vgl. Halbmayer, Ernst, Kreff, Fernand: «Kreolisierung». Lexikon der Globalisierung, Bielefeld 2011, S. 201–205. <[https://doi.org/10.1515/transcript.9783839418222.201](https://doi.org/10.1515/transcript.9783839418222.201%20)>, Stand: 28.08.2025.
+In diesem Jahrhundert ist das kolonialrassistisch geprägte Wort «Eingeborene» zurecht in Verruf geraten. Zugleich wurde es in der deutschen Wissenschaftssprache zunehmend durch «indigen»/«Indigene» ersetzt. Die deutsche Wissenschaftssprache hat – wie so oft – dieses Wort aus dem Englischen (= «indigenous») übernommen. Mittlerweile gelten «indigen»/«Indigene» landläufig als die neutrale/nicht-diskriminierende Bezeichnung für kolonisierte/ehemals kolonisierte oder – noch weiter gefasst – ganz allgemein für aussereuropäische Ethnien[[228]](#footnote-229). In Lateinamerika wird «indigena» zudem von Angehörigen amerindischer Bevölkerungsgruppen zum Teil als positive Selbstbezeichnung benutzt – in ablehnender Abgrenzung zu «indio»[[229]](#footnote-230). Die Verwendung der Wörter «indigen»/«Indigen» kann je nach Situation Sinn ergeben. Die Idee, wonach sie ganz allgemein «problemlos» sei, wäre jedoch ahistorisch, und zwar aus folgenden Gründen: (a) Etymologisch ist «Indigene» gleichbedeutend mit *natives* und «Eingeborene» (= «im Land geboren/im Ort geboren»). All diese Begriffe vermitteln implizit die Idee, dass die kolonisierten Völker schon immer an Ort und Stelle waren und quasi zur natürlichen Umwelt des Landes gehörten. Sie schaffen somit eine Dichotomie zwischen den mobilen Europäer:innen, die sich auf dem Globus bewegen, weil sie Akteure dynamischer historischer Prozesse sind, und Nicht-Europäer:innen, die seit Menschengedenken im Einklang mit der Natur in ihren eng umrissenen Heimaten verharrten. Das ist zutiefst verzerrend. (b) Die Vorstellung, dass sich die Menschheit in Europäer:innen/Westliche und Indigene trennen lässt, zu denen man gegebenenfalls noch die «Kreolisierten»[[230]](#footnote-231) addieren kann, beruht im Grunde auf einer kolonialen Dichotomie. Das birgt problematisches Potenzial. Bei einem extensiven Gebrauch dieser Wörter riskiert man, Bevölkerungen miteinander zu vermengen, die eigentlich gar nichts miteinander zu tun haben. Anders gesagt: «Indigene» Akan in Ghana, «indigene» Amazigh in Algerien, «indigene» Aymara in Südamerika, «indigene» Javaner in Indonesien in ein und dieselbe begriffliche Kategorie einordnen zu wollen, ist letztlich eine konzeptuelle Operation, die auf einer kolonialen Taxonomie der Menschheit beruht. (c) Vor allem sollte man bedenken: Im Portugiesischen, Italienischen und Französischen gelten «indigena», «indigeno» bzw. «indigène» – vor allem in Bezug auf Afrika – als problematische, kolonialrassistisch geprägte Ausdrücke (= «Eingeborene»). In den Kolonien Frankreichs, Italiens und Portugals waren dies im 19.–20. Jh. zudem rechtliche Kategorien, die die ‹defizitär zivilisierten› «indigènes» von den «citoyens» unterschieden und in eine subalterne Rechtslage versetzten. Für viele anti-koloniale Bewegungen war die Überwindung/revolutionäre Zerstörung des «indigénat» ein zentrales Ziel des politischen Kampfes. Es empfiehlt sich in jedem Fall, einzeln zu überlegen, ob «indigen» sinnvoll oder problematisch sein oder ob man es mit einem genaueren Begriff ersetzen kann. Beispielsweise kann man – je nachdem – von «westafrikanischen Akan» oder «südostasiatischen Javanern» sprechen oder von «kolonisierten Bevölkerungen» oder von «nicht-europäischen Völkern».
 
 ## Kolonialismus und Kolonialisierung
 
@@ -2086,25 +2093,19 @@ Jürgen Osterhammel definiert Kolonialismus wie folgt:
 
 [[start:citation]]
 
-«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»
+«Kolonialismus ist eine Herrschaftsbeziehung zwischen Kollektiven, bei welcher die fundamentalen Entscheidungen über die Lebensführung der Kolonisierten durch eine kulturell andersartige und kaum anpassungswillige Minderheit von Kolonialherren unter vorrangiger Berücksichtigung externer Interessen getroffen und tatsachlich durchgesetzt werden. Damit verbinden sich in der Neuzeit in der Regel sendungsideologische Rechtfertigungsdoktrinen, die auf der Überzeugung der Kolonialherren von ihrer eigenen kulturellen Höherwertigkeit beruhen.»[[231]](#footnote-232)
 
 [[end:citation]]
 
 Die «Kolonialisierung» beschreibt einerseits das Kolonialisieren – also die Durchsetzung der Herrschaftsbeziehung der Kolonialist:innen – andererseits das «kolonialisiert Werden».
 
-Siehe hierzu Osterhammel, Jürgen, Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 1995, 7. Auflage, S. 21.
-
 ## Objekt
 
-Wenn wir in diesem Handbuch von «Objekt» sprechen, so sei anzumerken, dass es um diesen Begriff eine Debatte gibt, insbesondere in Bezug auf kulturelle Artefakte und heilige Objekte, die ihren ursprünglichen kulturellen Gebrauchs- und Bedeutungszusammenhängen entrissen wurden. Dabei geht es um die Frage, ob solche Objekte als blosse Sammlungs- und Ausstellungsstücke betrachtet werden oder ob sie als Subjekte mit eigener Identität, Geschichte und Bedeutung anerkannt werden sollten. Ein Beispiel für diese Debatte ist die Kontroverse um die Rückgabe von Kulturgütern. Einige indigene Gemeinschaften argumentieren, dass diese Objekte nicht nur materielle Güter seien, sondern auch Träger von spiritueller und kultureller Bedeutung mit eigener Handlungsmacht, die in ihren ursprünglichen Kontext zurückgebracht werden sollten. Ein weiteres Beispiel ist die Diskussion um die Behandlung von menschlichen Überresten in Museen. Dabei wird das Objektivieren von menschlichen Überresten kritisch hinterfragt und deren Charakter als Subjekte mit eigener Würde und Rechten diskutiert.
-
-Siehe hierzu u. a. die Ausstellung «Im Dialog mit Benin. Kunst, Kolonialismus und Restitution» im Museum Rietberg, 23.08.2024–16.02.2025, <<https://rietberg.ch/ausstellungen/imdialogmitbenin>>, Stand 16.05.2025. und vgl. Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst, S. 31–44.
+Wenn wir in diesem Handbuch von «Objekt» sprechen, so sei anzumerken, dass es um diesen Begriff eine Debatte gibt, insbesondere in Bezug auf kulturelle Artefakte und heilige Objekte, die ihren ursprünglichen kulturellen Gebrauchs- und Bedeutungszusammenhängen entrissen wurden.[[232]](#footnote-233) Dabei geht es um die Frage, ob solche Objekte als blosse Sammlungs- und Ausstellungsstücke betrachtet werden oder ob sie als Subjekte mit eigener Identität, Geschichte und Bedeutung anerkannt werden sollten. Ein Beispiel für diese Debatte ist die Kontroverse um die Rückgabe von Kulturgütern. Einige indigene Gemeinschaften argumentieren, dass diese Objekte nicht nur materielle Güter seien, sondern auch Träger von spiritueller und kultureller Bedeutung mit eigener Handlungsmacht, die in ihren ursprünglichen Kontext zurückgebracht werden sollten.[[233]](#footnote-234) Ein weiteres Beispiel ist die Diskussion um die Behandlung von menschlichen Überresten in Museen. Dabei wird das Objektivieren von menschlichen Überresten kritisch hinterfragt und deren Charakter als Subjekte mit eigener Würde und Rechten diskutiert.
 
 ## Postkolonialismus und Postkoloniale Studien
 
-Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf die kulturellen Aspekte des Kolonialismus und somit auf die diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekte und ihre Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räumen durch Kolonialismus, Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.
-
-Siehe hierzu Lüthi, Falk und Purtschert: Postkoloniale Schweiz, S. 17.
+Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf die kulturellen Aspekte des Kolonialismus und somit auf die diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekte und ihre Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räumen durch Kolonialismus, Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.[[234]](#footnote-235)
 
 ## Schwarz und weiss
 
@@ -2124,9 +2125,9 @@ Das Handbuch bildet einen Anfang: Es bietet nicht nur Hilfestellung in der Entwi
 
 Wie in der Einleitung bereits angemerkt, freut sich die Arbeitsgruppe über konstruktives Feedback und darüber, mit anderen Arbeitsgruppen, Institutionen sowie Interessierten in Austausch zu treten: info@criticalGLAM.ch.
 
-[[start:bib]]
-
 # Bibliografie
+
+[[start:bib]]
 
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.
 
@@ -2619,11 +2620,11 @@ Version 1.0, November 2025
 169. Virtueller Lesesaal, Diskriminierungsfreie Verzeichnung: <<https://vls.hsa.ethz.ch/client/#/de/nutzungsbestimmungen-und-datenschutz>>, Stand: 12.08.2025. [↑](#footnote-ref-170)
 170. Ausstellung «extract»: <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>>, Stand: 12.08.2025. [↑](#footnote-ref-171)
 171. Digitaler Rundgang: <<https://art.ethz.ch/erinnerungskultur/>>, Stand: 12.08.2025. [↑](#footnote-ref-172)
-172. Siehe hierzu auch: Bürgi, Jonas: Diversität in der Archiv- und Sammlungsarbeit: ein langer Weg aus der Komfortzone, in: Onlineportal des PTT-Archivs und der Sammlungen des Museums für Kommunikation, 26.02.2024. Online: < <https://mfk.rechercheonline.ch/de/explore/articles/diversitaet-in-archiv-und-sammlungsarbeit>>, Stand: 29.08.2025. [↑](#footnote-ref-173)
+172. Siehe hierzu auch: Bürgi, Jonas: Diversität in der Archiv- und Sammlungsarbeit: ein langer Weg aus der Komfortzone, in: Onlineportal des PTT-Archivs und der Sammlungen des Museums für Kommunikation, 26.02.2024. Online: <<https://mfk.rechercheonline.ch/de/explore/articles/diversitaet-in-archiv-und-sammlungsarbeit>>, Stand: 29.08.2025. [↑](#footnote-ref-173)
 173. FUSSNOTE MIT LINK KANN JONAS BIS ENDE OKTOBER NACHLIEFERN. [↑](#footnote-ref-174)
 174. Stiftung für Kunst, Kultur und Geschichte (SKKG), Sammlung digital, <<https://digital.skkg.ch/>>, Stand: 01.10.2025. [↑](#footnote-ref-175)
 175. Stiftung für Kunst, Kultur und Geschichte (SKKG), «Disclaimer», Sammlung digital, <<https://digital.skkg.ch/de/intro#disclaimer> >, Stand: 01.10.2025. [↑](#footnote-ref-176)
-176. Die Befolgung von Standards zur Erschliessung ermöglicht die Nutzung und den Austausch von Daten über Institutionsgrenzen hinweg. Es gibt hilfreiche Handreichungen, die sich spezifisch an Museen/Sammlungen wenden: Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025. – ­Minimaldatensatz Empfehlung für Sammlungen und Museen: <<https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678>>, Stand: 09.04.2025. – ­Als Austauschformat für Museen und Sammlungen empfiehlt der ICOM Lido: < <https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido//>>, Stand: 09.04.2025 –Austauschformat Spectrum: <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025. –Ebenso widmen sich die ethischen Richtlinien für Museen von ICOM dem Thema der Standards bei der Objekterfassung: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>>, S. 15, Kapitel 2.20, Stand: 05.05.2025.
+176. Die Befolgung von Standards zur Erschliessung ermöglicht die Nutzung und den Austausch von Daten über Institutionsgrenzen hinweg. Es gibt hilfreiche Handreichungen, die sich spezifisch an Museen/Sammlungen wenden: Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025. – ­Minimaldatensatz Empfehlung für Sammlungen und Museen: <<https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678>>, Stand: 09.04.2025. – Als Austauschformat für Museen und Sammlungen empfiehlt der ICOM Lido: < <https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido//>>, Stand: 09.04.2025 –Austauschformat Spectrum: <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025. –Ebenso widmen sich die ethischen Richtlinien für Museen von ICOM dem Thema der Standards bei der Objekterfassung: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>>, S. 15, Kapitel 2.20, Stand: 05.05.2025.
 
      [↑](#footnote-ref-177)
 177. Die Beispiele zeigen Auszüge aus Datenbanken, wie sie vor einer Bearbeitung aussehen. Die AG hat sich in der Ausarbeitung des Handbuchs intensiv mit den Fragen zu «Reproduktion» und «Zensur» auseinandergesetzt und diskutiert. Dabei haben wir gelernt, dass es sinnvoll und hilfreich ist, Dinge so konkret wie möglich zu benennen, wenn Detailfragen am Beispiel diskutiert werden sollen. Demnach wird auch der im Disclaimer erläuterte Umgang mit Sprache hier nicht durchgehend angewandt. [↑](#footnote-ref-178)
@@ -2674,3 +2675,15 @@ Version 1.0, November 2025
 220. Bianchi, Federico, Kalluri, Pratyusha, Durmus, Esin u. a.: Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale, in: 2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago IL USA 2023, S.1493–1504, <<https://doi.org/10.1145/3593013.3594095>>, Stand: 12.08.2025. [↑](#footnote-ref-221)
 221. Beim Training werden z. B. Lösungen, die KI präsentiert und die als rassistisch, diskriminierend oder aus anderen ethischen Gründen eingestuft werden von Angestellten der KI-Modelle, abgelehnt. So wird die KI gezwungen, nach alternativen Lösungen zu suchen. [↑](#footnote-ref-222)
 222. The DE-BIAS Tool, Europeana PRO, <<https://pro.europeana.eu/page/the-de-bias-tool>>, Stand: 13.08.2025. [↑](#footnote-ref-223)
+223. Dos Santos Pinto, Jovita. Un/doing race, S. 13. [↑](#footnote-ref-224)
+224. Ndiaye, Pap : Les Noirs américains en marche pour l’égalité, Paris 2009. [↑](#footnote-ref-225)
+225. Ndiaye, Pap : La condition noire : essai sur une minorité française, Paris 2011. [↑](#footnote-ref-226)
+226. «exotisch», bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, <<https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025, [↑](#footnote-ref-227)
+227. Danielzik, C., Bendix, D.: Exotik / exotisch, in: Ofuatey-Alazard und Arndt: Wie Rassismus aus Wörtern spricht, S. 633. [↑](#footnote-ref-228)
+228. Für den deutschen Sprachgebrauch, vgl. Mattioli, Aram: Verlorene Welten. Eine Geschichte der Indianer Nordamerikas, Stuttgart 2017, S. 31f [↑](#footnote-ref-229)
+229. Zum nordamerikanischen Kontext und englischsprachigen Sprachgebrauch, vgl. Silverman, David J.: Thundersticks. Firearms and the Violent Transformation of Native America, Cambridge 2016, p. xi. [↑](#footnote-ref-230)
+230. «Kreolisierung» ist ein vielschichtiger und widersprüchlicher Begriff mit verschiedenen Bedeutungsebenen. Im Allgemeinen wird darunter verstanden, dass durch den Kontakt verschiedener Gruppen neue, eigene Formen entstehen, die aus einer Mischung von Sprache, Kultur und Gesellschaft hervorgehen. Somit ist «Kreolisierung» den Begriffen Transkulturation, Hybridisierung und Diaspora nahe. Global existieren zahlreiche als Kreol bezeichnete Bevölkerungsgruppen und Sprachen. Der Begriff Kreol geht vermutlich auf das lateinische creare (= «kreieren, erschaffen, hervorbringen») zurück. Während der spanischen und portugiesischen Kolonisierung Lateinamerikas und der Karibik wurden mit criollo bzw. crioulo die in den geborenen Kolonien bezeichneten Spanier:innen und Portugies:innen bezeichnet. Vgl. Halbmayer, Ernst, Kreff, Fernand: «Kreolisierung». Lexikon der Globalisierung, Bielefeld 2011, S. 201–205. <[https://doi.org/10.1515/transcript.9783839418222.201](https://doi.org/10.1515/transcript.9783839418222.201%20)>, Stand: 28.08.2025. [↑](#footnote-ref-231)
+231. Osterhammel, Jürgen, Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 1995, 7. Auflage, S. 21. [↑](#footnote-ref-232)
+232. Siehe hierzu u. a. die Ausstellung «Im Dialog mit Benin. Kunst, Kolonialismus und Restitution» im Museum Rietberg, 23.08.2024–16.02.2025, <<https://rietberg.ch/ausstellungen/imdialogmitbenin>>, Stand 16.05.2025. [↑](#footnote-ref-233)
+233. Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera: Nicht nur Raubkunst, S. 31–44. [↑](#footnote-ref-234)
+234. Lüthi, Falk und Purtschert: Postkoloniale Schweiz, S. 17. [↑](#footnote-ref-235)
