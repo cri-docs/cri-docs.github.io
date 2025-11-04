@@ -934,14 +934,18 @@ Die folgende Übersicht stellt aus den oben eruierten Umsetzungsstrategien fünf
 
 [[start:block]]
 
-* + - 1. Hinweis: Dieses Kapitel enthält weiterführende Links zu [Objekten](#_Objekt) in Online-Sammlungen, deren Titel möglicherweise diskriminierende Begriffe enthalten. Zudem enthalten die illustrativen Darstellungen der Benutzeroberflächen ein entsprechendes Beispiel.  
-      2. Hinweis zur technischen Umsetzung in den To-do-Punkten: Eine Online-Sammlung besteht technisch aus zwei Teilen: dem sogenannten *Backend* (wo die Daten aus der internen Sammlungsdatenbank wie MuseumPlus, TMS, Axiell, FileMaker etc. importiert werden) und dem *Frontend* (was Nutzer:innen im *Browser* sehen und bedienen können). Wenn in den folgenden To-do-Listen von «Anpassungen im *Frontend* der Online-Sammlung» die Rede ist, bedeutet das z. B.:  
+Hinweis: Dieses Kapitel enthält weiterführende Links zu [Objekten](#_Objekt) in Online-Sammlungen, deren Titel möglicherweise diskriminierende Begriffe enthalten. Zudem enthalten die illustrativen Darstellungen der Benutzeroberflächen ein entsprechendes Beispiel.  
+
+[[end:block]]
+[[start:block]]
+
+Hinweis zur technischen Umsetzung in den To-do-Punkten: Eine Online-Sammlung besteht technisch aus zwei Teilen: dem sogenannten *Backend* (wo die Daten aus der internen Sammlungsdatenbank wie MuseumPlus, TMS, Axiell, FileMaker etc. importiert werden) und dem *Frontend* (was Nutzer:innen im *Browser* sehen und bedienen können). Wenn in den folgenden To-do-Listen von «Anpassungen im *Frontend* der Online-Sammlung» die Rede ist, bedeutet das z. B.:  
+
 * Texte oder Warnhinweise auf der Webseite sichtbar machen  
 * Gestaltung oder Sichtbarkeit von Bildern oder Titeln ändern  
 * Neue Buttons, Symbole oder Glossar-Verlinkungen einbauen  
 
 Diese Änderungen erfordern in der Regel eine Zusammenarbeit mit Web-Entwickler:innen oder einer Agentur, die die Online-Sammlung technisch betreut.  
-
 [[end:block]]
 
 Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. März 2025 überprüft.  
@@ -979,8 +983,9 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis  
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren  
-* Anpassungen im Frontend der Online-Sammlung  
-  [[**end:block]]**  
+
+Anpassungen im Frontend der Online-Sammlung  
+[[**end:block]]**  
 
 
 ![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:Abbildung 8: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...) Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
@@ -1017,7 +1022,8 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
-* Definition von Kriterien für Platzhalter  
+
+Definition von Kriterien für Platzhalter  
 [[end:block]]
 
 
@@ -1064,8 +1070,8 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 
 * Archivierung des ursprünglichen Titels zur Wahrung des Kontextes  
 * Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche:  
-  + ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde  
-  + zur Definierung eines neuen, deskriptiven Titels  
+
+ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde zur Definierung eines neuen, deskriptiven Titels  
 
 [[end:block]]
 
