@@ -74,7 +74,7 @@ function processCustomBlocks(content) {
         const info = lines[6] || ""
         return `<div class="${blockType}">\n\n# ${lines[0].trim()}\n\n${image.trim()}\n\n${version.trim()}  \n${info.trim()}\n\n</div>`
       }else{
-        return `<div class="${blockType}">${blockContent.trim()}</div>`
+        return `<div class="${blockType}">\n\n ${blockContent.trim()} \n\n </div>`
       }
     })
   } while (regex.test(content))
