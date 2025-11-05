@@ -15,6 +15,7 @@
   import { navigating } from "$app/state"
   import { activeHeader, headerIsOpen } from "$lib/state.svelte"
   import BiChevronRight from "$lib/icones/BiChevronRight.svelte"
+  import infoData from "|/content/text/info.json"
 
   let { data } = $props()
   let { sites, site } = $page.data
@@ -59,7 +60,39 @@
       }
     }
   })
+
+  console.log("page data:", $page.url.href)
 </script>
+
+<svelte:head>
+  <title
+    >{data.site.fields.short_title || data.site.fields.title} - {infoData.title}</title
+  >
+  <meta
+    name="description"
+    content={data.site.fields.description || data.site.fields.title}
+  />
+  <meta
+    property="og:title"
+    content={`${data.site.fields.short_title || data.site.fields.title} - ${infoData.title}`}
+  />
+  <meta
+    property="og:description"
+    content={data.site.fields.description || data.site.fields.title}
+  />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content={$page.url.href} />
+  <meta
+    name="twitter:title"
+    content={`${data.site.fields.short_title || data.site.fields.title} - ${infoData.title}`}
+  />
+  <meta
+    name="twitter:description"
+    content={data.site.fields.description || data.site.fields.title}
+  />
+  <meta property="og:image" content="/preview.png" />
+  <meta name="twitter:image" content="/preview.png" />
+</svelte:head>
 
 <section class={styles.container} key={data.site.fields.slug}>
   {#if $isLoading}
