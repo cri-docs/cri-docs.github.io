@@ -78,7 +78,13 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)
 
-![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+![](data:image/jpeg;base64...)
+
+![](data:image/jpeg;base64...)
+
+![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+
+<img class="inline" alt="icon for the Copyright CC BY 4.0." src="/images/ccby.svg"/>
 
 [[end:preface]]
 
