@@ -11,7 +11,7 @@
 
   import styles from "./main.module.styl"
 
-  import { DotLottie } from "@lottiefiles/dotlottie-web"
+  // import { DotLottie } from "@lottiefiles/dotlottie-web"
   import { useResize } from "$lib/useResize"
   import BiChevronDoubleRight from "$lib/icones/BiChevronDoubleRight.svelte"
   import BiChevronRight from "$lib/icones/BiChevronRight.svelte"
@@ -21,7 +21,7 @@
 
   let scrollY = $state(null)
   let lastY = $state(0)
-  let dotLottie = $state(null)
+  // let dotLottie = $state(null)
   let hasBeenScrolled = $state(false)
   let activeSubPage = $state($isMobile ? "welcome" : "index")
 
@@ -72,37 +72,37 @@
     }
   })
 
-  const lottieSettings = {
-    autoplay: false,
-    loop: false,
-    speed: 1.5,
-    src: "/icon.lottie",
-  }
+  // const lottieSettings = {
+  //   autoplay: false,
+  //   loop: false,
+  //   speed: 1.5,
+  //   src: "/icon.lottie",
+  // }
 
-  $effect(() => {
-    if ($isMobile) {
-      dotLottie = new DotLottie({
-        ...lottieSettings,
-        canvas: document.querySelector("#dotlottie-canvas"),
-      })
-      // dotLottie.setFrame(15)
-    }
-  })
+  // $effect(() => {
+  //   if ($isMobile) {
+  //     dotLottie = new DotLottie({
+  //       ...lottieSettings,
+  //       canvas: document.querySelector("#dotlottie-canvas"),
+  //     })
+  //     // dotLottie.setFrame(15)
+  //   }
+  // })
 
-  onMount(() => {
-    if (typeof window === "undefined" || !$isMobile) return
-    dotLottie = new DotLottie({
-      ...lottieSettings,
-      canvas: document.querySelector("#dotlottie-canvas"),
-    })
-    dotLottie.addEventListener("load", () => {
-      if (headerIsOpen) {
-        dotLottie.setFrame(29)
-      } else {
-        dotLottie.setFrame(0)
-      }
-    })
-  })
+  // onMount(() => {
+  //   if (typeof window === "undefined" || !$isMobile) return
+  //   dotLottie = new DotLottie({
+  //     ...lottieSettings,
+  //     canvas: document.querySelector("#dotlottie-canvas"),
+  //   })
+  //   dotLottie.addEventListener("load", () => {
+  //     if (headerIsOpen) {
+  //       dotLottie.setFrame(29)
+  //     } else {
+  //       dotLottie.setFrame(0)
+  //     }
+  //   })
+  // })
 </script>
 
 <svelte:window bind:scrollY onclick={handleClickOutside} />
