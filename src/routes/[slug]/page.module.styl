@@ -9,7 +9,7 @@
   width var(--w)
   margin-left clamp(var(--current-index-width),100vw, var(--l))
   padding-inline calc(var(--padding)) // update
-  padding-left calc(var(--padding) * 3)
+  padding-left calc(var(--padding) * 2)
   hyphens auto
   font-size var(--text-font-size)
   transition margin 0.5s, width 0.5s
@@ -303,10 +303,12 @@
 :global(.external)
   font-family var(--font-external)
   font-weight 400
+  font-size 0.85em
+  line-height 1.35
   padding calc(var(--padding) * 2)
-  padding-left calc(clamp(var(--current-index-width), 100vw, var(--l)))
   padding-right calc(var(--padding) * 3)
-  margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1)
+  padding-left calc(clamp(var(--current-index-width), 100vw, var(--l)) + var(--padding) * 3)
+  margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1 - var(--padding) * 2)
   background-color var(--background-color-secondary)
   color var(--color-secondary)
   width 100vw
@@ -331,8 +333,6 @@
       margin-right calc(var(--padding) * 2)
   > p
   > div
-  > h4
-  > h5
     text-indent 30px
     width calc(var(--text-width) * 0.85)
     @media _mobile

@@ -7,11 +7,11 @@ export function createMarkedRenderer(pageInfo) {
     image({ href, title, text, ...attrs }) {
       let _text = text.replaceAll("alt:", "")
       let [altText, extraText] = _text.split(", extra:")
-      extraText = extraText ? extraText.split(/Abbildung\s*\d*:\s*/i)[1] || extraText || "" : ""
+      extraText = extraText ? extraText.split(/Abbildung\s*\d*:\s*|Abbildung\s*:\s*/i)[1] || extraText || "" : ""
       return `<figure>
-                <img src="${href}" alt="${altText}"/>
-                ${extraText ? `<figcaption>${extraText}</figcaption>` : ""}
-              </figure>`
+        <img src="${href}" alt="${altText}"/>
+        ${extraText ? `<figcaption>${marked(extraText)}</figcaption>` : ""}
+        </figure>`
     },
     heading({text, depth, raw, type}) {
       // const id = slugify(text)

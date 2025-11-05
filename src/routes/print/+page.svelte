@@ -7,6 +7,7 @@
   import styles from "|/routes/[slug]/page.module.styl"
   import printStyles from "./main.module.styl"
   import infoData from "|/content/text/info.json"
+  import footnotes from "|/content/text/footnotes.json"
 
   const { data } = $props()
 
@@ -109,4 +110,14 @@
   {#if mark}
     {@html mark}
   {/if}
+  <div class={printStyles.footnotes}>
+    <h2 class={printStyles.title}>Fussnoten</h2>
+    {console.log(footnotes)}
+    {#each Object.keys(footnotes) as key}
+      <div class={printStyles.footnote}>
+        <span class={printStyles.number}>{key}</span>
+        <span class={printStyles.text}>{footnotes[key]}</span>
+      </div>
+    {/each}
+  </div>
 </div>
