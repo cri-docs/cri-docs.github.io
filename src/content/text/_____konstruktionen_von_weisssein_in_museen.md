@@ -41,9 +41,7 @@ Dieser Ausschluss kann explizit sein, ist aber oft implizit. Beispiele dafür, w
 Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden, sondern auch durch das Definieren einer hauptsächlich *weissen* Zielgruppe. An ihr orientieren sich die Ausstellungskultur, das Bildungs- und Vermittlungsangebot, die Dokumentationspraxis, der Umgang mit Sammlungen, die Inhalte und die Sprachen sowie die von der Institution gelebte Kultur.  
 
 
-![alt:Vertikal angeordnete Serie von Schwarz-Weiss-Fotografien, die unterschiedliche Szenen in einer Kunstausstellung zeigen., extra:](/images/image008.jpg)  
-
-Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich  
+![alt:Vertikal angeordnete Serie von Schwarz-Weiss-Fotografien, die unterschiedliche Szenen in einer Kunstausstellung zeigen., extra:Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich](/images/image008.jpg)  
 
 #### **Auswirkungen von geweissten Räumen**  
 
@@ -73,18 +71,18 @@ Anderson, Derek: An Epistemological Conception of Safe Spaces, in: Social Episte
 * Dyer, Richard: White, London 2017.  
 * Fanon, Frantz: Black Skin, White Masks, New York 1952.  
 * Fernandez-Sacco, Ellen: Check Your Baggage: Resisting Whiteness in Art History, in: Art Journal 60 (4), 2001, S. 58–61.  
-* Fields, Karen E.; Fields, Barbara J.: Racecraft – The Soul of Inequality in American Life, London, New York 2014, S. 146–147.  
-* Fine, Michelle; Weis, Lois; Powell, Linda C.; Wong, L. Mun (Hg.): Off White: Readings on Race, Power, and Society, New York 1997.  
+* Fields, Karen E.; Fields, Barbara J.: Racecraft – The Soul of Inequality in American Life, London; New York 2014, S. 146–147.  
+* Fine, Michelle; Weis, Lois; Powell, Linda C.; Wong, L. Mun (Hg.): Off White. Readings on Race, Power, and Society, New York 1997.  
 * Flensner, Karin; Von der Lippe, Marie: «Safe from what and safe for whom?» Eine kritische Diskussion der konzeptuellen Metapher des ‹sicheren Raums›, in: Intercultural Education 30 (3), 2019, S. 275–288.  
-* Frankenberg, Ruth: White Women, Race Matters: The Social Construction of Whiteness. Minnesota 1993.  
+* Frankenberg, Ruth: White Women, Race Matters: The Social Construction of Whiteness, Minnesota 1993.  
 * Gamberi, Valentina: Decolonising Museums: South-Asian Perspectives, in: Journal of the Royal Asiatic Society 29 (2), 2019, S. 201–218.  
 * Garfinkel, Harold: Ethnomethodology’s Program, in: Social Psychology Quarterly 59 (1), 1996, S. 5–21.  
-* Garfinkel, Harold: Studies in Ethnomethodology. Cambridge 1967.  
+* Garfinkel, Harold: Studies in Ethnomethodology, Cambridge 1967.  
 * Gayed, Andrew: Cross-Cultural Museum Bias: Undoing Legacies of Whiteness in Art Histories, in: Asian Diasporic Visual Cultures and the Americas 7 (1–2), 2022, S. 77–101.  
 * Griem, Madeleine; Allen, Douglas L.: Challenging Whiteness and Storytelling in Museums: An Examination of Racial Representation in Kansas City Heritage Institutions, in: Southeastern Geographer 62 (1), 2022, S. 8–24.  
 * Hage, Ghassan: White Nation: Fantasies of White Supremacy in a Multicultural Society, New York 2012.  
 * Hill, David: Communication as a moral vocation: Safe space and freedom of speech, in: The Sociological Review 68 (1), 2020, S. 3–16.  
-* Huff, Lea: Museum Decolonization: Moving Away from Narratives Told by the Oppressors, University of Washington, School of Marine and Environmental Affairs, 31.05.2022, < <https://smea.uw.edu/currents/museum-decolonization-moving-away-from-narratives-told-by-the-oppressors>>, Stand: 31.05.2024.  
+* Huff, Lea: Museum Decolonization: Moving Away from Narratives Told by the Oppressors, University of Washington, School of Marine and Environmental Affairs, 31.05.2022, <<https://smea.uw.edu/currents/museum-decolonization-moving-away-from-narratives-told-by-the-oppressors>>, Stand: 31.05.2024.  
 * Janes, Robert R.: Museums in a Troubled World – Renewal, Irrelevance or Collapse? London 2009.  
 * Karina, Alírio: Against and beyond the Museum, in: Third Text 36 (6), 2022, S. 651–662.  
 * Kassim, Sumaya: Museums are Temples of Whiteness, in: Flores, Tatiana; San Martín, Florencia; Villaseñor Black, Charlene (Hg.): The Routledge Companion to Decolonizing Art History, New York 2024, S. 128–138.  
@@ -94,12 +92,12 @@ Anderson, Derek: An Epistemological Conception of Safe Spaces, in: Social Episte
 * Lefebvre, Henri: The Production of Space. Malden 2014 [1974].  
 * Linstead, Stephen Andrew: Ethnomethodology and Sociology: An Introduction, in: Sociological Review 54 (3), 2006, S. 399–404.  
 * Laukötter, Anja: The ‹Colonial Body› as Object of Knowledge in Ethnological Museums, in: Jobs, Sebastian; Mackenthun, Gesa (Hg.): Embodiments of Cultural Encounters, Münster, New York, München, Berlin 2011 (Cultural Encounters and the Discourses of Scholarship Band 3), S. 181–200.  
-* Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, < https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/ >, Stand: 02.08.2024.  
+* Long, Kim: Defining your safe space: Was bedeutet ein sicherer Raum für Sie?, Dóchas: Psychological Services inc., 20.04.2021, <<https://www.dochaspsych.com/blog-defining-your-safe-space-what-does-safe-space-mean/>>, Stand: 02.08.2024.  
 * Macdonald, Brandie; Vetter, Kara: From the Colonial to the Decolonial: The Complex Intersection of Museum Policy and Practice, in: South African Museums Association Bulletin 43 (1), 2021, S. 27–33.  
-* Mbembe, Achille: Brutalism. Durham, 2024.  
-* Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, < https://www.goethe.de/prj/zei/en/art/22554555.html>, Stand: 02.08.2024.  
+* Mbembe, Achille: Brutalism, Durham, 2024.  
+* Minkov, Marie: Safe(r) Spaces: A Break from the World, Zeitgeister: The Cultural Magazine of the Goethe Institute, Dezember 2021, <<https://www.goethe.de/prj/zei/en/art/22554555.html>>, Stand: 02.08.2024.  
 * Morrison, Toni: Playing in the Dark. Whiteness and the Literary Imagination, Cambridge 1992.  
-* Onwuamaegbu, Natachi: Securing Safe Spaces in Society, The Black and White: The Student News Site of Walt Whitman High School, 10.11.2016, < <https://theblackandwhite.net/53182/opinion/blogs/securing-safe-spaces-in-society/> >, Stand: 02.08.2024.  
+* Onwuamaegbu, Natachi: Securing Safe Spaces in Society, The Black and White: The Student News Site of Walt Whitman High School, 10.11.2016, <<https://theblackandwhite.net/53182/opinion/blogs/securing-safe-spaces-in-society/>>, Stand: 02.08.2024.  
 * Patrick, Wil Sahar; Rose-Redwood, Reuben; Rose-Redwood, CindyAnn: Dis-Placing White Supremacy – Intersections of Black and Indigenous Struggles in the Removal of the Roosevelt Statue at the American Museum of Natural History, in: Carlson, Bronwyn; Farrelly, Terri (Hg.): The Palgrave Handbook on Rethinking Colonial Commemorations, Cham 2023, S. 437–459.  
 * Prianti, Desi Dwi; Suyadnya, I Wayan: Decolonising Museum Practice in a Postcolonial Nation: Museum’s Visual Order as the Work of Representation in Constructing Colonial Memory, in: Open Cultural Studies 6 (1), 2022, S. 228–242.  
 * Pujol, Ernesto: Notes on Obsessive Whiteness, in: Art Journal 59 (1), 2000, S. 98–100.  
@@ -107,7 +105,7 @@ Anderson, Derek: An Epistemological Conception of Safe Spaces, in: Social Episte
 * Simmons, John E. Museums: A History, London 2016.  
 * Sogbesan, Oluwatoyin Zainab: Museums in the Era of Decolonisation: The Nigerian Perspective, in: Museologica Brunensia 11 (1), 2022, S. 10–22.  
 * Van Broekhoven, Laura: On Decolonizing the Museum in Practice, in: Journal of Museum Ethnography 32, 2019, S. 1–8.  
-* Vawda, Shahid: Museums and the Epistemology of Injustice: From Colonialism to Decoloniality, in: Museum International, 71(1–2), 2019, S. 72–79.  
+* Vawda, Shahid: Museums and the Epistemology of Injustice: From Colonialism to Decoloniality, in: Museum International, 71 (1–2), 2019, S. 72–79.  
 * Venugopal, Arun: Museums as White Spaces, WNYC, 04.05.2015, <<https://www.wnyc.org/story/museums-white-spaces>>, Stand: 20.06.2024.  
 * Wintle, Claire: Decolonising UK World Art Institutions, 1945–1980, in: On Curating 35, 2017, S. 106–112.  
 * Withington, Vanessa: Decolonising the Museum? Dilemmas, Possibilities, Alternatives, in: Culture Unbound 13 (2), 2021, S. 245–269.  

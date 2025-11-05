@@ -36,23 +36,23 @@ Bürgi, Jonas: Diversität in der Archiv- und Sammlungsarbeit. Ein langer Weg au
 
 Bystron, Daniela; [Fäser](https://www.transcript-verlag.de/author/faeser-anne-320029845/), Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
 
-Carlen, Louis: Der Schweizer Adel und die Kreuzzüge, in: Nachrichten des Schweizerischen Burgenvereins 38:6, Zürich 1965, S. 138–139.  
+Carlen, Louis: Der Schweizer Adel und die Kreuzzüge, in: Nachrichten des Schweizerischen Burgenvereins 38 (6), Zürich 1965, S. 138–139.  
 
-Cockrell, Dale: Demons of Disorder: Early Blackface Minstrels and Their World, Cambridge, NY; New York, NY; Melbourne; Madrid; Kapstadt; Singapur 1997.  
+Cockrell, Dale: Demons of Disorder: Early Blackface Minstrels and Their World, Cambridge, (NY); New York (NY); Melbourne; Madrid; Kapstadt; Singapur 1997.  
 
 Darman, Ashkira; Schär, Bernhard: Zürcher «Mohren»-Fantasien. Eine bau- und begriffsgeschichtliche Auslegeordnung, ca. 1400–2022 (E-Book), Zürich 2023. Online: <<https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/publikationen/2023/zuercher-mohren-fantasien/zuercher-m-fantasien.pdf>/>, Stand: 07.05.2025.  
 
 de Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.  
 
-Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field (E-Book), Washington, DC 2020. Online: < <https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>>.  
+Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field (E-Book), Washington, DC 2020. Online: <<https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>>.  
 
 Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025.  
 
 Deutscher Museumsbund e.V. (Hg.): Leitfaden zum Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2021.  
 
-Umberger, Olga: Die schwarze Baden-Schenkung., in: Chronik der Stadt Zürich 5/1913 (E-Book), S. 49, 01.02.1913. Online: <<https://www.e-newspaperarchives.ch/?a=d&d=CSZ19130201-01/>>, Stand: 02.10.2025.  
+Umberger, Olga: Die schwarze Baden-Schenkung, in: Chronik der Stadt Zürich 5, 01.02.1913 (E-Book), S. 49, 01.02.1913. Online: <<https://www.e-newspaperarchives.ch/?a=d&d=CSZ19130201-01/>>, Stand: 02.10.2025.  
 
-Digitales Wörterbuch der deutschen Sprache: «exotisch», < <https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025.  
+Digitales Wörterbuch der deutschen Sprache: «exotisch», <<https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025.  
 
 Eckert, Mascha; Lumme, Christin; Pfaller, Sebastian: Vom Zuschieben und Zuschreiben. Das Kartenspiel Schwarzer Peter in der Sammlung des Deutschen Spielearchivs Nürnberg, Boardgame Historian, 14.10.2021, <<https://bghistorian.hypotheses.org/1454/>>, Stand: 25.02.2025.  
 
@@ -88,7 +88,7 @@ Hug, Céline Florence: Traitement des continuités coloniales dans un outil de t
 
 Hund, Wulf D.: Rassismus, Bielefeld 2007.  
 
-ICOM – Internationaler Museumsrat (Hg.): Ethische Richtlinien für Museen von ICOM (E-Book), 2004. Online: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>/>, Stand: 05.05.2025.  
+ICOM – Internationaler Museumsrat (Hg.): Ethische Richtlinien für Museen von ICOM (E-Book), 2004, <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>/>, Stand: 05.05.2025.  
 
 ICOM Documentation: What is LIDO?, ICOM, <<https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/>>, Stand: 09.04.2025.  
 
@@ -110,7 +110,7 @@ Modest, Wayne; Golding, Viv (Hg.): Museums and Communities. Curators, Collection
 
 Mugglin, Leonie; Efionayi, Denise; Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, in: SFM Studies #81d (E-Book), Neuchâtel 2022, <<https://www.unine.ch/sfm/wp-content/uploads/sites/100/SFM-Studies-81d.pdf>>, Stand: 29.09.2025.  
 
-Müller, Lar; Scheibe, Michaela; Schmid, Larissa: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, in: o-bib, Das offene Bibliotheksjournal 11/3 (E-Book), 2024, <<https://doi.org/10.5282/o-bib/6100>/>, Stand: 02.12.2024.  
+Müller, Lar; Scheibe, Michaela; Schmid, Larissa: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, in: o-bib, Das offene Bibliotheksjournal 11 (3) (E-Book), 2024, <<https://doi.org/10.5282/o-bib/6100>/>, Stand: 02.12.2024.  
 
 Musée du Louvre, Paris, <[https://collections.louvre.fr/en/ark:/53355/cl010065532/](https://collections.louvre.fr/en/ark%3A/53355/cl010065532/)>, Stand: 08.07.2025.  
 

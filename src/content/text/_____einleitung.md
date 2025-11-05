@@ -41,7 +41,7 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 * Ausstellung «Koloniale Spuren – Sammlungen im Kontext» im extract ETH Zürich, 30.08.2024–13.07.2025, <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>>, Stand 03.09.2025.  
 * «Sensibel, problematisch, umstritten? Herausforderungen und Chancen im Umgang mit kulturellem Erbe in Museen», Internationale Konferenz, Zürich, 20.–22.11.2024, <<https://www.landesmuseum.ch/de/veranstaltung/internationale-konferenz-28655>>, Stand: 03.09.2025.  
 * Arbeitsgruppe Dekolonialisierung, Sammlungen und Archive der ETH Zürich: Dekolonialisierung der Sammlungen und Archive der ETH Zürich. Ein Praxisleitfaden zum Umgang mit kolonialen Beständen, August 2024, <https://doi.org/10.3929/ethz-b-000691291>, Stand: 03.09.2025.  
-* Mähr, Moritz; Schnegg, Noëlle: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten. Erfahrungen aus dem geschichtswissenschaftlichen Forschungsprojekt Stadt.Geschichte.Basel. 03.06.2024, <<https://zenodo.org/records/11124720>>, Stand: 03.09.2025.  
+* Mähr, Moritz; Schnegg, Noëlle: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten. Erfahrungen aus dem geschichtswissenschaftlichen Forschungsprojekt Stadt.Geschichte.Basel, 03.06.2024, <<https://zenodo.org/records/11124720>>, Stand: 03.09.2025.  
 * Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non européens dans les musées suisses, Genf; Zürich 2023.  
 * Tagung «Ready for the past? On the State of Decolonization in Swiss Museums», Lausanne, 04.–05.05.2022, <<https://wp.unil.ch/collaborativehistory/readyforthepast/>>, Stand: 03.09.2025.  
 

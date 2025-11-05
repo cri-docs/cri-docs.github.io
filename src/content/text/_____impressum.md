@@ -9,7 +9,6 @@ toc:
 ---
 
 Version 1.0, November 2025  
-
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)  
 
 **Mitwirkende Institutionen:**  
@@ -84,4 +83,6 @@ Sabina Horber
 
 Severin Rüegg  
 
-Die Geschäftsleitungen der beteiligten Institutionen.
+Stefanie Löpfe  
+
+Den Geschäftsleitungen der beteiligten Institutionen.
