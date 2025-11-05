@@ -85,7 +85,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * An welchen Wissenssystemen orientieren wir uns als Dokumentar:innen (disziplinäres, akademisches, eurozentrisches Wissen)?  
 * Sind die Hersteller:innen der [Objekte](#_Objekt) bekannt und werden diese mit Namen genannt? Was sind die Gründe dafür, falls sie nicht genannt werden, sind es rassistische Motive oder gibt es andere Gründe?[[23]](#footnote-24)  
 * In welchen Fällen muss bei unbekannten Hersteller:innen darauf hingewiesen werden, warum diese nicht genannt werden (können)?  
-* Bei welchen Themen bietet sich eine Zusammenarbeit mit und [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft) und/oder lokalen [BIPoC](#_BIPoC)[[24]](#footnote-25)- sowie migrantischen [Communities](#_Community_und_Herkunftsgesellschaft) an? Welche Stimmen fehlen?  
+* Bei welchen Themen bietet sich eine Zusammenarbeit mit und [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft) und/oder lokalen [BIPoC](#_BIPoC)- sowie migrantischen [Communities](#_Community_und_Herkunftsgesellschaft) an? Welche Stimmen fehlen?  
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 
@@ -109,7 +109,7 @@ Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objek
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z. B. primitiv, wild, einfach, Natur)?  
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?  
 * Beispiel Kleidung: Wie sind Kleidungsstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus/exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «Exotismus» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
 
 ### Denkanstoss: Institutionelle Positionierung  
 
