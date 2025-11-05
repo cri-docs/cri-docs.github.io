@@ -28,5 +28,4 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)  
 
 
-![alt:alt text, extra:  
-![alt:alt text, extra:](/images/image006.jpg) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...)© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)](/images/image001.jpg)
+![alt:alt text, extra:![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...)© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)](/images/image001.jpg)

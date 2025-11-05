@@ -19,7 +19,7 @@ Ein Handbuch für GLAM-Institutionen
 [headerimg]  
 
 
-![alt:alt text, extra:](/images/image000.jpg)  
+![alt:Eine Person mit blauen Handschuhen sortiert und verpackt verschiedene historische und kunsthandwerkliche Objekte, die auf großen Tischen oder Paletten ausgebreitet liegen. Zu sehen sind zahlreiche kleine Sammlungsstücke wie Figuren, Rahmen, Schmuck, Medaillen und Dekorationsobjekte, jeweils mit Etiketten versehen und gruppiert unter Schildern mit Aufschriften wie „Verpacken“ und „Gruppe zusammenstellen“., extra:](/images/image000.jpg)  
 
 [[start:captionLanding]]
 
@@ -91,151 +91,150 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)  
 
 
-![alt:alt text, extra:  
-![alt:alt text, extra:](/images/image006.jpg) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...)© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)](/images/image001.jpg)
+![alt:alt text, extra:![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...) ![](data:image/jpeg;base64...)© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)](/images/image001.jpg)
 [[end:preface]]
 
 Inhalt  
 
-[Einleitung 8](#_Toc213054298)  
+[Einleitung 8](#_Toc213233740)  
 
-[1 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 12](#_Toc213054299)  
+[1 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 12](#_Toc213233741)  
 
-[1.1 Was ist Rassismus? 12](#_Toc213054300)  
+[1.1 Was ist Rassismus? 12](#_Toc213233742)  
 
-[1.1.1 Rassismus auf der individuellen Ebene 12](#_Toc213054301)  
+[1.1.1 Rassismus auf der individuellen Ebene 12](#_Toc213233743)  
 
-[1.1.2 Struktureller Rassismus 13](#_Toc213054302)  
+[1.1.2 Struktureller Rassismus 13](#_Toc213233744)  
 
-[1.2 Wie weiter in der Praxis? 14](#_Toc213054303)  
+[1.2 Wie weiter in der Praxis? 14](#_Toc213233745)  
 
-[1.2.1 Verborgene Rassismen in der Datenbank 14](#_Toc213054304)  
+[1.2.1 Verborgene Rassismen in der Datenbank 14](#_Toc213233746)  
 
-[1.2.2 Selbstreflexion der individuellen Prägung 14](#_Toc213054305)  
+[1.2.2 Selbstreflexion der individuellen Prägung 14](#_Toc213233747)  
 
-[1.2.3 Wer dokumentiert was/wen/wessen Geschichte? 15](#_Toc213054306)  
+[1.2.3 Wer dokumentiert was/wen/wessen Geschichte? 15](#_Toc213233748)  
 
-[1.2.4 Selbstverständlichkeit der Verschlagwortung 17](#_Toc213054307)  
+[1.2.4 Selbstverständlichkeit der Verschlagwortung 17](#_Toc213233749)  
 
-[1.2.5 Denkanstoss: Institutionelle Positionierung 18](#_Toc213054308)  
+[1.2.5 Denkanstoss: Institutionelle Positionierung 18](#_Toc213233750)  
 
-[2 Sammlungen und Museen als Orte der Kolonialität 20](#_Toc213054309)  
+[2 Sammlungen und Museen als Orte der Kolonialität 20](#_Toc213233751)  
 
-[3 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 33](#_Toc213054310)  
+[3 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 33](#_Toc213233752)  
 
-[4 Communities, Sammlungen und Sorgfalt 42](#_Toc213054311)  
+[4 Communities, Sammlungen und Sorgfalt 42](#_Toc213233753)  
 
-[5 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 50](#_Toc213054312)  
+[5 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 50](#_Toc213233754)  
 
-[6 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] 60](#_Toc213054313)  
+[6 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] 60](#_Toc213233755)  
 
-[6.1 Sammlungsdatenbanken 60](#_Toc213054314)  
+[6.1 Sammlungsdatenbanken 60](#_Toc213233756)  
 
-[6.1.1 Beschreibung 62](#_Toc213054315)  
+[6.1.1 Beschreibung 62](#_Toc213233757)  
 
-[6.1.2 Bezeichnung, Titel 62](#_Toc213054316)  
+[6.1.2 Bezeichnung, Titel 62](#_Toc213233758)  
 
-[6.1.3 Schlagwörter, Keywords 63](#_Toc213054317)  
+[6.1.3 Schlagwörter, Keywords 63](#_Toc213233759)  
 
-[6.1.4 Inschriften, Beschriftung, Signaturen 63](#_Toc213054318)  
+[6.1.4 Inschriften, Beschriftung, Signaturen 63](#_Toc213233760)  
 
-[6.1.5 Klassifikation, Gattung, Objektart, Objekttyp 63](#_Toc213054319)  
+[6.1.5 Klassifikation, Gattung, Objektart, Objekttyp 63](#_Toc213233761)  
 
-[6.1.6 Provenienz 64](#_Toc213054320)  
+[6.1.6 Provenienz 64](#_Toc213233762)  
 
-[6.2 Metadaten in Online-Sammlungen: 5 Ansätze 64](#_Toc213054321)  
+[6.2 Metadaten in Online-Sammlungen: 5 Ansätze 64](#_Toc213233763)  
 
-[6.2.1 (1) Titel als diskriminierend markieren 66](#_Toc213054322)  
+[6.2.1 (1) Titel als diskriminierend markieren 66](#_Toc213233764)  
 
-[6.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 68](#_Toc213054323)  
+[6.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 68](#_Toc213233765)  
 
-[6.2.3 (3) Titel neu formulieren 70](#_Toc213054324)  
+[6.2.3 (3) Titel neu formulieren 70](#_Toc213233766)  
 
-[6.2.4 (4) Individuelle Inhaltswarnungen 71](#_Toc213054325)  
+[6.2.4 (4) Individuelle Inhaltswarnungen 71](#_Toc213233767)  
 
-[6.2.5 (5) Allgemeine Inhaltswarnung 74](#_Toc213054326)  
+[6.2.5 (5) Allgemeine Inhaltswarnung 74](#_Toc213233768)  
 
-[7 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 77](#_Toc213054327)  
+[7 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 77](#_Toc213233769)  
 
-[7.1 Bernisches Historisches Museum 77](#_Toc213054328)  
+[7.1 Bernisches Historisches Museum 77](#_Toc213233770)  
 
-[7.2 ETH-Bibliothek, ETH Zürich 79](#_Toc213054329)  
+[7.2 ETH-Bibliothek, ETH Zürich 79](#_Toc213233771)  
 
-[7.3 Fotostiftung Schweiz 81](#_Toc213054330)  
+[7.3 Fotostiftung Schweiz 81](#_Toc213233772)  
 
-[7.4 Historisches Museum Basel 82](#_Toc213054331)  
+[7.4 Historisches Museum Basel 82](#_Toc213233773)  
 
-[7.5 Kunsthaus Zürich 83](#_Toc213054332)  
+[7.5 Kunsthaus Zürich 83](#_Toc213233774)  
 
-[7.6 Museum für Kommunikation 84](#_Toc213054333)  
+[7.6 Museum für Kommunikation 84](#_Toc213233775)  
 
-[7.7 Schweizerisches Nationalmuseum 85](#_Toc213054334)  
+[7.7 Schweizerisches Nationalmuseum 85](#_Toc213233776)  
 
-[7.8 Stiftung für Kunst, Kultur und Geschichte 87](#_Toc213054335)  
+[7.8 Stiftung für Kunst, Kultur und Geschichte 87](#_Toc213233777)  
 
-[8 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]] 89](#_Toc213054336)  
+[8 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]] 89](#_Toc213233778)  
 
-[9 Lösungsansätze aus den Sammlungen 92](#_Toc213054337)  
+[9 Lösungsansätze aus den Sammlungen 92](#_Toc213233779)  
 
-[9.1 M\*automat 92](#_Toc213054338)  
+[9.1 M\*automat 92](#_Toc213233780)  
 
-[9.2 Sparkasse 95](#_Toc213054339)  
+[9.2 Sparkasse 96](#_Toc213233781)  
 
-[9.3 Stickvorlage 97](#_Toc213054340)  
+[9.3 Stickvorlage 98](#_Toc213233782)  
 
-[9.4 «Schwarzer Peter» 100](#_Toc213054341)  
+[9.4 «Schwarzer Peter» 100](#_Toc213233783)  
 
-[9.5 Pudding-Werbung 102](#_Toc213054342)  
+[9.5 Pudding-Werbung 103](#_Toc213233784)  
 
-[9.6 Puppenspiel 104](#_Toc213054343)  
+[9.6 Puppenspiel 105](#_Toc213233785)  
 
-[9.7 12 kleinen N\*lein 106](#_Toc213054344)  
+[9.7 12 kleinen N\*lein 107](#_Toc213233786)  
 
-[9.8 Portraitserie 108](#_Toc213054345)  
+[9.8 Portraitserie 109](#_Toc213233787)  
 
-[9.9 Elektrische Reklame für eine Schuhcrème 110](#_Toc213054346)  
+[9.9 Elektrische Reklame für eine Schuhcrème 111](#_Toc213233788)  
 
-[9.10 ‹Exotisch›-erotische Nippes 112](#_Toc213054347)  
+[9.10 ‹Exotisch›-erotische Nippes 113](#_Toc213233789)  
 
-[9.11 Missionsn\*li 115](#_Toc213054348)  
+[9.11 Missionsn\*li 116](#_Toc213233790)  
 
-[Fotoreportage aus den USA 117](#_Toc213054349)  
+[9.12 Fotoreportage aus den USA 118](#_Toc213233791)  
 
-[10 Vertiefungen 119](#_Toc213054350)  
+[10 Vertiefungen 120](#_Toc213233792)  
 
-[10.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 119](#_Toc213054351)  
+[10.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 120](#_Toc213233793)  
 
-[10.2 Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 123](#_Toc213054352)  
+[10.2 Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 124](#_Toc213233794)  
 
-[11 Glossar 125](#_Toc213054353)  
+[11 Glossar 126](#_Toc213233795)  
 
-[11.1 BIPoC 125](#_Toc213054354)  
+[11.1 BIPoC 126](#_Toc213233796)  
 
-[11.2 Community und Herkunftsgesellschaft 125](#_Toc213054355)  
+[11.2 Community und Herkunftsgesellschaft 126](#_Toc213233797)  
 
-[11.3 «Rassifizierte Communities» 125](#_Toc213054356)  
+[11.3 «Rassifizierte Communities» 126](#_Toc213233798)  
 
-[11.4 Dekolonisierung und Dekolonialismus 126](#_Toc213054357)  
+[11.4 Dekolonisierung und Dekolonialismus 127](#_Toc213233799)  
 
-[11.5 Exotismus und exotisierend 127](#_Toc213054358)  
+[11.5 Exotismus und exotisierend 128](#_Toc213233800)  
 
-[11.6 Indigen 127](#_Toc213054359)  
+[11.6 Indigen 128](#_Toc213233801)  
 
-[11.7 Kolonialismus und Kolonialisierung 128](#_Toc213054360)  
+[11.7 Kolonialismus und Kolonialisierung 129](#_Toc213233802)  
 
-[11.8 Objekt 129](#_Toc213054361)  
+[11.8 Objekt 130](#_Toc213233803)  
 
-[11.9 Postkolonialismus und Postkoloniale Studien 129](#_Toc213054362)  
+[11.9 Postkolonialismus und Postkoloniale Studien 130](#_Toc213233804)  
 
-[11.10 Schwarz und weiss 130](#_Toc213054363)  
+[11.10 Schwarz und weiss 130](#_Toc213233805)  
 
-[11.11 Selbstbezeichnung und Fremdzuschreibung 131](#_Toc213054364)  
+[11.11 Selbstbezeichnung und Fremdzuschreibung 131](#_Toc213233806)  
 
-[12 Nachwort 132](#_Toc213054365)  
+[12 Nachwort 133](#_Toc213233807)  
 
-[13 Bibliografie 133](#_Toc213054366)  
+[13 Bibliografie 134](#_Toc213233808)  
 
-[14 Impressum 141](#_Toc213054367)  
+[14 Impressum 142](#_Toc213233809)  
 
 # Einleitung  
 
@@ -463,7 +462,7 @@ Die sich etablierende industrielle Gesellschaft verfestigte schliesslich den Dis
 Die Herausforderung der Museen besteht heute darin, die Geschichte und das epistemologische Fundament einer Sammlung zu vermitteln, das heisst aufzuzeigen, wer unter welchen Voraussetzungen, mit welchen Methoden und mit welchen Zielen Wissen produzierte. Dabei besteht die Schwierigkeit darin, überkommene Machtkonstellationen nicht gleichzeitig zu replizieren oder [Objekte](#_Objekt) auf ihre Rolle innerhalb dieser wissenschaftstheoretischen Geschichte zu reduzieren.[[61]](#footnote-62) Fundamental für eine [Dekolonialisierung](#_Dekolonisierung_und_Dekolonialismus) des Museums[[62]](#footnote-63) ist zudem die Sichtbarmachung von Absenzen, wie das Fehlen von Dingen, Wissen[[63]](#footnote-64) und Narrativen benachteiligter, häufig auch intersektional[[64]](#footnote-65) diskriminierter Gruppen, die ausserhalb der eurozentrischen Geschichtsschreibung standen und stehen.[[65]](#footnote-66) Kolonialität versteckt sich häufig im Detail. Eine «angewandte Sammlungsgeschichte»[[66]](#footnote-67) untersucht deshalb auch die «kleinen Werkzeuge des Wissens»[[67]](#footnote-68): Modi der Präparation, Zeichnung, Verwahrung, Katalogisierung und Präsentation, die sich in die «Biographien der Objekte»[[68]](#footnote-69) eingeschrieben und sie zu «Wissensgegenständen»[[69]](#footnote-70) oder «Epistemologica»[[70]](#footnote-71) gemacht haben.[[71]](#footnote-72) Die Selbstreflexion, Hinterfragung der eigenen Arbeit und Institution, das «Verlernen»[[72]](#footnote-73) überkommener Grundlagen sind aufwendige, kostspielige und teilweise auch schmerzhafte Prozesse, die deshalb häufig innerhalb von Sonderausstellungen oder künstlerischen Kollaborationen stattfinden. Es ist wünschenswert, dass hierbei erprobte Strategien wie beispielsweise jene der Selbstverortung, Transparenz, Kooperation mit Herkunftsgesellschaften, geteilten Kurator:innenschaft, Neuorganisation, Umbenennung und so weiter, wo immer möglich auch in die Bereiche der permanenten Sammlungsausstellungen, digitalen Museumsauftritte und der Vermittlung diffundieren.  
 
 
-![alt:Ein Bild, das Schuhwerk, Person, Boden, Im Haus enthält., extra:Abbildung 4: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf](/images/image005.jpg)  
+![alt:Eine Person in einem weissen Schutzanzug und Handschuhen kniet auf einem Holzboden und untersucht oder sammelt Staub oder Partikel, die im Lichtstrahl einer Taschenlampe sichtbar sind. Eine weitere Person reicht eine Hand herüber, um möglicherweise zu assistieren., extra:Abbildung 4: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf](/images/image005.jpg)  
 
 [[end:external]]
 
@@ -578,7 +577,8 @@ Der vorliegende Beitrag veranschaulicht anhand konkreter historischer Beispiele 
 
 Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte oder Kaufleute kistenweise [Objekte](#_Objekt), Präparate und Kulturgegenstände von ihren Kolonialexpeditionen in die Schweiz.[[78]](#footnote-79) Solche Privatsammlungen gelangten oft als Schenkungen an Schweizer Museen, Universitäten, Gelehrtengesellschaften und Kunsthäuser. Ein Beispiel dafür ist die Insektensammlung von Heinrich Escher-Zollikofer (1776–1853). Er reiste 1795 als Kaufmann nach Nordamerika, wo er elf Jahre lang mit Kolonialwaren handelte, die von versklavten Menschen angebaut wurden.[[79]](#footnote-80) Diese kolonialen Handelstätigkeiten ermöglichten es ihm, in Nord- und Zentralamerika eine grosse Insektensammlung aufzubauen, die er in der Schweiz durch Zukäufe erweiterte. 1858 wurden die rund 60’000 Präparate der ETH Zürich geschenkt.[[80]](#footnote-81)  
 
-![](data:image/jpeg;base64...)  
+
+![alt:Eine Sammlung getrockneter Pflanzen, Zweige und Insekten ist sorgfältig auf einem weißen Untergrund arrangiert. Die einzelnen Objekte sind mit kleinen handbeschrifteten Etiketten versehen, die wissenschaftliche Namen und Nummern zeigen. Zu sehen sind Blätter, Samenstände, Wurzeln sowie verschiedene Käfer und Schmetterlinge., extra:](/images/image006.jpg)  
 
 Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.  
 
@@ -977,7 +977,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 [[**end:block]]**  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image009.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte " Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:](/images/image009.jpg)  
 
 Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler   
 ![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image010.jpg)  
@@ -1021,12 +1021,12 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:](/images/image011.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird. , extra:](/images/image011.jpg)  
 
 Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 
-![alt:alt text, extra:](/images/image012.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:](/images/image012.jpg)  
 
 Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
@@ -1072,7 +1072,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image014.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, der überarbeitet wurde. Hier steht: Brustbild eines Mannes mit Fez und Ohrring"., extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image014.jpg)  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -1113,13 +1113,13 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image015.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel von Objektbildern, die durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht: "Dieser Datensatz wurde von uns als diskriminierend markiert"., extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image015.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image016.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz wurde von uns als diskriminierend markiert" steht. Zudem sieht man den rassistischen Objekttitel "Brustbild eines N-Wort mit Fez und Ohrring"., extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image016.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz enthält eine aus heutiger Sicht diskriminierende Bezeichnung. Der Begriff "N-Wort" gilt im heutigen Sprachgebrauch als stark herabwürdigende Fremdbezeichnung." steht., extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -1157,7 +1157,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image018.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung bei der auf der Startseite der Hinweis "Unser Bestand umfasst historische Zeugnisse des Rasisismus in Europa. Daher enthält dieser Katalog Begriffe, die rassistisch beleidigend sind. Diese werden im Interesse der historischen Genauigkeit verwendet und spiegeln nicht die Ansichten oder Meinungen unserer Institution oder Mitarbeitenden wider." zu lesen ist., extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image018.jpg)  
 
 **Zusammenfassung:**  
 
@@ -1187,7 +1187,7 @@ Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Ber
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 
-![alt:C:\\Users\\snmchug\\Downloads\\2024Usakos.JPG, extra:](/images/image020.jpg)  
+![alt:Drei Personen stehen in einem Raum mit Museumsexponaten. Im Vordergrund liegen ein geflochtener Korb und ein getrockneter Kürbis auf einem Tisch. Eine Frau in der Mitte trägt blaue Handschuhe und spricht in ein Mikrofon, während eine Frau in traditioneller Kleidung und ein Mann im Hintergrund zusehen., extra:](/images/image020.jpg)  
 
 Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern  
 
@@ -1244,7 +1244,7 @@ Wir sind bestrebt, die durch diese Arbeit gewonnene Sensibilisierung und Erfahru
 Vor uns liegt ein weiter Weg. Wir haben jedoch eine Richtung eingeschlagen, die zu einem geschärften Bewusstsein und neuem Umgang mit [Objekten](#_Objekt) und der Art und Weise, wie wir diese untersuchen, beschreiben, benennen und vermitteln, führt.  
 
 
-![alt:Podiumsdiskussion mit den drei Direktorinnen Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, con-tested". Sie stehen vor einer Bühne. Hinter ihnen sind Comics mit Texten und Illustrationen der Panels der Konferenz angebracht. Das Publikum sitzt im Vordergrund., extra:Abbildung 21: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.-22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM](/images/image022.jpg)  
+![alt:Podiumsdiskussion mit den drei Direktorinnen Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested". Sie stehen vor einer Bühne. Hinter ihnen sind Comics mit Texten und Illustrationen der Panels der Konferenz angebracht. Das Publikum sitzt im Vordergrund., extra:Abbildung 21: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.-22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM](/images/image022.jpg)  
 
 ## Museum für Kommunikation  
 
@@ -1692,7 +1692,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 ## **Portraitserie**  
 
 
-![alt:Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung, extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image033.jpg)  
+![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -1863,7 +1863,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **Missionsn\*li**  
 
 
-![alt:P:\\03 Andere\\2021_Datenbankbereinigungen\\Diskriminierungssensible Sprache\\Handreichungen\\Diversität und Datenbank_Glossar SNM\\Glossar SNM Bilder\\DIG-68112_LM-69377.jpg, extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 [[start:metadata]]
 
