@@ -13,68 +13,77 @@
         border-radius 99px
         background-color var(--color)
         color white
-  .popup
-    --lines 10
-    display flex
-    flex-direction column
-    align-items flex-start
+.popup
+  --lines 10
+  display flex
+  flex-direction column
+  align-items flex-start
+  position fixed
+  background-color white
+  top calc(1lh)
+  width 400px
+  gap .5lh
+  margin-top .5rem
+  padding 1rem 2rem
+  padding-bottom 2rem
+  color var(--secondary-color)
+  border 1px solid var(--color)
+  border-radius 4px
+  font-size var(--small-font-size)
+  z-index 5
+  @media _mobile
     position fixed
-    background-color white
-    top calc(1lh)
-    width 400px
-    gap .5lh
-    margin-top .5rem
-    padding 1rem 2rem
-    padding-bottom 2rem
-    color var(--secondary-color)
-    border 1px solid var(--color)
-    border-radius 4px
-    font-size var(--small-font-size)
-    z-index 5
-    @media _mobile
-      position fixed
-      width 90vw
-      height 95dvh
-      left 50vw
-      top 50vh
-      padding-bottom 0
-      overflow scroll
-      overscroll-behavior contain
-      transform translate(-50%, -50%)
-      z-index 50
-    @media print
-      display none
-    .title 
-      font-weight bold
-    .text
-      width 100%
-      max-height calc( 1l * var(--lines) + 1rem )
-      text-overflow ellipsis
-      display -webkit-box
-      -webkit-box-orient vertical
-      -webkit-line-clamp var(--lines)
-      overflow hidden
-      @media _mobile
-        display block
-        overflow visible
-        max-height unset
-        height auto
-        padding-block 1rem
-    .more
+    width 90vw
+    height 95dvh
+    left 50vw
+    top 50vh
+    padding-bottom 0
+    overflow scroll
+    overscroll-behavior contain
+    transform translate(-50%, -50%)
+    z-index 50
+    .close
       position absolute
-      bottom .5rem
-      right .5rem
-      padding .8rem 1.6rem
-      border-radius 999px
-      background-color var(--color)
-      color white
-      @media _mobile
-        display flex
-        align-items center
-        justify-content center
-        padding 1rem
-        height 4rem
-        width 4rem
-      &:hover
-        color var(--color-secondary)
-        background-color var(--background-color-secondary)
+      top 1rem
+      right 1rem
+      background none
+      border none
+      font-size 2rem
+      color var(--color-secondary)
+      cursor pointer
+  @media print
+    display none
+  .title 
+    font-weight bold
+  .text
+    width 100%
+    max-height calc( 1l * var(--lines) + 1rem )
+    text-overflow ellipsis
+    display -webkit-box
+    -webkit-box-orient vertical
+    -webkit-line-clamp var(--lines)
+    overflow hidden
+    @media _mobile
+      display block
+      overflow visible
+      max-height unset
+      height auto
+      padding-block 1rem
+  .more
+    position absolute
+    bottom .5rem
+    right .5rem
+    padding .8rem 1.6rem
+    border-radius 999px
+    background-color var(--color)
+    color white
+    @media _mobile
+      display flex
+      align-items center
+      justify-content center
+      padding 1rem
+      height 4rem
+      width 4rem
+    &:hover
+      color var(--color-secondary)
+      background-color var(--background-color-secondary)

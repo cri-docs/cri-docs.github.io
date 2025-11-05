@@ -6,11 +6,16 @@
 
   import glossaryData from "|/content/text/glossary.json"
   import XLg from "$lib/icones/x-lg.svelte"
-  import { marked } from "marked"
-  import Markdown from "$lib/markdown.svelte"
+  // import { marked } from "marked"
+  import { markdown } from "$lib/markdownRenderer.js"
 
   const { content, id } = $props()
   const { isMobile } = useResize
+
+  const marked = markdown({
+    // pageIndex: data?.site?.fields?.index,
+    // data: data.site.fields,
+  })
 
   let mousePosition = $state({ x: 0, y: 0 })
   let windowWidth = $state(0)
@@ -21,6 +26,18 @@
   let showPopup = $state(false)
 
   const _id = id.toLowerCase()
+
+  const glossaryTerm = $derived.by(() => {
+    _id?.replace("/", "_und_")?.split("_")
+    const termMatches = Object.keys(glossaryData)?.filter((term) => {
+      const termParts = term.split("_")
+      const idParts = _id?.replace("/", "_und_")?.split("_") || []
+      const matches = termParts.filter((part) => idParts.includes(part))
+      const matchingThreshold = Math.max(1, Math.floor(idParts.length - 1))
+      if (matches.length >= matchingThreshold) return term
+    })
+    return glossaryData?.[termMatches?.[0]]
+  })
 
   const goToLink = (e) => {
     if (!$isMobile) {
@@ -76,22 +93,29 @@
   <div class={styles.content}>
     {content}
   </div>
-  {#if showPopup}
-    <div
-      class={styles.popup}
-      style="top: {mousePosition.y + 20}px; left: {mousePosition.x}px;"
-    >
-      <span class={styles.title}>
-        {glossaryData?.[_id]?.name || "Begriff nicht im Glossar gefunden."}
-      </span>
-      <span class={styles.text}>
-        {@html marked.parseInline(glossaryData?.[_id]?.content || "")}
-      </span>
-      <!-- {#if !$isMobile}
-        <div class={styles.more}>klicken für ganzen Text</div>
-      {:else}
-        <div id="close-popup" class={styles.more}><XLg /></div>
-      {/if} -->
-    </div>
-  {/if}
 </button>
+{#if showPopup}
+  <div
+    class={styles.popup}
+    style={`top: ${!$isMobile ? mousePosition.y + 20 : undefined}px; left: ${!$isMobile ? mousePosition.x : undefined}px`}
+  >
+    {#if $isMobile}
+      <button
+        id="close-popup"
+        class={styles.close}
+        type="button"
+        aria-label="Popup schließen"
+      >
+        <XLg />
+      </button>
+    {/if}
+    <span class={styles.title}>
+      {glossaryTerm?.name || "Begriff nicht im Glossar gefunden."}
+    </span>
+    <span class={styles.text}>
+      {@html marked(glossaryTerm?.content || "")
+        .replace("<p>", "")
+        .replace("</p>", "")}
+    </span>
+  </div>
+{/if}
