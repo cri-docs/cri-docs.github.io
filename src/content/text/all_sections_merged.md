@@ -1321,11 +1321,17 @@ Die Überarbeitung von Datensätzen in Datenbanken hängt stark von den technisc
 7. Sensiblen [Objekten](#_Objekt) einen «Inhaltshinweis» mitgeben. Die verschiedenen Inhaltshinweise zu spezifischen rassistischen und diskriminierenden Praktiken können zum Beispiel in einer Dropdown-Liste implementiert und angewählt werden.  
 8. Wenn immer möglich sollte bei sensiblen [Objekten](#_Objekt) ein ergänzender Text hinzugefügt werden, der das [Objekt](#_Objekt) kontextualisiert. Dieser kann in einem speziell dazu implementierten Datenfeld beigefügt werden.  
 
-Für die Überarbeitung der Datensätze gibt es keine allgemeingültige ‹Strategie›. Sammlungen stehen aufgrund ihrer Schwerpunkte/Fokusse jeweils vor verschiedenen Problemstellungen und müssen daher individuelle und oft objektspezifische Lösungen formulieren. Deshalb bilden die folgenden Beispiele und die Überarbeitungsvorschläge einen Stand der Dinge und die Überarbeitungsmöglichkeiten auf Basis der aktuell verfügbaren technischen Grundlagen ab. Sie geben einen Überblick, wie einzelne Institutionen in konkreten Beispielen vorgegangen sind. Sie sind keine *Best-Practice*-Lösungen, sondern Handlungsoptionen, die einzelne Institutionen als erste Massnahmen in ihren Datenbanken umgesetzt haben. Die Präsentation der verschiedenen Beispiele bedeutet nicht zwingend, dass in der einzelnen Institution die Auseinandersetzung mit diskriminierungs- und rassismuskritischen Fragen in Bezug auf das vorgestellte [Objekt](#_Objekt) bereits abgeschlossen ist, sondern gibt lediglich den aktuellen Stand wieder in einem Prozess, der ebenso gut am Beginn wie an einem anderen Punkt stehen kann.  
+Für die Überarbeitung der Datensätze gibt es keine allgemeingültige ‹Strategie›. Sammlungen stehen aufgrund ihrer Schwerpunkte/Fokusse jeweils vor verschiedenen Problemstellungen und müssen daher individuelle und oft objektspezifische Lösungen formulieren.  
 
 # **Lösungsansätze aus den Sammlungen**  
 
+Für die Überarbeitung der Datensätze gibt es keine allgemeingültige ‹Strategie›. Sammlungen stehen aufgrund ihrer Schwerpunkte/Fokusse jeweils vor verschiedenen Problemstellungen und müssen daher individuelle und oft objektspezifische Lösungen formulieren. Deshalb bilden die folgenden Beispiele und die Überarbeitungsvorschläge einen Stand der Dinge und die Überarbeitungsmöglichkeiten auf Basis der aktuell verfügbaren technischen Grundlagen ab. Sie geben einen Überblick, wie einzelne Institutionen in konkreten Beispielen vorgegangen sind. Sie sind keine *Best-Practice*-Lösungen, sondern Handlungsoptionen, die einzelne Institutionen als erste Massnahmen in ihren Datenbanken umgesetzt haben. Die Präsentation der verschiedenen Beispiele bedeutet nicht zwingend, dass in der einzelnen Institution die Auseinandersetzung mit diskriminierungs- und rassismuskritischen Fragen in Bezug auf das vorgestellte [Objekt](#_Objekt) bereits abgeschlossen ist, sondern gibt lediglich den aktuellen Stand wieder in einem Prozess, der ebenso gut am Beginn wie an einem anderen Punkt stehen kann.  
+
+[[start:block]]
+
 Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen werden in den folgenden Abschnitten rassistische Begriffe und Bilder reproduziert.[[177]](#footnote-178) Die Beispiele aus den Institutionen bilden die Recherchen, teilweise auch Diskussionen und Prozesse ab, die zu den Entscheidungen bezüglich der Eingriffe in die Datensätze führten. Diese werden jeweils unter dem «Kontext» beschrieben.  
+
+[[end:block]]
 
 ## M\*automat  
 
