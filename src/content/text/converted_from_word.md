@@ -70,30 +70,15 @@ November 2025
 Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 
 [Bernisches Historisches Museum](https://www.bhm.ch/de)
-![](data:image/jpeg;base64...)
-
 [ETH-Bibliothek, Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html)
-![](data:image/jpeg;base64...)
-
 [Historisches Museum Basel](https://www.hmb.ch/)
-![](data:image/jpeg;base64...)
-
 [Kunsthaus Zürich](https://www.kunsthaus.ch/)
-![](data:image/jpeg;base64...)
-
 [Museum für Kommunikation](https://www.mfk.ch/)
-![](data:image/jpeg;base64...)
-
 [Fotostiftung Schweiz](https://fotostiftung.ch/de/)
-![](data:image/jpeg;base64...)
-
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)
-![](data:image/jpeg;base64...)
-
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)
-![](data:image/jpeg;base64...)
 
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)![](data:image/jpeg;base64...)© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
 
 [[end:preface]]
 
