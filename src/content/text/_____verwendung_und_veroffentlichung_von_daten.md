@@ -139,16 +139,15 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis  
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren  
-
-Anpassungen im Frontend der Online-Sammlung  
+* Anpassungen im Frontend der Online-Sammlung  
 
 [[**end:block]]**  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image017.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image016.jpg)  
 
 Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler   
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image018.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8AD1FCAE.tmp, extra:](/images/image017.jpg)  
 
 Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
@@ -184,22 +183,22 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 **To-do**:  
 
 * Anpassungen im Frontend der Online-Sammlung  
+* Definition von Kriterien für Platzhalter  
 
-Definition von Kriterien für Platzhalter  
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:](/images/image019.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\397BCEC.tmp, extra:](/images/image018.jpg)  
 
 Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 
-![alt:alt text, extra:](/images/image020.jpg)  
+![alt:alt text, extra:](/images/image019.jpg)  
 
 Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler  
 
 
-![alt:alt text, extra:Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
+![alt:alt text, extra:Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image020.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -240,7 +239,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[152]](
 [[end:block]]
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6EC9EDDA.tmp, extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image021.jpg)  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -281,13 +280,13 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
+![alt:alt text, extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image022.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\5291C2F8.tmp, extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image023.jpg)  
 
 
-![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
+![alt:C:\\Users\\snmchug\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D2A43BC6.tmp, extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image024.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -325,7 +324,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 [[end:block]]
 
 
-![alt:alt text, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image026.jpg)  
+![alt:alt text, extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image025.jpg)  
 
 **Zusammenfassung:**  
 

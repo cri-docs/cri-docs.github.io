@@ -93,7 +93,7 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)
 ![](data:image/jpeg;base64...)
 
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) ![](data:image/png;base64...)
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
 
 [[end:preface]]
 
@@ -970,8 +970,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 * Anpassung der Datenbank-Einträge mit Markierung oder Verweis
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren
-
-Anpassungen im Frontend der Online-Sammlung
+* Anpassungen im Frontend der Online-Sammlung
 
 [[**end:block]]**
 
@@ -1013,8 +1012,8 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 **To-do**:
 
 * Anpassungen im Frontend der Online-Sammlung
+* Definition von Kriterien für Platzhalter
 
-Definition von Kriterien für Platzhalter
 [[end:block]]
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](data:image/png;base64...)
@@ -2082,8 +2081,6 @@ Begriffe wie «Herkunftsgesellschaft» und «Community» können im Zusammenhang
 
 Die Idee, dass Menschen, die in der sozialen Interaktion von Rassifizierungsprozessen betroffen sind, zwangsläufig «Communities» konstituieren, ist im anglo-amerikanischen Raum seit dem 20. Jh. stark verbreitet, wo es seit der Segregation allgemein eine prononcierte Tendenz gibt, die Gesellschaft als eine Summe von vielen «Communities» zu lesen, in denen die Mitgliedschaft durch einzelne Eigenschaften gegeben ist. Diese Leseart wurde teils unhinterfragt auf die zeitgenössische europäische Bevölkerung übernommen. Wie der Historiker Pap Ndiaye, der sowohl zur Geschichte der US-Afroamerikaner[[224]](#footnote-225) als auch zur schwarzen Bevölkerung in Frankreich[[225]](#footnote-226) gearbeitet hat, auf überzeugende Weise darzulegen wusste, wäre es für europäische Gesellschaften, die im Unterschied zu den amerikanischen nicht aus kolonialen Sklavenhaltergesellschaften hervorgegangen sind, verfehlt, von einer «communauté noire» zu sprechen. Eine solche gibt es gemäss Ndiaye in Frankreich nicht: zu heterogen seien die Schwarzen in Frankreich in Bezug auf ihre Herkunft, soziale Lage, Sprache, Religion, Staatsbürgerschaft. Es gebe keine soziale Interaktion und gemeinschaftliche Organisation, die eine panschwarze Community hervorbringen würde. Französische Staatsbürger aus den Karibikdepartements, deren Familien auf den transatlantischen Handel mit versklavten Menschen zurückgehen, und postkoloniale Immigranten aus Afrika bilden in Frankreich weder eine «schwarze Community», noch vermischen sich die unterschiedlichen afrikanischen Immigrantengruppen – wie etwa die mehrheitlich muslimischen Senegales:innen und die mehrheitlich christlichen Kongoles:innen – zu einer einheitlichen «afrikanischen Community». Was es hingegen sehr wohl gibt, ist eine «condition noire», die Menschen schwarzer Hautfarbe in ihrer Interaktion mit Behörden, Medien und Nicht-Schwarzen teilen. Aus dieser «condition noire», wovon Rassismuserfahrung eine zentrale Komponente darstellt, erwächst zwar durchaus eine «identité noire», aber keine «communauté». Das heisst, dass in Frankreich nicht zwingend eine Community, wie man sie im amerikanischen Raum beobachten kann, existiert. Diese Heterogenität, die Ndiaye im französischen Kontext und in Bezug auf die Sprache, Herkunft etc. feststellt, kann auch auf die Schweiz übertragen werden. Unabhängig davon wird der Begriff zum Teil von verschiedenen Schwarzen für sich und die Gemeinschaften, in denen sie sich bewegen, übernommen: Es gibt Webseiten, Vereine, Individuen etc., die von einer bzw. im Namen einer «Black Community» oder «afrikanischen Community» sprechen. In diesem Zusammenhang versteht die AG den Begriff als «Selbstbezeichnung» für diese Organisationsform, der mit diesem Hintergrund für das Handbuch übernommen wird.
 
-Siehe hierzu und
-
 ## Dekolonisierung und Dekolonialismus
 
 Die Wörter «Dekolonisierung» und «Dekolonialismus» werden oft synonym verwendet, beziehen sich aber auf unterschiedliche Aspekte des Prozesses der Überwindung des Kolonialismus. Dekolonisierung (oder Entkolonialisierung) ist der Prozess der Beendigung der formalen, kolonialen Herrschaft oder nominellen Kontrolle einer Regierung und der Erlangung politischer Unabhängigkeit sowie der Schaffung neuer staatlicher Strukturen. Dekolonialismus hingegen ist eine kritische Perspektive basierend auf theoretischen Ansätzen, die sich mit den langfristigen Auswirkungen des Kolonialismus auf Gesellschaften, Kulturen und Wissenssystemen auseinandersetzen und Strategien zur Überwindung dieser Auswirkungen entwickeln. Sie umfassen die Dekonstruktion kolonialer Machtstrukturen, die Hinterfragung eurozentrischer Denkweisen und die Entwicklung neuer epistemologischer und ontologischer Ansätze.
@@ -2348,6 +2345,10 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 
 # Impressum
 
+Version 1.0, November 2025
+
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+
 **Mitwirkende Institutionen:**
 [Bernisches Historisches Museum](https://www.bhm.ch/de)
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich
@@ -2367,7 +2368,7 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, Chonja Lee, Monique Ligtenberg, Ruby Satele Asiata
 
 **Fotos:**
-Siehe Copyright-Angaben
+Siehe Angaben in den Bildlegenden.
 
 **Design und Entwicklung:**
 [Astrom / Zimmer & Tereszkiewicz](https://azt.ch/)
@@ -2412,15 +2413,15 @@ Michael Gasser
 
 Mira Shah
 
+Reto Thüring
+
 Ruby Satele Asiata
 
 Sabina Horber
 
+Severin Rüegg
+
 Die Geschäftsleitungen der beteiligten Institutionen.
-
-Version 1.0, November 2025
-
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) ![](data:image/png;base64...)
 
 1. Der Begriff Dekolonialisierung kommt ursprünglich aus den Geschichtswissenschaften und beschreibt zum einen die formale Auflösung der Kolonialreiche in den 1940er- bis 1960er-Jahren und zum anderen das Hinterfragen, Sichtbarmachen und Überwinden kolonialer Stereotype, Denkmuster und Strukturen (vgl. hierzu: Gouaffo, Albert: Dekolonisierung, in: Göttsche, Dirk; Dunker, Axel; Dürbeck, Gabriele (Hg.): Handbuch Postkolonialismus und Literatur, Stuttgart 2017, S. 131-133.). Kolonialismus und die daraus resultierenden Unterdrückungsformen sind noch immer aktuell und Dekolonialisierungsprozesse gehen weit über die Befreiung der Kolonialstaaten Mitte des 20. Jh. hinaus (historische Entkolonisierung). Im Kontext von Museen, Sammlungen und Archiven bedeutet Dekolonialisierung also, Denkmuster und koloniale Stereotypen offenzulegen und nicht mehr zu reproduzieren. [↑](#footnote-ref-2)
 2. Siehe z. B. den Kulturgüterstreit zwischen Zürich und St. Gallen. Im Verlauf des Zweiten Villmergerkrieges wurden 19’712 verschiedene Kulturgüter aus der Stiftsbibliothek St. Gallen nach Zürich gebracht. 1996 ersuchte der St. Galler Regierungsrat die Rückgabe (vgl. hierzu: Newsservice Bund: Kulturgüterstreit St. Gallen - Zürich: Erfolgreicher Abschluss der Vermittlung des Bundes vom 27. April 2006, <[news.admin.ch/de/nsb?id=4853](https://www.news.admin.ch/de/nsb?id=4853)>, Stand 28.08.2025.). [↑](#footnote-ref-3)

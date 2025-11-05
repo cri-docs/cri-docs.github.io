@@ -8,6 +8,10 @@ color: "default"
 toc:
 ---
 
+Version 1.0, November 2025  
+
+© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)  
+
 **Mitwirkende Institutionen:**  
 [Bernisches Historisches Museum](https://www.bhm.ch/de)  
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich  
@@ -27,7 +31,7 @@ toc:
 Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, Chonja Lee, Monique Ligtenberg, Ruby Satele Asiata  
 
 **Fotos:**  
-Siehe Copyright-Angaben  
+Siehe Angaben in den Bildlegenden.  
 
 **Design und Entwicklung:**  
 [Astrom / Zimmer & Tereszkiewicz](https://azt.ch/)  
@@ -72,13 +76,12 @@ Michael Gasser
 
 Mira Shah  
 
+Reto Thüring  
+
 Ruby Satele Asiata  
 
 Sabina Horber  
 
-Die Geschäftsleitungen der beteiligten Institutionen.  
+Severin Rüegg  
 
-Version 1.0, November 2025  
-
-© 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)   
-![alt:alt text, extra:](/images/image048.jpg)
+Die Geschäftsleitungen der beteiligten Institutionen.

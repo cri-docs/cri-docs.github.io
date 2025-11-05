@@ -33,7 +33,7 @@ Der vorliegende Beitrag veranschaulicht anhand konkreter historischer Beispiele 
 Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte oder Kaufleute kistenweise [Objekte](#_Objekt), Präparate und Kulturgegenstände von ihren Kolonialexpeditionen in die Schweiz.[[78]](#footnote-79) Solche Privatsammlungen gelangten oft als Schenkungen an Schweizer Museen, Universitäten, Gelehrtengesellschaften und Kunsthäuser. Ein Beispiel dafür ist die Insektensammlung von Heinrich Escher-Zollikofer (1776–1853). Er reiste 1795 als Kaufmann nach Nordamerika, wo er elf Jahre lang mit Kolonialwaren handelte, die von versklavten Menschen angebaut wurden.[[79]](#footnote-80) Diese kolonialen Handelstätigkeiten ermöglichten es ihm, in Nord- und Zentralamerika eine grosse Insektensammlung aufzubauen, die er in der Schweiz durch Zukäufe erweiterte. 1858 wurden die rund 60’000 Präparate der ETH Zürich geschenkt.[[80]](#footnote-81)  
 
 
-![alt:alt text, extra:](/images/image014.jpg)  
+![alt:alt text, extra:](/images/image013.jpg)  
 
 Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.  
 
