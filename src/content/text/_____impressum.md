@@ -41,48 +41,48 @@ Siehe Angaben in den Bildlegenden.
 **Dank**  
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
-Annette Kniep  
-
-Balthasar Zimmermann  
-
-Christine Müller Stalder  
-
-Denise Tonella  
-
-Erika Hebeisen  
-
 Heidi Amrein  
-
-Heidi Brunner  
-
-Isabelle Münzner  
-
-Johannes Sauter  
-
-Jonas Lendenmann  
-
-Juri Jaquement  
-
-Laura Walde  
-
-Madleina Deplazes  
 
 Mariama de Brito Henn  
 
-Marilyn Umurungi  
+Heidi Brunner  
+
+Madleina Deplazes  
 
 Michael Gasser  
+
+Erika Hebeisen  
+
+Sabina Horber  
+
+Juri Jaquement  
+
+Annette Kniep  
+
+Jonas Lendenmann  
+
+Stefanie Löpfe  
+
+Christine Müller Stalder  
+
+Isabelle Münzner  
+
+Severin Rüegg  
+
+Ruby Satele Asiata  
+
+Johannes Sauter  
 
 Mira Shah  
 
 Reto Thüring  
 
-Ruby Satele Asiata  
+Denise Tonella  
 
-Sabina Horber  
+Marilyn Umurungi  
 
-Severin Rüegg  
+Laura Walde  
 
-Stefanie Löpfe  
+Balthasar Zimmermann  
 
 Den Geschäftsleitungen der beteiligten Institutionen.

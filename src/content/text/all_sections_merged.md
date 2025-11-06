@@ -344,7 +344,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
 
-![alt:Kulturvermittler steht in einem hellen Museumsraum und weist erklärt die rassistische Darstellung und deren Bildelemente einer Schulklasse. An der Wand hängen verschiedene Bilder und Texttafeln. Im Hintergrund sind weitere Ausstellungsstücke und beschriftete Wände zu sehen., extra:Abbildung 1: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image002.jpg)  
+![alt:Kulturvermittler steht in einem hellen Museumsraum und weist erklärt die rassistische Darstellung und deren Bildelemente einer Schulklasse. An der Wand hängen verschiedene Bilder und Texttafeln. Im Hintergrund sind weitere Ausstellungsstücke und beschriftete Wände zu sehen., extra:Abbildung : «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image002.jpg)  
 
 [[start:literature]]
 
@@ -371,7 +371,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 
-![alt:Grosse Holzskulptur einer stehenden Figur auf einem Podest in einem Museum. Die Skulptur zeigt stilisierte menschliche Züge, und im Hintergrund befinden sich weitere Ausstellungsobjekte in Vitrinen., extra:Abbildung 2: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image003.jpg)  
+![alt:Grosse Holzskulptur einer stehenden Figur auf einem Podest in einem Museum. Die Skulptur zeigt stilisierte menschliche Züge, und im Hintergrund befinden sich weitere Ausstellungsobjekte in Vitrinen., extra:Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image003.jpg)  
 
 [[start:literature]]
 
@@ -404,7 +404,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
 
-![alt:Person in Archivumgebung, die ein Eingangsbuch in den Händen hält. Im Hintergrund ist ein volles Regal mit nummerierten Büchern zu sehen., extra:Abbildung 3: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image004.jpg)  
+![alt:Person in Archivumgebung, die ein Eingangsbuch in den Händen hält. Im Hintergrund ist ein volles Regal mit nummerierten Büchern zu sehen., extra:Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image004.jpg)  
 
 [[start:literature]]
 
@@ -575,7 +575,7 @@ Der vorliegende Beitrag veranschaulicht anhand konkreter historischer Beispiele 
 Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte oder Kaufleute kistenweise [Objekte](#_Objekt), Präparate und Kulturgegenstände von ihren Kolonialexpeditionen in die Schweiz.[[77]](#footnote-78) Solche Privatsammlungen gelangten oft als Schenkungen an Schweizer Museen, Universitäten, Gelehrtengesellschaften und Kunsthäuser. Ein Beispiel dafür ist die Insektensammlung von Heinrich Escher-Zollikofer (1776–1853). Er reiste 1795 als Kaufmann nach Nordamerika, wo er elf Jahre lang mit Kolonialwaren handelte, die von versklavten Menschen angebaut wurden.[[78]](#footnote-79) Diese kolonialen Handelstätigkeiten ermöglichten es ihm, in Nord- und Zentralamerika eine grosse Insektensammlung aufzubauen, die er in der Schweiz durch Zukäufe erweiterte. 1858 wurden die rund 60’000 Präparate der ETH Zürich geschenkt.[[79]](#footnote-80)  
 
 
-![alt:Eine Sammlung getrockneter Pflanzen, Zweige und Insekten ist sorgfältig auf einem weißen Untergrund arrangiert. Die einzelnen Objekte sind mit kleinen handbeschrifteten Etiketten versehen, die wissenschaftliche Namen und Nummern zeigen. Zu sehen sind Blätter, Samenstände, Wurzeln sowie verschiedene Käfer und Schmetterlinge., extra:Abbildung 5: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.](/images/image006.jpg)  
+![alt:Eine Sammlung getrockneter Pflanzen, Zweige und Insekten ist sorgfältig auf einem weißen Untergrund arrangiert. Die einzelnen Objekte sind mit kleinen handbeschrifteten Etiketten versehen, die wissenschaftliche Namen und Nummern zeigen. Zu sehen sind Blätter, Samenstände, Wurzeln sowie verschiedene Käfer und Schmetterlinge., extra:Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.](/images/image006.jpg)  
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[80]](#footnote-81)  
 
@@ -694,7 +694,7 @@ Das Überwinden kolonialer Gedanken und Termini in kulturellen Institutionen erf
 Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vor. Der Begriff kommt aus der *Xârâcùù* Sprache, einer von achtundzwanzig Sprachen in Neukaledonien. Zudem ordnete er das [Objekt](#_Objekt) neu als Symbol des Hauptredners einer Zeremonie ein.[[108]](#footnote-109) Dank dieser neuen Bedeutungsebene veränderte sich auch die Präsentationsform des [Objekts](#_Objekt). Wurde es ursprünglich stets horizontal ausgestellt, wird es nun vertikal gezeigt. In dieser Präsentationform erinnert es noch weniger an eine Monstranz. Der Austausch mit Denis Pourawa veränderte die Art und Weise wie das [Objekt](#_Objekt) benannt, dokumentiert und gezeigt wird (Abb. 1). Auch im Humboldt Forum, wo sich ein ähnliches [Objekt](#_Objekt) befindet, wurde diese Darstellungs- und Präsentationsform übernommen. Dies sind nur zwei Beispiele einer angepassten Objektdokumentation, doch finden sich in vielen europäischen Sammlungen noch immer [Objekte](#_Objekt) mit dem erfundenen Namen.  
 
 
-![alt:Kunstobjekt das aussieht wie ein kleiner Baum mit einer runden, grünen Krone und freigelegten Wurzeln., extra:Abbildung 6: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet](/images/image007.jpg)  
+![alt:Kunstobjekt das aussieht wie ein kleiner Baum mit einer runden, grünen Krone und freigelegten Wurzeln., extra:Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet](/images/image007.jpg)  
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[109]](#footnote-110) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.  
 
@@ -762,7 +762,7 @@ Dieser Ausschluss kann explizit sein, ist aber oft implizit. Beispiele dafür, w
 Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden, sondern auch durch das Definieren einer hauptsächlich *weissen* Zielgruppe. An ihr orientieren sich die Ausstellungskultur, das Bildungs- und Vermittlungsangebot, die Dokumentationspraxis, der Umgang mit Sammlungen, die Inhalte und die Sprachen sowie die von der Institution gelebte Kultur.  
 
 
-![alt:Vertikal angeordnete Serie von Schwarz-Weiss-Fotografien, die unterschiedliche Szenen in einer Kunstausstellung zeigen., extra:Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich](/images/image008.jpg)  
+![alt:Vertikal angeordnete Serie von Schwarz-Weiss-Fotografien, die unterschiedliche Szenen in einer Kunstausstellung zeigen., extra:Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich](/images/image008.jpg)  
 
 #### **Auswirkungen von geweissten Räumen**  
 
@@ -969,7 +969,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung 8: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -1008,10 +1008,10 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird., extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird., extra:Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image011.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image011.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -1160,12 +1160,12 @@ Ein wichtiger Schritt zur Aufarbeitung ethnografischer Objektbestände wurde im 
 Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattform, die sich als Probebühne, Versuchslabor und Resonanzraum versteht. Sie thematisiert aktuelle, gesellschaftliche Debatten im Spiegel der Geschichte und reflektiert die Sammlungen des Museums und Vermittlungspraktiken. In verschiedenen Projekten findet eine Beschäftigung mit dem Themenschwerpunkt koloniale Verflechtungen und Rassismus statt. Beispiel einer sichtbaren Auseinandersetzung mit dem Thema «Bern und der Kolonialismus» sind Interventionen an verschiedenen Stationen in der Dauerausstellung. Dabei werden ausgewählte [Objekte](#_Objekt) in den Fokus gerückt und zuvor unbeachtete koloniale Verflechtungen und deren Nachwirkungen aufgezeigt.  
 
 
-![alt:Innenaufnahme eines Ausstellungsraumes mit Fotografien und Texttafeln an den Wänden. In der Mitte befinden sich Vitrinen mit verschiedenen Masken. Der Raum ist hell und modern gestaltet., extra:Abbildung 18: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern](/images/image017.jpg)  
+![alt:Innenaufnahme eines Ausstellungsraumes mit Fotografien und Texttafeln an den Wänden. In der Mitte befinden sich Vitrinen mit verschiedenen Masken. Der Raum ist hell und modern gestaltet., extra:Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern](/images/image017.jpg)  
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 
-![alt:Drei Personen stehen in einem Raum mit Museumsexponaten. Im Vordergrund liegen ein geflochtener Korb und ein getrockneter Kürbis auf einem Tisch. Eine Frau in der Mitte trägt blaue Handschuhe und spricht in ein Mikrofon, während eine Frau in traditioneller Kleidung und ein Mann im Hintergrund zusehen., extra:Abbildung 19: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern](/images/image018.jpg)  
+![alt:Drei Personen stehen in einem Raum mit Museumsexponaten. Im Vordergrund liegen ein geflochtener Korb und ein getrockneter Kürbis auf einem Tisch. Eine Frau in der Mitte trägt blaue Handschuhe und spricht in ein Mikrofon, während eine Frau in traditioneller Kleidung und ein Mann im Hintergrund zusehen., extra:Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern](/images/image018.jpg)  
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.  
 
@@ -1567,10 +1567,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## Puppenspiel  
 
 
-![alt:alt text, extra:Abbildung 29: Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0](/images/image028.jpg)  
-
-
-![alt:Drei kleine Holzfiguren aufgereiht nebeneinander. Sie tragen Zirkuskleidung oder Accessoires, die auf ihre Rollen hinweisen., extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image029.jpg)  
+![alt:Drei kleine Holzfiguren aufgereiht nebeneinander. Sie tragen Zirkuskleidung oder Accessoires, die auf ihre Rollen hinweisen., extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image028.jpg)  
 
 [[start:metadata]]
 
@@ -1616,7 +1613,7 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 ## **12 kleinen N\*lein**  
 
 
-![alt:Orange-grün eingefasstes Buch, dass auf dem Cover zwölf Schwarze Jungen zeigt. Sie steigen auf einen Berg an dessen Ende eine Klippe ist. Einer der jungen stürzt sich von der Klippe ins Maul eines Nilpferdes, das unten auf ihn wartet., extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image030.jpg)  
+![alt:Orange-grün eingefasstes Buch, dass auf dem Cover zwölf Schwarze Jungen zeigt. Sie steigen auf einen Berg an dessen Ende eine Klippe ist. Einer der jungen stürzt sich von der Klippe ins Maul eines Nilpferdes, das unten auf ihn wartet., extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image029.jpg)  
 
 [[start:metadata]]
 
@@ -1666,7 +1663,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 ## **Portraitserie**  
 
 
-![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image031.jpg)  
+![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  
 
 [[start:metadata]]
 
@@ -1731,7 +1728,7 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 ## **Elektrische Reklame für eine Schuhcrème**  
 
 
-![alt:Runde Werbereklame mit gelbem Hintergrund, auf der zwei schwarze Figuren zu sehen sind. Ein Schwarzer Junge putzt einem Herren im Anzug die Schuhe. Darüber steht der Schriftzug „Marga“ in roter Schrift., extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image032.jpg)  
+![alt:Runde Werbereklame mit gelbem Hintergrund, auf der zwei schwarze Figuren zu sehen sind. Ein Schwarzer Junge putzt einem Herren im Anzug die Schuhe. Darüber steht der Schriftzug „Marga“ in roter Schrift., extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image031.jpg)  
 
 [[start:metadata]]
 
@@ -1781,7 +1778,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
+![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
 [[start:metadata]]
 
@@ -1837,7 +1834,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **Missionsn\*li**  
 
 
-![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -1894,7 +1891,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 ## **Fotoreportage aus den USA**  
 
 
-![alt:Schwarz-weiss-Fotografie einer fröhlichen Gruppe von Schwarzen Menschen, die im Freien in die Kamera lachen. Einige heben die Hände zum Gruss, Bäume sind im Hintergrund sichtbar., extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image035.jpg)  
+![alt:Schwarz-weiss-Fotografie einer fröhlichen Gruppe von Schwarzen Menschen, die im Freien in die Kamera lachen. Einige heben die Hände zum Gruss, Bäume sind im Hintergrund sichtbar., extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image034.jpg)  
 
 [[start:metadata]]
 
@@ -1970,7 +1967,7 @@ Nach Noah Sow muss «jede Historisierung des Rassismus […] bei der Antike anse
 Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarze Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als Schwarze wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht-weisse Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als Schwarzer Mann dargestellt wird.  
 
 
-![alt:Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben., extra:Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+![alt:Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben., extra:Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
@@ -1983,7 +1980,7 @@ Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identit
 [[end:citation]]
 
 
-![alt:alt text, extra:![](data:image/jpeg;base64...) Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
+![alt:alt text, extra:Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 #### *Frühe Neuzeit: Schwarze Körper als Eigentum und Statussymbol*  
 
@@ -2337,48 +2334,48 @@ Siehe Angaben in den Bildlegenden.
 **Dank**  
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
-Annette Kniep  
-
-Balthasar Zimmermann  
-
-Christine Müller Stalder  
-
-Denise Tonella  
-
-Erika Hebeisen  
-
 Heidi Amrein  
-
-Heidi Brunner  
-
-Isabelle Münzner  
-
-Johannes Sauter  
-
-Jonas Lendenmann  
-
-Juri Jaquement  
-
-Laura Walde  
-
-Madleina Deplazes  
 
 Mariama de Brito Henn  
 
-Marilyn Umurungi  
+Heidi Brunner  
+
+Madleina Deplazes  
 
 Michael Gasser  
+
+Erika Hebeisen  
+
+Sabina Horber  
+
+Juri Jaquement  
+
+Annette Kniep  
+
+Jonas Lendenmann  
+
+Stefanie Löpfe  
+
+Christine Müller Stalder  
+
+Isabelle Münzner  
+
+Severin Rüegg  
+
+Ruby Satele Asiata  
+
+Johannes Sauter  
 
 Mira Shah  
 
 Reto Thüring  
 
-Ruby Satele Asiata  
+Denise Tonella  
 
-Sabina Horber  
+Marilyn Umurungi  
 
-Severin Rüegg  
+Laura Walde  
 
-Stefanie Löpfe  
+Balthasar Zimmermann  
 
 Den Geschäftsleitungen der beteiligten Institutionen.  

@@ -322,10 +322,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.6 Puppenspiel  
 
 
-![alt:alt text, extra:Abbildung 29: Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0](/images/image028.jpg)  
-
-
-![alt:Drei kleine Holzfiguren aufgereiht nebeneinander. Sie tragen Zirkuskleidung oder Accessoires, die auf ihre Rollen hinweisen., extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image029.jpg)  
+![alt:Drei kleine Holzfiguren aufgereiht nebeneinander. Sie tragen Zirkuskleidung oder Accessoires, die auf ihre Rollen hinweisen., extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image028.jpg)  
 
 [[start:metadata]]
 
@@ -371,7 +368,7 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 ## 10.7 **12 kleinen N\*lein**  
 
 
-![alt:Orange-grün eingefasstes Buch, dass auf dem Cover zwölf Schwarze Jungen zeigt. Sie steigen auf einen Berg an dessen Ende eine Klippe ist. Einer der jungen stürzt sich von der Klippe ins Maul eines Nilpferdes, das unten auf ihn wartet., extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image030.jpg)  
+![alt:Orange-grün eingefasstes Buch, dass auf dem Cover zwölf Schwarze Jungen zeigt. Sie steigen auf einen Berg an dessen Ende eine Klippe ist. Einer der jungen stürzt sich von der Klippe ins Maul eines Nilpferdes, das unten auf ihn wartet., extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image029.jpg)  
 
 [[start:metadata]]
 
@@ -421,7 +418,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 ## 10.8 **Portraitserie**  
 
 
-![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image031.jpg)  
+![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  
 
 [[start:metadata]]
 
@@ -486,7 +483,7 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 ## 10.9 **Elektrische Reklame für eine Schuhcrème**  
 
 
-![alt:Runde Werbereklame mit gelbem Hintergrund, auf der zwei schwarze Figuren zu sehen sind. Ein Schwarzer Junge putzt einem Herren im Anzug die Schuhe. Darüber steht der Schriftzug „Marga“ in roter Schrift., extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image032.jpg)  
+![alt:Runde Werbereklame mit gelbem Hintergrund, auf der zwei schwarze Figuren zu sehen sind. Ein Schwarzer Junge putzt einem Herren im Anzug die Schuhe. Darüber steht der Schriftzug „Marga“ in roter Schrift., extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image031.jpg)  
 
 [[start:metadata]]
 
@@ -536,7 +533,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.10 ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
+![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
 [[start:metadata]]
 
@@ -592,7 +589,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.11 **Missionsn\*li**  
 
 
-![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -649,7 +646,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 ## 10.12 **Fotoreportage aus den USA**  
 
 
-![alt:Schwarz-weiss-Fotografie einer fröhlichen Gruppe von Schwarzen Menschen, die im Freien in die Kamera lachen. Einige heben die Hände zum Gruss, Bäume sind im Hintergrund sichtbar., extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image035.jpg)  
+![alt:Schwarz-weiss-Fotografie einer fröhlichen Gruppe von Schwarzen Menschen, die im Freien in die Kamera lachen. Einige heben die Hände zum Gruss, Bäume sind im Hintergrund sichtbar., extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image034.jpg)  
 
 [[start:metadata]]
 
