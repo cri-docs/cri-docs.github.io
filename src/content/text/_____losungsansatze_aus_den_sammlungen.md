@@ -43,13 +43,13 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## 10.1 M\*automat  
 
 
-![alt:Figur eines Schwarzen Kriegers in goldfarbenem, reich verziertem Kostüm mit kurzen Plattenröcken. Die Figur trägt eine Krone, hält in der rechten Hand einen Bogen und in der linken ein filigranes silbernes Schild. Sie steht auf einem kunstvoll gearbeiteten Holzsockel., extra:Abbildung 23: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image022.jpg)  
+![alt:Figur eines Schwarzen Kriegers in goldfarbenem, reich verziertem Kostüm mit kurzen Plattenröcken. Die Figur trägt eine Krone, hält in der rechten Hand einen Bogen und in der linken ein filigranes silbernes Schild. Sie steht auf einem kunstvoll gearbeiteten Holzsockel., extra:Abbildung 23: Figurenautomat, DEP 2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image022.jpg)  
 
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer**: DEP-2443  
+**Inventarnummer**: DEP 2443  
 **Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
 **Klassifikation**: Figurenuhr  
 **Datierung**: 1646  
@@ -62,7 +62,7 @@ Metadaten des unbereinigten Datensatzes:
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer**: DEP-2443  
+**Inventarnummer**: DEP 2443  
 **Bezeichnung**: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
 **Klassifikation**: Figurenuhr  
 **Datierung**: 1646  
@@ -150,13 +150,13 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.3 **Stickvorlage**  
 
 
-![alt:Rechteckiges Papierobjekt mit blauer Beschriftung und geometrischem Muster. Es ist eine Stickvorlage für Gardinen., extra:Abbildung 25: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image024.jpg)  
+![alt:Rechteckiges Papierobjekt mit blauer Beschriftung und geometrischem Muster. Es ist eine Stickvorlage für Gardinen., extra:Abbildung 25: Seite aus einem Stickbuch, LM 99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image024.jpg)  
 
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-99968  
+**Inventarnummer:** LM 99968  
 **Bezeichnung:** Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
 **Klassifikation:** Stickvorlage  
 **Datierung:** Um 1900  
@@ -166,7 +166,7 @@ Metadaten des unbereinigten Datensatzes:
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-99968  
+**Inventarnummer:** LM 99968  
 **Bezeichnung:** Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
 **Klassifikation:** Stickvorlage  
 **Datierung:** Um 1900  
@@ -207,7 +207,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.4 **«Schwarzer Peter»**  
 
 
-![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM-43897, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
+![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM 43897, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
 
 [[start:metadata]]
 
@@ -215,7 +215,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-43897  
+**Inventarnummer:** LM 43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
 **Datierung:** 1900–1910  
@@ -226,7 +226,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-43897  
+**Inventarnummer:** LM 43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
 **Datierung:** 1900–1910  
@@ -265,7 +265,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## 10.5 **Pudding-Werbung**  
 
 
-![alt:Reklameplakat mit einer gelben Puddingform, verziert mit einer kleinen Schwarzen Figur die das Dessert trägt. Oben steht der Schriftzug „Flandor“. Es ist eine historische Lebensmittelwerbung., extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image027.jpg)  
+![alt:Reklameplakat mit einer gelben Puddingform, verziert mit einer kleinen Schwarzen Figur die das Dessert trägt. Oben steht der Schriftzug „Flandor“. Es ist eine historische Lebensmittelwerbung., extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM 140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image027.jpg)  
 
 [[start:metadata]]
 
@@ -273,7 +273,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-140862  
+**Inventarnummer:** LM 140862  
 **Bezeichnung:** Flandor. Dessert-Crème-Pudding  
 **Klassifikation:** Plakat  
 **Datierung:** 1900–1910  
@@ -287,7 +287,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-140862  
+**Inventarnummer:** LM 140862  
 **Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
 **Klassifikation:** Plakat  
 **Datierung:** 1900–1910  
@@ -533,7 +533,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## 10.10 ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
+![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM 83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
 [[start:metadata]]
 
@@ -541,7 +541,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-83097.2  
+**Inventarnummer:** LM 83097.2  
 **Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
 **Bezeichnung (Objekt):** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
 **Klassifikation:** Nippes (Ziergegenstände)  
@@ -554,7 +554,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-83097.2  
+**Inventarnummer:** LM 83097.2  
 **Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
 **Bezeichnung (Objekt):** «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».  
 **Klassifikation:** Nippes (Ziergegenstände)  

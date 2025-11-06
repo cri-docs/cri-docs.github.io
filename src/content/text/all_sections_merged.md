@@ -1288,13 +1288,13 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## M\*automat  
 
 
-![alt:Figur eines Schwarzen Kriegers in goldfarbenem, reich verziertem Kostüm mit kurzen Plattenröcken. Die Figur trägt eine Krone, hält in der rechten Hand einen Bogen und in der linken ein filigranes silbernes Schild. Sie steht auf einem kunstvoll gearbeiteten Holzsockel., extra:Abbildung 23: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image022.jpg)  
+![alt:Figur eines Schwarzen Kriegers in goldfarbenem, reich verziertem Kostüm mit kurzen Plattenröcken. Die Figur trägt eine Krone, hält in der rechten Hand einen Bogen und in der linken ein filigranes silbernes Schild. Sie steht auf einem kunstvoll gearbeiteten Holzsockel., extra:Abbildung 23: Figurenautomat, DEP 2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image022.jpg)  
 
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer**: DEP-2443  
+**Inventarnummer**: DEP 2443  
 **Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
 **Klassifikation**: Figurenuhr  
 **Datierung**: 1646  
@@ -1307,7 +1307,7 @@ Metadaten des unbereinigten Datensatzes:
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer**: DEP-2443  
+**Inventarnummer**: DEP 2443  
 **Bezeichnung**: Figurenautomat einer Schwarzen männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
 **Klassifikation**: Figurenuhr  
 **Datierung**: 1646  
@@ -1395,13 +1395,13 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## **Stickvorlage**  
 
 
-![alt:Rechteckiges Papierobjekt mit blauer Beschriftung und geometrischem Muster. Es ist eine Stickvorlage für Gardinen., extra:Abbildung 25: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image024.jpg)  
+![alt:Rechteckiges Papierobjekt mit blauer Beschriftung und geometrischem Muster. Es ist eine Stickvorlage für Gardinen., extra:Abbildung 25: Seite aus einem Stickbuch, LM 99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image024.jpg)  
 
 [[start:metadata]]
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-99968  
+**Inventarnummer:** LM 99968  
 **Bezeichnung:** Eine Seite aus einem NEGER-STICKBUCH, mit Käfern, Pflanzen und anderen Motiven  
 **Klassifikation:** Stickvorlage  
 **Datierung:** Um 1900  
@@ -1411,7 +1411,7 @@ Metadaten des unbereinigten Datensatzes:
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-99968  
+**Inventarnummer:** LM 99968  
 **Bezeichnung:** Eine Seite aus einem Stickbuch mit Käfern, Pflanzen und anderen Motiven.  
 **Klassifikation:** Stickvorlage  
 **Datierung:** Um 1900  
@@ -1452,7 +1452,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **«Schwarzer Peter»**  
 
 
-![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM-43897, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
+![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM 43897, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
 
 [[start:metadata]]
 
@@ -1460,7 +1460,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-43897  
+**Inventarnummer:** LM 43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
 **Datierung:** 1900–1910  
@@ -1471,7 +1471,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-43897  
+**Inventarnummer:** LM 43897  
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithografien, die namensgebende Karte ist ein Stereotypenbild «Schwarzen Peters» hier als weisser Mann mit schwarz bemaltem Gesicht repräsentiert. Trägt einen Zylinder, Sakko und eine grosse pinkfarbene Fliege  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
 **Datierung:** 1900–1910  
@@ -1510,7 +1510,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **Pudding-Werbung**  
 
 
-![alt:Reklameplakat mit einer gelben Puddingform, verziert mit einer kleinen Schwarzen Figur die das Dessert trägt. Oben steht der Schriftzug „Flandor“. Es ist eine historische Lebensmittelwerbung., extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image027.jpg)  
+![alt:Reklameplakat mit einer gelben Puddingform, verziert mit einer kleinen Schwarzen Figur die das Dessert trägt. Oben steht der Schriftzug „Flandor“. Es ist eine historische Lebensmittelwerbung., extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM 140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image027.jpg)  
 
 [[start:metadata]]
 
@@ -1518,7 +1518,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-140862  
+**Inventarnummer:** LM 140862  
 **Bezeichnung:** Flandor. Dessert-Crème-Pudding  
 **Klassifikation:** Plakat  
 **Datierung:** 1900–1910  
@@ -1532,7 +1532,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-140862  
+**Inventarnummer:** LM 140862  
 **Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** Schwarzen **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
 **Klassifikation:** Plakat  
 **Datierung:** 1900–1910  
@@ -1778,7 +1778,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
+![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM 83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image032.jpg)  
 
 [[start:metadata]]
 
@@ -1786,7 +1786,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-83097.2  
+**Inventarnummer:** LM 83097.2  
 **Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
 **Bezeichnung (Objekt):** Schwarze, Frauenfigur auf einem Sockel sitzend, die Arme über dem Kopf, mit blauem Kopf- und Lendentuch. Arm-, Hals-, Ohrenschmuck goldfarbig.  
 **Klassifikation:** Nippes (Ziergegenstände)  
@@ -1799,7 +1799,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-83097.2  
+**Inventarnummer:** LM 83097.2  
 **Bezeichnung (Gruppe):** Figuren, «Neger», aus Gips oder Ton zum Aufstellen.  
 **Bezeichnung (Objekt):** «Stark stereotypisierte weibliche Schwarze Figur, die Arme über dem Kopf in sexualisierter Pose, mit blauen Tüchern um Kopf und Hüfte».  
 **Klassifikation:** Nippes (Ziergegenstände)  
@@ -1967,7 +1967,7 @@ Nach Noah Sow muss «jede Historisierung des Rassismus […] bei der Antike anse
 Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarze Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als Schwarze wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht-weisse Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als Schwarzer Mann dargestellt wird.  
 
 
-![alt:Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben., extra:Abbildung 37: Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
+![alt:Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben., extra:Abbildung 37: Altarflügel, AG 17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
@@ -1980,7 +1980,7 @@ Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identit
 [[end:citation]]
 
 
-![alt:alt text, extra:Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
+![alt:alt text, extra:Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M 11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 #### *Frühe Neuzeit: Schwarze Körper als Eigentum und Statussymbol*  
 
