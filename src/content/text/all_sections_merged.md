@@ -1452,7 +1452,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **«Schwarzer Peter»**  
 
 
-![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
+![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM-43897, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
 
 [[start:metadata]]
 
