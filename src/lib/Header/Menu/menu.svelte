@@ -3,7 +3,6 @@
 
   import { activeHeader, headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import aboutData from "|/content/text/about.json"
-  import imprintData from "|/content/text/imprint.json"
   import disclaimerData from "|/content/text/infobox.json"
 
   import { slugify } from "$lib/utils.js"
@@ -115,7 +114,6 @@
   {:else if activeSubPage === "about"}
     <div class={[styles.imprint, styles.otherSubContainer].join(" ")}>
       {@html marked.parse(aboutData.about)}
-      {@html marked.parse(imprintData.imprint)}
     </div>
   {:else if activeSubPage === "index"}
     <nav class={styles.menuSubContainer}>
