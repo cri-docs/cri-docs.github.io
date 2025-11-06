@@ -965,9 +965,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 [[end:block]]
 
-![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte " Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen.](data:image/png;base64...)
-
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...)
+![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen.](data:image/png;base64...)
 
 Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
@@ -1007,17 +1005,13 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 
 [[end:block]]
 
-![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird. ](data:image/png;base64...)
+![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird.](data:image/jpeg;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt".](data:image/png;base64...)
 
 Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
-
-![](data:image/png;base64...)
-
-Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
 
 ### (3) Titel neu formulieren
 

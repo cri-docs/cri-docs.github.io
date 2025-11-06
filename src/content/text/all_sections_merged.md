@@ -971,7 +971,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte " Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](data:image/png;base64...) Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
@@ -1010,13 +1010,10 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird. , extra:Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird., extra:Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
 
 
 ![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image011.jpg)  
-
-
-![alt:alt text, extra:Abbildung 12: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image012.jpg)  
 
 ### (3) Titel neu formulieren  
 
@@ -1057,7 +1054,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[151]](
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, der überarbeitet wurde. Hier steht: Brustbild eines Mannes mit Fez und Ohrring"., extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image013.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, der überarbeitet wurde. Hier steht: Brustbild eines Mannes mit Fez und Ohrring"., extra:Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image012.jpg)  
 
 ### (4) Individuelle Inhaltswarnungen  
 
@@ -1098,13 +1095,13 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel von Objektbildern, die durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht: "Dieser Datensatz wurde von uns als diskriminierend markiert"., extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image014.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel von Objektbildern, die durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht: "Dieser Datensatz wurde von uns als diskriminierend markiert"., extra:Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image013.jpg)  
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz wurde von uns als diskriminierend markiert" steht. Zudem sieht man den rassistischen Objekttitel "Brustbild eines N-Wort mit Fez und Ohrring"., extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image015.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz wurde von uns als diskriminierend markiert" steht. Zudem sieht man den rassistischen Objekttitel "Brustbild eines N-Wort mit Fez und Ohrring"., extra:Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image014.jpg)  
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz enthält eine aus heutiger Sicht diskriminierende Bezeichnung. Der Begriff "N-Wort" gilt im heutigen Sprachgebrauch als stark herabwürdigende Fremdbezeichnung." steht., extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image016.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz enthält eine aus heutiger Sicht diskriminierende Bezeichnung. Der Begriff "N-Wort" gilt im heutigen Sprachgebrauch als stark herabwürdigende Fremdbezeichnung." steht., extra:Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image015.jpg)  
 
 ### (5) Allgemeine Inhaltswarnung  
 
@@ -1142,7 +1139,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung bei der auf der Startseite der Hinweis "Unser Bestand umfasst historische Zeugnisse des Rasisismus in Europa. Daher enthält dieser Katalog Begriffe, die rassistisch beleidigend sind. Diese werden im Interesse der historischen Genauigkeit verwendet und spiegeln nicht die Ansichten oder Meinungen unserer Institution oder Mitarbeitenden wider." zu lesen ist., extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image017.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung bei der auf der Startseite der Hinweis "Unser Bestand umfasst historische Zeugnisse des Rasisismus in Europa. Daher enthält dieser Katalog Begriffe, die rassistisch beleidigend sind. Diese werden im Interesse der historischen Genauigkeit verwendet und spiegeln nicht die Ansichten oder Meinungen unserer Institution oder Mitarbeitenden wider." zu lesen ist., extra:Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image016.jpg)  
 
 **Zusammenfassung:**  
 
@@ -1165,12 +1162,12 @@ Ein wichtiger Schritt zur Aufarbeitung ethnografischer Objektbestände wurde im 
 Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattform, die sich als Probebühne, Versuchslabor und Resonanzraum versteht. Sie thematisiert aktuelle, gesellschaftliche Debatten im Spiegel der Geschichte und reflektiert die Sammlungen des Museums und Vermittlungspraktiken. In verschiedenen Projekten findet eine Beschäftigung mit dem Themenschwerpunkt koloniale Verflechtungen und Rassismus statt. Beispiel einer sichtbaren Auseinandersetzung mit dem Thema «Bern und der Kolonialismus» sind Interventionen an verschiedenen Stationen in der Dauerausstellung. Dabei werden ausgewählte [Objekte](#_Objekt) in den Fokus gerückt und zuvor unbeachtete koloniale Verflechtungen und deren Nachwirkungen aufgezeigt.  
 
 
-![alt:Innenaufnahme eines Ausstellungsraumes mit Fotografien und Texttafeln an den Wänden. In der Mitte befinden sich Vitrinen mit verschiedenen Masken. Der Raum ist hell und modern gestaltet., extra:Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern](/images/image018.jpg)  
+![alt:Innenaufnahme eines Ausstellungsraumes mit Fotografien und Texttafeln an den Wänden. In der Mitte befinden sich Vitrinen mit verschiedenen Masken. Der Raum ist hell und modern gestaltet., extra:Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern](/images/image017.jpg)  
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.  
 
 
-![alt:Drei Personen stehen in einem Raum mit Museumsexponaten. Im Vordergrund liegen ein geflochtener Korb und ein getrockneter Kürbis auf einem Tisch. Eine Frau in der Mitte trägt blaue Handschuhe und spricht in ein Mikrofon, während eine Frau in traditioneller Kleidung und ein Mann im Hintergrund zusehen., extra:Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern](/images/image019.jpg)  
+![alt:Drei Personen stehen in einem Raum mit Museumsexponaten. Im Vordergrund liegen ein geflochtener Korb und ein getrockneter Kürbis auf einem Tisch. Eine Frau in der Mitte trägt blaue Handschuhe und spricht in ein Mikrofon, während eine Frau in traditioneller Kleidung und ein Mann im Hintergrund zusehen., extra:Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern](/images/image018.jpg)  
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.  
 
@@ -1189,7 +1186,7 @@ Ein zweites wichtiges Projekt war die Ausstellung «Koloniale Spuren – Sammlun
 Ein drittes Projekt umfasst die Denkmäler der ETH Zürich. Über 100 Gedenkobjekte auf dem gesamten Campus wurden auf ihre historischen Kontexte hin untersucht. Eine 2022 in Auftrag gegebene Studie zeigte, dass rund zwei Drittel der geehrten Persönlichkeiten koloniale, rassistische oder sexistische Positionen vertraten oder von kolonialen Strukturen profitierten. Diese Ergebnisse führten zur Entwicklung der «ETH Decol Initiative», die bis 2029 sowohl neue Forschungsprojekte zur Geschichte der Institution als auch Massnahmen zur kritischen Kontextualisierung von Denkmälern vorsieht. Erste Schritte beinhalten erläuternde Informationstafeln vor Ort sowie einen digitalen Rundgang[[170]](#footnote-171), der vertiefende Informationen zu den gewürdigten Personen bietet. Langfristig sollen künstlerische Interventionen neue Perspektiven auf die Erinnerungskultur eröffnen.  
 
 
-![alt:Innenaufnahme eines Ausstellungsraumes mit Fotografien und Texttafeln an den Wänden. In der Mitte befinden sich Vitrinen mit weiteren Objekten. Der Raum ist hell und modern gestaltet., extra:Abbildung 20: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich](/images/image020.jpg)  
+![alt:Innenaufnahme eines Ausstellungsraumes mit Fotografien und Texttafeln an den Wänden. In der Mitte befinden sich Vitrinen mit weiteren Objekten. Der Raum ist hell und modern gestaltet., extra:Abbildung 20: «Koloniale Spuren – Sammlungen im Kontext» im ETH Zürich extract (20.08.2024-13.07.2025), Foto: Frank Blaser, Zürich](/images/image019.jpg)  
 
 ## Fotostiftung Schweiz  
 
@@ -1225,7 +1222,7 @@ Wir sind bestrebt, die durch diese Arbeit gewonnene Sensibilisierung und Erfahru
 Vor uns liegt ein weiter Weg. Wir haben jedoch eine Richtung eingeschlagen, die zu einem geschärften Bewusstsein und neuem Umgang mit [Objekten](#_Objekt) und der Art und Weise, wie wir diese untersuchen, beschreiben, benennen und vermitteln, führt.  
 
 
-![alt:Podiumsdiskussion mit den drei Direktorinnen Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested". Sie stehen vor einer Bühne. Hinter ihnen sind Comics mit Texten und Illustrationen der Panels der Konferenz angebracht. Das Publikum sitzt im Vordergrund., extra:Abbildung 21: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.–22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM](/images/image021.jpg)  
+![alt:Podiumsdiskussion mit den drei Direktorinnen Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested". Sie stehen vor einer Bühne. Hinter ihnen sind Comics mit Texten und Illustrationen der Panels der Konferenz angebracht. Das Publikum sitzt im Vordergrund., extra:Abbildung 21: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester im Rahmen der «Sensitive, problematic, contested?» (20.11.–22.11.2024) im Landesmuseum Zürich, Foto: Danilo Rüttimann, Zürich © SNM](/images/image020.jpg)  
 
 ## Museum für Kommunikation  
 
@@ -1246,7 +1243,7 @@ In der Folge liessen Céline Hug und Dario Donati in der Datenbank die notwendig
 Das SNM hat sich entschlossen, die von sensiblen Inhalten betroffenen [Objekte](#_Objekt) vorerst aus der Sammlung Online zu entfernen und gegebenenfalls nach deren kritischer Aufarbeitung wieder anzuzeigen.  
 
 
-![alt:Foto eines Schulklassen-Workshops in der Ausstellung "kolonial". Die Schüler:innen folgen einer Präsentation. Im Vordergrund sind Stuhlreihen, im Hintergrund eine Leinwand und der vortragende Kulturvermittler zu sehen., extra:Abbildung 22: Schulklassenworkshop in der Ausstellung «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image022.jpg)  
+![alt:Foto eines Schulklassen-Workshops in der Ausstellung "kolonial". Die Schüler:innen folgen einer Präsentation. Im Vordergrund sind Stuhlreihen, im Hintergrund eine Leinwand und der vortragende Kulturvermittler zu sehen., extra:Abbildung 22: Schulklassenworkshop in der Ausstellung «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image021.jpg)  
 
 ## Stiftung für Kunst, Kultur und Geschichte  
 
@@ -1293,7 +1290,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 ## M\*automat  
 
 
-![alt:Figur eines Schwarzen Kriegers in goldfarbenem, reich verziertem Kostüm mit kurzen Plattenröcken. Die Figur trägt eine Krone, hält in der rechten Hand einen Bogen und in der linken ein filigranes silbernes Schild. Sie steht auf einem kunstvoll gearbeiteten Holzsockel., extra:Abbildung 23: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image023.jpg)  
+![alt:Figur eines Schwarzen Kriegers in goldfarbenem, reich verziertem Kostüm mit kurzen Plattenröcken. Die Figur trägt eine Krone, hält in der rechten Hand einen Bogen und in der linken ein filigranes silbernes Schild. Sie steht auf einem kunstvoll gearbeiteten Holzsockel., extra:Abbildung 23: Figurenautomat, DEP-2443, 1646. Schweizerisches Nationalmuseum © SNM](/images/image022.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -1350,7 +1347,7 @@ Das [Objekt](#_Objekt) ist aktuell nicht für die Präsentation in der Sammlung 
 ## Sparkasse  
 
 
-![alt:Ein Objekt bei dem es sich um eine mechanische Sparbüchse in Form einer Büste eines karikierten Schwarzen Mannes handelt. Er hat einen offenen Mund und eine Hand hält er vor dem Gesicht., extra:Abbildung 24: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image024.jpg)  
+![alt:Ein Objekt bei dem es sich um eine mechanische Sparbüchse in Form einer Büste eines karikierten Schwarzen Mannes handelt. Er hat einen offenen Mund und eine Hand hält er vor dem Gesicht., extra:Abbildung 24: Sparkasse, H/57166, um 1900. © Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image023.jpg)  
 
 [[start:metadata]]
 
@@ -1400,7 +1397,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## **Stickvorlage**  
 
 
-![alt:Rechteckiges Papierobjekt mit blauer Beschriftung und geometrischem Muster. Es ist eine Stickvorlage für Gardinen., extra:Abbildung 25: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image025.jpg)  
+![alt:Rechteckiges Papierobjekt mit blauer Beschriftung und geometrischem Muster. Es ist eine Stickvorlage für Gardinen., extra:Abbildung 25: Seite aus einem Stickbuch, LM-99968, um 1900. Schweizerisches Nationalmuseum © SNM](/images/image024.jpg)  
 
 [[start:metadata]]
 [[start:before]]
@@ -1431,7 +1428,7 @@ Inhaltshinweis: «Abwertende Sprache»
 Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen Schwarzen Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung 1). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
-![alt:Zwei ovale, blau-weiße Garnetiketten mit Schriftzügen und Zierornamenten. Beide tragen Produktnamen und dekorative Rahmen., extra:Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)](/images/image026.jpg)  
+![alt:Zwei ovale, blau-weiße Garnetiketten mit Schriftzügen und Zierornamenten. Beide tragen Produktnamen und dekorative Rahmen., extra:Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)](/images/image025.jpg)  
 
 Bei diesem Datensatz wird mehrfach der rassistische Begriff «N\*» genannt. Er wird sowohl im Datenfeld für die Objektinschrift als auch in der Bezeichnung festgehalten. Beim Betrachten des [Objekts](#_Objekt) wird augenscheinlich, dass es sich bei der Inschrift um einen Buchtitel für die Stickvorlagen handelt und dieser auch auf der abgebildeten Seite zu lesen ist. Der Titel ist dem [Objekt](#_Objekt) somit immanent. Damit ist er nach den Leitlinien zur Inventarisierung von [Objekten](#_Objekt) des SNMs als Inschrift aufzuführen. In den internen Diskussionen zur Umbenennung und Überarbeitung der Datensätze wurde entschieden, dass gerade dieser stark rassistische Begriff nicht – oder nur in Ausnahmefällen als historisches Zitat – reproduziert werden soll. Als Folge dessen wird er aus der Bezeichnung entfernt. Gleichzeitig hat man sich dazu entschlossen, bei rassistischen oder anderen diskriminierenden Begriffen, die als historische Zitate in die «Inschriften» in den Datensätzen aufgenommen werden, den jeweils editorischen Hinweis [sic!] und den Inhaltshinweis «Abwertende Sprache» hinzuzufügen.  
 
@@ -1457,7 +1454,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **«Schwarzer Peter»**  
 
 
-![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image027.jpg)  
+![alt:Spielkarten-Set auf einem weissen Hintergrund. Das Set zeigt auf der Vorderseite einen Schwarzen Mann in bunter Kleidung, daneben liegen die weiteren Kartenpaare., extra:Abbildung 27: Kartenspiel, LM-4389, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image026.jpg)  
 
 [[start:metadata]]
 
@@ -1515,7 +1512,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **Pudding-Werbung**  
 
 
-![alt:Reklameplakat mit einer gelben Puddingform, verziert mit einer kleinen Schwarzen Figur die das Dessert trägt. Oben steht der Schriftzug „Flandor“. Es ist eine historische Lebensmittelwerbung., extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image028.jpg)  
+![alt:Reklameplakat mit einer gelben Puddingform, verziert mit einer kleinen Schwarzen Figur die das Dessert trägt. Oben steht der Schriftzug „Flandor“. Es ist eine historische Lebensmittelwerbung., extra:Abbildung 28: Werbeplakat von Rudolf Brun, LM-140862, 1900-1910. Schweizerisches Nationalmuseum © SNM](/images/image027.jpg)  
 
 [[start:metadata]]
 
@@ -1572,10 +1569,10 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## Puppenspiel  
 
 
-![alt:alt text, extra:Abbildung : Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0](/images/image029.jpg)  
+![alt:alt text, extra:Abbildung : Clownpuppe mit Zylinder, um 1910, 21.5 × 12.5 × 6.5 cm, Inv. 44618.1, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749. © Foto: SKKG 2021, CC0 1.0](/images/image028.jpg)  
 
 
-![alt:Drei kleine Holzfiguren aufgereiht nebeneinander. Sie tragen Zirkuskleidung oder Accessoires, die auf ihre Rollen hinweisen., extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image030.jpg)  
+![alt:Drei kleine Holzfiguren aufgereiht nebeneinander. Sie tragen Zirkuskleidung oder Accessoires, die auf ihre Rollen hinweisen., extra:Abbildung 30: Humpty-Dumpty-Zirkus, um 1910, Inv. 44618, Stiftung für Kunst, Kultur und Geschichte, Winterthur, 1986, <https://digital.skkg.ch/object/f48a41e1-5d8e-497b-86b8-375bad6756c9>. © Foto: SKKG 2021, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)](/images/image029.jpg)  
 
 [[start:metadata]]
 
@@ -1621,7 +1618,7 @@ Das [Objekt](#_Objekt) ist, verknüpft mit dem Haupteintrag und den übrigen Tei
 ## **12 kleinen N\*lein**  
 
 
-![alt:Orange-grün eingefasstes Buch, dass auf dem Cover zwölf Schwarze Jungen zeigt. Sie steigen auf einen Berg an dessen Ende eine Klippe ist. Einer der jungen stürzt sich von der Klippe ins Maul eines Nilpferdes, das unten auf ihn wartet., extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image031.jpg)  
+![alt:Orange-grün eingefasstes Buch, dass auf dem Cover zwölf Schwarze Jungen zeigt. Sie steigen auf einen Berg an dessen Ende eine Klippe ist. Einer der jungen stürzt sich von der Klippe ins Maul eines Nilpferdes, das unten auf ihn wartet., extra:Abbildung 31: Bilderbuch, H/57900, 1910. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor.](/images/image030.jpg)  
 
 [[start:metadata]]
 
@@ -1671,7 +1668,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 ## **Portraitserie**  
 
 
-![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image032.jpg)  
+![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image031.jpg)  
 
 [[start:metadata]]
 
@@ -1736,7 +1733,7 @@ Das [Objekt](#_Objekt) wird mit den Keywords «Rassismus» und «Blackfacing» v
 ## **Elektrische Reklame für eine Schuhcrème**  
 
 
-![alt:Runde Werbereklame mit gelbem Hintergrund, auf der zwei schwarze Figuren zu sehen sind. Ein Schwarzer Junge putzt einem Herren im Anzug die Schuhe. Darüber steht der Schriftzug „Marga“ in roter Schrift., extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image033.jpg)  
+![alt:Runde Werbereklame mit gelbem Hintergrund, auf der zwei schwarze Figuren zu sehen sind. Ein Schwarzer Junge putzt einem Herren im Anzug die Schuhe. Darüber steht der Schriftzug „Marga“ in roter Schrift., extra:Abbildung 33: Elektrische Reklame, H/47660, 1940–1950. ©Bernisches Historisches Museum, Bern. Foto: Christine Moor](/images/image032.jpg)  
 
 [[start:metadata]]
 
@@ -1786,7 +1783,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum [Objekt](#_Objek
 ## ‹Exotisch›-**erotische Nippes**  
 
 
-![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
+![alt:Figur einer Schwarzen Frau mit nacktem Oberkörper in dynamischer, seitlich geneigter Pose. Sie hebt einen Arm über den Kopf und steht auf einem dunklen Sockel., extra:Abbildung 34: Nippes, LM-83097.2, 1950. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -1842,7 +1839,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 ## **Missionsn\*li**  
 
 
-![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  
+![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image034.jpg)  
 
 [[start:metadata]]
 
@@ -1899,7 +1896,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gr�
 ## **Fotoreportage aus den USA**  
 
 
-![alt:Schwarz-weiss-Fotografie einer fröhlichen Gruppe von Schwarzen Menschen, die im Freien in die Kamera lachen. Einige heben die Hände zum Gruss, Bäume sind im Hintergrund sichtbar., extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image036.jpg)  
+![alt:Schwarz-weiss-Fotografie einer fröhlichen Gruppe von Schwarzen Menschen, die im Freien in die Kamera lachen. Einige heben die Hände zum Gruss, Bäume sind im Hintergrund sichtbar., extra:Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftung Schweiz](/images/image035.jpg)  
 
 [[start:metadata]]
 
@@ -1975,7 +1972,7 @@ Nach Noah Sow muss «jede Historisierung des Rassismus […] bei der Antike anse
 Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz Schwarze Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als Schwarze wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht-weisse Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als Schwarzer Mann dargestellt wird.  
 
 
-![alt:Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben., extra:Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
+![alt:Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben., extra:Abbildung : Altarflügel, AG-17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image036.jpg)  
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. Schwarze Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.  
 
@@ -1988,7 +1985,7 @@ Im Hochmittelalter beginnt sich allmählich eine christlich-europäische Identit
 [[end:citation]]
 
 
-![alt:alt text, extra:![](data:image/jpeg;base64...) Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image038.jpg)  
+![alt:alt text, extra:![](data:image/jpeg;base64...) Abbildung 38: Vor- und Rückseite einer Münze von Joseph Mohr von Zernez, M-11312, 1628. Schweizerisches Nationalmuseum © SNM](/images/image037.jpg)  
 
 #### *Frühe Neuzeit: Schwarze Körper als Eigentum und Statussymbol*  
 
