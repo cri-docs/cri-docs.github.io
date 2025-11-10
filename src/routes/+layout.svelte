@@ -1,5 +1,6 @@
 <script>
   import { onMount } from "svelte"
+  import { marked } from "marked"
 
   import { page } from "$app/stores"
   import { intro } from "$lib/constants"
@@ -105,7 +106,7 @@
       />
       {#if $page?.params?.slug === intro}
         <figcaption class={styles.caption}>
-          {infoData?.captionLanding}
+          {@html marked.parseInline(infoData?.captionLanding || "")}
         </figcaption>
       {/if}
     </figure>

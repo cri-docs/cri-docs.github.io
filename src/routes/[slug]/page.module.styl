@@ -195,15 +195,16 @@
       align-items center
       gap 1rem
       background-color var(--color)
+      border 2px solid var(--color)
       padding 1rem 1.7rem
       padding-right 1rem
       border-radius 999px
       color white
-
-  a
-    text-decoration underline
-    &:hover
-      color var(--color-secondary)
+      text-decoration none
+      @media (hover: hover)
+        &:hover
+          background-color white
+          color var(--color)
 
 // [[start:blocks]]
 :global(.literature)
