@@ -62,7 +62,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
 
-![alt:Kulturvermittler steht in einem hellen Museumsraum und weist erklärt die rassistische Darstellung und deren Bildelemente einer Schulklasse. An der Wand hängen verschiedene Bilder und Texttafeln. Im Hintergrund sind weitere Ausstellungsstücke und beschriftete Wände zu sehen., extra:Abbildung : «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image002.jpg)  
+![alt:Kulturvermittler steht in einem hellen Museumsraum und weist erklärt die rassistische Darstellung und deren Bildelemente einer Schulklasse. An der Wand hängen verschiedene Bilder und Texttafeln. Im Hintergrund sind weitere Ausstellungsstücke und beschriftete Wände zu sehen., extra:Abbildung 1: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image002.jpg)  
 
 [[start:literature]]
 
@@ -89,7 +89,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 
-![alt:Grosse Holzskulptur einer stehenden Figur auf einem Podest in einem Museum. Die Skulptur zeigt stilisierte menschliche Züge, und im Hintergrund befinden sich weitere Ausstellungsobjekte in Vitrinen., extra:Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image003.jpg)  
+![alt:Grosse Holzskulptur einer stehenden Figur auf einem Podest in einem Museum. Die Skulptur zeigt stilisierte menschliche Züge, und im Hintergrund befinden sich weitere Ausstellungsobjekte in Vitrinen., extra:Abbildung 2: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image003.jpg)  
 
 [[start:literature]]
 
@@ -103,13 +103,13 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ### Selbstverständlichkeit der Verschlagwortung  
 
-Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objekts](#_Objekt) oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «*weiss»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «Schwarz» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotenzial.  
+Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objekts](#_Objekt) oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «*weiss»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz/weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotenzial.  
 
 * Gibt es Attribute eines [Objektes](#_Objekt) oder Bildinhalte, die je nach abgebildetem geografischem Ort anders beschlagwortet werden (z. B. Architektur: Haus oder Hütte oder Wohnhaus oder Behausung)?  
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z. B. primitiv, wild, einfach, Natur)?  
 * Auf welche Menschenbilder greifen solche Verschlagwortungen zurück?  
-* Beispiel Kleidung: Wie sind Kleidungsstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter Herkunftsgesellschaft? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
-* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «Exotismus» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
+* Beispiel Kleidung: Wie sind Kleidungsstücke aus unterschiedlichen Weltregionen verschlagwortet? Gibt es Unterschiede in der Spezifität der Verschlagwortung je nach dargestelltem Ort oder dargestellter [Herkunftsgesellschaft](#_Community_und_Herkunftsgesellschaft)? Wenn dem so ist: Wie ist dies zu erklären und soll dem künftig entgegengewirkt werden? Was wären mögliche erste Schritte?  
+* Werden in der Datenbank Diskriminierungsformen und problematische Konzepte wie «[Exotismus](#_Exotismus/exotisierend)» oder «Rassismus» als Schlagworte vergeben? Welche Gründe sprechen dafür/dagegen?  
 
 ### Denkanstoss: Institutionelle Positionierung  
 
@@ -122,7 +122,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
 
-![alt:Person in Archivumgebung, die ein Eingangsbuch in den Händen hält. Im Hintergrund ist ein volles Regal mit nummerierten Büchern zu sehen., extra:Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image004.jpg)  
+![alt:Person in Archivumgebung, die ein Eingangsbuch in den Händen hält. Im Hintergrund ist ein volles Regal mit nummerierten Büchern zu sehen., extra:Abbildung 3: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image004.jpg)  
 
 [[start:literature]]
 

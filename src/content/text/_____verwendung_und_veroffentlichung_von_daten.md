@@ -12,13 +12,13 @@ toc:
     title: "7.2 Metadaten in Online-Sammlungen: 5 Ansätze"
 ---
 
-Informationen, die als Metadaten[[138]](#footnote-139) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet, etwa bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der [Objekte](#_Objekt) in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von [Objekten](#_Objekt) in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[139]](#footnote-140) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und [Objekte](#_Objekt) online einem breiten Publikum zur Verfügung stehen und welche nicht.  
+Informationen, die als Metadaten[[137]](#footnote-138) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet, etwa bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der [Objekte](#_Objekt) in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von [Objekten](#_Objekt) in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[138]](#footnote-139) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und [Objekte](#_Objekt) online einem breiten Publikum zur Verfügung stehen und welche nicht.  
 
 Um zu entscheiden, welche Inhalte für eine Überarbeitung infrage kommen, muss ein Bewusstsein darüber geschaffen werden, auf welchen Feldern Rassismen reproduziert werden. Auf dieser Grundlage kann der Entscheid fallen, ob und wie diese nach aussen vermittelt werden. Die folgenden Kapitel geben dazu einen Überblick.  
 
 ## 7.1 Sammlungsdatenbanken  
 
-Sammlungs- und (Objekt-)Management-Datenbanken enthalten umfangreiche Informationen zu Sammlungsobjekten. Viele Datensätze wurden oftmals vor längerer Zeit erstellt – teilweise in gross angelegten Digitalisierungs- und Erschliessungsprojekten –, sodass sie den aktuellen Erschliessungsstandards nicht mehr genügen und überprüft und überarbeitet werden müssen. Die Einträge enthalten nicht nur möglichst objektive Beschreibungen von materiellen Gegenständen, sondern in der Dokumentation schlagen sich auch zeitgebundene Sichtweisen, Narrative und Ideologien nieder. Die darin eingebundenen Wertvorstellungen sind teilweise überholt, zudem hat sich der wissenschaftliche Diskurs verändert und verändert sich kontinuierlich weiter. Oft haben Sammlungsarbeit und Forschung zu neuen Erkenntnissen geführt, die in älteren Datensätzen nicht berücksichtigt sind.[[140]](#footnote-141) Bei der Analyse einer Datenbank mit dem Anspruch einer [Dekolonialisierung](#_Dekolonisierung_und_Dekolonialismus) wird offensichtlich, dass gewisse Datenbankfelder stärker zur Reproduktion von Rassismen und Diskriminierungen beitragen als andere.  
+Sammlungs- und (Objekt-)Management-Datenbanken enthalten umfangreiche Informationen zu Sammlungsobjekten. Viele Datensätze wurden oftmals vor längerer Zeit erstellt – teilweise in gross angelegten Digitalisierungs- und Erschliessungsprojekten –, sodass sie den aktuellen Erschliessungsstandards nicht mehr genügen und überprüft und überarbeitet werden müssen. Die Einträge enthalten nicht nur möglichst objektive Beschreibungen von materiellen Gegenständen, sondern in der Dokumentation schlagen sich auch zeitgebundene Sichtweisen, Narrative und Ideologien nieder. Die darin eingebundenen Wertvorstellungen sind teilweise überholt, zudem hat sich der wissenschaftliche Diskurs verändert und verändert sich kontinuierlich weiter. Oft haben Sammlungsarbeit und Forschung zu neuen Erkenntnissen geführt, die in älteren Datensätzen nicht berücksichtigt sind.[[139]](#footnote-140) Bei der Analyse einer Datenbank mit dem Anspruch einer [Dekolonialisierung](#_Dekolonisierung_und_Dekolonialismus) wird offensichtlich, dass gewisse Datenbankfelder stärker zur Reproduktion von Rassismen und Diskriminierungen beitragen als andere.  
 
 In der Dokumentationspraxis ist es wichtig, ein Bewusstsein zu entwickeln, welche Felder in der Datenbank für rassistische und eurozentrische Narrative anfällig sind. Ein besonderes Augenmerk ist auf die im Folgenden genannten Datenfelder zu richten, um bestehende Rassismen in der Datenbank besser zu erkennen und problematische Inhalte zu identifizieren.  
 
@@ -26,7 +26,7 @@ Da Datenbankfelder mit ähnlichen Funktionen und Inhalten in verschiedenen Insti
 
 |  |  |  
 | --- | --- |  
-| **Bezeichnung für das Datenbankfeld[[141]](#footnote-142)** | **Inhalt/Definition** |  
+| **Bezeichnung für das Datenbankfeld[[140]](#footnote-141)** | **Inhalt/Definition** |  
 | Inventarnummer, Signatur | Eindeutige Kennzeichnung, die einem [Objekt](#_Objekt) zugewiesen ist und die der Identifikation, Dokumentation und Verwaltung der Sammlung dient. |  
 | Person(en), Körperschaft(en), Herstellung, Hersteller:innen | Informationen über die Person(en), Werkstatt/Werkstätten oder Institution(en), die das Sammlungsobjekt geschaffen oder produziert haben, oder weitere Personen wie z. B. ehemalige Nutzer:innen, mit denen das [Objekt](#_Objekt) in Verbindung stand. |  
 | Titel (inkl. mehrerer Auswahlfelder wie z. B. Nebentitel, beschreibender Titel, alternativer Titel, Originaltitel usw.) oder Bezeichnung (deskriptiver Titel) | Festhalten der Benennung eines Sammlungsobjekts. Hier eingetragen sind entweder der Originaltitel, den der:die Künstler:in oder der:die Hersteller:in, ein Auktionshaus usw. vergeben hat, oder eine nachträgliche Zuschreibung durch die Institution. |  
@@ -62,7 +62,7 @@ Grundsätzlich stellt die Verschlagwortung von Hautfarben oder ethnischen Zugeh�
 
 ### Inschriften, Beschriftung, Signaturen  
 
-Manche Datensätze weisen rassistische oder diskriminierende Sprache auf, weil objektimmanente Inschriften übernommen wurden. So zum Beispiel bei Plakaten und Reklamen mit Werbeinschriften, Schallplatten mit Albentiteln, Buchtiteln oder Textelementen bei (Druck-)Grafiken[[142]](#footnote-143). Weiter kann diese Reproduktion auch dann eintreten, wenn der:die Künstler:in den Titel auf die Gemälderückseite geschrieben hat und dieser (z. B. zusammen mit der ggf. ebenfalls dort festgehaltenen Signatur) in diesem Feld wörtlich wiedergegeben wird.  
+Manche Datensätze weisen rassistische oder diskriminierende Sprache auf, weil objektimmanente Inschriften übernommen wurden. So zum Beispiel bei Plakaten und Reklamen mit Werbeinschriften, Schallplatten mit Albentiteln, Buchtiteln oder Textelementen bei (Druck-)Grafiken[[141]](#footnote-142). Weiter kann diese Reproduktion auch dann eintreten, wenn der:die Künstler:in den Titel auf die Gemälderückseite geschrieben hat und dieser (z. B. zusammen mit der ggf. ebenfalls dort festgehaltenen Signatur) in diesem Feld wörtlich wiedergegeben wird.  
 
 ### Klassifikation, Gattung, Objektart, Objekttyp  
 
@@ -70,15 +70,15 @@ Die Beurteilung von Klassifikationen, Objektarten und Gattungen von kultur- und 
 
 ### Provenienz  
 
-In manchen Datensätzen werden weder rassistische Bildtraditionen noch Sprache reproduziert. Ein [Objekt](#_Objekt) kann jedoch durch seine Herkunft oder Herstellung in koloniale Kontexte verstrickt sein. Das können zoologische, anthropologische und botanische Sammlungen sein, Artefakte nichtwestlicher Kulturen, Fotografien oder Schriften, und damit können so ziemlich alle Museen und Sammlungen – unabhängig von ihrer Grösse und Reichweite – davon betroffen sein. [[143]](#footnote-144)  
+In manchen Datensätzen werden weder rassistische Bildtraditionen noch Sprache reproduziert. Ein [Objekt](#_Objekt) kann jedoch durch seine Herkunft oder Herstellung in koloniale Kontexte verstrickt sein. Das können zoologische, anthropologische und botanische Sammlungen sein, Artefakte nichtwestlicher Kulturen, Fotografien oder Schriften, und damit können so ziemlich alle Museen und Sammlungen – unabhängig von ihrer Grösse und Reichweite – davon betroffen sein. [[142]](#footnote-143)  
 
-Diese kolonialen Verstrickungen können durch die Offenlegung der Provenienz in den Datensätzen angezeigt werden. Die Provenienzen von [Objekten](#_Objekt) werden in diesem Handbuch nicht explizit besprochen. Sich dennoch mit der Dokumentation von kolonialen Provenienzen zu beschäftigen, ist aus der Sicht der AG eine wichtige Aufgabe von Kultur- und Sammlungsinstitutionen. Diese [Objekte](#_Objekt) stammen oft aus Unrechtskontexten, wurden geraubt und ihrem Zweck und ihrer kulturellen Einbettung entzogen. Die Lücken, die durch die (gewaltvolle) Entnahme dieser [Objekte](#_Objekt) in die Gesellschaften gerissen wurden, sind nicht zu schliessen. Die Restitution bleibt jedoch in jedem Fall die einzige Möglichkeit, um dieses Unrecht zumindest ansatzweise zu begleichen. In der Schweiz fördert der «Schweizerische Arbeitskreis Provenienzforschung»[[144]](#footnote-145) als spezialisierte Arbeitsgruppe den Austausch und die Vernetzung unter Provenienzforschenden und sollte deshalb als Anlaufstelle für einen fundierten Wissenstransfer genutzt werden.  
+Diese kolonialen Verstrickungen können durch die Offenlegung der Provenienz in den Datensätzen angezeigt werden. Die Provenienzen von [Objekten](#_Objekt) werden in diesem Handbuch nicht explizit besprochen. Sich dennoch mit der Dokumentation von kolonialen Provenienzen zu beschäftigen, ist aus der Sicht der AG eine wichtige Aufgabe von Kultur- und Sammlungsinstitutionen. Diese [Objekte](#_Objekt) stammen oft aus Unrechtskontexten, wurden geraubt und ihrem Zweck und ihrer kulturellen Einbettung entzogen. Die Lücken, die durch die (gewaltvolle) Entnahme dieser [Objekte](#_Objekt) in die Gesellschaften gerissen wurden, sind nicht zu schliessen. Die Restitution bleibt jedoch in jedem Fall die einzige Möglichkeit, um dieses Unrecht zumindest ansatzweise zu begleichen. In der Schweiz fördert der «Schweizerische Arbeitskreis Provenienzforschung»[[143]](#footnote-144) als spezialisierte Arbeitsgruppe den Austausch und die Vernetzung unter Provenienzforschenden und sollte deshalb als Anlaufstelle für einen fundierten Wissenstransfer genutzt werden.  
 
 ## 7.2 Metadaten in Online-Sammlungen: 5 Ansätze  
 
 Heute dienen Datenbanken längst nicht mehr nur der internen Archivierungs-, Dokumentations- und Sammlungsverwaltung. Die enthaltenen Daten bilden die Grundlage für die Onlinepräsentation von Sammlungen. Mit der Veröffentlichung der Sammlungsdokumentation erschliessen sich weitere Dimensionen in Bezug auf Rassismussensibilität. Die Institutionen beschäftigen sich zunehmend damit, welche Metadaten sie in welcher Art einer breiten Öffentlichkeit online zur Verfügung stellen. Somit hängt die rassismuskritische Überarbeitung von Datensätzen in der internen Datenbank oft auch von Entscheidungen zur Onlinepräsentation ab.  
 
-Die digitale, online zugängliche Präsentation von [Objekten](#_Objekt) mit historischen Titeln, die rassistische, diskriminierende oder anderweitig problematische Begriffe enthalten, stellt Gedächtnisinstitutionen vor besondere Herausforderungen. Für dieses Kapitel wurden verschiedene Online-Sammlungen weltweit analysiert, um bestehende Umsetzungsstrategien zu identifizieren.[[145]](#footnote-146) Dabei zeigte sich, dass viele Sammlungen dieses Thema bislang nicht aktiv bearbeitet haben.  
+Die digitale, online zugängliche Präsentation von [Objekten](#_Objekt) mit historischen Titeln, die rassistische, diskriminierende oder anderweitig problematische Begriffe enthalten, stellt Gedächtnisinstitutionen vor besondere Herausforderungen. Für dieses Kapitel wurden verschiedene Online-Sammlungen weltweit analysiert, um bestehende Umsetzungsstrategien zu identifizieren.[[144]](#footnote-145) Dabei zeigte sich, dass viele Sammlungen dieses Thema bislang nicht aktiv bearbeitet haben.  
 
 Die folgende Übersicht stellt aus den oben eruierten Umsetzungsstrategien fünf verschiedene Ansätze vor, die als Orientierung dienen sollen, um für die eigene Institution einen geeigneten Weg im Umgang mit der Onlineveröffentlichung der eigenen Sammlung zu finden. Die vorgeschlagenen Methoden sind nicht abschliessend, sondern sollen als Impulse dienen, die an die jeweiligen institutionellen Rahmenbedingungen anzupassen sind.  
 
@@ -111,7 +111,7 @@ Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. Mär
 
 Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinzugefügt, z. B.: «[Problematischer Titel]\*». Ergänzend kann eine Stellungnahme oder ein Verweis auf ein Glossar erfolgen.  
 
-Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[146]](#footnote-147) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[147]](#footnote-148) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[148]](#footnote-149)  
+Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[145]](#footnote-146) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[146]](#footnote-147) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[147]](#footnote-148)  
 
 **Vor- und Nachteile**:  
 
@@ -145,13 +145,13 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung 8: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image009.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
 Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingefügt oder Abbildungen werden unscharf dargestellt oder weggelassen.  
 
-Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[149]](#footnote-150) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[150]](#footnote-151)  
+Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[148]](#footnote-149) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[149]](#footnote-150)  
 
 **Vor- und Nachteile**:  
 
@@ -184,16 +184,16 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird., extra:Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird., extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image010.jpg)  
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image011.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler](/images/image011.jpg)  
 
 ### (3) Titel neu formulieren  
 
 Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezeichnungen ersetzt.  
 
-Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[151]](#footnote-152) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[152]](#footnote-153) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[153]](#footnote-154)  
+Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[150]](#footnote-151) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[151]](#footnote-152) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[152]](#footnote-153)  
 
 **Vor- und Nachteile**:  
 
@@ -201,7 +201,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[151]](
 
 [[start:plus]]
 
-* Problematische Titel, die erst später von der Öffentlichkeit, Autor:innen, Kunsthistoriker:innen oder Museen vergeben und nicht bei der Entstehung des [Objekts](#_Objekt) und von den Kunstschaffenden selbst stammen sind keine «Originaltitel» und lassen sich überarbeiten[[154]](#footnote-155)  
+* Problematische Titel, die erst später von der Öffentlichkeit, Autor:innen, Kunsthistoriker:innen oder Museen vergeben und nicht bei der Entstehung des [Objekts](#_Objekt) und von den Kunstschaffenden selbst stammen sind keine «Originaltitel» und lassen sich überarbeiten[[153]](#footnote-154)  
 * Verhindert die Reproduktion problematischer Begriffe  
 
 [[end:plus]]
@@ -234,7 +234,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[151]](
 
 Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Anklicken erscheinen der Originaltitel, eine Warnung und eine Begriffserklärung.  
 
-Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[155]](#footnote-156)  
+Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[154]](#footnote-155)  
 
 **Vor- und Nachteile**:  
 
@@ -281,7 +281,7 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 
 Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der Startseite oder in der Objektansicht eingefügt.  
 
-Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collections.maa.cam.ac.uk/)[[156]](#footnote-157) | [Getty, Los Angeles, CA](https://www.getty.edu/art/collection/object/108GHT)[[157]](#footnote-158) | [PARC (Portal for African Research Collections), Basel](https://www.parc-portal.org/en/simple/ethical-guidelines)[[158]](#footnote-159) | [Black Cultural Archives, London](https://www.calmview.eu/BCA/CalmView/default.aspx)[[159]](#footnote-160) | [MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg](https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf)[[160]](#footnote-161) | [Schweizerisches Nationalmuseum, Zürich](https://sammlung.nationalmuseum.ch/)[[161]](#footnote-162) | [Museum Fünf Kontinente, München](https://onlinedatenbank-museum-fuenf-kontinente.de/)[[162]](#footnote-163)  
+Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collections.maa.cam.ac.uk/)[[155]](#footnote-156) | [Getty, Los Angeles, CA](https://www.getty.edu/art/collection/object/108GHT)[[156]](#footnote-157) | [PARC (Portal for African Research Collections), Basel](https://www.parc-portal.org/en/simple/ethical-guidelines)[[157]](#footnote-158) | [Black Cultural Archives, London](https://www.calmview.eu/BCA/CalmView/default.aspx)[[158]](#footnote-159) | [MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg](https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf)[[159]](#footnote-160) | [Schweizerisches Nationalmuseum, Zürich](https://sammlung.nationalmuseum.ch/)[[160]](#footnote-161) | [Museum Fünf Kontinente, München](https://onlinedatenbank-museum-fuenf-kontinente.de/)[[161]](#footnote-162)  
 
 **Vor- und Nachteile**:  
 
