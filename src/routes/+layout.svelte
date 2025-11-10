@@ -69,6 +69,13 @@
     }
   })
 
+  let markedCaption = $state()
+
+  onMount(() => {
+    markedCaption = marked.parseInline(infoData?.captionLanding || "")
+  })
+  // const markedCaption = marked.parse(infoData?.captionLanding || "")
+
   // $effect(() => {
   //   if ($page.url.searchParams.get("print")) {
   //     window.open("http://" + $page.url.host + "/print.pdf", "_blank")
@@ -79,6 +86,7 @@
   //     })
   //   }
   // })
+  // console.log("layout rendered", markedCaption)
 </script>
 
 <div
@@ -106,7 +114,7 @@
       />
       {#if $page?.params?.slug === intro}
         <figcaption class={styles.caption}>
-          {@html marked.parseInline(infoData?.captionLanding || "")}
+          {@html markedCaption}
         </figcaption>
       {/if}
     </figure>
