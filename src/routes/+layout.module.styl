@@ -38,11 +38,12 @@
         display none
     .caption
       width 100%
-      max-width 650px
+      max-width var(--text-width)
       text-align: left 
       padding-top 0.3lh
       padding-right var(--padding)
       padding-left calc(var(--buttons-width) + .5rem)
+      margin-left clamp(var(--current-index-width), 100vw, var(--l))
     .content
       width 100%
   .background
