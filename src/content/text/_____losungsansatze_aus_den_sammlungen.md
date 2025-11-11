@@ -171,8 +171,8 @@ Metadaten des überarbeiteten Datensatzes:
 **Klassifikation:** Stickvorlage  
 **Datierung:** Um 1900  
 **Inschrift:** «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
-Schlagworte: -  
-Inhaltshinweis: «Abwertende Sprache»  
+**Schlagworte**: -  
+**Inhaltshinweis**: «Abwertende Sprache»  
 [[end:after]]
 [[end:metadata]]
 
@@ -288,7 +288,7 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des überarbeiteten Datensatzes:  
 
 **Inventarnummer:** LM 140862  
-**Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** [Schwarzen](#_Schwarz/weiss) **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**  
+**Bezeichnung:** Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten [Schwarzen](#_Schwarz/weiss) Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.  
 **Klassifikation:** Plakat  
 **Datierung:** 1900–1910  
 **Inschrift:** «Flandor. Dessert-Crème-Pudding»  
@@ -443,7 +443,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Inventarnummer:** 1995.423  
 **Titel Online:** Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)  
-Sensibler Titel[[194]](#footnote-195): Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)  
+**Sensibler Titel**[[194]](#footnote-195)**:** Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)  
 «Köpfe 30» (Trudy Hess, schwarz geschminkt)  
 **Beschreibung/Art des Dokuments:** Kontaktabzug  
 **Gattung:** Inszenierte Fotografie, Porträtfotografie  
@@ -676,7 +676,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Datierung:** 1965  
 **Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus  
 **Person/Körperschaft (Autor:in):** Annemarie Meier  
-**Objekt Status:** **Online**  
+**Objekt Status:** Online  
 
 [[end:after]]
 
@@ -685,7 +685,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Kontext**  
 
 Die Fotografin Annemarie Meier reiste in den 1960er Jahren in die USA, wo sie neben ihrer Tätigkeit als Skilehrerin an einer Reportage über die afroamerikanische Mittelschicht arbeitete.[[203]](#footnote-204) Ihre Bilder zeugen von einer fast ethnografischen Nähe und sind lebhafte Zeitdokumente einer von Rassismus und Segregation geprägten Gesellschaft. Meiers Fotografie scheint auf Augenhöhe aufgenommen worden zu sein und versuchte eine Innenperspektive zu zeigen.  
-Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](Rassifizierte_Communities#_) durchschimmern lassen.  
+Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](#_«Rassifizierte_Communities») durchschimmern lassen.  
 
 [[start:block]]
 

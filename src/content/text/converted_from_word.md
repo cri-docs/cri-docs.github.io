@@ -45,11 +45,11 @@ Die Mitglieder der AG «Critical GLAM» sind mehrheitlich [*weisse*](#_Schwarz/w
 Mitwirkende:
 [Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi
-[Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold
+[Historisches Museum Basel](https://www.hmb.ch/), Andrea Arnold und Patrick Moser
 [Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler
 [Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi
 [Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick
-[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Céline Hug und Dario Donati
+[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser
 
 Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
@@ -965,7 +965,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen.](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung : Wireframe Skizze einer Online-Sammlung mit dem N-Wort im Objekttitel und konteztualisierenden Schlagworten, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1005,11 +1005,11 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird.](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung : Wireframe Skizze einer Online-Sammlung bei dem der rassistische N-Begriff durch Asterisken ersetzt wurde, erstellt von: Ruth Kistler
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt".](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung :Wireframe Skizze einer Online-Sammlung bei der eine rassistische Abbildung nicht für die Nutzer:innen nicht angezeigt wird, erstellt von: Ruth Kistler
 
 ### (3) Titel neu formulieren
 
@@ -1051,7 +1051,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[150]](
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, der überarbeitet wurde. Hier steht: Brustbild eines Mannes mit Fez und Ohrring".](data:image/png;base64...)
 
-Abbildung 13: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 13: Wireframe Skizze einer Online-Sammlung bei dem der Objekttitel neu formuliert wurde und der rassistische Begriff aus der Beschreibung herausgenommen wurde, erstellt von: Ruth Kistler
 
 ### (4) Individuelle Inhaltswarnungen
 
@@ -1093,15 +1093,15 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel von Objektbildern, die durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht: "Dieser Datensatz wurde von uns als diskriminierend markiert".](data:image/png;base64...)
 
-Abbildung 14: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 14: Wireframe Skizze einer Online-Sammlung bei der die Nutzer:innen selbst bestimmen können, ob sie rassistische Abbildungen sehen wollen, erstellt von: Ruth Kistler
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz wurde von uns als diskriminierend markiert" steht. Zudem sieht man den rassistischen Objekttitel "Brustbild eines N-Wort mit Fez und Ohrring".](data:image/png;base64...)
 
-Abbildung 15: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 15: Wireframe Skizze einer Online-Sammlung mit einem Hinweis auf rassistische Inhalte, die im Datensatz vorhanden sind, erstellt von: Ruth Kistler
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel bei dem der Hinweis "Dieser Datensatz enthält eine aus heutiger Sicht diskriminierende Bezeichnung. Der Begriff "N-Wort" gilt im heutigen Sprachgebrauch als stark herabwürdigende Fremdbezeichnung." steht.](data:image/png;base64...)
 
-Abbildung 16: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 16: Wireframe Skizze einer Online-Sammlung bei der sich die Institution in einem Hinweis vom historischen Sprachgebrauch, der im Datensatz Eingang findet, distanziert, erstellt von: Ruth Kistler
 
 ### (5) Allgemeine Inhaltswarnung
 
@@ -1140,7 +1140,7 @@ Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collectio
 
 ![Wireframe Skizze einer Online-Sammlung bei der auf der Startseite der Hinweis "Unser Bestand umfasst historische Zeugnisse des Rassismus in Europa. Daher enthält dieser Katalog Begriffe, die rassistisch beleidigend sind. Diese werden im Interesse der historischen Genauigkeit verwendet und spiegeln nicht die Ansichten oder Meinungen unserer Institution oder Mitarbeitenden wider." zu lesen ist.](data:image/png;base64...)
 
-Abbildung 17: Wireframe Skizze einer Online-Sammlung, erstellt von: Ruth Kistler
+Abbildung 17: Wireframe Skizze einer Online-Sammlung bei der sich die Institution in einem allgemeinen Hinweis von rassistischen Inhalten, die Eingang finden, distanziert, erstellt von: Ruth Kistler
 
 **Zusammenfassung:**
 
@@ -1427,8 +1427,8 @@ Metadaten des überarbeiteten Datensatzes:
 **Klassifikation:** Stickvorlage
 **Datierung:** Um 1900
 **Inschrift:** «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»
-Schlagworte: -
-Inhaltshinweis: «Abwertende Sprache»
+**Schlagworte**: -
+**Inhaltshinweis**: «Abwertende Sprache»
 [[end:after]]
 [[end:metadata]]
 
@@ -1547,7 +1547,7 @@ Metadaten des unbereinigten Datensatzes:
 Metadaten des überarbeiteten Datensatzes:
 
 **Inventarnummer:** LM 140862
-**Bezeichnung: Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten** [Schwarzen](#_Schwarz/weiss) **Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.**
+**Bezeichnung:** Werbegrafik für den Pudding Flandor. Zeigt Abbildung eines stereotypisierten und verkindlichten [Schwarzen](#_Schwarz/weiss) Mannes in einem rotweiss gestreiften Anzug und einer Mütze, der das übergrosse Dessert trägt.
 **Klassifikation:** Plakat
 **Datierung:** 1900–1910
 **Inschrift:** «Flandor. Dessert-Crème-Pudding»
@@ -1705,7 +1705,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Inventarnummer:** 1995.423
 **Titel Online:** Köpfe 30, Trudi als N\* (sensibler Originaltitel), 1933 (Quelle: deskriptiver Titel)
-Sensibler Titel[[194]](#footnote-195): Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)
+**Sensibler Titel**[[194]](#footnote-195)**:** Köpfe 30 – Trudi als Neger, 1933 (Quelle: Originaltitel Autor:in)
 «Köpfe 30» (Trudy Hess, schwarz geschminkt)
 **Beschreibung/Art des Dokuments:** Kontaktabzug
 **Gattung:** Inszenierte Fotografie, Porträtfotografie
@@ -1942,7 +1942,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Datierung:** 1965
 **Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier, Segregation, Othering, Rassismus
 **Person/Körperschaft (Autor:in):** Annemarie Meier
-**Objekt Status:** **Online**
+**Objekt Status:** Online
 
 [[end:after]]
 
@@ -1951,7 +1951,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Kontext**
 
 Die Fotografin Annemarie Meier reiste in den 1960er Jahren in die USA, wo sie neben ihrer Tätigkeit als Skilehrerin an einer Reportage über die afroamerikanische Mittelschicht arbeitete.[[203]](#footnote-204) Ihre Bilder zeugen von einer fast ethnografischen Nähe und sind lebhafte Zeitdokumente einer von Rassismus und Segregation geprägten Gesellschaft. Meiers Fotografie scheint auf Augenhöhe aufgenommen worden zu sein und versuchte eine Innenperspektive zu zeigen.
-Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](Rassifizierte_Communities#_) durchschimmern lassen.
+Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](#_«Rassifizierte_Communities») durchschimmern lassen.
 
 [[start:block]]
 
