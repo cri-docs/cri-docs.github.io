@@ -589,7 +589,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell 
 ## 10.11 **Missionsn\*li**  
 
 
-![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
+![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM 69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -597,7 +597,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell 
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-69377.1-2  
+**Inventarnummer:** LM 69377.1-2  
 **Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
 **Datierung:** 1940–1960  
@@ -609,7 +609,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-69377.1-2  
+**Inventarnummer:** LM 69377.1-2  
 **Bezeichnung:** Knieender Mann in weissem Gewand, stereotypisierte [Schwarze](#_Schwarz/weiss) Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock  
 **Datierung:** 1940–1960  
