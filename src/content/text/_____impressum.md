@@ -21,12 +21,8 @@ Version 1.0, November 2025
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug  
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
 
-**Kontakt:**  
-
-info@criticalGLAM.ch  
-
+**Kontakt:**info@criticalGLAM.ch  
 Konradstrasse 14  
-
 CH-8005 Zürich  
 
 **Konzept- und Projektbegleitung:**  
