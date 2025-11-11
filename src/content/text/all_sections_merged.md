@@ -2308,17 +2308,23 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 Version 1.0, November 2025  
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) <img class="inline" alt="icon for the Copyright CC BY 4.0." src="/images/ccby.svg"/>  
 
-**Mitwirkende Institutionen:**  
-[Bernisches Historisches Museum](https://www.bhm.ch/de)  
-[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich  
-[Historisches Museum Basel](https://www.hmb.ch/)  
-[Kunsthaus Zürich](https://www.kunsthaus.ch/)  
-[Museum für Kommunikation](https://www.mfk.ch/), Bern  
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/)  
-[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)  
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)  
+**Mitwirkende:**  
+[Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
+[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
+[Historisches Museum Basel](https://www.hmb.ch/), Andrea Arnold und Patrick Moser  
+[Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
+[Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
+[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug  
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
 
-**Kontakt:** info@criticalGLAM.ch  
+**Kontakt:**  
+
+info@criticalGLAM.ch  
+
+Konradstrasse 14  
+
+CH-8005 Zürich  
 
 **Konzept- und Projektbegleitung:**  
 [Danielle Isler](https://www.danielle-isler.com/)  
