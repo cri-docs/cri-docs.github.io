@@ -21,7 +21,7 @@ toc:
   - level: 2
     title: "10.7 12 kleinen N*lein"
   - level: 2
-    title: "10.8 Portraitserie"
+    title: "10.8 Porträtserie"
   - level: 2
     title: "10.9 Elektrische Reklame für eine Schuhcrème"
   - level: 2
@@ -49,27 +49,27 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer**: DEP 2443  
-**Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
-**Klassifikation**: Figurenuhr  
-**Datierung**: 1646  
-**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-**Schlagworte**: Personenwappen, Hans Rudolf Rahn  
-**Herstellung**: Augsburg  
+**Inventarnummer:** DEP 2443  
+**Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
+**Klassifikation:** Figurenuhr  
+**Datierung:** 1646  
+**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Schlagworte:** Personenwappen, Hans Rudolf Rahn  
+**Herstellung:** Augsburg  
 
 [[end:before]]
 
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer**: DEP 2443  
-**Bezeichnung**: Figurenautomat einer [Schwarzen](#_Schwarz/weiss) männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
-**Klassifikation**: Figurenuhr  
-**Datierung**: 1646  
-**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-**Schlagworte**: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
-**Herstellung**: Augsburg  
-**Inhaltshinweis**[[176]](#footnote-177): «Rassifizierung»  
+**Inventarnummer:** DEP 2443  
+**Bezeichnung:** Figurenautomat einer [Schwarzen](#_Schwarz/weiss) männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
+**Klassifikation:** Figurenuhr  
+**Datierung:** 1646  
+**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Schlagworte:** Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+**Herstellung:** Augsburg  
+**Inhaltshinweis**[[176]](#footnote-177)**:** «Rassifizierung»  
 
 [[end:after]]
 
@@ -171,8 +171,8 @@ Metadaten des überarbeiteten Datensatzes:
 **Klassifikation:** Stickvorlage  
 **Datierung:** Um 1900  
 **Inschrift:** «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
-**Schlagworte**: -  
-**Inhaltshinweis**: «Abwertende Sprache»  
+**Schlagworte:** -  
+**Inhaltshinweis:** «Abwertende Sprache»  
 [[end:after]]
 [[end:metadata]]
 
@@ -219,7 +219,7 @@ Metadaten des unbereinigten Datensatzes:
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
 **Datierung:** 1900–1910  
-**Inschrift: -**  
+**Inschrift:** -  
 [[end:before]]
 
 [[start:after]]
@@ -231,7 +231,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
 **Datierung:** 1900–1910  
 **Inschrift:** «Der Schwarze Peter»  
-**Schlagworte: -**  
+**Schlagworte:** -  
 **Inhaltshinweis:** «Rassismus» und «abwertende Sprache»  
 
 [[end:after]]
@@ -415,7 +415,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 
 [[end:block]]
 
-## 10.8 **Portraitserie**  
+## 10.8 **Porträtserie**  
 
 
 ![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  
@@ -464,7 +464,7 @@ Auf bildinhaltlicher Ebene zeigen sich hier einige Mechanismen, die auf einen ti
 
 Die erste, am eindeutigsten als rassistisch identifizierbare Komponente ist zunächst der oben rechts als Inschrift vermerkte Bildserien-Titel «Trudi als N\* 1933». Der Begriff des «N\*» ist in seiner Geschichte eng mit dem Aufkommen von Sklavenhandel und Rassentheorien im 18. Jh. verknüpft und kann nicht von dieser gewaltvollen Geschichte entkoppelt werden. Er beinhaltet immer auch eine Vielzahl von rassistischen und eurozentrischen Stereotypen und muss vermieden werden.[[196]](#footnote-197)  
 
-Des Weiteren wird die Praktik des «Blackfacings»(deutsch «*sich das Gesicht schwärzen»*) als rassistische Nachahmung eingestuft, da sie die diskriminierende Erfahrung von [Schwarzen](#_Schwarz/weiss) Menschen untergräbt, während die Belustigung [*weisser*](#_Schwarz/weiss) Menschen im Vordergrund steht.[[197]](#footnote-198)  
+Des Weiteren wird die Praktik des «Blackfacings»(deutsch *sich das Gesicht schwärzen*) als rassistische Nachahmung eingestuft, da sie die diskriminierende Erfahrung von [Schwarzen](#_Schwarz/weiss) Menschen untergräbt, während die Belustigung [*weisser*](#_Schwarz/weiss) Menschen im Vordergrund steht.[[197]](#footnote-198)  
 
 Die dritte Komponente ist die rassistische Bildtradition, an die sich das [Objekt](#_Objekt) anlehnt. Obschon Matter keine rassentheoretische Kartei anlegte, so erinnert die Anordnung verschiedener Köpfe zu einer Kartei doch an frühe Zusammenstellungen von Porträts einer an rassistischen Theorien arbeitenden frühen Völkerkunde.  
 
@@ -652,13 +652,14 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell 
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer: 1982.03.023  
-Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
+**Inventarnummer:** 1982.03.023  
+**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 **Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)  
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung  
 **Gattung:** -  
 **Datierung:** 1965  
-**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier **Person/Körperschaft (Autor:in):** Annemarie Meier  
+**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier  
+**Person/Körperschaft (Autor:in):** Annemarie Meier  
 **Objekt Status:** Online  
 
 [[end:before]]
@@ -667,7 +668,7 @@ Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer: 1982.03.023**  
+**Inventarnummer:** 1982.03.023  
 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 **Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)  
 **Sensibler Serientitel Bemerkung:** Amerika Neger  
@@ -685,7 +686,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Kontext**  
 
 Die Fotografin Annemarie Meier reiste in den 1960er Jahren in die USA, wo sie neben ihrer Tätigkeit als Skilehrerin an einer Reportage über die afroamerikanische Mittelschicht arbeitete.[[203]](#footnote-204) Ihre Bilder zeugen von einer fast ethnografischen Nähe und sind lebhafte Zeitdokumente einer von Rassismus und Segregation geprägten Gesellschaft. Meiers Fotografie scheint auf Augenhöhe aufgenommen worden zu sein und versuchte eine Innenperspektive zu zeigen.  
-Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](#_«Rassifizierte_Communities») durchschimmern lassen.  
+Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](Rassifizierte_Communities#_) durchschimmern lassen.  
 
 [[start:block]]
 
