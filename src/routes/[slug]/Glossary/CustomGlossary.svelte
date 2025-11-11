@@ -90,7 +90,7 @@
   onmouseenter={mouseEnter}
   onmouseleave={mouseLeave}
 >
-  <div class={styles.content}>
+  <div class={[styles.content, "content"].join(" ")}>
     {@html markdownOriginal.parseInline(content)}
   </div>
 </button>
