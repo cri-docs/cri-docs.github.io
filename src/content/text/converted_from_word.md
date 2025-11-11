@@ -684,7 +684,7 @@ Madeleine, die von Geburt an auf der französischen Kolonie Guadeloupe versklavt
 
 Das Überwinden kolonialer Gedanken und Termini in kulturellen Institutionen erfordert ein aktives Bemühen um Teilhabe. Inklusion kann erst dann funktionieren, wenn Datenbanken, Texte und Konzepte von [indigenen](#_Indigen) Epistemologien ausgedacht und übersetzt werden. Während der Ausstellung «Exotic?» (Palais de Rumine, Lausanne, 09.2020 – 02.2021)[[106]](#footnote-107), kuratiert von Noémie Etienne, Chonja Lee und Claire Brizon, lud letztere den neukaledonischen Dichter und Künstler Denis Pourawa ein, um ein [Objekt](#_Objekt) aus der Sammlung zu betrachten. Besagtes Artefakt stammt aus der Pazifikregion und erreichte Ende des 18. Jahrhunderts Europa, wo ihm von seinem protestantischen Besitzer der Titel «Monstranz Beil» gegeben wurde.[[107]](#footnote-108) Diese Nennung wurde in der Museumsdokumentation konsequent verwendet (Inventar, Ausstellungen etc.). Die Bezeichnung ist allerdings eine Erfindung, die zutiefst in den kolonialen Vorstellungen des ‹Anderen/Fremden› verankert ist. Sie deutet auf Gewalt (das Beil) und auf nicht-protestantische rituelle Praktiken (die katholische Monstranz) hin. Die Anspielung auf Kannibalismus, die durch das Wort «Beil» impliziert wird, ist reine Fiktion. Bei genauerem Betrachten wird nämlich klar, dass das [Objekt](#_Objekt) nichts schneiden könnte, erst recht keinen menschlichen Körper. Für den protestantischen Besitzer dieses [Objekts](#_Objekt) war die Assoziation zum Katholizismus wahrscheinlich ein Versuch, zwei nicht-protestantische Glaubenswelten miteinander zu verbinden: die ferne [indigene](#_Indigen) und die gegenwärtige katholische.
 
-Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vor. Der Begriff kommt aus der *Xârâcùù* Sprache, einer von achtundzwanzig Sprachen in Neukaledonien. Zudem ordnete er das [Objekt](#_Objekt) neu als Symbol des Hauptredners einer Zeremonie ein.[[108]](#footnote-109) Dank dieser neuen Bedeutungsebene veränderte sich auch die Präsentationsform des [Objekts](#_Objekt). Wurde es ursprünglich stets horizontal ausgestellt, wird es nun vertikal gezeigt. In dieser Präsentationform erinnert es noch weniger an eine Monstranz. Der Austausch mit Denis Pourawa veränderte die Art und Weise wie das [Objekt](#_Objekt) benannt, dokumentiert und gezeigt wird (Abb. 1). Auch im Humboldt Forum, wo sich ein ähnliches [Objekt](#_Objekt) befindet, wurde diese Darstellungs- und Präsentationsform übernommen. Dies sind nur zwei Beispiele einer angepassten Objektdokumentation, doch finden sich in vielen europäischen Sammlungen noch immer [Objekte](#_Objekt) mit dem erfundenen Namen.
+Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vor. Der Begriff kommt aus der *Xârâcùù* Sprache, einer von achtundzwanzig Sprachen in Neukaledonien. Zudem ordnete er das [Objekt](#_Objekt) neu als Symbol des Hauptredners einer Zeremonie ein.[[108]](#footnote-109) Dank dieser neuen Bedeutungsebene veränderte sich auch die Präsentationsform des [Objekts](#_Objekt). Wurde es ursprünglich stets horizontal ausgestellt, wird es nun vertikal gezeigt. In dieser Präsentationform erinnert es noch weniger an eine Monstranz. Der Austausch mit Denis Pourawa veränderte die Art und Weise wie das [Objekt](#_Objekt) benannt, dokumentiert und gezeigt wird (Abbildung unten). Auch im Humboldt Forum, wo sich ein ähnliches [Objekt](#_Objekt) befindet, wurde diese Darstellungs- und Präsentationsform übernommen. Dies sind nur zwei Beispiele einer angepassten Objektdokumentation, doch finden sich in vielen europäischen Sammlungen noch immer [Objekte](#_Objekt) mit dem erfundenen Namen.
 
 ![Kunstobjekt das aussieht wie ein kleiner Baum mit einer runden, grünen Krone und freigelegten Wurzeln.](data:image/png;base64...)
 
@@ -1457,7 +1457,7 @@ Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markie
 
 Für die Präsentation des [Objekts](#_Objekt) in der Sammlung Online nach der Überarbeitung wird in den Freischaltungsoptionen der einzelnen Datenbankfelder das Feld «Inschrift» abgewählt. Somit erscheint der rassistische Begriff «N\*» zukünftig nicht mehr online.
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -1516,7 +1516,7 @@ Eine neue Klassifikation wird zugewiesen: Spiele und Spielzeug, Spielkarten (Kar
 Deklaration als rassistisches Objekt:
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache» markiert.
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -1574,7 +1574,7 @@ Die Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeiche
 Deklaration als rassistisches Objekt:
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «[Schwarze](#_Schwarz/weiss) Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -1846,7 +1846,7 @@ Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshisto
 Deklaration als rassistisches Objekt:
 Das [Objekt](#_Objekt) wird mit den Schlagworten «[Exotisierung](#_Exotismus/exotisierend)», «Stereotyp», «[Schwarze](#_Schwarz/weiss) Person» klassifiziert und der Kontext zum [Objekt](#_Objekt) im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -1902,7 +1902,7 @@ Die rassistische Klassifikation des [Objekts](#_Objekt) wird in der Änderungshi
 Deklaration als rassistisches Objekt:
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus, abwertende Sprache» markiert. Zudem werden die Schlagworte «Mission», «Koloniale Verflechtung» hinzugefügt und der Kontext zum [Objekt](#_Objekt) wird in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld erläutert.
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
 [[end:block]]
 
@@ -2429,7 +2429,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 20. Schweizerische Eidgenossenschaft (Hg.): Glossar. Rassismus, Schweizerische Eidgenossenschaft, Fachstelle für Rassismusbekämpfung (FRB), <<https://www.edi.admin.ch/edi/de/home/fachstellen/frb/glossar.html>>, Stand: 25.10.2024. [↑](#footnote-ref-21)
 21. Hund, Wulf D.: Rassimus, Bielefeld 2007, S. 27 ff. [↑](#footnote-ref-22)
 22. Siehe hierzu Kapitel **«**[Verwendung und Veröffentlichung von Daten](#_Interne_Verwendung_von)», S. 43. [↑](#footnote-ref-23)
-23. Gemäss Roberto Zaugg ist die Frage nach der Autorschaft eines Objekts und deren namentlichen Überlieferung nicht in allen Gesellschaften und Epochen gleichermassen etabliert. Zudem sei diese stark von der Art des Objekts (Kunstwerk, Alltagsgegenstand usw.) abhängig. Er weist darauf hin, dass die Autorschaft im jeweiligen historischen Kontext betrachtet werden müsse und sich nicht losgelöst von der Zeit verstehen lasse. Entsprechend sollte dies in einer rassismuskritischen Dokumentationspraxis explizit berücksichtigt werden. [Anmerkung der Herausgeber:innen: Roberto Zauggs Hinweis erfolgte im Zuge des kritischen Lektorats]. [↑](#footnote-ref-24)
+23. Es sei an dieser Stelle angemerkt, dass die Frage nach der Autor:innenschaft eines Objekts und deren namentlichen Überlieferung nicht in allen Gesellschaften und Epochen gleichermassen etabliert ist. Sie ist ausserdem stark von der Art des Objekts (Kunstwerk, Alltagsgegenstand usw.) abhängig. So muss Autor:innenschaft auch im jeweiligen historischen und gesellschaftlichen Kontext betrachtet werden und kann nicht losgelöst von zeitlichen Faktoren verstanden werden. In einer rassismuskritischen Dokumentationspraxis gilt es dies explizit zu berücksichtigen. [↑](#footnote-ref-24)
 24. Hoins, Katharina; von Mallinckrodt, Felicitas: Macht. Wissen. Teilhabe. Koordinaten zur Einführung, in: Hoins, Katharina; von Mallinckrodt, Felicitas (Hg.): Macht. Wissen. Teilhabe. Sammlungsinstitutionen im 21. Jh. Bielefeld 2015, S. 9–20, hier S. 12. [↑](#footnote-ref-25)
 25. Vom 14. bis zum 18. Jh. wurde in europäischen Sammlungen häufig eine allumfassende, inhaltlich breit angelegte Weltschau angestrebt. Diese dem Beispiel der Wunderkammer folgenden Kollektionen wurden vielerorts erst im Zuge einer wissenschaftlichen Ausdifferenzierung der verschiedenen Disziplinen im 18. und 19. Jh. aufgeteilt und in neu gegründete fachspezifische, häufig auch universitäre, Museen eingegliedert. [↑](#footnote-ref-26)
 26. Collet, Dominik: Die Welt in der Stube. Begegnungen mit Aussereuropa in Kunstkammern der Frühen Neuzeit, Göttingen 2007. ̶ Drayton, Richard Harry: Nature’s Government. Science, Imperial Britain, and the ‹Improvement› of the World, New Haven 2000. ̶ Hoins; Mallinckrodt, Macht 2015, S. 10–13. ̶ Lidchi, Henrietta: The Poetics and Politics of Exhibiting other Cultures, in: Hall, Stuart (Hg.): Representation. Cultural Representations and Signifying Practices, London 1997, S. 151–208. ̶ Karl-Siegbert Rehberg spricht auch von Verkörperung der Macht und Präsenzsymbolik fürstlicher und kirchlicher Sammlungen. Siehe Rehberg, Karl-Siegbert: Machtvolles Sammeln und bildendes Zeigen. Das (Kunst-)Museum als Leitinstitution, in: Hoins; von Mallinckrodt, Macht 2015, S. 21–43, hier S. 25. ̶ Rehberg, Karl-Siegbert: Schatzhaus, Wissensverkörperung und ‹Ewigkeitsort›. Eigenwelt des Sammelns aus institutionsanalytischer Perspektive, in: Marx, Barbara; Rehberg, Karl-Siegbert (Hg.): Sammeln als Institution. Von der fürstlichen Wunderkammer zum Mäzenatentum des Staates, München 2006, S. XI–XXXI. [↑](#footnote-ref-27)
@@ -2584,9 +2584,11 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 
      Die Auswahl der Museen basierte auf folgenden Kriterien:
 
-     * Grösse: Grundlage war eine Liste der 100 flächenmässig grössten Museen weltweit im Bereich Kunst, Archäologie und Anthropologie (Stand: 2025).
-     * Besucheranzahl: Eine weitere Grundlage war eine Liste der 100 meistbesuchten Museen weltweit im Bereich Kunst, Archäologie und Anthropologie (Stand: 2024).
-     * Relevanz: Zusätzlich wurden grosse Schweizer Museen aus dem kunsthistorischen oder historischen Bereich aufgenommen, um eine regionale Vergleichbarkeit sicherzustellen.
+     Grösse: Grundlage war eine Liste der 100 flächenmässig grössten Museen weltweit im Bereich Kunst, Archäologie und Anthropologie (Stand: 2025).
+
+     Besucheranzahl: Eine weitere Grundlage war eine Liste der 100 meistbesuchten Museen weltweit im Bereich Kunst, Archäologie und Anthropologie (Stand: 2024).
+
+     Relevanz: Zusätzlich wurden grosse Schweizer Museen aus dem kunsthistorischen oder historischen Bereich aufgenommen, um eine regionale Vergleichbarkeit sicherzustellen.
 
      Insgesamt wurden 103 Institutionen in die Analyse einbezogen. Von diesen waren 84 über eine Online-Sammlung zugänglich. 73 enthielten problematische Metadaten. 15 wiesen eine Strategie auf (z. B. allgemeine Inhaltswarnung, individuelle Inhaltswarnung, Titel neu formuliert, Metadaten als diskriminierend markiert). [↑](#footnote-ref-145)
 145. Salzburg Museum, <<https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b>>, Stand: 08.07.2025. [↑](#footnote-ref-146)
@@ -2618,9 +2620,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 171. FUSSNOTE MIT LINK KANN JONAS BIS ENDE OKTOBER NACHLIEFERN. [↑](#footnote-ref-172)
 172. Stiftung für Kunst, Kultur und Geschichte (SKKG), Sammlung digital, <<https://digital.skkg.ch/>>, Stand: 01.10.2025. [↑](#footnote-ref-173)
 173. Stiftung für Kunst, Kultur und Geschichte (SKKG), «Disclaimer», Sammlung digital, <<https://digital.skkg.ch/de/intro#disclaimer>>, Stand: 01.10.2025. [↑](#footnote-ref-174)
-174. Die Befolgung von Standards zur Erschliessung ermöglicht die Nutzung und den Austausch von Daten über Institutionsgrenzen hinweg. Es gibt hilfreiche Handreichungen, die sich spezifisch an Museen/Sammlungen wenden: Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025. – ­Minimaldatensatz Empfehlung für Sammlungen und Museen: <<https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678>>, Stand: 09.04.2025. – Als Austauschformat für Museen und Sammlungen empfiehlt der ICOM Lido: < <https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido//>>, Stand: 09.04.2025 –Austauschformat Spectrum: <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025. –Ebenso widmen sich die ethischen Richtlinien für Museen von ICOM dem Thema der Standards bei der Objekterfassung: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>>, S. 15, Kapitel 2.20, Stand: 05.05.2025.
-
-     [↑](#footnote-ref-175)
+174. Die Befolgung von Standards zur Erschliessung ermöglicht die Nutzung und den Austausch von Daten über Institutionsgrenzen hinweg. Es gibt hilfreiche Handreichungen, die sich spezifisch an Museen/Sammlungen wenden: Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025. – ­Minimaldatensatz Empfehlung für Sammlungen und Museen: <<https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678>>, Stand: 09.04.2025. – Als Austauschformat für Museen und Sammlungen empfiehlt der ICOM Lido: < <https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido//>>, Stand: 09.04.2025 –Austauschformat Spectrum: <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025. –Ebenso widmen sich die ethischen Richtlinien für Museen von ICOM dem Thema der Standards bei der Objekterfassung: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>>, S. 15, Kapitel 2.20, Stand: 05.05.2025. [↑](#footnote-ref-175)
 175. Die Beispiele zeigen Auszüge aus Datenbanken, wie sie vor einer Bearbeitung aussehen. Die AG hat sich in der Ausarbeitung des Handbuchs intensiv mit den Fragen zu «Reproduktion» und «Zensur» auseinandergesetzt und diskutiert. Dabei haben wir gelernt, dass es sinnvoll und hilfreich ist, Dinge so konkret wie möglich zu benennen, wenn Detailfragen am Beispiel diskutiert werden sollen. Demnach wird auch der im Disclaimer erläuterte Umgang mit Sprache hier nicht durchgehend angewandt. [↑](#footnote-ref-176)
 176. Dieses Feld wurde speziell für die rassismuskritische Überarbeitung neu in der Datenbank implementiert. Die hier hinterlegten Begriffe weisen die internen wie externen Nutzer:innen des Datensatzes auf diffamierenden Sprachgebrauch, rassistische und diskriminierende Bildinhalte oder problematische Kontexte hin. [↑](#footnote-ref-177)
 177. o. A.: Die schwarze Baden-Schenkung, in: Chronik der Stadt Zürich, 1. Februar 1913, <<https://www.e-newspaperarchives.ch/?a=d&d=CSZ19130201-01.2.2>>, Stand: 28.08.2025. [↑](#footnote-ref-178)
