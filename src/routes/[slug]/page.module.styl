@@ -307,8 +307,8 @@
   padding-right calc(var(--padding) * 3)
   padding-left calc(clamp(var(--current-index-width), 100vw, var(--l)) + var(--padding) * 3)
   margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1 - var(--padding) * 2)
-  background-color var(--background-color-secondary)
-  color var(--color-secondary)
+  background-color var(--background-color-external)
+  color var(--color-external)
   width 100vw
   @media _mobile
     max-width 100vw
@@ -321,8 +321,8 @@
     color black
     width 100%
     margin 0
-  :global(.glossary)
-    color var(--color)
+  // :global(.glossary)
+  //   color var(--color)
   figure
     align-items: flex-start
     @media print

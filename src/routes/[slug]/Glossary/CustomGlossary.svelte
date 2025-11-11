@@ -6,7 +6,7 @@
 
   import glossaryData from "|/content/text/glossary.json"
   import XLg from "$lib/icones/x-lg.svelte"
-  // import { marked } from "marked"
+  import { marked as markdownOriginal } from "marked"
   import { markdown } from "$lib/markdownRenderer.js"
 
   const { content, id } = $props()
@@ -91,7 +91,7 @@
   onmouseleave={mouseLeave}
 >
   <div class={styles.content}>
-    {content}
+    {@html markdownOriginal.parseInline(content)}
   </div>
 </button>
 {#if showPopup}

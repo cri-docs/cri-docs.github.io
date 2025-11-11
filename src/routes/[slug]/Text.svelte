@@ -62,7 +62,7 @@
     return () => {
       headers.forEach((header) => observer.unobserve(header))
       observer.disconnect()
-      cleanupComponents
+      cleanupComponents()
     }
   })
 </script>

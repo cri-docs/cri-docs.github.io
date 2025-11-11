@@ -1,24 +1,47 @@
 <script>
   import { base } from "$app/paths"
-
   import { activeHeader, headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import aboutData from "|/content/text/about.json"
   import disclaimerData from "|/content/text/infobox.json"
-
   import { slugify } from "$lib/utils.js"
-
-  import styles from "./main.module.styl"
-
   import { page } from "$app/stores"
   import { goto, replaceState } from "$app/navigation"
   import { onMount } from "svelte"
-  import { marked } from "marked"
+  import { marked as markedOriginal } from "marked"
+  import { markdown, mountEmbeddedComponents } from "$lib/markdownRenderer.js"
   import BiChevronDoubleLeft from "$lib/icones/BiChevronDoubleLeft.svelte"
   import BiChevronLeft from "$lib/icones/BiChevronLeft.svelte"
   import { useResize } from "$lib/useResize"
+  import CustomFootnotes from "|/routes/[slug]/Footnotes/CustomFootnotes/CustomFootnotes.svelte"
+  import CustomGlossary from "|/routes/[slug]/Glossary/CustomGlossary.svelte"
+
+  import styles from "./main.module.styl"
 
   const { sites, activeSubPage, setSubPage } = $props()
   const { isMobile, isSmall } = useResize
+
+  const componentRegistry = {
+    CustomFootnotes: CustomFootnotes,
+    CustomGlossary: CustomGlossary,
+  }
+
+  const marked = markdown({})
+
+  const markDisclaimer = $derived.by(() => {
+    if (typeof window === "undefined") {
+      return undefined
+    } else {
+      return marked(disclaimerData?.infobox)
+    }
+  })
+
+  const markAbout = $derived.by(() => {
+    if (typeof window === "undefined") {
+      return undefined
+    } else {
+      return marked(aboutData?.about)
+    }
+  })
 
   const handleAnchorClick = ({ link }) => {
     event.preventDefault()
@@ -58,6 +81,12 @@
     }
   }
 
+  let cleanupComponents = () => {}
+
+  $effect(() => {
+    if (activeSubPage !== "index")
+      cleanupComponents = mountEmbeddedComponents(componentRegistry)
+  })
   onMount(() => {
     const sub = $page.url.searchParams.get("sub")
     if (sub) {
@@ -70,6 +99,9 @@
           })
         }, 10)
       }
+    }
+    return () => {
+      cleanupComponents()
     }
   })
 </script>
@@ -88,12 +120,6 @@
     {/if}
   </button>
   <nav class={styles.buttons}>
-    <!-- {#if $isMobile}
-      <button
-        class:active={activeSubPage === "welcome"}
-        onclick={() => setSubPage("welcome")}>Start</button
-      >
-    {/if} -->
     <button
       class:active={activeSubPage === "index"}
       onclick={() => setSubPage("index")}>Inhalt</button
@@ -109,11 +135,11 @@
   </nav>
   {#if activeSubPage === "disclaimer"}
     <div class={[styles.disclaimer, styles.otherSubContainer].join(" ")}>
-      {@html marked.parse(disclaimerData?.infobox)}
+      {@html markDisclaimer}
     </div>
   {:else if activeSubPage === "about"}
     <div class={[styles.imprint, styles.otherSubContainer].join(" ")}>
-      {@html marked.parse(aboutData.about)}
+      {@html markAbout}
     </div>
   {:else if activeSubPage === "index"}
     <nav class={styles.menuSubContainer}>
@@ -161,7 +187,7 @@
                           {site.fields.index + "." + (+i2 + 1)}
                         </div>
                       {/if}
-                      {@html marked.parseInline(
+                      {@html markedOriginal.parseInline(
                         item.title.replace(/^[^ ]* /, "")
                       )}
                     </a>

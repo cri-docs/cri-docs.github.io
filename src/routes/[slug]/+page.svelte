@@ -60,8 +60,6 @@
       }
     }
   })
-
-  console.log("page data:", $page.url.href)
 </script>
 
 <svelte:head>

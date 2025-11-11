@@ -95,6 +95,7 @@ export function markdown(pageInfo = {}) {
 export function mountEmbeddedComponents(componentRegistry) {
   const placeholders = document.querySelectorAll("[data-svelte-component]")
   const mountedComponents = []
+  console.log("Mounting embedded components:", placeholders.length)
   placeholders.forEach((placeholder) => {
     const componentName = placeholder.dataset.svelteComponent
     const Component = componentRegistry[componentName]
@@ -114,6 +115,9 @@ export function mountEmbeddedComponents(componentRegistry) {
           props,
         })
         mountedComponents.push(componentInstance)
+        
+        // Remove the data-svelte-component attribute after successful mount
+        placeholder.removeAttribute("data-svelte-component")
       } catch (error) {
         console.error(`Error mounting component ${componentName}:`, error)
         console.error("Props data:", placeholder.dataset.props)
