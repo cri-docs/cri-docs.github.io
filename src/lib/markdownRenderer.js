@@ -45,7 +45,7 @@ export function createMarkedRenderer(pageInfo) {
           content: text.replace("[", "").replace("]", ""),
           id: slugify(href.replace("#_", "").replaceAll("/", "_und_")),
         })
-        return `<span data-svelte-component="CustomGlossary" data-props='${props}' style="display: inline-block;"></span>`
+        return `<span data-svelte-component="CustomGlossary" data-props='${props}' class="glossarContainer"></span>`
       }
       const baseUrl = window.location.origin
       const isExternal = /^https?:\/\//.test(href) && !href.startsWith(baseUrl)

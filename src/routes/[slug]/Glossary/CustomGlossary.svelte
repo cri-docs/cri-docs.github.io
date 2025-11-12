@@ -90,9 +90,9 @@
   onmouseenter={mouseEnter}
   onmouseleave={mouseLeave}
 >
-  <div class={[styles.content, "content"].join(" ")}>
+  <span class={[styles.content, "content"].join(" ")}>
     {@html markdownOriginal.parseInline(content)}
-  </div>
+  </span>
 </button>
 {#if showPopup}
   <div
