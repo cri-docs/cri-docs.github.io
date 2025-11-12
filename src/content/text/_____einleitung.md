@@ -56,8 +56,4 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 * Europeana (Hg.): DE-BIAS – Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>>, Stand: 03.09.2025.  
 * National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025.  
 
-**Für Österreich:**  
-
-* Kulturpool, Wissen: Eine Annäherung zum verantwortungsvollen Umgang mit problematischen Inhalten, < <https://wissen.kulturpool.at/books/eine-annaherung-zum-verantwortungsvollen-umgang-mit-problematischen-inhalten>>, Stand:11.11.2025.  
-
 [[end:literature]]

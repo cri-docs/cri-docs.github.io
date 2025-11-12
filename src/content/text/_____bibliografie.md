@@ -100,8 +100,6 @@ Koller, Christian: Rassismus, Paderborn 2009.
 
 Kramm, Robert: Geschlecht und Sexualität, (Post)kolonialismus und Globalgeschichte, Bundeszentrale für politische Bildung, 20.05.2016, <<https://www.bpb.de/themen/kolonialismus-imperialismus/postkolonialismus-und-globalgeschichte/219143/geschlecht-und-sexualitaet/>>, Stand 26.02.2025.  
 
-Kulturpool, Wissen: Eine Annäherung zum verantwortungsvollen Umgang mit problematischen Inhalten, < <https://wissen.kulturpool.at/books/eine-annaherung-zum-verantwortungsvollen-umgang-mit-problematischen-inhalten>>, Stand:11.11.2025.  
-
 Mähr, Moritz; Schnegg, Noëlle: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten. Erfahrungen aus dem geschichtswissenschaftlichen Forschungsprojekt Stadt.Geschichte.Basel (E-Book), 2024, <<https://zenodo.org/records/11124720>/>, Stand: 20.05.2025.  
 
 MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg (Hg.): Auszug aus der Sammlungs-Datenbank des Museums am Rothenbaum Hamburg MARKK, <<https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf>>, Stand: 08.07.2025.  

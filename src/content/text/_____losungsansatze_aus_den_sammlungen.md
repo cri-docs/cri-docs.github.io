@@ -21,7 +21,7 @@ toc:
   - level: 2
     title: "10.7 12 kleinen N*lein"
   - level: 2
-    title: "10.8 Porträtserie"
+    title: "10.8 Portraitserie"
   - level: 2
     title: "10.9 Elektrische Reklame für eine Schuhcrème"
   - level: 2
@@ -49,27 +49,27 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** DEP 2443  
-**Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
-**Klassifikation:** Figurenuhr  
-**Datierung:** 1646  
-**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-**Schlagworte:** Personenwappen, Hans Rudolf Rahn  
-**Herstellung:** Augsburg  
+**Inventarnummer**: DEP 2443  
+**Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
+**Klassifikation**: Figurenuhr  
+**Datierung**: 1646  
+**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Schlagworte**: Personenwappen, Hans Rudolf Rahn  
+**Herstellung**: Augsburg  
 
 [[end:before]]
 
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** DEP 2443  
-**Bezeichnung:** Figurenautomat einer [Schwarzen](#_Schwarz/weiss) männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
-**Klassifikation:** Figurenuhr  
-**Datierung:** 1646  
-**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-**Schlagworte:** Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
-**Herstellung:** Augsburg  
-**Inhaltshinweis**[[176]](#footnote-177)**:** «Rassifizierung»  
+**Inventarnummer**: DEP 2443  
+**Bezeichnung**: Figurenautomat einer [Schwarzen](#_Schwarz/weiss) männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
+**Klassifikation**: Figurenuhr  
+**Datierung**: 1646  
+**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Schlagworte**: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+**Herstellung**: Augsburg  
+**Inhaltshinweis**[[176]](#footnote-177): «Rassifizierung»  
 
 [[end:after]]
 
@@ -171,8 +171,8 @@ Metadaten des überarbeiteten Datensatzes:
 **Klassifikation:** Stickvorlage  
 **Datierung:** Um 1900  
 **Inschrift:** «NEGER-STICK-BUCH [sic!]», Inschrift: «Alle Rechte vorbehalten», «Zum Schmuck für Serviertischdecken, Kaffeedecken und Überhandtücher können Muster gut dienen. Die einzelnen Figuren des Musters Nr. 1 lassen sich leicht zu Sternen für Mittelstücke zusammensetzen, oder auch verstreut z.B. in Scheibengardinen verarbeiten.»  
-**Schlagworte:** -  
-**Inhaltshinweis:** «Abwertende Sprache»  
+**Schlagworte**: -  
+**Inhaltshinweis**: «Abwertende Sprache»  
 [[end:after]]
 [[end:metadata]]
 
@@ -200,7 +200,7 @@ Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markie
 
 Für die Präsentation des [Objekts](#_Objekt) in der Sammlung Online nach der Überarbeitung wird in den Freischaltungsoptionen der einzelnen Datenbankfelder das Feld «Inschrift» abgewählt. Somit erscheint der rassistische Begriff «N\*» zukünftig nicht mehr online.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -219,7 +219,7 @@ Metadaten des unbereinigten Datensatzes:
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
 **Datierung:** 1900–1910  
-**Inschrift:** -  
+**Inschrift: -**  
 [[end:before]]
 
 [[start:after]]
@@ -231,7 +231,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
 **Datierung:** 1900–1910  
 **Inschrift:** «Der Schwarze Peter»  
-**Schlagworte:** -  
+**Schlagworte: -**  
 **Inhaltshinweis:** «Rassismus» und «abwertende Sprache»  
 
 [[end:after]]
@@ -258,7 +258,7 @@ Eine neue Klassifikation wird zugewiesen: Spiele und Spielzeug, Spielkarten (Kar
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache» markiert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -315,7 +315,7 @@ Die Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeiche
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «[Schwarze](#_Schwarz/weiss) Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -415,7 +415,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 
 [[end:block]]
 
-## 10.8 **Porträtserie**  
+## 10.8 **Portraitserie**  
 
 
 ![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  
@@ -464,7 +464,7 @@ Auf bildinhaltlicher Ebene zeigen sich hier einige Mechanismen, die auf einen ti
 
 Die erste, am eindeutigsten als rassistisch identifizierbare Komponente ist zunächst der oben rechts als Inschrift vermerkte Bildserien-Titel «Trudi als N\* 1933». Der Begriff des «N\*» ist in seiner Geschichte eng mit dem Aufkommen von Sklavenhandel und Rassentheorien im 18. Jh. verknüpft und kann nicht von dieser gewaltvollen Geschichte entkoppelt werden. Er beinhaltet immer auch eine Vielzahl von rassistischen und eurozentrischen Stereotypen und muss vermieden werden.[[196]](#footnote-197)  
 
-Des Weiteren wird die Praktik des «Blackfacings»(deutsch *sich das Gesicht schwärzen*) als rassistische Nachahmung eingestuft, da sie die diskriminierende Erfahrung von [Schwarzen](#_Schwarz/weiss) Menschen untergräbt, während die Belustigung [*weisser*](#_Schwarz/weiss) Menschen im Vordergrund steht.[[197]](#footnote-198)  
+Des Weiteren wird die Praktik des «Blackfacings»(deutsch «*sich das Gesicht schwärzen»*) als rassistische Nachahmung eingestuft, da sie die diskriminierende Erfahrung von [Schwarzen](#_Schwarz/weiss) Menschen untergräbt, während die Belustigung [*weisser*](#_Schwarz/weiss) Menschen im Vordergrund steht.[[197]](#footnote-198)  
 
 Die dritte Komponente ist die rassistische Bildtradition, an die sich das [Objekt](#_Objekt) anlehnt. Obschon Matter keine rassentheoretische Kartei anlegte, so erinnert die Anordnung verschiedener Köpfe zu einer Kartei doch an frühe Zusammenstellungen von Porträts einer an rassistischen Theorien arbeitenden frühen Völkerkunde.  
 
@@ -568,9 +568,9 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Kontext**  
 
-Dieses [Objekt](#_Objekt) gehört zu einer sechsteiligen Serie ähnlicher Zierfiguren, die mit dem Titel «Neger» in der Datenbank des SNMs aufzufinden ist. Allen gemeinsam ist eine stark stereotypisierte und [exotisierte](#_Exotismus/exotisierend) Darstellung der [Schwarzen](#_Schwarz/weiss) Männer und Frauen. Wann die Gegenstände in die Sammlung gekommen sind und wer der:die Hersteller:in war, konnte nicht herausgefunden werden. Das vorliegende Beispiel wird zum Zentrum genauerer Betrachtungen, da es deutlich macht, wie Rassismus, Sexismus und [Exotismus](#_Exotismus/exotisierend) auf bildsprachlicher ikonografischer Ebene ineinandergreifen können: Wir sehen die Figur einer [Schwarzen](#_Schwarz/weiss) Frau. Sie posiert mit entblösstem Oberkörper sitzend und hält ihren Kopf mit den Händen. Sie trägt zwei blaue Tücher. Eines als Kopftuch, das andere ist um ihre Hüfte gebunden. Markant hervorgehoben ist der grosse Goldschmuck um das Handgelenk und den Hals sowie die runden Ohrringe. Auf ikonografischer Ebene spielen hier verschiedene Arten des kolonialen Rassismus hinein. Die Kontrastierung zwischen dem schwarzen Inkarnat und den beigefügten Attributen wie Nacktheit resp. Freizügigkeit und Goldschmuck zeigt eine klar [exotisierte](#_Exotismus/exotisierend) Bildsprache auf. Verstärkt wird diese stereotype Abbildung zudem durch die Elemente von Sexualisierung und [Exotisierung](#_Exotismus/exotisierend). In diesem Zusammenhang wird dem Geschlecht eine entscheidende Gewichtung gegeben. Die Figur verbildlicht die koloniale, männlich dominierte und klischierte Vorstellung einer abwesenden Sexualmoral in kolonisierten Gebieten. Diese Vorstellung machte den kolonisierten weiblichen Körper zur Projektionsfläche sexualisierter Fantasien. Diese führten in bezeichnendem Ausmass auch zu sexuellen Gewaltexzessen [*weisser*](#_Schwarz/weiss)Männer gegenüber [Schwarzen](#_Schwarz/weiss) und versklavten Frauen und Mädchen.[[199]](#footnote-200)  
+Dieses [Objekt](#_Objekt) gehört zu einer sechsteiligen Serie ähnlicher Zierfiguren, die mit dem Titel «Neger» in der Datenbank des SNMs aufzufinden ist. Allen gemeinsam ist eine stark stereotypisierte und [exotisierte](#_Exotismus/exotisierend) Darstellung der [Schwarzen](#_Schwarz/weiss) Männer und Frauen. Wann die Gegenstände in die Sammlung gekommen sind und wer der:die Hersteller:in war, konnte nicht herausgefunden werden. Das vorliegende Beispiel wird zum Zentrum genauerer Betrachtungen, da es deutlich macht, wie Rassismus, Sexismus und [Exotismus](#_Exotismus/exotisierend) auf bildsprachlicher ikonografischer Ebene ineinandergreifen können: Wir sehen die Figur einer [Schwarzen](#_Schwarz/weiss) Frau. Sie posiert mit entblösstem Oberkörper sitzend und hält ihren Kopf mit den Händen. Sie trägt zwei blaue Tücher. Eines als Kopftuch, das andere ist um ihre Hüfte gebunden. Markant hervorgehoben ist der grosse Goldschmuck um das Handgelenk und den Hals sowie die runden Ohrringe. Auf ikonografischer Ebene spielen hier verschiedene Arten des kolonialen Rassismus hinein. Die Kontrastierung zwischen dem schwarzen Inkarnat und den beigefügten Attributen wie Nacktheit resp. Freizügigkeit und Goldschmuck zeigt eine klar [exotisierte](#_Exotismus/exotisierend) Bildsprache auf. Verstärkt wird diese stereotype Abbildung zudem durch die Elemente von Sexualisierung und [Exotisierung](#_Exotismus/exotisierend). In diesem Zusammenhang wird dem Geschlecht eine entscheidende Gewichtung gegeben. Die Figur verbildlicht die koloniale, männlich dominierte und klischierte Vorstellung einer abwesenden Sexualmoral in kolonisierten Gebieten. Diese Vorstellung machte den kolonisierten weiblichen Körper zur Projektionsfläche sexualisierter Fantasien. Diese führten in bezeichnendem Ausmass auch zu sexuellen Gewaltexzessen *weisser* Männer gegenüber [Schwarzen](#_Schwarz/weiss) und versklavten Frauen und Mädchen.[[199]](#footnote-200)  
 
-Auf Ebene der Sprache werden kolonial-rassistische Terminologien reproduziert. Der Nippes wird in der Objektbezeichnung als «N\*» eingeführt. Da das Beispiel aus einer Objektgruppe stammt, die unter dem «N\*»-Begriff geführt wird, bleibt bei diesem Beispiel unklar, ob es sich hier um einen Objekttitel, unter dem die ganze Figurengruppe zu einem früheren Zeitpunkt vermarktet wurde, handelt oder ob sich diese Terminologie museumsintern als Bezeichnung durchsetzte. Beide Optionen ändern nichts an der Tatsache, dass sich dieser Begriff erst durch das Etablieren rassentheoretischer Ideologien festigen konnte. Er verweist auf die damit in Verbindung stehenden eurozentrischen Stereotypen[[200]](#footnote-201), aber nicht nur: Sowohl in der deutschen als auch in der englischen Sprache hat das Wort «Neger/Negro» die etymologische Ausgangsbedeutung «Schwarzer» und ist ein Lehnwort aus dem französischen *nègre*, das vom spanischen *negro*, der Nachfolgeform des lateinischen *niger* (deutsch *schwarz*), abgeleitet ist. Diese Farbbezeichnung erlaubte in der christlichen Farbsymbolik die Konstruktion, die [Exotisierung](#_Exotismus/exotisierend) (und teilweise Dämonisierung) des Anderen. Während des [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) und im Zuge biologistischer Konstrukte wurde der Begriff zum rassifizierenden Konzept, das zur Etablierung von «Rassen» führte.[[201]](#footnote-202) Der N-Begriff verweist damit nicht nur auf eurozentrische Stereotypen, sondern letztlich auch auf einen linguistischen Eurozentrismus. Der Begriff erfährt in seiner Geschichte kaum Annäherungen an [Selbstbezeichnungen](#_Selbstbezeichnung_und_Fremdzuschrei), eher im Gegenteil: Seine rassistische Inhärenz wird teilweise durch das Argument, dass er in anderen Sprachen (Spanisch, Italienisch, Portugiesisch) nicht rassistisch ist, weil es eben «einfach nur ‹schwarz›» bedeutet, untergraben.  
+Auf Ebene der Sprache werden kolonial-rassistische Terminologien reproduziert. Der Nippes wird in der Objektbezeichnung als «N\*» eingeführt. Da das Beispiel aus einer Objektgruppe stammt, die unter dem «N\*»-Begriff geführt wird, bleibt bei diesem Beispiel unklar, ob es sich hier um einen Objekttitel, unter dem die ganze Figurengruppe zu einem früheren Zeitpunkt vermarktet wurde, handelt oder ob sich diese Terminologie museumsintern als Bezeichnung durchsetzte. Beide Optionen ändern nichts an der Tatsache, dass sich dieser Begriff erst durch das Etablieren rassentheoretischer Ideologien festigen konnte. Er verweist auf die damit in Verbindung stehenden eurozentrischen Stereotypen[[200]](#footnote-201), aber nicht nur: Sowohl in der deutschen als auch in der englischen Sprache hat das Wort «Neger/Negro» die etymologische Ausgangsbedeutung «Schwarzer» und ist ein Lehnwort aus dem französischen *nègre*, das vom spanischen *negro*, der Nachfolgeform des lateinischen *niger* (= deutsch *schwarz*), abgeleitet ist. Diese Farbbezeichnung erlaubte in der christlichen Farbsymbolik die Konstruktion, die [Exotisierung](#_Exotismus/exotisierend) (und teilweise Dämonisierung) des Anderen. Während des [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) und im Zuge biologistischer Konstrukte wurde der Begriff zum rassifizierenden Konzept, das zur Etablierung von «Rassen» führte.[[201]](#footnote-202) Der N-Begriff verweist damit nicht nur auf eurozentrische Stereotypen, sondern letztlich auch auf einen linguistischen Eurozentrismus. Der Begriff erfährt in seiner Geschichte kaum Annäherungen an [Selbstbezeichnungen](#_Selbstbezeichnung_und_Fremdzuschrei), eher im Gegenteil: Seine rassistische Inhärenz wird teilweise durch das Argument, dass er in anderen Sprachen (Spanisch, Italienisch, Portugiesisch) nicht rassistisch ist, weil es eben «einfach nur ‹schwarz›» bedeutet, untergraben.  
 
 [[start:block]]
 
@@ -582,14 +582,14 @@ Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshisto
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Schlagworten «[Exotisierung](#_Exotismus/exotisierend)», «Stereotyp», «[Schwarze](#_Schwarz/weiss) Person» klassifiziert und der Kontext zum [Objekt](#_Objekt) im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
 ## 10.11 **Missionsn\*li**  
 
 
-![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM 69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
+![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -597,7 +597,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell 
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM 69377.1-2  
+**Inventarnummer:** LM-69377.1-2  
 **Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
 **Datierung:** 1940–1960  
@@ -609,7 +609,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM 69377.1-2  
+**Inventarnummer:** LM-69377.1-2  
 **Bezeichnung:** Knieender Mann in weissem Gewand, stereotypisierte [Schwarze](#_Schwarz/weiss) Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock  
 **Datierung:** 1940–1960  
@@ -637,7 +637,7 @@ Die rassistische Klassifikation des [Objekts](#_Objekt) wird in der Änderungshi
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus, abwertende Sprache» markiert. Zudem werden die Schlagworte «Mission», «Koloniale Verflechtung» hinzugefügt und der Kontext zum [Objekt](#_Objekt) wird in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -652,14 +652,13 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell 
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** 1982.03.023  
-**Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
+**Inventarnummer: 1982.03.023  
+Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 **Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)  
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung  
 **Gattung:** -  
 **Datierung:** 1965  
-**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier  
-**Person/Körperschaft (Autor:in):** Annemarie Meier  
+**Schlagworte:** Kind, Knabe, Mädchen, Lachen, Baum, Auto, Haus, Quartier **Person/Körperschaft (Autor:in):** Annemarie Meier  
 **Objekt Status:** Online  
 
 [[end:before]]
@@ -668,7 +667,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** 1982.03.023  
+**Inventarnummer: 1982.03.023**  
 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 **Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)  
 **Sensibler Serientitel Bemerkung:** Amerika Neger  
@@ -686,7 +685,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Kontext**  
 
 Die Fotografin Annemarie Meier reiste in den 1960er Jahren in die USA, wo sie neben ihrer Tätigkeit als Skilehrerin an einer Reportage über die afroamerikanische Mittelschicht arbeitete.[[203]](#footnote-204) Ihre Bilder zeugen von einer fast ethnografischen Nähe und sind lebhafte Zeitdokumente einer von Rassismus und Segregation geprägten Gesellschaft. Meiers Fotografie scheint auf Augenhöhe aufgenommen worden zu sein und versuchte eine Innenperspektive zu zeigen.  
-Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](Rassifizierte_Communities#_) durchschimmern lassen.  
+Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](#_«Rassifizierte_Communities») durchschimmern lassen.  
 
 [[start:block]]
 
