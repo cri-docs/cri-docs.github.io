@@ -74,19 +74,6 @@
   onMount(() => {
     markedCaption = marked.parseInline(infoData?.captionLanding || "")
   })
-  // const markedCaption = marked.parse(infoData?.captionLanding || "")
-
-  // $effect(() => {
-  //   if ($page.url.searchParams.get("print")) {
-  //     window.open("http://" + $page.url.host + "/print.pdf", "_blank")
-  //     goto($page.url.pathname, {
-  //       replaceState: true,
-  //       keepfocus: true,
-  //       noscroll: true,
-  //     })
-  //   }
-  // })
-  // console.log("layout rendered", markedCaption)
 </script>
 
 <div

@@ -41,7 +41,6 @@ export function createMarkedRenderer(pageInfo) {
         return `<span data-svelte-component="CustomFootnotes" data-props='${props}'></span>`
       }
       if (isGlossary) {
-        console.log("Creating glossary link for:", text, href)
         const props = JSON.stringify({
           content: text.replace("[", "").replace("]", ""),
           id: slugify(href.replace("#_", "").replaceAll("/", "_und_")),
@@ -96,7 +95,6 @@ export function markdown(pageInfo = {}) {
 export function mountEmbeddedComponents(componentRegistry) {
   const placeholders = document.querySelectorAll("[data-svelte-component]")
   const mountedComponents = []
-  console.log("Mounting embedded components:", placeholders.length)
   placeholders.forEach((placeholder) => {
     const componentName = placeholder.dataset.svelteComponent
     const Component = componentRegistry[componentName]

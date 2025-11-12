@@ -112,7 +112,6 @@
   {/if}
   <div class={printStyles.footnotes}>
     <h2 class={printStyles.title}>Fussnoten</h2>
-    {console.log(footnotes)}
     {#each Object.keys(footnotes) as key}
       <div class={printStyles.footnote}>
         <span class={printStyles.number}>{key}</span>

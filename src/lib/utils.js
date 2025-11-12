@@ -7,7 +7,6 @@
 
 
  export const slugify = (str) => {
-  console.log("slugify called with:", str)
   return String(str)
     .replace(/\s+/g, '_') // replace spaces with underscores
     .trim() // trim leading or trailing whitespace

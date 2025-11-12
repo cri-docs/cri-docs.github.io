@@ -63,7 +63,6 @@
   }
 
   const navigate = (e) => {
-    console.log("Navigating to:", $isMobile || $isSmall, headerIsOpen)
     if ($isMobile || $isSmall) {
       if ($headerIsOpen) headerIsOpen.set(false)
       if ($menuIsOpen) menuIsOpen.set(false)
