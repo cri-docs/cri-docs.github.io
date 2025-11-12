@@ -299,17 +299,21 @@
 
 
 :global(.external)
+  --color-secondary var(--color-secondary-external)
   font-family var(--font-external)
   font-weight 400
-  font-size 0.85em
+  font-size 0.88em
   line-height 1.35
   padding calc(var(--padding) * 2)
   padding-right calc(var(--padding) * 3)
   padding-left calc(clamp(var(--current-index-width), 100vw, var(--l)) + var(--padding) * 3)
-  margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1 - var(--padding) * 2)
+  margin-left calc(clamp(var(--current-index-width), 100vw, var(--l))*-1 - var(--padding) * 1)
   background-color var(--background-color-external)
   color var(--color-external)
   width 100vw
+  @media _small
+    padding-left calc(var(--l) + var(--padding) * 3)
+    margin-left calc(var(--l) * -1 - var(--padding) * 1)
   @media _mobile
     max-width 100vw
     padding var(--padding)
@@ -343,6 +347,8 @@
 :global(.bib)
   padding-left 2ch
   text-indent -2ch
+  a
+    word-break break-all
 
 :global(.inline)
   display inline

@@ -1,6 +1,6 @@
 import { marked } from "marked"
 import { mount, unmount } from "svelte"
-import { slugify } from "./utils"
+import { slugify }from "./utils"
 
 export function createMarkedRenderer(pageInfo) {
   const renderer = {
@@ -41,11 +41,12 @@ export function createMarkedRenderer(pageInfo) {
         return `<span data-svelte-component="CustomFootnotes" data-props='${props}'></span>`
       }
       if (isGlossary) {
+        console.log("Creating glossary link for:", text, href)
         const props = JSON.stringify({
           content: text.replace("[", "").replace("]", ""),
-          id: href.replace("#_", "").toLowerCase(),
+          id: slugify(href.replace("#_", "").replaceAll("/", "_und_")),
         })
-        return `<span data-svelte-component="CustomGlossary" data-props='${props}'></span>`
+        return `<span data-svelte-component="CustomGlossary" data-props='${props}' style="display: inline-block;"></span>`
       }
       const baseUrl = window.location.origin
       const isExternal = /^https?:\/\//.test(href) && !href.startsWith(baseUrl)

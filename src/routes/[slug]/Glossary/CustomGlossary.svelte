@@ -28,10 +28,10 @@
   const _id = id.toLowerCase()
 
   const glossaryTerm = $derived.by(() => {
-    _id?.replace("/", "_und_")?.split("_")
+    _id?.split("_")
     const termMatches = Object.keys(glossaryData)?.filter((term) => {
       const termParts = term.split("_")
-      const idParts = _id?.replace("/", "_und_")?.split("_") || []
+      const idParts = _id?.split("_") || []
       const matches = termParts.filter((part) => idParts.includes(part))
       const matchingThreshold = Math.max(1, Math.floor(idParts.length - 1))
       if (matches.length >= matchingThreshold) return term
