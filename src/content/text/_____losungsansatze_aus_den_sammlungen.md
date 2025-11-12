@@ -178,7 +178,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Kontext**  
 
-Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen [Schwarzen](#_Schwarz/weiss) Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung unten). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
+Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen [Schwarzen](#_Schwarz/weiss) Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (Abbildung unten). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
 ![alt:Zwei ovale, blau-weiße Garnetiketten mit Schriftzügen und Zierornamenten. Beide tragen Produktnamen und dekorative Rahmen., extra:Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)](/images/image025.jpg)  
@@ -200,7 +200,7 @@ Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markie
 
 Für die Präsentation des [Objekts](#_Objekt) in der Sammlung Online nach der Überarbeitung wird in den Freischaltungsoptionen der einzelnen Datenbankfelder das Feld «Inschrift» abgewählt. Somit erscheint der rassistische Begriff «N\*» zukünftig nicht mehr online.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -258,7 +258,7 @@ Eine neue Klassifikation wird zugewiesen: Spiele und Spielzeug, Spielkarten (Kar
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache» markiert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -315,7 +315,7 @@ Die Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeiche
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «[Schwarze](#_Schwarz/weiss) Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -582,7 +582,7 @@ Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshisto
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Schlagworten «[Exotisierung](#_Exotismus/exotisierend)», «Stereotyp», «[Schwarze](#_Schwarz/weiss) Person» klassifiziert und der Kontext zum [Objekt](#_Objekt) im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -637,7 +637,7 @@ Die rassistische Klassifikation des [Objekts](#_Objekt) wird in der Änderungshi
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus, abwertende Sprache» markiert. Zudem werden die Schlagworte «Mission», «Koloniale Verflechtung» hinzugefügt und der Kontext zum [Objekt](#_Objekt) wird in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 

@@ -695,7 +695,7 @@ Madeleine, die von Geburt an auf der französischen Kolonie Guadeloupe versklavt
 
 Das Überwinden kolonialer Gedanken und Termini in kulturellen Institutionen erfordert ein aktives Bemühen um Teilhabe. Inklusion kann erst dann funktionieren, wenn Datenbanken, Texte und Konzepte von [indigenen](#_Indigen) Epistemologien ausgedacht und übersetzt werden. Während der Ausstellung «Exotic?» (Palais de Rumine, Lausanne, 09.2020 – 02.2021)[[106]](#footnote-107), kuratiert von Noémie Etienne, Chonja Lee und Claire Brizon, lud letztere den neukaledonischen Dichter und Künstler Denis Pourawa ein, um ein [Objekt](#_Objekt) aus der Sammlung zu betrachten. Besagtes Artefakt stammt aus der Pazifikregion und erreichte Ende des 18. Jahrhunderts Europa, wo ihm von seinem protestantischen Besitzer der Titel «Monstranz Beil» gegeben wurde.[[107]](#footnote-108) Diese Nennung wurde in der Museumsdokumentation konsequent verwendet (Inventar, Ausstellungen etc.). Die Bezeichnung ist allerdings eine Erfindung, die zutiefst in den kolonialen Vorstellungen des ‹Anderen/Fremden› verankert ist. Sie deutet auf Gewalt (das Beil) und auf nicht-protestantische rituelle Praktiken (die katholische Monstranz) hin. Die Anspielung auf Kannibalismus, die durch das Wort «Beil» impliziert wird, ist reine Fiktion. Bei genauerem Betrachten wird nämlich klar, dass das [Objekt](#_Objekt) nichts schneiden könnte, erst recht keinen menschlichen Körper. Für den protestantischen Besitzer dieses [Objekts](#_Objekt) war die Assoziation zum Katholizismus wahrscheinlich ein Versuch, zwei nicht-protestantische Glaubenswelten miteinander zu verbinden: die ferne [indigene](#_Indigen) und die gegenwärtige katholische.  
 
-Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vor. Der Begriff kommt aus der *Xârâcùù* Sprache, einer von achtundzwanzig Sprachen in Neukaledonien. Zudem ordnete er das [Objekt](#_Objekt) neu als Symbol des Hauptredners einer Zeremonie ein.[[108]](#footnote-109) Dank dieser neuen Bedeutungsebene veränderte sich auch die Präsentationsform des [Objekts](#_Objekt). Wurde es ursprünglich stets horizontal ausgestellt, wird es nun vertikal gezeigt. In dieser Präsentationform erinnert es noch weniger an eine Monstranz. Der Austausch mit Denis Pourawa veränderte die Art und Weise wie das [Objekt](#_Objekt) benannt, dokumentiert und gezeigt wird (Abb. 1). Auch im Humboldt Forum, wo sich ein ähnliches [Objekt](#_Objekt) befindet, wurde diese Darstellungs- und Präsentationsform übernommen. Dies sind nur zwei Beispiele einer angepassten Objektdokumentation, doch finden sich in vielen europäischen Sammlungen noch immer [Objekte](#_Objekt) mit dem erfundenen Namen.  
+Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vor. Der Begriff kommt aus der *Xârâcùù* Sprache, einer von achtundzwanzig Sprachen in Neukaledonien. Zudem ordnete er das [Objekt](#_Objekt) neu als Symbol des Hauptredners einer Zeremonie ein.[[108]](#footnote-109) Dank dieser neuen Bedeutungsebene veränderte sich auch die Präsentationsform des [Objekts](#_Objekt). Wurde es ursprünglich stets horizontal ausgestellt, wird es nun vertikal gezeigt. In dieser Präsentationform erinnert es noch weniger an eine Monstranz. Der Austausch mit Denis Pourawa veränderte die Art und Weise wie das [Objekt](#_Objekt) benannt, dokumentiert und gezeigt wird (Abbildung unten). Auch im Humboldt Forum, wo sich ein ähnliches [Objekt](#_Objekt) befindet, wurde diese Darstellungs- und Präsentationsform übernommen. Dies sind nur zwei Beispiele einer angepassten Objektdokumentation, doch finden sich in vielen europäischen Sammlungen noch immer [Objekte](#_Objekt) mit dem erfundenen Namen.  
 
 
 ![alt:Kunstobjekt das aussieht wie ein kleiner Baum mit einer runden, grünen Krone und freigelegten Wurzeln., extra:Abbildung 6: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet](/images/image007.jpg)  
@@ -1427,7 +1427,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Kontext**  
 
-Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen [Schwarzen](#_Schwarz/weiss) Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung unten). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
+Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen [Schwarzen](#_Schwarz/weiss) Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (Abbildung unten). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
 ![alt:Zwei ovale, blau-weiße Garnetiketten mit Schriftzügen und Zierornamenten. Beide tragen Produktnamen und dekorative Rahmen., extra:Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)](/images/image025.jpg)  
@@ -1449,7 +1449,7 @@ Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markie
 
 Für die Präsentation des [Objekts](#_Objekt) in der Sammlung Online nach der Überarbeitung wird in den Freischaltungsoptionen der einzelnen Datenbankfelder das Feld «Inschrift» abgewählt. Somit erscheint der rassistische Begriff «N\*» zukünftig nicht mehr online.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -1507,7 +1507,7 @@ Eine neue Klassifikation wird zugewiesen: Spiele und Spielzeug, Spielkarten (Kar
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache» markiert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -1564,7 +1564,7 @@ Die Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeiche
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «[Schwarze](#_Schwarz/weiss) Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -1831,7 +1831,7 @@ Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshisto
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Schlagworten «[Exotisierung](#_Exotismus/exotisierend)», «Stereotyp», «[Schwarze](#_Schwarz/weiss) Person» klassifiziert und der Kontext zum [Objekt](#_Objekt) im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -1886,7 +1886,7 @@ Die rassistische Klassifikation des [Objekts](#_Objekt) wird in der Änderungshi
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus, abwertende Sprache» markiert. Zudem werden die Schlagworte «Mission», «Koloniale Verflechtung» hinzugefügt und der Kontext zum [Objekt](#_Objekt) wird in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -2311,17 +2311,28 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 Version 1.0, November 2025  
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) <img class="inline" alt="icon for the Copyright CC BY 4.0." src="/images/ccby.svg"/>  
 
-**Mitwirkende Institutionen:**  
-[Bernisches Historisches Museum](https://www.bhm.ch/de)  
-[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich  
-[Historisches Museum Basel](https://www.hmb.ch/)  
-[Kunsthaus Zürich](https://www.kunsthaus.ch/)  
-[Museum für Kommunikation](https://www.mfk.ch/), Bern  
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/)  
-[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de)  
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/)  
+**Mitwirkende:**  
+[Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
 
-**Kontakt:** info@criticalGLAM.ch  
+[ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
+
+[Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
+
+[Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
+
+[Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
+
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
+
+[Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug  
+
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
+
+**Kontakt:**  
+
+info@criticalGLAM.ch  
+Konradstrasse 14  
+CH-8005 Zürich  
 
 **Konzept- und Projektbegleitung:**  
 [Danielle Isler](https://www.danielle-isler.com/)  
@@ -2342,47 +2353,26 @@ Siehe Angaben in den Bildlegenden.
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
 Heidi Amrein  
-
 Mariama de Brito Henn  
-
 Heidi Brunner  
-
 Madleina Deplazes  
-
 Michael Gasser  
-
 Erika Hebeisen  
-
 Sabina Horber  
-
 Juri Jaquement  
-
 Annette Kniep  
-
 Jonas Lendenmann  
-
 Stefanie Löpfe  
-
 Christine Müller Stalder  
-
 Isabelle Münzner  
-
 Severin Rüegg  
-
 Ruby Satele Asiata  
-
 Johannes Sauter  
-
 Mira Shah  
-
 Reto Thüring  
-
 Denise Tonella  
-
 Marilyn Umurungi  
-
 Laura Walde  
-
 Balthasar Zimmermann  
 
 Den Geschäftsleitungen der beteiligten Institutionen.  
