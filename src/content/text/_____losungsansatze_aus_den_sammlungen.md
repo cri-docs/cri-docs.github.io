@@ -21,7 +21,7 @@ toc:
   - level: 2
     title: "10.7 12 kleinen N*lein"
   - level: 2
-    title: "10.8 Portraitserie"
+    title: "10.8 Porträitserie"
   - level: 2
     title: "10.9 Elektrische Reklame für eine Schuhcrème"
   - level: 2
@@ -49,27 +49,27 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 [[start:before]]
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer**: DEP 2443  
-**Bezeichnung**: Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
-**Klassifikation**: Figurenuhr  
-**Datierung**: 1646  
-**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-**Schlagworte**: Personenwappen, Hans Rudolf Rahn  
-**Herstellung**: Augsburg  
+**Inventarnummer:** DEP 2443  
+**Bezeichnung:** Mohrenautomat, Auf Postament stehender Mohr, auf der Brust ein Zifferblatt, Schild in der Hand  
+**Klassifikation:** Figurenuhr  
+**Datierung:** 1646  
+**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Schlagworte:** Personenwappen, Hans Rudolf Rahn  
+**Herstellung:** Augsburg  
 
 [[end:before]]
 
 [[start:after]]
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer**: DEP 2443  
-**Bezeichnung**: Figurenautomat einer [Schwarzen](#_Schwarz/weiss) männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
-**Klassifikation**: Figurenuhr  
-**Datierung**: 1646  
-**Inschrift**: «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
-**Schlagworte**: Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
-**Herstellung**: Augsburg  
-**Inhaltshinweis**[[176]](#footnote-177): «Rassifizierung»  
+**Inventarnummer:** DEP 2443  
+**Bezeichnung:** Figurenautomat einer [Schwarzen](#_Schwarz/weiss) männlichen Figur nach dem Stereotyp «Mohr». Die Figur ist rassifizierend und [exotisierend](#_Exotismus/exotisierend) dargestellt.  
+**Klassifikation:** Figurenuhr  
+**Datierung:** 1646  
+**Inschrift:** «Herr Hans Rudolff Raan, Bürgermeister, 1646»  
+**Schlagworte:** Personenwappen, Hans Rudolf Rahn, Mohr «Heraldik»  
+**Herstellung:** Augsburg  
+**Inhaltshinweis**[[176]](#footnote-177)**:** «Rassifizierung»  
 
 [[end:after]]
 
@@ -178,7 +178,7 @@ Metadaten des überarbeiteten Datensatzes:
 
 **Kontext**  
 
-Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen [Schwarzen](#_Schwarz/weiss) Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (siehe Abbildung unten). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
+Bei diesem [Objekt](#_Objekt) handelt es sich um eine Seite aus einer Stickmustersammlung. Dieses wurde bei einer Stichwortsuche mit dem «N-Wort» in der Datenbank gefunden. Da aus dem Datensatz keine Rückschlüsse gezogen werden konnten, wie das Blatt zu seinem Titel gekommen ist, wurden intern Recherchen dazu in Gange gesetzt, die das Ziel hatten, Aufschluss über den Ursprung der Namensgebung zu geben. Dabei stellte sich heraus, dass das «N\*-Stickmusterbuch» vermutlich von der Garn-Firma Gebr. Wolf, Neukirchen-Pleisse (Sachsen) herausgegeben wurde. Diese Firma produzierte das sogenannte «N\*-Garn» von 1901–1950. Zu DDR-Zeiten wurde die Fabrik Teil der Vereinigte Baumwollspinnereien und Zwirnereien (VEB). Offensichtlich gab es mehrere Ausgaben des Stickmusterbuches. Das Museum für Sächsische Volkskunst besitzt ebenfalls ein Exemplar. Es geht um eine Marke, die als Werbebild einen [Schwarzen](#_Schwarz/weiss) Mann nimmt, um die Farbqualität des Stickgarns zu bewerben (Abbildung unten). Mit den Mustern auf der Stickvorlage hat es wahrscheinlich nichts zu tun. Die Hefte wurden als Werbung zusammen mit dem Garn bei Rudolph Gerstäcker Leipzig verlegt.  
 
 
 ![alt:Zwei ovale, blau-weiße Garnetiketten mit Schriftzügen und Zierornamenten. Beide tragen Produktnamen und dekorative Rahmen., extra:Abbildung 26: Eine Garnkarte der Firma Gebr. Wolf aus Neukirch/Pleisse (Sachsen), vermutlich vor 1960 für 5 gr Garn der Marke Neger-Garn; Originalgröße (HxB): 9 x 5,5 cm. ©Wikimedia Commons, [Wribln](https://commons.wikimedia.org/wiki/User%3AWribln), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)](/images/image025.jpg)  
@@ -200,7 +200,7 @@ Das [Objekt](#_Objekt) wird mit dem Inhaltshinweis «Abwertende Sprache» markie
 
 Für die Präsentation des [Objekts](#_Objekt) in der Sammlung Online nach der Überarbeitung wird in den Freischaltungsoptionen der einzelnen Datenbankfelder das Feld «Inschrift» abgewählt. Somit erscheint der rassistische Begriff «N\*» zukünftig nicht mehr online.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -219,7 +219,7 @@ Metadaten des unbereinigten Datensatzes:
 **Bezeichnung:** Kartenspiel bestehend aus 37 Karten mit bunten Lithographien geschmückt  
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel), Schwarzer Peter  
 **Datierung:** 1900–1910  
-**Inschrift: -**  
+**Inschrift:** -  
 [[end:before]]
 
 [[start:after]]
@@ -231,7 +231,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Klassifikation:** Spiele und Spielzeug, Spielkarten (Karten Spiel)  
 **Datierung:** 1900–1910  
 **Inschrift:** «Der Schwarze Peter»  
-**Schlagworte: -**  
+**Schlagworte:** -  
 **Inhaltshinweis:** «Rassismus» und «abwertende Sprache»  
 
 [[end:after]]
@@ -258,7 +258,7 @@ Eine neue Klassifikation wird zugewiesen: Spiele und Spielzeug, Spielkarten (Kar
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache» markiert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -277,7 +277,7 @@ Metadaten des unbereinigten Datensatzes:
 **Bezeichnung:** Flandor. Dessert-Crème-Pudding  
 **Klassifikation:** Plakat  
 **Datierung:** 1900–1910  
-**Inschrift: -**  
+**Inschrift:** -  
 **Schlagworte:** «Werbegrafik»  
 **Herstellung:**  
 
@@ -315,7 +315,7 @@ Die Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshistorie gespeiche
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Rassismus» markiert. Zudem wird das Schlagwort «[Schwarze](#_Schwarz/weiss) Person» und «[Kolonialismus](#_Kolonialismus_und_Kolonialisierung)» hinzugefügt und in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld wird der Kontext zum [Objekt](#_Objekt) erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -415,7 +415,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 
 [[end:block]]
 
-## 10.8 **Portraitserie**  
+## 10.8 **Porträitserie**  
 
 
 ![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  
@@ -582,14 +582,14 @@ Die rassistische Bezeichnung des [Objekts](#_Objekt) wird in der Änderungshisto
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Schlagworten «[Exotisierung](#_Exotismus/exotisierend)», «Stereotyp», «[Schwarze](#_Schwarz/weiss) Person» klassifiziert und der Kontext zum [Objekt](#_Objekt) im zur Verschlagwortung gehörenden Bemerkungsfeld erläutert. Zudem werden die Inhaltshinweise «Rassismus», «Sexismus», «abwertende Sprache» hinzugefügt.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
 ## 10.11 **Missionsn\*li**  
 
 
-![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM-69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
+![alt:Eine kleine Figur zeigt eine kniende Schwarze Person mit roten Lippen in betender Haltung auf einem braunen Sockel. Die Figur trägt ein weißes Gewand. Auf der Vorderseite des Sockels befindet sich ein farbiges Bild mit einer stilisierten Darstellung einer betenden Person., extra:Abbildung 35: Opferstock, LM 69377.1-2, 1940–1960. Schweizerisches Nationalmuseum © SNM](/images/image033.jpg)  
 
 [[start:metadata]]
 
@@ -597,7 +597,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 8 (online Nr. 184) dieses Kapitel
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer:** LM-69377.1-2  
+**Inventarnummer:** LM 69377.1-2  
 **Bezeichnung:** Kniender Neger in weissem Gewand. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung in Deutsch und Französisch für die spendenden Personen.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock, Missionsnegerli  
 **Datierung:** 1940–1960  
@@ -609,7 +609,7 @@ Metadaten des unbereinigten Datensatzes:
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer:** LM-69377.1-2  
+**Inventarnummer:** LM 69377.1-2  
 **Bezeichnung:** Knieender Mann in weissem Gewand, stereotypisierte [Schwarze](#_Schwarz/weiss) Person. Nickt mit dem Kopf nach Einwurf einer Münze. Mit erklärender Beschreibung für spendende Personen.  
 **Klassifikation:** Religion und Kult, Kirchenausstattung (christ.), Opferstock  
 **Datierung:** 1940–1960  
@@ -637,7 +637,7 @@ Die rassistische Klassifikation des [Objekts](#_Objekt) wird in der Änderungshi
 Deklaration als rassistisches Objekt:  
 Das [Objekt](#_Objekt) wird mit den Inhaltshinweisen «Rassismus, abwertende Sprache» markiert. Zudem werden die Schlagworte «Mission», «Koloniale Verflechtung» hinzugefügt und der Kontext zum [Objekt](#_Objekt) wird in einem zur Inhaltszuordnung gehörenden Bemerkungsfeld erläutert.  
 
-Das [Objekt](#_Objekt) ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
+Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.  
 
 [[end:block]]
 
@@ -685,7 +685,7 @@ Metadaten des überarbeiteten Datensatzes:
 **Kontext**  
 
 Die Fotografin Annemarie Meier reiste in den 1960er Jahren in die USA, wo sie neben ihrer Tätigkeit als Skilehrerin an einer Reportage über die afroamerikanische Mittelschicht arbeitete.[[203]](#footnote-204) Ihre Bilder zeugen von einer fast ethnografischen Nähe und sind lebhafte Zeitdokumente einer von Rassismus und Segregation geprägten Gesellschaft. Meiers Fotografie scheint auf Augenhöhe aufgenommen worden zu sein und versuchte eine Innenperspektive zu zeigen.  
-Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](#_«Rassifizierte_Communities») durchschimmern lassen.  
+Sprachlich aber ist das Konvolut stark im Diskurs der 1960er-Jahre verhaftet: Einerseits finden sich rassistische Begriffe wie das N\*-Wort in zahlreichen tagebuchartigen Notizen und Beschreibungen sowie originalen Bild- und Serientiteln der Autorin. Andererseits sind die begleitenden Texte im Nachlass auf eine Art verfasst, die den dahinterliegenden diskursiven Rassismus und das damit verbundene *Othering* der afroamerikanischen [Gemeinschaft](Rassifizierte_Communities#_) durchschimmern lassen.  
 
 [[start:block]]
 

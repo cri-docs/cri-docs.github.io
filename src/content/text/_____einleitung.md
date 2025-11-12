@@ -48,12 +48,16 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 **Für Deutschland:**  
 
 * de Castro, Inés u. a.: Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.  
-* [Bystron](https://www.transcript-verlag.de/author/bystron-daniela-320008582/), Daniela; [Fäser](https://www.transcript-verlag.de/author/faeser-anne-320029845/), Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
+* Bystron, Daniela; Fäser, Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
 * Müller, Lars u. a.: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, o-bib, Das offene Bibliotheksjournal 11/3, 2024, <<https://doi.org/10.5282/o-bib/6100>>, Stand: 03.09.2025.  
 * Beispiele für Netzwerke in Europa: Deutsche digitale Bibliothek (Hg.): Portal «Sammlungsgut aus kolonialen Kontexten», <<https://ccc.deutsche-digitale-bibliothek.de/de>>, Stand: 03.09.2025.  
 * EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-kolonialekontexte>, Stand: 03.09.2025.  
 * In\_Context: Colonial Histories and Digital Collections, <https://in-context.sbb.berlin/>, Stand: 03.09.2025.  
 * Europeana (Hg.): DE-BIAS – Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>>, Stand: 03.09.2025.  
 * National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025.  
+
+**Für Österreich:**  
+
+* Kulturpool, Wissen: Eine Annäherung zum verantwortungsvollen Umgang mit problematischen Inhalten, <<https://wissen.kulturpool.at/books/eine-annaherung-zum-verantwortungsvollen-umgang-mit-problematischen-inhalten>>, Stand: 12.11.2025.  
 
 [[end:literature]]
