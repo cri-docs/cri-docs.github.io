@@ -98,145 +98,145 @@ Die Geschäftsleitungen der beteiligten Gedächtnisinstitutionen
 
 Inhalt  
 
-[Einleitung 8](#_Toc213247687)  
+[Einleitung 8](#_Toc213837093)  
 
-[1 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 12](#_Toc213247688)  
+[1 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation [[Erste Schritte]] 12](#_Toc213837094)  
 
-[1.1 Was ist Rassismus? 12](#_Toc213247689)  
+[1.1 Was ist Rassismus? 12](#_Toc213837095)  
 
-[1.1.1 Rassismus auf der individuellen Ebene 12](#_Toc213247690)  
+[1.1.1 Rassismus auf der individuellen Ebene 12](#_Toc213837096)  
 
-[1.1.2 Struktureller Rassismus 13](#_Toc213247691)  
+[1.1.2 Struktureller Rassismus 13](#_Toc213837097)  
 
-[1.2 Wie weiter in der Praxis? 14](#_Toc213247692)  
+[1.2 Wie weiter in der Praxis? 14](#_Toc213837098)  
 
-[1.2.1 Verborgene Rassismen in der Datenbank 14](#_Toc213247693)  
+[1.2.1 Verborgene Rassismen in der Datenbank 14](#_Toc213837099)  
 
-[1.2.2 Selbstreflexion der individuellen Prägung 14](#_Toc213247694)  
+[1.2.2 Selbstreflexion der individuellen Prägung 14](#_Toc213837100)  
 
-[1.2.3 Wer dokumentiert was/wen/wessen Geschichte? 15](#_Toc213247695)  
+[1.2.3 Wer dokumentiert was/wen/wessen Geschichte? 16](#_Toc213837101)  
 
-[1.2.4 Selbstverständlichkeit der Verschlagwortung 17](#_Toc213247696)  
+[1.2.4 Selbstverständlichkeit der Verschlagwortung 17](#_Toc213837102)  
 
-[1.2.5 Denkanstoss: Institutionelle Positionierung 18](#_Toc213247697)  
+[1.2.5 Denkanstoss: Institutionelle Positionierung 18](#_Toc213837103)  
 
-[2 Sammlungen und Museen als Orte der Kolonialität 20](#_Toc213247698)  
+[2 Sammlungen und Museen als Orte der Kolonialität 20](#_Toc213837104)  
 
-[3 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 33](#_Toc213247699)  
+[3 Die Schweiz und das koloniale Erbe: Eine Analyse problematischer und sensibler Sammlungen[[Die Schweiz und das koloniale Erbe]] 33](#_Toc213837105)  
 
-[4 Communities, Sammlungen und Sorgfalt 42](#_Toc213247700)  
+[4 Communities, Sammlungen und Sorgfalt 42](#_Toc213837106)  
 
-[5 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 50](#_Toc213247701)  
+[5 Konstruktionen von «Weiss-Sein» (englisch *Whiteness*) und ihre Auswirkungen in Museen – Museen und die Kolonisierung [[Konstruktionen von «Weiss-Sein» in Museen]] 50](#_Toc213837107)  
 
-[6 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] 60](#_Toc213247702)  
+[6 Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung [[Verwendung und Veröffentlichung von Daten]] 60](#_Toc213837108)  
 
-[6.1 Sammlungsdatenbanken 60](#_Toc213247703)  
+[6.1 Sammlungsdatenbanken 60](#_Toc213837109)  
 
-[6.1.1 Beschreibung 62](#_Toc213247704)  
+[6.1.1 Beschreibung 62](#_Toc213837110)  
 
-[6.1.2 Bezeichnung, Titel 62](#_Toc213247705)  
+[6.1.2 Bezeichnung, Titel 62](#_Toc213837111)  
 
-[6.1.3 Schlagwörter, Keywords 63](#_Toc213247706)  
+[6.1.3 Schlagwörter, Keywords 63](#_Toc213837112)  
 
-[6.1.4 Inschriften, Beschriftung, Signaturen 63](#_Toc213247707)  
+[6.1.4 Inschriften, Beschriftung, Signaturen 63](#_Toc213837113)  
 
-[6.1.5 Klassifikation, Gattung, Objektart, Objekttyp 63](#_Toc213247708)  
+[6.1.5 Klassifikation, Gattung, Objektart, Objekttyp 63](#_Toc213837114)  
 
-[6.1.6 Provenienz 64](#_Toc213247709)  
+[6.1.6 Provenienz 64](#_Toc213837115)  
 
-[6.2 Metadaten in Online-Sammlungen: 5 Ansätze 64](#_Toc213247710)  
+[6.2 Metadaten in Online-Sammlungen: 5 Ansätze 64](#_Toc213837116)  
 
-[6.2.1 (1) Titel als diskriminierend markieren 66](#_Toc213247711)  
+[6.2.1 (1) Titel als diskriminierend markieren 66](#_Toc213837117)  
 
-[6.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 68](#_Toc213247712)  
+[6.2.2 (2) Sensible Begriffe/Abbildungen ausblenden 67](#_Toc213837118)  
 
-[6.2.3 (3) Titel neu formulieren 70](#_Toc213247713)  
+[6.2.3 (3) Titel neu formulieren 69](#_Toc213837119)  
 
-[6.2.4 (4) Individuelle Inhaltswarnungen 71](#_Toc213247714)  
+[6.2.4 (4) Individuelle Inhaltswarnungen 70](#_Toc213837120)  
 
-[6.2.5 (5) Allgemeine Inhaltswarnung 74](#_Toc213247715)  
+[6.2.5 (5) Allgemeine Inhaltswarnung 74](#_Toc213837121)  
 
-[7 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 77](#_Toc213247716)  
+[7 Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung [[Rassismuskritik in den beteiligten Institutionen]] 77](#_Toc213837122)  
 
-[7.1 Bernisches Historisches Museum 77](#_Toc213247717)  
+[7.1 Bernisches Historisches Museum 77](#_Toc213837123)  
 
-[7.2 ETH-Bibliothek, ETH Zürich 79](#_Toc213247718)  
+[7.2 ETH-Bibliothek, ETH Zürich 79](#_Toc213837124)  
 
-[7.3 Fotostiftung Schweiz 81](#_Toc213247719)  
+[7.3 Fotostiftung Schweiz 81](#_Toc213837125)  
 
-[7.4 Historisches Museum Basel 82](#_Toc213247720)  
+[7.4 Historisches Museum Basel 82](#_Toc213837126)  
 
-[7.5 Kunsthaus Zürich 83](#_Toc213247721)  
+[7.5 Kunsthaus Zürich 83](#_Toc213837127)  
 
-[7.6 Museum für Kommunikation 84](#_Toc213247722)  
+[7.6 Museum für Kommunikation 84](#_Toc213837128)  
 
-[7.7 Schweizerisches Nationalmuseum 85](#_Toc213247723)  
+[7.7 Schweizerisches Nationalmuseum 85](#_Toc213837129)  
 
-[7.8 Stiftung für Kunst, Kultur und Geschichte 87](#_Toc213247724)  
+[7.8 Stiftung für Kunst, Kultur und Geschichte 87](#_Toc213837130)  
 
-[8 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]] 89](#_Toc213247725)  
+[8 Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen [[Überarbeitung von Datensätzen]] 89](#_Toc213837131)  
 
-[9 Lösungsansätze aus den Sammlungen 92](#_Toc213247726)  
+[9 Lösungsansätze aus den Sammlungen 92](#_Toc213837132)  
 
-[9.1 M\*automat 92](#_Toc213247727)  
+[9.1 M\*automat 92](#_Toc213837133)  
 
-[9.2 Sparkasse 96](#_Toc213247728)  
+[9.2 Sparkasse 96](#_Toc213837134)  
 
-[9.3 Stickvorlage 98](#_Toc213247729)  
+[9.3 Stickvorlage 98](#_Toc213837135)  
 
-[9.4 «Schwarzer Peter» 100](#_Toc213247730)  
+[9.4 «Schwarzer Peter» 100](#_Toc213837136)  
 
-[9.5 Pudding-Werbung 103](#_Toc213247731)  
+[9.5 Pudding-Werbung 103](#_Toc213837137)  
 
-[9.6 Puppenspiel 105](#_Toc213247732)  
+[9.6 Puppenspiel 105](#_Toc213837138)  
 
-[9.7 12 kleinen N\*lein 107](#_Toc213247733)  
+[9.7 12 kleinen N\*lein 107](#_Toc213837139)  
 
-[9.8 Portraitserie 109](#_Toc213247734)  
+[9.8 Porträtserie 108](#_Toc213837140)  
 
-[9.9 Elektrische Reklame für eine Schuhcrème 111](#_Toc213247735)  
+[9.9 Elektrische Reklame für eine Schuhcrème 111](#_Toc213837141)  
 
-[9.10 ‹Exotisch›-erotische Nippes 113](#_Toc213247736)  
+[9.10 ‹Exotisch›-erotische Nippes 112](#_Toc213837142)  
 
-[9.11 Missionsn\*li 115](#_Toc213247737)  
+[9.11 Missionsn\*li 115](#_Toc213837143)  
 
-[9.12 Fotoreportage aus den USA 117](#_Toc213247738)  
+[9.12 Fotoreportage aus den USA 118](#_Toc213837144)  
 
-[10 Vertiefungen 120](#_Toc213247739)  
+[10 Vertiefungen 120](#_Toc213837145)  
 
-[10.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 120](#_Toc213247740)  
+[10.1 Geschichte des Anti-Schwarzen-Rassismus in der Schweiz 120](#_Toc213837146)  
 
-[10.2 Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 124](#_Toc213247741)  
+[10.2 Rassismus, Diskriminierung und Künstliche Intelligenz (KI) 124](#_Toc213837147)  
 
-[11 Glossar 126](#_Toc213247742)  
+[11 Glossar 127](#_Toc213837148)  
 
-[11.1 BIPoC 126](#_Toc213247743)  
+[11.1 BIPoC 127](#_Toc213837149)  
 
-[11.2 Community und Herkunftsgesellschaft 126](#_Toc213247744)  
+[11.2 Community und Herkunftsgesellschaft 127](#_Toc213837150)  
 
-[11.3 «Rassifizierte Communities» 126](#_Toc213247745)  
+[11.3 «Rassifizierte Communities» 127](#_Toc213837151)  
 
-[11.4 Dekolonisierung und Dekolonialismus 127](#_Toc213247746)  
+[11.4 Dekolonisierung und Dekolonialismus 128](#_Toc213837152)  
 
-[11.5 Exotismus und exotisierend 128](#_Toc213247747)  
+[11.5 Exotismus und exotisierend 129](#_Toc213837153)  
 
-[11.6 Indigen 128](#_Toc213247748)  
+[11.6 Indigen 129](#_Toc213837154)  
 
-[11.7 Kolonialismus und Kolonialisierung 129](#_Toc213247749)  
+[11.7 Kolonialismus und Kolonialisierung 130](#_Toc213837155)  
 
-[11.8 Objekt 130](#_Toc213247750)  
+[11.8 Objekt 131](#_Toc213837156)  
 
-[11.9 Postkolonialismus und Postkoloniale Studien 130](#_Toc213247751)  
+[11.9 Postkolonialismus und Postkoloniale Studien 131](#_Toc213837157)  
 
-[11.10 Schwarz und weiss 130](#_Toc213247752)  
+[11.10 Schwarz und weiss 131](#_Toc213837158)  
 
-[11.11 Selbstbezeichnung und Fremdzuschreibung 131](#_Toc213247753)  
+[11.11 Selbstbezeichnung und Fremdzuschreibung 132](#_Toc213837159)  
 
-[12 Nachwort 133](#_Toc213247754)  
+[12 Nachwort 134](#_Toc213837160)  
 
-[13 Bibliografie 134](#_Toc213247755)  
+[13 Bibliografie 135](#_Toc213837161)  
 
-[14 Impressum 142](#_Toc213247756)  
+[14 Impressum 143](#_Toc213837162)  
 
 [[end:toc]]
 
@@ -1664,7 +1664,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 
 [[end:block]]
 
-## **Porträitserie**  
+## **Porträtserie**  
 
 
 ![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  

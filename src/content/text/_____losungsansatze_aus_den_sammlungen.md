@@ -21,7 +21,7 @@ toc:
   - level: 2
     title: "10.7 12 kleinen N*lein"
   - level: 2
-    title: "10.8 Porträitserie"
+    title: "10.8 Porträtserie"
   - level: 2
     title: "10.9 Elektrische Reklame für eine Schuhcrème"
   - level: 2
@@ -415,7 +415,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum [Objekt](#_Objekt) e
 
 [[end:block]]
 
-## 10.8 **Porträitserie**  
+## 10.8 **Porträtserie**  
 
 
 ![alt:Eine Collage aus sieben Schwarz-Weiss-Fotografien zeigt eine Person mit schwarz bemaltem Gesicht und übertrieben geschminkten weißen Lippen und Zähnen. Die Person trägt einen weissen Schleier oder Stoff und zeigt verschiedene Gesichtsausdrücke. Oben auf dem Blatt steht handschriftlich „Köpfe 30“., extra:Abbildung 32: Kontaktabzug, Inv. 1995.423, 1933. Fotostiftung Schweiz © The Herbert Matter Estate / Fotostiftung Schweiz](/images/image030.jpg)  
