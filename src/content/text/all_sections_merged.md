@@ -59,9 +59,9 @@ Mitwirkende:
 [Historisches Museum Basel](https://www.hmb.ch/), Andrea Arnold und Patrick Moser  
 [Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
 [Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Winterthur, Michèle Dick  
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug  
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Winterthur, Sonja Gasser  
 
 Die AG freut sich über konstruktive Rückmeldungen unter: info@criticalGLAM.ch
 [[end:about]]
@@ -282,7 +282,7 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 **Für Deutschland:**  
 
 * de Castro, Inés u. a.: Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.  
-* [Bystron](https://www.transcript-verlag.de/author/bystron-daniela-320008582/), Daniela; [Fäser](https://www.transcript-verlag.de/author/faeser-anne-320029845/), Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
+* Bystron, Daniela; Fäser, Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
 * Müller, Lars u. a.: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, o-bib, Das offene Bibliotheksjournal 11/3, 2024, <<https://doi.org/10.5282/o-bib/6100>>, Stand: 03.09.2025.  
 * Beispiele für Netzwerke in Europa: Deutsche digitale Bibliothek (Hg.): Portal «Sammlungsgut aus kolonialen Kontexten», <<https://ccc.deutsche-digitale-bibliothek.de/de>>, Stand: 03.09.2025.  
 * EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-kolonialekontexte>, Stand: 03.09.2025.  
@@ -2190,6 +2190,8 @@ Koller, Christian: Rassismus, Paderborn 2009.
 
 Kramm, Robert: Geschlecht und Sexualität, (Post)kolonialismus und Globalgeschichte, Bundeszentrale für politische Bildung, 20.05.2016, <<https://www.bpb.de/themen/kolonialismus-imperialismus/postkolonialismus-und-globalgeschichte/219143/geschlecht-und-sexualitaet/>>, Stand 26.02.2025.  
 
+Kulturpool, Wissen: Eine Annäherung zum verantwortungsvollen Umgang mit problematischen Inhalten, <<https://wissen.kulturpool.at/books/eine-annaherung-zum-verantwortungsvollen-umgang-mit-problematischen-inhalten>>, Stand: 12.11.2025.  
+
 Mähr, Moritz; Schnegg, Noëlle: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten. Erfahrungen aus dem geschichtswissenschaftlichen Forschungsprojekt Stadt.Geschichte.Basel (E-Book), 2024, <<https://zenodo.org/records/11124720>/>, Stand: 20.05.2025.  
 
 MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg (Hg.): Auszug aus der Sammlungs-Datenbank des Museums am Rothenbaum Hamburg MARKK, <<https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf>>, Stand: 08.07.2025.  
@@ -2313,24 +2315,15 @@ Version 1.0, November 2025
 
 **Mitwirkende:**  
 [Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
-
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
-
 [Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
-
 [Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
-
 [Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
-
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
-
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Winterthur, Michèle Dick  
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug  
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Winterthur, Sonja Gasser  
 
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
-
-**Kontakt:**  
-
-info@criticalGLAM.ch  
+**Kontakt:**info@criticalGLAM.ch  
 Konradstrasse 14  
 CH-8005 Zürich  
 

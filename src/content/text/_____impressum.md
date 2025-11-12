@@ -13,24 +13,15 @@ Version 1.0, November 2025
 
 **Mitwirkende:**  
 [Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
-
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
-
 [Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
-
 [Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
-
 [Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
-
-[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Michèle Dick  
-
+[Fotostiftung Schweiz](https://fotostiftung.ch/de/), Winterthur, Michèle Dick  
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug  
+[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Winterthur, Sonja Gasser  
 
-[Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Sonja Gasser  
-
-**Kontakt:**  
-
-info@criticalGLAM.ch  
+**Kontakt:**info@criticalGLAM.ch  
 Konradstrasse 14  
 CH-8005 Zürich  
 
