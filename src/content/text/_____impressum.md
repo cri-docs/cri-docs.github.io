@@ -14,7 +14,7 @@ Version 1.0, November 2025
 **Mitwirkende:**  
 [Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
-[Historisches Museum Basel](https://www.hmb.ch/), Patrick Moser und Andrea Arnold  
+[Historisches Museum Basel](https://www.hmb.ch/), Andrea Arnold und Patrick Moser  
 [Kunsthaus Zürich](https://www.kunsthaus.ch/), Ruth Kistler  
 [Museum für Kommunikation](https://www.mfk.ch/), Bern, Jonas Bürgi  
 [Fotostiftung Schweiz](https://fotostiftung.ch/de/), Winterthur, Michèle Dick  
