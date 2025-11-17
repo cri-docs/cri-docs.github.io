@@ -44,4 +44,24 @@ Siehe Angaben in den Bildlegenden.
 **Dank**  
 Wir möchten allen herzlich danken, die uns mit grossen und kleinen Hilfeleistungen, Hinweisen, kritischen Anmerkungen und ihrem Engagement in der Ausarbeitung des Handbuchs unterstützt haben:  
 
-Heidi Amrein, Mariama de Brito Henn, Heidi Brunner, Madleina Deplazes, Michael Gasser, Erika Hebeisen, Sabina Horber, Juri Jaquement, Annette Kniep, Jonas Lendenmann, Stefanie Löpfe, Christine Müller Stalder, Isabelle Münzner, Severin Rüegg, Ruby Satele Asiata, Johannes Sauter, Mira Shah, Reto Thüring, Denise Tonella, Marilyn Umurungi, Laura Walde, Balthasar Zimmermann und den Geschäftsleitungen der beteiligten Institutionen.
+Heidi Amrein  
+Heidi Brunner  
+Madleina Deplazes  
+Michael Gasser  
+Erika Hebeisen  
+Sabina Horber  
+Juri Jaquement  
+Annette Kniep  
+Jonas Lendenmann  
+Stefanie Löpfe  
+Christine Müller Stalder  
+Isabelle Münzner  
+Severin Rüegg  
+Johannes Sauter  
+Mira Shah  
+Reto Thüring  
+Denise Tonella  
+Marilyn Umurungi  
+Laura Walde  
+Balthasar Zimmermann  
+Den Geschäftsleitungen der beteiligten Institutionen.
