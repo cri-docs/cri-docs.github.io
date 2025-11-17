@@ -279,8 +279,6 @@ Metadaten des unbereinigten Datensatzes:
 **Datierung:** 1900–1910  
 **Inschrift:** -  
 **Schlagworte:** «Werbegrafik»  
-**Herstellung:**  
-
 [[end:before]]
 
 [[start:after]]
@@ -652,8 +650,7 @@ Das [Objekt](#_Objekt) ist aus den in Fussnote 182 angemerkten Gründen aktuell 
 
 Metadaten des unbereinigten Datensatzes:  
 
-**Inventarnummer: 1982.03.023  
-Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
+**Inventarnummer:** 1982.03.023 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 **Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)  
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung  
 **Gattung:** -  
@@ -667,7 +664,7 @@ Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 
 Metadaten des überarbeiteten Datensatzes:  
 
-**Inventarnummer: 1982.03.023**  
+**Inventarnummer:** 1982.03.023  
 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)  
 **Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)  
 **Sensibler Serientitel Bemerkung:** Amerika Neger  

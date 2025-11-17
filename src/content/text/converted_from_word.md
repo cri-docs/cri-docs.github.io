@@ -1542,8 +1542,6 @@ Metadaten des unbereinigten Datensatzes:
 **Datierung:** 1900–1910
 **Inschrift:** -
 **Schlagworte:** «Werbegrafik»
-**Herstellung:**
-
 [[end:before]]
 
 [[start:after]]
@@ -1922,8 +1920,7 @@ Abbildung 36: Abzug, Inv. 1982.03.023, 1965, Fotostiftung Schweiz. © Fotostiftu
 
 Metadaten des unbereinigten Datensatzes:
 
-**Inventarnummer: 1982.03.023
-Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
+**Inventarnummer:** 1982.03.023 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 **Serientitel:** Amerika Neger (Quelle: Originaltitel Autor:in)
 **Beschreibung/Art des Dokuments:** Abzug, Vergrösserung
 **Gattung:** -
@@ -1937,7 +1934,7 @@ Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 
 Metadaten des überarbeiteten Datensatzes:
 
-**Inventarnummer: 1982.03.023**
+**Inventarnummer:** 1982.03.023
 **Titel Online:** USA, 1965 (Quelle: deskriptiver Titel)
 **Sensibler Serientitel:** Amerika N\* (Sensibler Originaltitel) (Quelle: Originaltitel Autor:in)
 **Sensibler Serientitel Bemerkung:** Amerika Neger
@@ -2656,7 +2653,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 223. Ndiaye, Pap : Les Noirs américains en marche pour l’égalité, Paris 2009. [↑](#footnote-ref-224)
 224. Ndiaye, Pap : La condition noire : essai sur une minorité française, Paris 2011. [↑](#footnote-ref-225)
 225. «exotisch», bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, <<https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025, [↑](#footnote-ref-226)
-226. Danielzik, C;, Bendix, D.: Exotik / exotisch, in: Ofuatey-Alazard; Arndt: Wie Rassismus aus Wörtern spricht, S. 633. [↑](#footnote-ref-227)
+226. Danielzik, C; Bendix, D.: Exotik / exotisch, in: Ofuatey-Alazard; Arndt: Wie Rassismus aus Wörtern spricht, S. 633. [↑](#footnote-ref-227)
 227. Für den deutschen Sprachgebrauch, vgl. Mattioli, Aram: Verlorene Welten. Eine Geschichte der Indianer Nordamerikas, Stuttgart 2017, S. 31f [↑](#footnote-ref-228)
 228. Zum nordamerikanischen Kontext und englischsprachigen Sprachgebrauch, vgl. Silverman, David J.: Thundersticks. Firearms and the Violent Transformation of Native America, Cambridge 2016, S. xi. [↑](#footnote-ref-229)
 229. «Kreolisierung» ist ein vielschichtiger und widersprüchlicher Begriff mit verschiedenen Bedeutungsebenen. Im Allgemeinen wird darunter verstanden, dass durch den Kontakt verschiedener Gruppen neue, eigene Formen entstehen, die aus einer Mischung von Sprache, Kultur und Gesellschaft hervorgehen. Somit ist «Kreolisierung» den Begriffen Transkulturation, Hybridisierung und Diaspora nahe. Global existieren zahlreiche als Kreol bezeichnete Bevölkerungsgruppen und Sprachen. Der Begriff Kreol geht vermutlich auf das lateinische creare (= «kreieren, erschaffen, hervorbringen») zurück. Während der spanischen und portugiesischen Kolonisierung Lateinamerikas und der Karibik wurden mit criollo bzw. crioulo die in den geborenen Kolonien bezeichneten Spanier:innen und Portugies:innen bezeichnet. Vgl. Halbmayer, Ernst, Kreff, Fernand: «Kreolisierung». Lexikon der Globalisierung, Bielefeld 2011, S. 201–205. <[https://doi.org/10.1515/transcript.9783839418222.201](https://doi.org/10.1515/transcript.9783839418222.201%20)>, Stand: 28.08.2025. [↑](#footnote-ref-230)
