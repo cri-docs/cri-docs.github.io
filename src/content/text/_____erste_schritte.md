@@ -53,6 +53,7 @@ Im Folgenden sind exemplarisch thematisch gebündelte Fragen aufgeführt, die al
 ### Selbstreflexion der individuellen Prägung  
 
 Rassistische sowie eurozentrische und kolonial geprägte Haltungen werden im Laufe des Lebens erlernt, ohne dass man sich dessen zwingendermassen bewusst ist.[[21]](#footnote-22) In Bezug auf die Arbeit im Museum bedeutet dies, dass wir je nach Hintergrund, Sozialisierung, Erziehung und Bildung [Objekte](#_Objekt) und deren Ikonografien unterschiedlich lesen, interpretieren, beschreiben und dokumentieren. Die Assoziationen, die ein Objekt oder ein Bild bei uns hervorrufen, hängen stark von unserem eigenen Hintergrund, unserem Repertoire an Erfahrungen, von Wissen und unserem Welt- und Menschenbild sowie von den uns bekannten Objekt- und Bildwelten ab. Gleichzeitig treffen wir rassistische [Objekte](#_Objekt) und Dokumentationen aus vorangehender Praxis an, die wir nicht immer direkt als solche dechiffrieren.[[22]](#footnote-23) Eine vertiefte rassismuskritische Selbstreflexion und damit einhergehend eine Perspektivenerweiterung oder ein Perspektivenwechsel treiben eine sensibilisierte Dokumentationspraxis voran.  
+
 Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzustossen:  
 
 * Welche Reaktion löst das Thema Rassismus bei mir aus (Verärgerung, Scham, Gleichgültigkeit, Wut)?  
@@ -62,7 +63,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?  
 
 
-![alt:Kulturvermittler steht in einem hellen Museumsraum und weist erklärt die rassistische Darstellung und deren Bildelemente einer Schulklasse. An der Wand hängen verschiedene Bilder und Texttafeln. Im Hintergrund sind weitere Ausstellungsstücke und beschriftete Wände zu sehen., extra:Abbildung 1: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image002.jpg)  
+![alt:Kulturvermittler steht in einem hellen Museumsraum und weist erklärt die rassistische Darstellung und deren Bildelemente einer Schulklasse. An der Wand hängen verschiedene Bilder und Texttafeln. Im Hintergrund sind weitere Ausstellungsstücke und beschriftete Wände zu sehen., extra:Abbildung : «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM](/images/image002.jpg)  
 
 [[start:literature]]
 
@@ -89,7 +90,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 * Wie werden neu gewonnene Erkenntnisse (z. B. durch den Austausch mit [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft)) in der Datenbank festgehalten?  
 
 
-![alt:Grosse Holzskulptur einer stehenden Figur auf einem Podest in einem Museum. Die Skulptur zeigt stilisierte menschliche Züge, und im Hintergrund befinden sich weitere Ausstellungsobjekte in Vitrinen., extra:Abbildung 2: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image003.jpg)  
+![alt:Grosse Holzskulptur einer stehenden Figur auf einem Podest in einem Museum. Die Skulptur zeigt stilisierte menschliche Züge, und im Hintergrund befinden sich weitere Ausstellungsobjekte in Vitrinen., extra:Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich](/images/image003.jpg)  
 
 [[start:literature]]
 
@@ -122,7 +123,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 * Wo können wir als Team ansetzen, um Sammlungen und die damit verbundene Dokumentationsarbeit diskriminierungskritisch und unvoreingenommener zu gestalten?  
 
 
-![alt:Person in Archivumgebung, die ein Eingangsbuch in den Händen hält. Im Hintergrund ist ein volles Regal mit nummerierten Büchern zu sehen., extra:Abbildung 3: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image004.jpg)  
+![alt:Person in Archivumgebung, die ein Eingangsbuch in den Händen hält. Im Hintergrund ist ein volles Regal mit nummerierten Büchern zu sehen., extra:Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM](/images/image004.jpg)  
 
 [[start:literature]]
 

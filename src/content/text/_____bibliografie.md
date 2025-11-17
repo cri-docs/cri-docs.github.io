@@ -34,7 +34,7 @@ Brizon, Claire: Collections coloniales. À l’origine des fonds anciens non eur
 
 Bürgi, Jonas: Diversität in der Archiv- und Sammlungsarbeit. Ein langer Weg aus der Komfortzone, in: Onlineportal des PTT-Archivs und der Sammlungen des Museums für Kommunikation, 2024, 26.02.2024, <<https://mfk.rechercheonline.ch/de/explore/articles/diversitaet-in-archiv-und-sammlungsarbeit>/>, Stand: 29.08.2025.  
 
-Bystron, Daniela; [Fäser](https://www.transcript-verlag.de/author/faeser-anne-320029845/), Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
+Bystron, Daniela; Fäser, Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
 
 Carlen, Louis: Der Schweizer Adel und die Kreuzzüge, in: Nachrichten des Schweizerischen Burgenvereins 38 (6), Zürich 1965, S. 138–139.  
 
@@ -48,9 +48,7 @@ Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field 
 
 Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025.  
 
-Deutscher Museumsbund e.V. (Hg.): Leitfaden zum Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2021.  
-
-Umberger, Olga: Die schwarze Baden-Schenkung, in: Chronik der Stadt Zürich 5, 01.02.1913 (E-Book), S. 49, 01.02.1913. Online: <<https://www.e-newspaperarchives.ch/?a=d&d=CSZ19130201-01/>>, Stand: 02.10.2025.  
+Deutscher Museumsbund e.V. (Hg.): Leitfaden Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2021³.  
 
 Digitales Wörterbuch der deutschen Sprache: «exotisch», <<https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025.  
 
@@ -68,7 +66,7 @@ E-Pics, Bildarchiv ETH Zürich: Koloniale Materialien: <<https://wil.e-pics.ethz
 
 Europeana (Hg.): DE-BIAS. Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>/>, Stand: 20.05.2025.  
 
-EVIFA: Netzwerk koloniale Kontexte, <<https://www.evifa.de/de/netzwerk-koloniale-kontexte>>, Stand: 02.12.2024.  
+EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-koloniale-kontexte>, Stand: 02.12.2024.  
 
 Fahrni, Oliver: Die Kolonisierung war eine grosse sexuelle Safari, Work – Gewerkschaft Unia, 16.08.2019, <<https://www.workzeitung.ch/2019/08/die-kolonialisierung-war-eine-grosse-sexuelle-safari/>>, Stand: 26.02.2025.  
 

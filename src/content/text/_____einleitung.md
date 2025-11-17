@@ -51,7 +51,7 @@ Sich mit den Wirkmächten von Rassismus auf unsere Gesellschaft und in unseren I
 * Bystron, Daniela; Fäser, Anne (Hg.): Das Museum dekolonisieren? Kolonialität und museale Praxis in Berlin, Bielefeld 2022.  
 * Müller, Lars u. a.: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, o-bib, Das offene Bibliotheksjournal 11/3, 2024, <<https://doi.org/10.5282/o-bib/6100>>, Stand: 03.09.2025.  
 * Beispiele für Netzwerke in Europa: Deutsche digitale Bibliothek (Hg.): Portal «Sammlungsgut aus kolonialen Kontexten», <<https://ccc.deutsche-digitale-bibliothek.de/de>>, Stand: 03.09.2025.  
-* EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-kolonialekontexte>, Stand: 03.09.2025.  
+* EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-koloniale-kontexte>, Stand: 03.09.2025.  
 * In\_Context: Colonial Histories and Digital Collections, <https://in-context.sbb.berlin/>, Stand: 03.09.2025.  
 * Europeana (Hg.): DE-BIAS – Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>>, Stand: 03.09.2025.  
 * National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 03.09.2025.  
