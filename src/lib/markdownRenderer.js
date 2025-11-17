@@ -45,7 +45,7 @@ export function createMarkedRenderer(pageInfo) {
           content: text.replace("[", "").replace("]", ""),
           id: slugify(href.replace("#_", "").replaceAll("/", "_und_")),
         })
-        return `<span data-svelte-component="CustomGlossary" data-props='${props}' class="glossarContainer"></span>`
+        return `<span data-svelte-component="CustomGlossary" data-props='${props}' class="glossaryContainer"></span>`
       }
       const baseUrl = window.location.origin
       const isExternal = /^https?:\/\//.test(href) && !href.startsWith(baseUrl)
@@ -58,6 +58,15 @@ export function createMarkedRenderer(pageInfo) {
 
   return renderer
 }
+
+function findSuperScript(content) {
+  const regex = /\^(\d+)/g
+  return content.replace(regex, (match, p1) => {
+    return `<sup>${p1}</sup>`
+  })
+}
+
+
 
 function processCustomBlocks(content) {
   const regex = /\[\[start:([a-zA-Z0-9_-]+)\]\]([\s\S]*?)\[\[\end:\1\]\]/g
@@ -87,7 +96,8 @@ export function markdown(pageInfo = {}) {
   marked.use({ renderer });
 
   return function(content) {
-    const processedContent = processCustomBlocks(content)
+    let processedContent = processCustomBlocks(content)
+    processedContent = findSuperScript(processedContent)
     return marked(processedContent)
   }
 }

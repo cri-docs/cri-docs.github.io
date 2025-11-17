@@ -8,14 +8,14 @@
   .content
     border solid transparent 1px
     margin -1px
-    @media (hover: hover)
-      &:hover
-        padding 1rem 1.5rem
-        margin calc(-1rem - 1px) calc(-1.5rem - 1px)
-        border-radius 99px
-        border solid 1px transparent
-        background-color var(--color)
-        color white
+  @media (hover: hover)
+    &:hover
+      padding 1rem 1.5rem
+      margin calc(-1rem - 1px) calc(-1.5rem - 1px)
+      border-radius 99px
+      border solid 1px transparent
+      background-color var(--color)
+      color white
 .popup
   --lines 10
   display flex
@@ -34,6 +34,7 @@
   border-radius 4px
   font-size var(--small-font-size)
   z-index 5
+  pointer-events none
   @media _mobile
     position fixed
     width 90vw
@@ -87,11 +88,12 @@
       padding 1rem
       height 4rem
       width 4rem
-    &:hover
-      color var(--color-secondary)
-      background-color var(--background-color-secondary)
+  &:hover
+    color var(--color-secondary)
+    background-color var(--background-color-secondary)
 
-:global(.glossarContainer)
+:global(.glossaryContainer)
+:global(.footnotesContainer)
   display inline-block
   &:has(em)
-    display inline
+    padding-inline 0.4ch

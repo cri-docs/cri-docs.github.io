@@ -19,6 +19,7 @@
 
   let mousePosition = $state({ x: 0, y: 0 })
   let windowWidth = $state(0)
+  let windowHeight = $state(0)
 
   // yPercentage = $derived(mousePosition.y * 100) / document.body.clientHeight
   // $: xPercentage = (mousePosition.x * 100) / document.body.clientWidth
@@ -66,7 +67,8 @@
   const mouseMove = (event) => {
     mousePosition.x =
       windowWidth - event.clientX > 500 ? event.clientX : windowWidth - 500
-    mousePosition.y = event.clientY
+    mousePosition.y =
+      windowHeight - event.clientY > 500 ? event.clientY : windowHeight - 310
   }
 
   const handleClickOutside = (event) => {
@@ -80,7 +82,7 @@
   })
 </script>
 
-<svelte:window bind:innerWidth={windowWidth} />
+<svelte:window bind:innerWidth={windowWidth} bind:innerHeight={windowHeight} />
 <svelte:body on:mousemove={mouseMove} />
 
 <button

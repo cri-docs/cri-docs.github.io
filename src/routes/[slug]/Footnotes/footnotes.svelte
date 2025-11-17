@@ -9,7 +9,9 @@
   } from "$lib/state.svelte.js"
 
   import styles from "./main.module.styl"
-  import { marked } from "marked"
+  // import { marked } from "marked"
+  import { markdown } from "$lib/markdownRenderer"
+  import Note from "./note.svelte"
   const props = $props()
   let y = $state(0)
 
@@ -36,13 +38,15 @@
   class={[
     styles.container,
     $currentFootnoteIsSetFixed && styles.currentFootnoteIsSetFixed,
+    "footnotesContainer",
   ].join(" ")}
 >
   {#if footnotesData[$currentFootnote]}
     <div class={styles.footnote}>
       <p>
         {$currentFootnote} –<br />
-        {@html marked.parseInline(footnotesData[$currentFootnote])}
+        <Note content={footnotesData[$currentFootnote]} id={$currentFootnote} />
+        <!-- {@html marked(footnotesData[$currentFootnote])} -->
       </p>
     </div>
   {/if}
