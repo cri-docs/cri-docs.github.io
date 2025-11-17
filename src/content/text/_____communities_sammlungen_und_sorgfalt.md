@@ -51,6 +51,8 @@ Die Absicht, Informationen und Wissen zu ergänzen oder zu verbessern, hat viele
 
 Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im Ausstellungs- und Museumskontext übersetzen, sei es von westlichen Sprachen in [indigene](#_Indigen) oder umgekehrt: erstens, um den Bedürfnissen der lokalen Bevölkerung gerecht zu werden; zweitens, zur Steigerung des kulturellen Anreizes der Ausstellung durch die gezielte Einbindung der [Herkunftsgesellschaften](#_Community_und_Herkunftsgesellschaft) und ihrer Sprachen; und drittens, um den Lerneffekt für die Besucher:innen zu erhöhen.[[111]](#footnote-112)  
 
+Dabei geht die Frage nach der Inklusion über die Übersetzung hinaus und der Fokus liegt auf der Re-Indigenisierung von Wissen und Konzepten in musealen Räumen. Wir sollten die [indigene](#_Indigen) Perspektive und Sprache als Ausgangspunkt nehmen, anstatt englische oder deutsche Texte und Konzepte in [indigene](#_Indigen) Sprachen übersetzen zu lassen. Darüber hinaus ist es bei der [Dekolonisierung](#_Dekolonisierung_und_Dekolonialismus) des Museums wichtig, neben schriftlichen Quellen auch alternative Ansätze der Erinnerungsvermittlung zu berücksichtigen, wie beispielsweise den Bereich der Oral History. Das Erzählen von Geschichten hat in der Vermittlung und Übermittlung von Informationen eine lange Tradition, wie z. B. in den pazifischen Moana-Gesellschaften. Solche mündlichen Traditionen sind unverzichtbar für die Bewahrung der Kultur, weshalb das Erzählen eine zentrale Rolle dabei spielt, das Verständnis zu fördern und die kulturellen Schätze in unseren Sammlungen richtig zu kontextualisieren.[[112]](#footnote-113) Wir sollten uns vom eurozentrischen Verständnis von Geschichtsschreibung lösen und andere Epistemologien nicht nur anerkennen, sondern auch als gleichwertig betrachten. Nur so können wir die noch immer in unseren Institutionen verankerten Stränge des [Kolonialismus](#_Kolonialismus_und_Kolonialisierung) entwirren.  
+
 [[end:external]]
 
 [[start:literature]]
@@ -71,7 +73,7 @@ Die Sprachwissenschaftlerin Jill Kushner Bishop nennt drei Gründe, warum wir im
 * Smith, Linda Tuhiwai: Decolonizing Methodologies, London 1999.  
 * Suzuki, Wendy A.; Feliú-Mójer, Mónica; Hasson, Uri u. a.: Dialogues: The Science and Power of Storytelling, in: Journal of Neuroscience 38 (44), 2018, S. 9468–9470.  
 * Tai, Jessica: Cultural Humility as a Framework for Anti-Oppressive Archival Description, in: Journal of Critical Library and Information Studies 3 (2), 2021, <<https://doi.org/10.24242/jclis.v3i2.120>>, Stand: 28.08.2025.  
-* Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation*,* Chicago 2021.  
+* Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation, Chicago 2021.  
 * Vunidilo, Tarisi: Talanoa From Dr Tarisi Vunidilo, Melanesian Women Today, 08.03.2022, <<https://www.melanesianwomentoday.org/tarisi>>, Stand: 28.08.2025.  
 
 [[end:literature]]
