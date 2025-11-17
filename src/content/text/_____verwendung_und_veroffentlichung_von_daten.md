@@ -223,7 +223,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[150]](
 **To-do**:  
 
 * Archivierung des ursprünglichen Titels zur Wahrung des Kontextes  
-* Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für Recherche:ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde zur Definierung eines neuen, deskriptiven Titels  
+* Vergabe von zusätzlichen Arbeitsstunden/Personalaufwand für die Recherche ob der Titel von dem:der Kunstschaffenden historisch belegt oder nachträglich vergeben wurde. Dies dient der Definierung eines neuen, deskriptiven Titels  
 
 [[end:block]]
 
