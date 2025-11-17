@@ -337,7 +337,7 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 
 ![Kulturvermittler steht in einem hellen Museumsraum und weist erklärt die rassistische Darstellung und deren Bildelemente einer Schulklasse. An der Wand hängen verschiedene Bilder und Texttafeln. Im Hintergrund sind weitere Ausstellungsstücke und beschriftete Wände zu sehen.](data:image/jpeg;base64...)
 
-Abbildung : «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 1: «kolonial – Globale Verflechtungen der Schweiz» im Landesmuseum Zürich (2024), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -365,7 +365,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ![Grosse Holzskulptur einer stehenden Figur auf einem Podest in einem Museum. Die Skulptur zeigt stilisierte menschliche Züge, und im Hintergrund befinden sich weitere Ausstellungsobjekte in Vitrinen.](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
+Abbildung 2: Ausstellungsansicht «Kader Attia» im Kunsthaus Zürich (2020) © Kunsthaus Zürich
 
 [[start:literature]]
 
@@ -399,7 +399,7 @@ Eine Analyse der eigenen Institutionsgeschichte kann helfen, Rassismen zurückli
 
 ![Person in Archivumgebung, die ein Eingangsbuch in den Händen hält. Im Hintergrund ist ein volles Regal mit nummerierten Büchern zu sehen.](data:image/jpeg;base64...)
 
-Abbildung : Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
+Abbildung 3: Archivar bei der Sichtung der Eingangsbücher im Landesmuseum Zürich (2022), Foto: Danilo Rüttimann, Zürich © SNM
 
 [[start:literature]]
 
@@ -572,7 +572,7 @@ Seit der frühen Neuzeit brachten Schweizer Missionar:innen, Söldner, Ärzte od
 
 ![Eine Sammlung getrockneter Pflanzen, Zweige und Insekten ist sorgfältig auf einem weißen Untergrund arrangiert. Die einzelnen Objekte sind mit kleinen handbeschrifteten Etiketten versehen, die wissenschaftliche Namen und Nummern zeigen. Zu sehen sind Blätter, Samenstände, Wurzeln sowie verschiedene Käfer und Schmetterlinge.](data:image/jpeg;base64...)
 
-Abbildung : Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
+Abbildung 5: Entomologische Sammlung der ETH Zürich, Foto: Simone Vogler.
 
 Spätestens ab dem 19. Jh. bauten Institutionen in der Schweiz systematisch Objektsammlungen aus den europäischen Kolonien auf. Dafür kultivierten sie Kontakte zu Schweizer Konsulaten, Unternehmen, Kaufleuten oder Wissenschaftlern in den Kolonien. Exemplarisch dafür sind die Sammlungen der 1899 gegründeten Geographisch-Ethnographischen Gesellschaft Zürich (GEGZ), aus der 1913 das Völkerkundemuseum Zürich hervorgehen sollte. Die GEGZ pflegte ein enges Netzwerk zu Schweizer Plantagenbesitzern und Kaufleuten in Afrika und Südostasien. Diese sandten ihr regelmässig Alltags-, Kultur- und Kunstobjekte aus den Kolonien zu.[[80]](#footnote-81)
 
@@ -692,7 +692,7 @@ Denis Pourawa schlug eine Umbenennung des [Objekts](#_Objekt) in *Nââkweta* vo
 
 ![Kunstobjekt das aussieht wie ein kleiner Baum mit einer runden, grünen Krone und freigelegten Wurzeln.](data:image/png;base64...)
 
-Abbildung : Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
+Abbildung 6: Nââkwéta, 18. Jahrhundert, gesammelt zwischen 1791 und 1794. Musée cantonal d’archéologie et d’histoire, MCAH/04547. Foto: Nadine Jacquet
 
 [Indigene](#_Indigen) Epistemologien sind direkt mit [indigenen](#_Indigen) Benennungspraktiken verbunden. 2019 erwarb das Auckland Museum Tamaki Paenga Hira eine «Tuiga Fafau» (samoanische Kopfbedeckung) der Künstlerin Tuifa’asisina Korina Seiuli Lee.[[109]](#footnote-110) Die originale Bezeichnung der Kopfbedeckung lautet «Tuiga Fafau A le Afioga ia Taia’opo Lorrina Melanie Seiuli Lee-Pou Tolu», was sich als «die Tuiga Fafau der anmutigen Taia’opo Lorrina Melania Seiuli Lee-Pou Tolu» übersetzen lässt. Im Inventar wird allerdings als Objekttitel nur «Tuiga Fafau» erwähnt und der Rest in die Kategorie «andere Bezeichnungen» verschoben. Durch die Nennung ihrer Tochter im Titel des Kunstwerks folgt die Künstlerin samoanischen Namenstraditionen, bei denen es üblich ist, Namen zu wählen, die entweder eine Person, einen Ort oder ein Ereignis würdigen. Des Weiteren verbindet die Künstlerin in materieller Art und Weise ihre Familie mit ihrer Kunst, indem sie Haare ihrer Tochter und verstorbenen Grossmutter in die Kopfbedeckung eingearbeitet hat. Damit bezieht sich die Kopfbedeckung auf eine Reihe von [indigenen](#_Indigen) Konzepten wie «Aiga» (deutsch *Familie*), «Gafa» (deutsch *Stammbaum*) und das samoanische Sprichwort «E so’o le fau i le fau» (deutsch *Einheit ist Kraft*). Die *Lave* (die drei Stäbe) der Kopfbedeckung symbolisieren durch ihre nach oben ausgerichtete Position das Durchdringen des Himmels und schaffen dadurch eine Verbindung zwischen dem himmlischen und dem irdischen Reich. Obwohl die verstorbene Grossmutter zwar physisch nicht anwesend ist, so wird durch das Kunstwerk doch eine symbolische Brücke zwischen den drei Frauen geschlagen. Das Museum berief sich hier zwar im Beschreiben und Dokumentieren auf samoanische Epistemologie, das Inventarisierungssystem und die Katalogstandards des Museums waren aber zu rigide, um dem Namen und der Bedeutung des [Objekts](#_Objekt) gerecht zu werden. Stattdessen wurde durch das Verlagern des Grossteils des Namens auf das Feld «andere Bezeichnungen» eine fiktive Hierarchie kreiert.
 
@@ -763,7 +763,7 @@ Museen können nicht nur durch die oben genannten Beispiele «geweisst» werden,
 
 ![Vertikal angeordnete Serie von Schwarz-Weiss-Fotografien, die unterschiedliche Szenen in einer Kunstausstellung zeigen.](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
+Abbildung 7: Ausstellungsansicht «Kunst aus Indien» im Kunsthaus Zürich (1960) © Kunsthaus Zürich
 
 #### **Auswirkungen von geweissten Räumen**
 
@@ -969,7 +969,7 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen.](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung mit dem N-Wort im Objekttitel und kontextualisierenden Schlagworten, erstellt von: Ruth Kistler
+Abbildung 8: Wireframe Skizze einer Online-Sammlung mit dem N-Wort im Objekttitel und kontextualisierenden Schlagworten, erstellt von: Ruth Kistler
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -1009,11 +1009,11 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird.](data:image/png;base64...)
 
-Abbildung : Wireframe Skizze einer Online-Sammlung bei dem der rassistische N-Begriff durch Asterisken ersetzt wurde, erstellt von: Ruth Kistler
+Abbildung 9: Wireframe Skizze einer Online-Sammlung bei dem der rassistische N-Begriff durch Asterisken ersetzt wurde, erstellt von: Ruth Kistler
 
 ![Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt".](data:image/png;base64...)
 
-Abbildung :Wireframe Skizze einer Online-Sammlung bei der eine rassistische Abbildung für die Nutzer:innen nicht angezeigt wird, erstellt von: Ruth Kistler
+Abbildung 11:Wireframe Skizze einer Online-Sammlung bei der eine rassistische Abbildung für die Nutzer:innen nicht angezeigt wird, erstellt von: Ruth Kistler
 
 ### (3) Titel neu formulieren
 
@@ -1168,13 +1168,13 @@ Ein weiterer wichtiger Schritt war die Etablierung des «BHM LAB», einer Plattf
 
 ![Innenaufnahme eines Ausstellungsraumes mit Fotografien und Texttafeln an den Wänden. In der Mitte befinden sich Vitrinen mit verschiedenen Masken. Der Raum ist hell und modern gestaltet.](data:image/jpeg;base64...)
 
-Abbildung : Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
+Abbildung 18: Ausstellungsansicht «Kartografie kolonialer Verflechtungen» im Bernischen Historischen Museum (2021) © Bernisches Historisches Museum, Bern
 
 Ein anderes Projekt, «Usakos – Making of Common History», fokussiert sich auf die Zusammenarbeit mit den Nachkommen der [Herkunftsgemeinschaft](#_Community_und_Herkunftsgesellschaft) einer ethnografischen Sammlung des Bernischen Historischen Museums aus einem problematischen kolonialen Kontext. Ziele des Projekts sind die gemeinsame Erforschung der [Objekte](#_Objekt) sowie deren Provenienzen, die Schaffung von Grundlagen für eine langfristige Partnerschaft mit dem Usakos Museum sowie die Repatriierung der Kulturgüter nach Namibia möglich zu machen.
 
 ![Drei Personen stehen in einem Raum mit Museumsexponaten. Im Vordergrund liegen ein geflochtener Korb und ein getrockneter Kürbis auf einem Tisch. Eine Frau in der Mitte trägt blaue Handschuhe und spricht in ein Mikrofon, während eine Frau in traditioneller Kleidung und ein Mann im Hintergrund zusehen.](data:image/jpeg;base64...)
 
-Abbildung : Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
+Abbildung 19: Workshopeinsicht zum Projekt «Usakos – Making of Common History» im Bernischen Historischen Museum (2023) © Bernisches Historisches Museum, Bern
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation ein. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferten die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM». Das Team des Fachbereichs Sammlungen konnte für rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte nachhaltig sensibilisiert werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
@@ -1235,9 +1235,9 @@ Abbildung 21: Diskussion mit Annette Bhagwati, Denise Tonella und Ann Demeester 
 
 ## Museum für Kommunikation
 
-Das Museum für Kommunikation hat 2022 eine Diversitätsstrategie verabschiedet. Das Haltungspapier formuliert Wirkungsziele und Massnahmen für eine kontinuierliche und nachhaltige Entwicklung in Richtung Inklusion und Diversität. Daraus wurden Handlungsfelder für die einzelnen Bereiche abgeleitet, für die Sammlungen unter anderem die diskriminierungskritische Überprüfung der Datenbank.[[170]](#footnote-171) Deshalb hat sich das Museum für Kommunikation auch an der Arbeitsgruppe «Critical GLAM» beteiligt. 2024 hat das Sammlungsteam zudem ein neues Sammlungskonzept verfasst, das Haltungen zu Diversität und Partizipation für die Sammelpraxis genauer ausformuliert und 2025 veröffentlicht wird.[[171]](#footnote-172) Der diskriminierungssensible Umgang mit [Objekten](#_Objekt) und Metadaten in der Datenbank ist dort festgehalten.
+Das Museum für Kommunikation hat 2022 eine Diversitätsstrategie verabschiedet. Das Haltungspapier formuliert Wirkungsziele und Massnahmen für eine kontinuierliche und nachhaltige Entwicklung in Richtung Inklusion und Diversität. Daraus wurden Handlungsfelder für die einzelnen Bereiche abgeleitet, für die Sammlungen unter anderem die diskriminierungskritische Überprüfung der Datenbank.[[170]](#footnote-171) Deshalb hat sich das Museum für Kommunikation auch an der Arbeitsgruppe «Critical GLAM» beteiligt. 2024 hat das Sammlungsteam zudem ein neues Sammlungskonzept verfasst, das Haltungen zu Diversität und Partizipation für die Sammelpraxis genauer ausformuliert und 2025 veröffentlicht wird.[[171]](#footnote-172)
 
-Als ersten Umsetzungsschritt hat das Sammlungsteam – durch gezielte Recherche sowie im Arbeitsalltag aufgefundene – Datensätze mit diskriminierenden Bildern, Objektinhalten oder Metadaten vorläufig auf den Status «intern» gestellt, sodass sie in der Sammlung online nicht erscheinen. Zusätzlich haben wir ein neues Feld «Begründung Inventarisierungsstatus» erstellt, in dem wir für Datensätze die Kategorie «ethische Bedenken» vergeben können. In einem Freitextfeld können wir dies weiter ausdifferenzieren (z. B. «Rassismus»). So können wir schnell und niederschwellig problematische Darstellungen und Inhalte filtern und sammeln. In einem nächsten geplanten Schritt werden die gefilterten Datensätze bearbeitet und anschliessend mit notwendigen Kontexten – wo möglich und gegebenenfalls mit visuellen Filtern für sensible Bilder – wieder online gestellt.
+Als ersten Umsetzungsschritt in der Überprüfung der Datenbank hat das Sammlungsteam – durch gezielte Recherche sowie im Arbeitsalltag aufgefundene – Datensätze mit diskriminierenden Bildern, Objektinhalten oder Metadaten vorläufig auf den Status «intern» gestellt, sodass sie in der Sammlung online nicht erscheinen. Zusätzlich haben wir ein neues Feld «Begründung Inventarisierungsstatus» erstellt, in dem wir für Datensätze die Kategorie «ethische Bedenken» vergeben können. In einem Freitextfeld können wir dies weiter ausdifferenzieren (z. B. «Rassismus»). So können wir schnell und niederschwellig problematische Darstellungen und Inhalte filtern und sammeln. In einem nächsten geplanten Schritt werden die gefilterten Datensätze bearbeitet und anschliessend mit notwendigen Kontexten – wo möglich und gegebenenfalls mit visuellen Filtern für sensible Bilder – wieder online gestellt.
 
 Auf Initiative der Stelle «Partizipation Sammlungen» und einer Kommunikatorin (Vermittlerin im Museum für Kommunikation) hat das Museum 2023 ein partizipatives, prozessoffenes Projekt zum Thema Antirassismus gestartet. Daraus ergab sich 2025 das Folgeprojekt «Rassismuskritische Narrative im Museum für Kommunikation – eine gemeinsame Suche», das gemeinsam mit Beteiligten des Vorprojekts initiiert und von einer externen Expertin co-geleitet wird. Im Projekt konzipieren Expert:innen in Antirassismus, Organisationsentwicklung und Museumsarbeit Workshops für Leitung und Mitarbeitende verschiedener Teams. Der Fokus liegt dabei auf den Ausstellungen, auf übergeordneter Ebene geht es jedoch um allgemeine Grundsätze rassismuskritischer Arbeit: Wo und wie wird im Museum Kolonialität reproduziert? Welche Rolle spielen Aspekte wie Machtbeziehungen, Distanzierungsmuster oder epistemische Gewalt, wenn wir uns mit rassismuskritischer Museumsarbeit auseinandersetzen wollen? Wie können wir die Angst, etwas falsch zu machen, überwinden und ins Handeln kommen? Solche Learnings verändern, wie wir über (Anti-)Rassismus und unsere Rolle als Museum nachdenken, wobei es sich um einen unabschliessbaren Lernprozess handelt. Die Erkenntnisse fliessen auch in die Sammlungsarbeit ein. Die Ergebnisse aus dem Projekt sollen veröffentlicht werden, um Erfahrungen und Learnings mit anderen Institutionen und Akteur:innen zu teilen. Geplant ist, die rassismuskritische Bearbeitung der Datenbank 2025 zu starten und dabei eine:n Expert:in aus dem Projekt «Rassismuskritische Narrative» beizuziehen.
 
@@ -1988,7 +1988,7 @@ Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz [Schw
 
 ![Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben.](data:image/jpeg;base64...)
 
-Abbildung : Altarflügel, AG 17, 1493. Schweizerisches Nationalmuseum © SNM
+Abbildung 37: Altarflügel, AG 17, 1493. Schweizerisches Nationalmuseum © SNM
 
 Diese Darstellung symbolisiert unter anderem die globale Ausdehnung des Christentums. Die Figur des «M\*» ist dabei nicht per se negativ konnotiert. [Schwarze](#_Schwarz/weiss) Menschen können in diesen Darstellungen zugleich ‹exotisch›, ehrwürdig oder mystisch erscheinen. Zugleich werden sie jedoch nicht als gleichwertige Zeitgenossen verstanden, sondern als Sinnbilder für das «Fremde», das dem Eigenen (bedrohend) gegenübersteht.
 
@@ -2592,7 +2592,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 168. Ausstellung «extract»: <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>>, Stand: 12.08.2025. [↑](#footnote-ref-169)
 169. Digitaler Rundgang: <<https://art.ethz.ch/erinnerungskultur/>>, Stand: 12.08.2025. [↑](#footnote-ref-170)
 170. Siehe hierzu auch: Bürgi, Jonas: Diversität in der Archiv- und Sammlungsarbeit: ein langer Weg aus der Komfortzone, in: Onlineportal des PTT-Archivs und der Sammlungen des Museums für Kommunikation, 26.02.2024. Online: <<https://mfk.rechercheonline.ch/de/explore/articles/diversitaet-in-archiv-und-sammlungsarbeit>>, Stand: 29.08.2025. [↑](#footnote-ref-171)
-171. FUSSNOTE MIT LINK KANN JONAS BIS ENDE OKTOBER NACHLIEFERN. [↑](#footnote-ref-172)
+171. Museum für Kommunikation, Sammlungskonzept 2025: <https://www.mfk.ch/fileadmin/files/02\_Forschen/01\_Sammlung/02\_Information/Sammlungskonzept2025\_Museum\_fuer\_Kommunikation.pdf>, Stand: 17.11.2025. [↑](#footnote-ref-172)
 172. Stiftung für Kunst, Kultur und Geschichte (SKKG), Sammlung digital, <<https://digital.skkg.ch/>>, Stand: 01.10.2025. [↑](#footnote-ref-173)
 173. Stiftung für Kunst, Kultur und Geschichte (SKKG), «Disclaimer», Sammlung digital, <<https://digital.skkg.ch/de/intro#disclaimer>>, Stand: 01.10.2025. [↑](#footnote-ref-174)
 174. Die Befolgung von Standards zur Erschliessung ermöglicht die Nutzung und den Austausch von Daten über Institutionsgrenzen hinweg. Es gibt hilfreiche Handreichungen, die sich spezifisch an Museen/Sammlungen wenden: Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025. – ­Minimaldatensatz Empfehlung für Sammlungen und Museen: <<https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678>>, Stand: 09.04.2025. – Als Austauschformat für Museen und Sammlungen empfiehlt der ICOM Lido: < <https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido//>>, Stand: 09.04.2025 –Austauschformat Spectrum: <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025. –Ebenso widmen sich die ethischen Richtlinien für Museen von ICOM dem Thema der Standards bei der Objekterfassung: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>>, S. 15, Kapitel 2.20, Stand: 05.05.2025.
