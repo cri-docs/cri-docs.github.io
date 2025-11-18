@@ -2263,6 +2263,8 @@ o. A.: What’s in a Name?, AGOinsider, 23.05.2018, <<https://ago.ca/agoinsider/
 
 Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018.  
 
+Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 19957, S. 21.  
+
 PARC (Portal for African Research Collections) (Hg.): Ethical Guidelines, Basel o. D., <<https://www.parc-portal.org/en/simple/ethical-guidelines/>>, Stand: 08.07.2025.  
 
 Pfrunder, Peter (Hg.): 99 Fotografien, Zürich 2021.  
