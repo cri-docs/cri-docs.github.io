@@ -26,7 +26,7 @@ Barth, Hans; Fässler, Hans: «Agassiz, Louis», in: Historisches Lexikon der Sc
 
 Becker, Peter; Clark, William: Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2001 (Social History, Popular Culture, and Politics in Germany).  
 
-Bendix, Daniel; Danielzik, Chandra-Milena: Exotik, in: Arndt, Susan; Ofuatey-Alazard, Nadja (Hg.): Wie Rassismus aus Wörtern spricht. (K)Erben des Kolonialismus im Wissensarchiv deutsche Sprache. Ein kritisches Nachschlagewerk, Münster 2011, S. 634.  
+Bendix, Daniel; Danielzik, Chandra-Milena: Exotik, in: Arndt, Susan; Ofuatey-Alazard, Nadja (Hg.): Wie Rassismus aus Wörtern spricht. (K)Erben des Kolonialismus im Wissensarchiv deutsche Sprache. Ein kritisches Nachschlagewerk, Münster 2011.  
 
 Black Cultural Archives, London, <<https://www.calmview.eu/BCA/CalmView/default.aspx>>, Stand: 08.07.2025.  
 
@@ -52,7 +52,7 @@ Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field 
 
 Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025.  
 
-Deutscher Museumsbund e.V. (Hg.): Leitfaden Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2021³.  
+Deutscher Museumsbund e.V. (Hg.): Leitfaden Umgang mit Sammlungsgut aus kolonialen Kontexten, Berlin 2021^³.  
 
 Digitales Wörterbuch der deutschen Sprache: «exotisch», <<https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025.  
 
@@ -70,11 +70,11 @@ E-Pics, Bildarchiv ETH Zürich: Koloniale Materialien: <<https://wil.e-pics.ethz
 
 Europeana (Hg.): DE-BIAS. Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>/>, Stand: 20.05.2025.  
 
-EVIFA: Netzwerk koloniale Kontexte, <https://www.evifa.de/de/netzwerk-koloniale-kontexte>, Stand: 02.12.2024.  
+EVIFA: Netzwerk koloniale Kontexte, <<https://www.evifa.de/de/netzwerk-koloniale-kontexte>>, Stand: 02.12.2024.  
 
 Fahrni, Oliver: Die Kolonisierung war eine grosse sexuelle Safari, Work – Gewerkschaft Unia, 16.08.2019, <<https://www.workzeitung.ch/2019/08/die-kolonialisierung-war-eine-grosse-sexuelle-safari/>>, Stand: 26.02.2025.  
 
-Fischer, Hartwig: A Message from Director Hartwig Fischer, British Museum London, 5.6.2020, <<https://www.britishmuseum.org/blog/message-director-hartwig-fischer/>>, Stand: 25.10.2024.  
+Fischer, Hartwig: A Message from Director Hartwig Fischer, British Museum London, 05.06.2020, <<https://www.britishmuseum.org/blog/message-director-hartwig-fischer/>>, Stand: 25.10.2024.  
 
 Florin, Moritz: Kommerz und Vielfalt: Diversität in Zirkusunternehmen in den USA, Europa und Russland, 1850–1914, in: Florin, Moritz; Gutsche, Victoria; Krentz, Natalie (Hg.): Diversität historisch. Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel, Bielefeld 2018, S. 121–141.  
 
@@ -172,7 +172,7 @@ o. A.: What’s in a Name?, AGOinsider, 23.05.2018, <<https://ago.ca/agoinsider/
 
 Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018.  
 
-Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 19957, S. 21.  
+Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, München 1995^7, S. 21.  
 
 PARC (Portal for African Research Collections) (Hg.): Ethical Guidelines, Basel o. D., <<https://www.parc-portal.org/en/simple/ethical-guidelines/>>, Stand: 08.07.2025.  
 
