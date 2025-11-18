@@ -116,7 +116,7 @@ Musée du Louvre, Paris, <[https://collections.louvre.fr/en/ark:/53355/cl0100655
 
 Museum Fünf Kontinente, München, <<https://onlinedatenbank-museum-fuenf-kontinente.de/>>, Stand: 08.07.2025.  
 
-Museum Ludwig, <<https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464/>>, Stand: 08.07.2025.  
+Museum für Kommunikation, Sammlungskonzept 2025: [https://www.mfk.ch/fileadmin/files/02\\_Forschen/01\\_Sammlung/02\\_Information/Sammlungskonzept2025\\_…](https://www.mfk.ch/fileadmin/files/02/_Forschen/01/_Sammlung/02/_Information/Sammlungskonzept2025/_Museum/_fuer/_Kommunikation.pdf), Stand: 17.11.2025.Museum Ludwig, <<https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464/>>, Stand: 08.07.2025.  
 
 Museum of Archaeology and Anthropology, Cambridge, <<https://collections.maa.cam.ac.uk/>>, Stand: 08.07.2025.  
 

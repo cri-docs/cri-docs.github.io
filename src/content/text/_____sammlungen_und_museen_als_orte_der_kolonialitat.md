@@ -54,7 +54,7 @@ Die Herausforderung der Museen besteht heute darin, die Geschichte und das epist
 * Barbujani, Guido: Die Erfindung der Rassen. Wissenschaft gegen Rassismus, Berlin 2021.  
 * Barkan, Elazar: The Retreat of Scientific Racism. Changing Concepts of Race in Britain and the United States between the World Wars, Cambridge 1992.  
 * Becker, Peter; Clark, William (Hg.): Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2001.  
-* Berner Wandbild: Verein «Das Wandbild muss weg»: Das Wandbild muss weg!, <<https://daswandbildmussweg.ch/>>, Stand: 30.05.2024; Bernisches Historisches Museum, <https://www.bhm.ch/de/ausstellungen/vergangene-ausstellungen/widerstaende>, Stand: 30.05.2024.  
+* Berner Wandbild: Verein «Das Wandbild muss weg»: Das Wandbild muss weg!, <<https://daswandbildmussweg.ch/>>, Stand: 30.05.2024; Bernisches Historisches Museum, <<https://www.bhm.ch/de/ausstellungen/vergangene-ausstellungen/widerstaende>>, Stand: 30.05.2024.  
 * Blanchard, Pascal; Bancel, Nicolas; Boëtsch, Gilles u. a. (Hg.): Sexe, race et colonies, Paris 2018.  
 * Bödeker, Hans Erich; Reill, Peter Hanns; Schlumbohm, Jürgen (Hg.): Wissenschaft als kulturelle Praxis 1750–1900, S. 137–161.  
 * Brahm, Felix: Imperialismus und Kolonialismus, in: Sommer, Marianne; Müller-Wille, Staffan; Reinhardt, Carsten (Hg.): Handbuch Wissenschaftsgeschichte, Stuttgart 2017, S. 287–294.  
@@ -112,7 +112,6 @@ Die Herausforderung der Museen besteht heute darin, die Geschichte und das epist
 * Rheinberger, Hans-Jörg: Epistemologica. Präparate, in: te Heesen; Lutz 2005, S. 65–75.  
 * Rosaldo, Renato: Imperialist Nostalgia, in: Representations 26, 1989, S. 107–122.  
 * Rütsche, Claudia: Die Kunstkammer in der Zürcher Wasserkirche, öffentliche Sammeltätigkeit einer gelehrten Bürgerschaft im 17. und 18. Jh. aus museumsgeschichtlicher Sicht, Bern 1997; SNF-PRIMA-Projekt Bibliothèques et musées en Suisse entre XVIIIe et XIXe unter der Leitung von Prof. Dr. Valérie Kobi.  
-* Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
 * Schiebinger, Londa: Nature’s Body. Gender in the Making of Modern Science, Boston 1993.  
 * Schwartz, Michael: Sozialistische Eugenik im 20. Jh., in: Nate, Richard; Klüsener, Bea: Culture and Biology. Perspectives on the European Modern Age, Würzburg 2011, S. 57–73.  
 * Sebastiani, Silvia: Enlightenment, Humanization and Dehumanization, and the Orangutan, in: Kronfeldner, Maria (Hg.): The Routledge Handbook of Dehumanization, Oxon; New York 2021, S. 64–82.  

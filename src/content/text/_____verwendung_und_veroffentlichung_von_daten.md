@@ -111,7 +111,7 @@ Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. Mär
 
 Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinzugefügt, z. B.: «[Problematischer Titel]\*». Ergänzend kann eine Stellungnahme oder ein Verweis auf ein Glossar erfolgen.  
 
-Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[145]](#footnote-146) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[146]](#footnote-147) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[147]](#footnote-148)  
+Beispiele: Salzburg Museum[[145]](#footnote-146) mit Glossar[[146]](#footnote-147) | Museum Ludwig[[147]](#footnote-148)  
 
 **Vor- und Nachteile**:  
 
@@ -145,13 +145,13 @@ Beispiele: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/co
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung : Wireframe Skizze einer Online-Sammlung mit dem N-Wort im Objekttitel und kontextualisierenden Schlagworten, erstellt von: Ruth Kistler](/images/image009.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort ausgeschrieben steht. Unterhalb sind die Schlagworte "Anti-Schwarzer-Rassismus" und "diskriminierende Sprache" zu lesen., extra:Abbildung 8: Wireframe Skizze einer Online-Sammlung mit dem N-Wort im Objekttitel und kontextualisierenden Schlagworten, erstellt von: Ruth Kistler](/images/image009.jpg)  
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden  
 
 Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingefügt oder Abbildungen werden unscharf dargestellt oder weggelassen.  
 
-Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[148]](#footnote-149) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[149]](#footnote-150)  
+Beispiele: Staatliche Kunstsammlungen Dresden[[148]](#footnote-149) | ETH Bibliothek, Zürich[[149]](#footnote-150)  
 
 **Vor- und Nachteile**:  
 
@@ -184,16 +184,16 @@ Beispiele: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.sk
 [[end:block]]
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird., extra:Abbildung : Wireframe Skizze einer Online-Sammlung bei dem der rassistische N-Begriff durch Asterisken ersetzt wurde, erstellt von: Ruth Kistler](/images/image010.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objekttitels, in dem das rassistsche N-Wort mit Sternen zensiert wird., extra:Abbildung 9: Wireframe Skizze einer Online-Sammlung bei dem der rassistische N-Begriff durch Asterisken ersetzt wurde, erstellt von: Ruth Kistler](/images/image010.jpg)  
 
 
-![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:Abbildung :Wireframe Skizze einer Online-Sammlung bei der eine rassistische Abbildung für die Nutzer:innen nicht angezeigt wird, erstellt von: Ruth Kistler](/images/image011.jpg)  
+![alt:Wireframe Skizze einer Online-Sammlung mit einem Beispiel eines Objektbildes, das durch eine technische Sichtbarriere unkenntlich gemacht wurde. Auf dem Banner steht "Diese Abbildung wird wegen ethischer Bedenken nicht online gezeigt"., extra:Abbildung 11:Wireframe Skizze einer Online-Sammlung bei der eine rassistische Abbildung für die Nutzer:innen nicht angezeigt wird, erstellt von: Ruth Kistler](/images/image011.jpg)  
 
 ### (3) Titel neu formulieren  
 
 Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezeichnungen ersetzt.  
 
-Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[150]](#footnote-151) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[151]](#footnote-152) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532)[[152]](#footnote-153)  
+Beispiele: Rijksmuseum, Amsterdam[[150]](#footnote-151) | Art Gallery of Ontario[[151]](#footnote-152) | Musée du Louvre, Paris[[152]](#footnote-153)  
 
 **Vor- und Nachteile**:  
 
@@ -234,7 +234,7 @@ Beispiele: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[150]](
 
 Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Anklicken erscheinen der Originaltitel, eine Warnung und eine Begriffserklärung.  
 
-Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[154]](#footnote-155)  
+Beispiel: Victoria and Albert Museum, London[[154]](#footnote-155)  
 
 **Vor- und Nachteile**:  
 
@@ -281,7 +281,7 @@ Beispiele: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/it
 
 Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der Startseite oder in der Objektansicht eingefügt.  
 
-Beispiele: [Museum of Archaeology and Anthropology, Cambridge](https://collections.maa.cam.ac.uk/)[[155]](#footnote-156) | [Getty, Los Angeles, CA](https://www.getty.edu/art/collection/object/108GHT)[[156]](#footnote-157) | [PARC (Portal for African Research Collections), Basel](https://www.parc-portal.org/en/simple/ethical-guidelines)[[157]](#footnote-158) | [Black Cultural Archives, London](https://www.calmview.eu/BCA/CalmView/default.aspx)[[158]](#footnote-159) | [MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg](https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf)[[159]](#footnote-160) | [Schweizerisches Nationalmuseum, Zürich](https://sammlung.nationalmuseum.ch/)[[160]](#footnote-161) | [Museum Fünf Kontinente, München](https://onlinedatenbank-museum-fuenf-kontinente.de/)[[161]](#footnote-162)  
+Beispiele: Museum of Archaeology and Anthropology, Cambridge[[155]](#footnote-156) | Getty, Los Angeles, CA[[156]](#footnote-157) | PARC (Portal for African Research Collections), Basel[[157]](#footnote-158) | Black Cultural Archives, London[[158]](#footnote-159) | MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg[[159]](#footnote-160) | Schweizerisches Nationalmuseum, Zürich[[160]](#footnote-161) | Museum Fünf Kontinente, München[[161]](#footnote-162)  
 
 **Vor- und Nachteile**:  
 
