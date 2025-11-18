@@ -2234,7 +2234,9 @@ Musée du Louvre, Paris, <[https://collections.louvre.fr/en/ark:/53355/cl0100655
 
 Museum Fünf Kontinente, München, <<https://onlinedatenbank-museum-fuenf-kontinente.de/>>, Stand: 08.07.2025.
 
-Museum für Kommunikation, Sammlungskonzept 2025: [https://www.mfk.ch/fileadmin/files/02\\_Forschen/01\\_Sammlung/02\\_Information/Sammlungskonzept2025\\_…](https://www.mfk.ch/fileadmin/files/02/_Forschen/01/_Sammlung/02/_Information/Sammlungskonzept2025/_Museum/_fuer/_Kommunikation.pdf), Stand: 17.11.2025.Museum Ludwig, <<https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464/>>, Stand: 08.07.2025.
+Museum für Kommunikation, Sammlungskonzept 2025: <<https://www.mfk.ch/fileadmin/files/02_Forschen/01_Sammlung/02_Information/Sammlungskonzept2025_Museum_fuer_Kommunikation.pdf>>, Stand: 17.11.2025.
+
+Museum Ludwig, <<https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464/>>, Stand: 08.07.2025.
 
 Museum of Archaeology and Anthropology, Cambridge, <<https://collections.maa.cam.ac.uk/>>, Stand: 08.07.2025.
 
@@ -2614,7 +2616,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 168. Ausstellung «extract»: <<https://extract.ethz.ch/ausstellung/ausstellungsarchiv.html>>, Stand: 12.08.2025. [↑](#footnote-ref-169)
 169. Digitaler Rundgang: <<https://art.ethz.ch/erinnerungskultur/>>, Stand: 12.08.2025. [↑](#footnote-ref-170)
 170. Siehe hierzu auch: Bürgi, Jonas: Diversität in der Archiv- und Sammlungsarbeit: ein langer Weg aus der Komfortzone, in: Onlineportal des PTT-Archivs und der Sammlungen des Museums für Kommunikation, 26.02.2024. Online: <<https://mfk.rechercheonline.ch/de/explore/articles/diversitaet-in-archiv-und-sammlungsarbeit>>, Stand: 29.08.2025. [↑](#footnote-ref-171)
-171. Museum für Kommunikation, Sammlungskonzept 2025: <https://www.mfk.ch/fileadmin/files/02\_Forschen/01\_Sammlung/02\_Information/Sammlungskonzept2025\_Museum\_fuer\_Kommunikation.pdf>, Stand: 17.11.2025. [↑](#footnote-ref-172)
+171. Museum für Kommunikation, Sammlungskonzept 2025: <<https://www.mfk.ch/fileadmin/files/02_Forschen/01_Sammlung/02_Information/Sammlungskonzept2025_Museum_fuer_Kommunikation.pdf>>, Stand: 17.11.2025. [↑](#footnote-ref-172)
 172. Stiftung für Kunst, Kultur und Geschichte (SKKG), Sammlung digital, <<https://digital.skkg.ch/>>, Stand: 01.10.2025. [↑](#footnote-ref-173)
 173. Stiftung für Kunst, Kultur und Geschichte (SKKG), «Disclaimer», Sammlung digital, <<https://digital.skkg.ch/de/intro#disclaimer>>, Stand: 01.10.2025. [↑](#footnote-ref-174)
 174. Die Befolgung von Standards zur Erschliessung ermöglicht die Nutzung und den Austausch von Daten über Institutionsgrenzen hinweg. Es gibt hilfreiche Handreichungen, die sich spezifisch an Museen/Sammlungen wenden: Deutscher Museumsbund (Hg.): Leitfaden für die Dokumentation von Museumsobjekten, Berlin 2011, <<https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf>>, Stand: 09.04.2025. – ­Minimaldatensatz Empfehlung für Sammlungen und Museen: <<https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678>>, Stand: 09.04.2025. – Als Austauschformat für Museen und Sammlungen empfiehlt der ICOM Lido: < <https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido//>>, Stand: 09.04.2025 –Austauschformat Spectrum: <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025. –Ebenso widmen sich die ethischen Richtlinien für Museen von ICOM dem Thema der Standards bei der Objekterfassung: <<https://www.museums.ch/admin/data/files/media/file_de/125/ICOM_Ethische_Richtlinien_D_web.pdf?lm=1664535183>>, S. 15, Kapitel 2.20, Stand: 05.05.2025. [↑](#footnote-ref-175)
