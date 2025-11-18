@@ -92,8 +92,15 @@
   onmouseenter={mouseEnter}
   onmouseleave={mouseLeave}
 >
-  <span class={[styles.content, "content"].join(" ")}>
-    {@html markdownOriginal.parseInline(content)}
+  <span
+    class={[styles.content, "content"].join(" ")}
+    style={content?.startsWith("*")
+      ? "font-style: italic; padding-right: 0.4ch;"
+      : ""}
+  >
+    {@html markdownOriginal.parseInline(
+      content?.startsWith("*") ? " " + content.slice(1, -1) : content
+    )}
   </span>
 </button>
 {#if showPopup}
