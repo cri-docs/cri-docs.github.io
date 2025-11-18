@@ -11,6 +11,8 @@ toc:
 Version 1.0, November 2025  
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) <img class="inline" alt="icon for the Copyright CC BY 4.0." src="/images/ccby.svg"/>  
 
+[[start:doNotHyphen]]
+
 **Mitwirkende:**  
 [Bernisches Historisches Museum](https://www.bhm.ch/de), Barbara Weber  
 [ETH-Bibliothek](https://library.ethz.ch/), [Sammlungen und Archive](https://ethz.ch/de/campus/erleben/lernen-und-arbeiten/sammlungen-und-archive.html), ETH Zürich, Roberta Spano und Stephanie Willi  
@@ -21,6 +23,8 @@ Version 1.0, November 2025
 [Schweizerisches Nationalmuseum](https://www.nationalmuseum.ch/de), Dario Donati und Céline Hug  
 [Stiftung für Kunst, Kultur und Geschichte (SKKG)](https://www.skkg.ch/), Winterthur, Sonja Gasser  
 
+[[end:doNotHyphen]]
+
 **Kontakt:**  
 info@criticalGLAM.ch  
 Konradstrasse 14  
@@ -29,8 +33,12 @@ CH-8005 Zürich
 **Konzept- und Projektbegleitung:**  
 [Danielle Isler](https://www.danielle-isler.com/)  
 
+[[start:doNotHyphen]]
+
 **Textbeiträge:**  
 Pierre-Louis Blanchard, Mariama de Brito Henn, Noémie Etienne, Danielle Isler, Chonja Lee, Monique Ligtenberg, Ruby Satele Asiata  
+
+[[end:doNotHyphen]]
 
 **Fotos:**  
 Siehe Angaben in den Bildlegenden.  
