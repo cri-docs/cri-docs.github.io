@@ -2136,6 +2136,8 @@ Arnold, Rick; Burke, Bev; James, Carl u. a.: Educating for a Change, Toronto 199
 
 Austauschformat Spectrum, Collections Trust, <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025.
 
+Barth, Hans; Fässler, Hans: «Agassiz, Louis», in: Historisches Lexikon der Schweiz (HLS), Version vom 23.03.2018, <<https://hls-dhs-dss.ch/de/articles/015920/2018-03-23/>>, Stand: 12.08.2025.
+
 Becker, Peter; Clark, William: Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2001 (Social History, Popular Culture, and Politics in Germany).
 
 Bendix, Daniel; Danielzik, Chandra-Milena: Exotik, in: Arndt, Susan; Ofuatey-Alazard, Nadja (Hg.): Wie Rassismus aus Wörtern spricht. (K)Erben des Kolonialismus im Wissensarchiv deutsche Sprache. Ein kritisches Nachschlagewerk, Münster 2011, S. 634.
@@ -2156,7 +2158,9 @@ Cockrell, Dale: Demons of Disorder: Early Blackface Minstrels and Their World, C
 
 Darman, Ashkira; Schär, Bernhard: Zürcher «Mohren»-Fantasien. Eine bau- und begriffsgeschichtliche Auslegeordnung, ca. 1400–2022 (E-Book), Zürich 2023. Online: <<https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/publikationen/2023/zuercher-mohren-fantasien/zuercher-m-fantasien.pdf>/>, Stand: 07.05.2025.
 
-de Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.
+De Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.
+
+Dos Santos Pinto, Jovita: Un/doing Race. Rassifizierung in der Schweiz, Zürich; Genf 2022.
 
 Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field (E-Book), Washington, DC 2020. Online: <<https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>>.
 
@@ -2239,6 +2243,10 @@ Museum für Naturkunde Berlin: Leitfaden für den Umgang mit naturhistorischen S
 National Museum of World Cultures (Hg.): Words Matter. An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>/>, Stand: 20.05.2025.
 
 Nationaler Diskriminierungs- und Rassismusmonitor (Hg.): Rassismusforschung I. Theoretische und interdisziplinäre Perspektiven, Bielefeld 2023.
+
+Ndiaye, Pap : La condition noire : essai sur une minorité française, Paris 2011.
+
+Ndiaye, Pap : Les Noirs américains en marche pour l’égalité, Paris 2009.
 
 o. A.: Benin verpflichtet. Wie mit geraubten Königsschätzen umgehen? [Ausstellung Völkerkunde Museum der Universität Zürich, 24.08.2024–14.09.2025], <<https://www.musethno.uzh.ch/de/ausstellungen/benin-verpflichtet.html>/>, Stand 16.05.2025.
 
@@ -2492,7 +2500,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 70. Für eine Theorie der Sammlung und Typologie von Gegenständen in Sammlungen siehe Pomian, Kryzstof: Sammlungen – eine historische Typologie, in: Grote, Andreas: Macrocosmos in Microcosmos. Die Welt in der Stube. Zur Geschichte des Sammelns 1450 bis 1800, Wiesbaden 1994, S. 107–126. [↑](#footnote-ref-71)
 71. Siehe Azoulay, Ariella Aïsha: Potential history. Unlearning Imperialism, London; New York 2019. [↑](#footnote-ref-72)
 72. Macdonald, Sharon: Sighting the Dust. Attending to the Museum through its Residues, in: Samuel, Nina; Sattler, Felix (Hg.): Museale Reste, Berlin; Boston 2022 (Bildwelten des Wissens 18), S. 11–23. [↑](#footnote-ref-73)
-73. Gute Übersichtswerke zur Kolonialgeschichte der Schweiz sind: dos Santos Pinto, Jovita et al. (Hg.): Un/doing Race. Rassifizierung in der Schweiz, Zürich 2022. ̶ Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019. ̶ Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015. ̶ Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012. ̶ Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011. ̶ Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklaverei, Zürich 2005. [↑](#footnote-ref-74)
+73. Gute Übersichtswerke zur Kolonialgeschichte der Schweiz sind: Dos Santos Pinto, Jovita et al. (Hg.): Un/doing Race. Rassifizierung in der Schweiz, Zürich 2022. ̶ Purtschert, Patricia: Kolonialität und Geschlecht im 20. Jh. Eine Geschichte der weissen Schweiz, Bielefeld 2019. ̶ Purtschert, Patricia; Fischer-Tiné, Harald (Hg.): Colonial Switzerland. Rethinking Colonialism from the Margins, London 2015. ̶ Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012. ̶ Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011. ̶ Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklaverei, Zürich 2005. [↑](#footnote-ref-74)
 74. Vgl. Sarr, Felwine; Savoy, Bénédicte: Rapport sur la restitution du patrimoine culturel africain. Vers une nouvelle éthique relationelle, Paris 2018. [↑](#footnote-ref-75)
 75. Vgl. Osterhammel, Jürgen; Jansen, Jan C.: Kolonialismus. Geschichte, Formen, Folgen, Frankfurt a. M. 2013.
 
@@ -2647,7 +2655,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 211. Lüthi, Barbara., Falk, Francesca, Purtschert, Patrizia: Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2013^2 , S. 37–39. [↑](#footnote-ref-212)
 212. Umurungi, Marilyn: Kolonialismus und die Institutionalisierung der Schweizer «Rassenforschung», in: Tonella u. a.: *Kolonial,* S. 229. [↑](#footnote-ref-213)
 213. Schär, «Rassismus», Stand: 23.06.2025 [↑](#footnote-ref-214)
-214. Barth, Hans; Fässler, Hans: «Agassiz, Louis», in: Historisches Lexikon der Schweiz (HLS), Version vom 23.03.2018. Online:<<https://hls-dhs-dss.ch/de/articles/015920/2018-03-23/>>, Stand: 12.08.2025. [↑](#footnote-ref-215)
+214. Barth, Hans; Fässler, Hans: «Agassiz, Louis», in: Historisches Lexikon der Schweiz (HLS), Version vom 23.03.2018, <<https://hls-dhs-dss.ch/de/articles/015920/2018-03-23/>>, Stand: 12.08.2025. [↑](#footnote-ref-215)
 215. Umurungi: Kolonialismus und die Institutionalisierung der Schweizer «Rassenforschung», S. 231. ̶ Siehe auch den Text «[Sammlungen und Museen als Orte der Kolonialität](sammlungen_und_museen_als_orte_der_kolonialitat)» von Chonia Lee in diesem Handbuch. [↑](#footnote-ref-216)
 216. Dos Santos Pinto, Un/doing race, 2022, S. 10. [↑](#footnote-ref-217)
 217. Bucher, Delf: Wie das «Negerli ganz fein» Kolonialgeschichten erzählt, in: Verein UntergRundgang Luzern, <<https://untergrundgang.ch/wie-das-negerli-ganz-fein-kolonialgeschichten-erzaehlt/>>, Stand: 07.08.2025. [↑](#footnote-ref-218)
@@ -2655,7 +2663,7 @@ Den Geschäftsleitungen der beteiligten Institutionen.
 219. Bianchi, Federico; Kalluri, Pratyusha; Durmus, Esin u. a.: Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale, in: 2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago IL USA 2023, S.1493–1504, <<https://doi.org/10.1145/3593013.3594095>>, Stand: 12.08.2025. [↑](#footnote-ref-220)
 220. Beim Training werden z. B. Lösungen, die KI präsentiert und die als rassistisch, diskriminierend oder aus anderen ethischen Gründen eingestuft werden von Angestellten der KI-Modelle, abgelehnt. So wird die KI gezwungen, nach alternativen Lösungen zu suchen. [↑](#footnote-ref-221)
 221. The DE-BIAS Tool, Europeana PRO, <<https://pro.europeana.eu/page/the-de-bias-tool>>, Stand: 13.08.2025. [↑](#footnote-ref-222)
-222. Dos Santos Pinto: Un/doing race, 2022, S. 13. [↑](#footnote-ref-223)
+222. Dos Santos Pinto, Un/doing race, 2022, S. 13. [↑](#footnote-ref-223)
 223. Ndiaye, Pap : Les Noirs américains en marche pour l’égalité, Paris 2009. [↑](#footnote-ref-224)
 224. Ndiaye, Pap : La condition noire : essai sur une minorité française, Paris 2011. [↑](#footnote-ref-225)
 225. «exotisch», bereitgestellt durch das Digitale Wörterbuch der deutschen Sprache, <<https://www.dwds.de/wb/exotisch>>, Stand: 04.08.2025, [↑](#footnote-ref-226)

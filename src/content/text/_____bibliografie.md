@@ -22,6 +22,8 @@ Arnold, Rick; Burke, Bev; James, Carl u. a.: Educating for a Change, Toronto 199
 
 Austauschformat Spectrum, Collections Trust, <<https://collectionstrust.org.uk/spectrum/>>, Stand: 05.05.2025.  
 
+Barth, Hans; Fässler, Hans: «Agassiz, Louis», in: Historisches Lexikon der Schweiz (HLS), Version vom 23.03.2018, <<https://hls-dhs-dss.ch/de/articles/015920/2018-03-23/>>, Stand: 12.08.2025.  
+
 Becker, Peter; Clark, William: Little Tools of Knowledge. Historical Essays on Academic and Bureaucratic Practices, Ann Arbor 2001 (Social History, Popular Culture, and Politics in Germany).  
 
 Bendix, Daniel; Danielzik, Chandra-Milena: Exotik, in: Arndt, Susan; Ofuatey-Alazard, Nadja (Hg.): Wie Rassismus aus Wörtern spricht. (K)Erben des Kolonialismus im Wissensarchiv deutsche Sprache. Ein kritisches Nachschlagewerk, Münster 2011, S. 634.  
@@ -42,7 +44,9 @@ Cockrell, Dale: Demons of Disorder: Early Blackface Minstrels and Their World, C
 
 Darman, Ashkira; Schär, Bernhard: Zürcher «Mohren»-Fantasien. Eine bau- und begriffsgeschichtliche Auslegeordnung, ca. 1400–2022 (E-Book), Zürich 2023. Online: <<https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/publikationen/2023/zuercher-mohren-fantasien/zuercher-m-fantasien.pdf>/>, Stand: 07.05.2025.  
 
-de Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.  
+De Castro, Inés; Himmelsbach, Markus; Wegmann, Heiko u. a. (Hg.): Schwieriges Erbe. Linden-Museum und Württemberg im Kolonialismus: eine Werkausstellung [Ausstellung Linden-Museum, Stuttgart, 23.08.2018–22.04.2019], Stuttgart 2021.  
+
+Dos Santos Pinto, Jovita: Un/doing Race. Rassifizierung in der Schweiz, Zürich; Genf 2022.  
 
 Cordell, Ryan: Machine Learning + Libraries: A Report on the State of the Field (E-Book), Washington, DC 2020. Online: <<https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf>>.  
 
@@ -125,6 +129,10 @@ Museum für Naturkunde Berlin: Leitfaden für den Umgang mit naturhistorischen S
 National Museum of World Cultures (Hg.): Words Matter. An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>/>, Stand: 20.05.2025.  
 
 Nationaler Diskriminierungs- und Rassismusmonitor (Hg.): Rassismusforschung I. Theoretische und interdisziplinäre Perspektiven, Bielefeld 2023.  
+
+Ndiaye, Pap : La condition noire : essai sur une minorité française, Paris 2011.  
+
+Ndiaye, Pap : Les Noirs américains en marche pour l’égalité, Paris 2009.  
 
 o. A.: Benin verpflichtet. Wie mit geraubten Königsschätzen umgehen? [Ausstellung Völkerkunde Museum der Universität Zürich, 24.08.2024–14.09.2025], <<https://www.musethno.uzh.ch/de/ausstellungen/benin-verpflichtet.html>/>, Stand 16.05.2025.  
 
