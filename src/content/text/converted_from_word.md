@@ -2226,7 +2226,7 @@ Mugglin, Leonie; Efionayi, Denise; Ruedin, Didier u. a.: Grundlagenstudie zu str
 
 Müller, Lar; Scheibe, Michaela; Schmid, Larissa: Bibliotheken und koloniale Kontexte. Einführung zum Themenschwerpunkt, in: o-bib, Das offene Bibliotheksjournal 11 (3) (E-Book), 2024, <<https://doi.org/10.5282/o-bib/6100>/>, Stand: 02.12.2024.
 
-Musée du Louvre, Paris, <[https://collections.louvre.fr/en/ark:/53355/cl010065532/](https://collections.louvre.fr/en/ark%3A/53355/cl010065532/)>, Stand: 08.07.2025.
+Musée du Louvre, Paris, <[https://collections.louvre.fr/en/ark:/53355/cl010065532](https://collections.louvre.fr/en/ark%3A/53355/cl010065532)>, Stand: 08.07.2025.
 
 Museum Fünf Kontinente, München, <<https://onlinedatenbank-museum-fuenf-kontinente.de/>>, Stand: 08.07.2025.
 
@@ -2243,6 +2243,8 @@ Nationaler Diskriminierungs- und Rassismusmonitor (Hg.): Rassismusforschung I. T
 o. A.: Benin verpflichtet. Wie mit geraubten Königsschätzen umgehen? [Ausstellung Völkerkunde Museum der Universität Zürich, 24.08.2024–14.09.2025], <<https://www.musethno.uzh.ch/de/ausstellungen/benin-verpflichtet.html>/>, Stand 16.05.2025.
 
 o. A.: Bust of Maria Cerri Capranica, Getty Center, Los Angeles, CA, <<https://www.getty.edu/art/collection/object/108GHT/>>, Stand: 08.07.2025.
+
+o. A.: Die schwarze Baden-Schenkung, in: Chronik der Stadt Zürich, 1. Februar 1913, <<https://www.e-newspaperarchives.ch/?a=d&d=CSZ19130201-01.2.2>>, Stand: 28.08.2025.
 
 o. A.: Erinnerungskultur. Kunst am Campus, ETH Zürich, <<https://art.ethz.ch/erinnerungskultur/>> , Stand: 12.08.2025.
 
@@ -2284,7 +2286,7 @@ Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schw
 
 Pyke, Karen D.: What Is Internalized Racial Oppression and Why Don't We Study It? Acknowledging Racism's Hidden Injuries, in: Sociological Perspectives 53:4, London 2010, S. 551–572.
 
-Rijksmuseum, Amsterdam, <<https://id.rijksmuseum.nl/200109696/>>, Stand: 08.07.2025.
+Rijksmuseum, Amsterdam, <<https://id.rijksmuseum.nl/200109696>>, Stand: 08.07.2025.
 
 Salzburg Museum, <<https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b/>>, Stand: 08.07.2025.
 
@@ -2306,9 +2308,9 @@ Schweizerisches Nationalmuseum, Zürich, <<https://sammlung.nationalmuseum.ch/de
 
 Silverman, David J.: Thundersticks. Firearms and the Violent Transformation of Native America, Cambridge, MA 2016.
 
-Staatliche Kunstsammlung Dresden, <<https://skd-online-collection.skd.museum/Details/Index/351932/>>, Stand: 08.07.2025.
+Staatliche Kunstsammlung Dresden, <<https://skd-online-collection.skd.museum/Details/Index/351932>>, Stand: 08.07.2025.
 
-Thiel, Sonja; Bernhardt, Johannes C. (Hg.): AI in Museums. Reflections, Perspectives and Applications (E-Book), 2023, <<https://doi.org/10.1515/9783839467107/>>, Stand: 18.08.2025.
+Thiel, Sonja; Bernhardt, Johannes C. (Hg.): AI in Museums. Reflections, Perspectives and Applications (E-Book), 2023, <<https://doi.org/10.1515/9783839467107>>, Stand: 18.08.2025.
 
 Turner, Hannah: Cataloguing Culture. Legacies of Colonialism in Museum Documentation, Vancouver; Toronto 2020.
 
@@ -2322,7 +2324,7 @@ Virtueller Lesesaal, ETH Zürich, <<https://vls.hsa.ethz.ch/client/#/de/suche/ei
 
 Virtueller Lesesaal, Diskriminierungsfreie Verzeichnis, Virtueller Lesesaal, ETH Zürich, <<https://vls.hsa.ethz.ch/client/#/de/nutzungsbestimmungen-und-datenschutz>/> , Stand: 12.08.2025.
 
-Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html/>>, Stand: 18.08.202.
+Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html/>>, Stand: 18.08.2025.
 
 Vogel, Christian: Sensibel werden. Theoretische Annäherungen an sensible Objekte und Sammlungen, in: Brandstetter, Anna-Marie; Hierholzer, Vera (Hg.): Nicht nur Raubkunst! Sensible Dinge in Museen und universitären Sammlungen, Göttingen 2018, S. 31–44.
 
