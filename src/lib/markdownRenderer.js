@@ -1,7 +1,7 @@
 import { marked } from "marked"
 import { mount, unmount } from "svelte"
 import { slugify }from "./utils"
-
+let ind = 0
 export function createMarkedRenderer(pageInfo) {
   const renderer = {
     image({ href, title, text, ...attrs }) {
@@ -22,7 +22,13 @@ export function createMarkedRenderer(pageInfo) {
       const chapter = headingNumber ? headingNumber.split(".")[0] : null
       let subChapter = headingNumber && headingNumber.split(".").length > 1 ? headingNumber.split(".")[1] : null
       if(subChapter?.startsWith("0")) subChapter = subChapter.replace(/^0+/, "") || ""
-      headingNumber = headingNumber ? `${+chapter-1}${subChapter ? "." + subChapter : ""}` : null
+      if(headingNumber && subChapter !== ""){
+        ind = ind + 1
+        console.log(subChapter, ind)
+      } else if (subChapter === ""){
+        ind = 0
+      }
+      headingNumber = headingNumber ? `${+chapter-1}${subChapter ? "." + ind : ""}` : null
       const id = slugify(headingText)
       const plainText = headingText.replace(/(?<!\\)[#_*~`[\]()>#+\=|{}.]/g, "")
       const escapedText = plainText.replace(/[\\]/g, '')

@@ -88,10 +88,11 @@
     font-family var(--font-header)
     max-width 89%
     break-before page
-    @media _mobile
+    @media _mobile 
       margin-top 0
       max-width 95%
     @media print
+      padding-top 1rem
       font-size calc(var(--title-font-size) * 0.8)
       max-width 100%
   h3
@@ -297,6 +298,7 @@
         display none
 
 :global(.doNotHyphen)
+:global(.doNotHyphen) *
   hyphens none
 
 
