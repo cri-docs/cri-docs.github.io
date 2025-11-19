@@ -158,7 +158,7 @@ o. A.: Kulturgüterstreit St. Gallen-Zürich. Erfolgreicher Abschluss der Vermit
 
 o. A.: Missionsspardose, Wikipedia, o. D., <<https://de.wikipedia.org/wiki/Missionsspardose>/>, Stand: 26.02.2025.  
 
-o. A.: Museumsdefinition, museums.ch, 2022, <<https://www.museums.ch/de/unser-engagement/schwerpunkte/neue-museumsdefinition-3413.html#:~:text=%C2%ABEin%20Museum%20ist%20eine%20nicht,f%C3%B6rdern%20Museen%20Diversit%C3%A4t%20und%20Nachhaltigkeit>/>, Stand: 05.05.2025.  
+o. A.: Museumsdefinition, museums.ch, 2022, <<https://www.museums.ch/de/unser-engagement/schwerpunkte/neue-museumsdefinition-3413.html>>Stand: 05.05.2025.  
 
 o. A.: «Rassendiagnose: Zigeuner». Der Völkermord an den Sinti und Roma und der lange Kampf um Anerkennung, SintiundRoma.org, o. D.,<<https://www.sintiundroma.org/de/einfuehrung/zigeuner-bilder/>>, Stand: 26.02.2025.  
 
