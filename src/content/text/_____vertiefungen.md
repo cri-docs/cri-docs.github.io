@@ -16,7 +16,7 @@ toc:
 
 [[start:citation]]
 
-«Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen Weissen und den von ihnen jeweils als ‹anders› hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als ‹Rasse› erfunden und rassistisch bewertet wurde bzw. wird.»[[204]](#footnote-205)  
+«Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen [*Weissen*](#_Schwarz/weiss) und den von ihnen jeweils als ‹anders› hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als ‹Rasse› erfunden und rassistisch bewertet wurde bzw. wird.»[[204]](#footnote-205)  
 
 [[end:citation]]
 
@@ -28,7 +28,7 @@ Nach Noah Sow muss «jede Historisierung des Rassismus […] bei der Antike anse
 
 #### *Mittelalter: Schwarze Menschen als religiöse und* ‹exotische› *Symbole*  
 
-Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz [Schwarze](#_Schwarz/weiss) Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als [Schwarze](#_Schwarz/weiss) wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht-weisse Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als [Schwarzer](#_Schwarz/weiss) Mann dargestellt wird.  
+Im Mittelalter (ca. 6.–15. Jh.) sind auf dem Gebiet der heutigen Schweiz [Schwarze](#_Schwarz/weiss) Menschen selten präsent, aber nicht unbekannt. Europäer:innen kommen bereits ab dem 8. Jh. mit muslimischen Menschen und Menschen vom afrikanischen Kontinent, die beide als «schwarz» gelesen und bezeichnet werden, in Kontakt. Im Wallis gibt es ab dem Beginn des 10. Jh. Kontakt mit Muslim:innen und als [Schwarze](#_Schwarz/weiss) wahrgenommenen Menschen, die sich auf den Alpenpässen ansiedeln und teilweise Kontrolle über die dort ansässige Bevölkerung übernehmen. Nicht[*weisse*](#_Schwarz/weiss) Personen und «Völker» spielen in der religiösen Kunst eine prägende Rolle. Hier treten sie insbesondere im Motiv der Heiligen Drei Könige in Erscheinung, wobei einer der Könige zunehmend als [Schwarzer](#_Schwarz/weiss) Mann dargestellt wird.  
 
 
 ![alt:Historisches Gemälde mit mehreren Personen in aufwendiger Kleidung. Maria mit dem Jesus-Kind sitzt, andere stehen oder knien daneben., extra:Abbildung : Altarflügel, AG 17, 1493. Schweizerisches Nationalmuseum © SNM](/images/image035.jpg)  

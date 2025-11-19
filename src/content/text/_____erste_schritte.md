@@ -20,7 +20,7 @@ Rassismus ist eine Ideologie, in der Menschen aufgrund äusserlicher Erscheinung
 
 ### Rassismus auf der individuellen Ebene  
 
-Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz/weiss)Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
+Individueller Rassismus kommt in der alltäglichen Interaktion in Form von rassistischen Einstellungen und Handlungen vor. Er speist sich aus erlernten Vorurteilen gegenüber bestimmten Menschengruppen und ist geprägt von der rassistischen Sozialisation, der sowohl [*weisse*](#_Schwarz/weiss) Menschen als auch [BIPoC](#_BIPoC) unterliegen. Individueller Rassismus kann sich offen als gewalttätige oder aggressive Handlung manifestieren, kann jedoch auch unbewusst zum Ausdruck kommen und subtil geäussert werden.[[13]](#footnote-14) Wenn rassistische Überzeugungen von rassifizierten[[14]](#footnote-15) Menschen selbst verinnerlicht werden, spricht man von internalisiertem Rassismus.[[15]](#footnote-16)  
 
 ### Struktureller Rassismus  
 
@@ -104,7 +104,7 @@ Struktureller oder institutioneller Rassismus sowie koloniale Machtverhältnisse
 
 ### Selbstverständlichkeit der Verschlagwortung  
 
-Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objekts](#_Objekt) oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz/weiss)*»* oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz/weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotenzial.  
+Manche Schlagwörter werden seit Jahrzehnten für bestimmte Aspekte eines [Objekts](#_Objekt) oder Bildinhalte vergeben, ohne dass sie kritisch hinterfragt werden. Schlagwörter wie «[*weiss*](#_Schwarz/weiss)» oder «europäisch» scheinen von europäischem Standpunkt aus irrelevant, während «[Schwarz](#_Schwarz/weiss)» oder «asiatisch» selbstverständlich vergeben werden. Bleibt die Dokumentationspraxis unreflektiert, birgt die Verschlagwortung auch Diskriminierungspotenzial.  
 
 * Gibt es Attribute eines [Objektes](#_Objekt) oder Bildinhalte, die je nach abgebildetem geografischem Ort anders beschlagwortet werden (z. B. Architektur: Haus oder Hütte oder Wohnhaus oder Behausung)?  
 * Welches sind (wertende) stereotype Attribute bei rassistischen Repräsentationen/Darstellungen, nach denen ich die Datenbank absuchen kann (z. B. primitiv, wild, einfach, Natur)?  
