@@ -2328,6 +2328,8 @@ Völkerkundemuseum der Universität Zürich: Erklärung des ISEK-Völkerkundemus
 Version 1.0, November 2025  
 © 2025. Diese Publikation erscheint open access unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) <img class="inline" alt="icon for the Copyright CC BY 4.0." src="/images/ccby.svg"/>  
 
+<https://zenodo.org/records/17657486>  
+
 [[start:doNotHyphen]]
 
 **Mitwirkende:**  
