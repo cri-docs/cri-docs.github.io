@@ -39,15 +39,18 @@
   pointer-events none
   @media _mobile
     position fixed
-    width 90vw
-    height 95dvh
+    width 95vw
+    height 98dvh
     left 50vw
     top 50vh
-    padding-bottom 0
+    padding-inline 0.9rem
+    padding-right 1.5rem
+    margin-top 0
     overflow scroll
     overscroll-behavior contain
     transform translate(-50%, -50%)
     z-index 50
+    pointer-events auto
     .close
       position absolute
       top 1rem
@@ -69,12 +72,17 @@
     -webkit-box-orient vertical
     -webkit-line-clamp var(--lines)
     overflow hidden
+    :global(.citation)
+      padding-top .5lh
+      padding-inline 2rem 
+      width 100%
     @media _mobile
       display block
       overflow visible
       max-height unset
       height auto
-      padding-block 1rem
+      :global(.citation)
+        padding-top 1lh
   .more
     position absolute
     bottom .5rem

@@ -24,7 +24,7 @@
   // yPercentage = $derived(mousePosition.y * 100) / document.body.clientHeight
   // $: xPercentage = (mousePosition.x * 100) / document.body.clientWidth
 
-  let showPopup = $state(false)
+  let showPopup = $state()
 
   const _id = id.toLowerCase()
 
@@ -68,7 +68,7 @@
     mousePosition.x =
       windowWidth - event.clientX > 500 ? event.clientX : windowWidth - 500
     mousePosition.y =
-      windowHeight - event.clientY > 500 ? event.clientY : windowHeight - 310
+      windowHeight - event.clientY > 360 ? event.clientY : windowHeight - 360
   }
 
   const handleClickOutside = (event) => {
