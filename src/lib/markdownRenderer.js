@@ -1,8 +1,8 @@
 import { marked } from "marked"
 import { mount, unmount } from "svelte"
 import { slugify }from "./utils"
-let ind = 0
 export function createMarkedRenderer(pageInfo) {
+  let ind = 0
   const renderer = {
     image({ href, title, text, ...attrs }) {
       let _text = text.replaceAll("alt:", "")
@@ -14,7 +14,7 @@ export function createMarkedRenderer(pageInfo) {
         </figure>`
     },
     heading({text, depth, raw, type}) {
-      // const id = slugify(text)
+      const prefIndex = pageInfo?.pageIndex 
       const _depth = depth + 1
       const headingNumberMatch = text.match(/^[\d.]+/)
       let headingNumber = headingNumberMatch ? headingNumberMatch[0] : null
@@ -24,7 +24,6 @@ export function createMarkedRenderer(pageInfo) {
       if(subChapter?.startsWith("0")) subChapter = subChapter.replace(/^0+/, "") || ""
       if(headingNumber && subChapter !== ""){
         ind = ind + 1
-        console.log(subChapter, ind)
       } else if (subChapter === ""){
         ind = 0
       }
