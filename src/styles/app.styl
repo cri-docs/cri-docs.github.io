@@ -59,7 +59,7 @@
 
 @media _mobile
   :root
-    --header-width-full 100vw
+    --header-width-full 100dvw
 
     --text-container-width 100vw
     --index-width 100vw
@@ -147,7 +147,7 @@ body
   width 100vw
 
 body
-  min-height calc(100vh + 0.5px)
+  min-height 100vh
   margin 0
   padding 0
   font-family var(--font), sans-serif
@@ -156,6 +156,8 @@ body
   font-size var(--font-size)
   line-height 1.15
   color var(--color)
+  @media _mobile
+    min-height 100dvh
 
 p
   hyphens auto
