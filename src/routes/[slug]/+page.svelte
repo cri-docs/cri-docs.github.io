@@ -8,7 +8,6 @@
   import Text from "./Text.svelte"
   import { writable } from "svelte/store"
   import { page } from "$app/stores"
-  import { markdown } from "$lib/markdownRenderer.js"
   import { isLoading } from "$lib"
   import External from "./types/External.svelte"
   import { fly } from "svelte/transition"
@@ -20,18 +19,6 @@
   let { data } = $props()
   let { sites, site } = $page.data
 
-  const marked = markdown({
-    pageIndex: data?.site?.fields?.index,
-    data: data.site.fields,
-  })
-
-  const mark = $derived.by(() => {
-    if (typeof window === "undefined") {
-      return undefined
-    } else {
-      return marked(data.site.content)
-    }
-  })
   const currentFootnote = writable(null)
 
   const nextPost = $derived.by(() => {
@@ -127,8 +114,8 @@
       {/if}
       {data.site.fields.title}
     </h2>
-    {#if mark}
-      <Text {mark} />
+    {#if data?.site?.content}
+      <Text {data} />
     {:else}
       <p>Loading content...</p>
     {/if}

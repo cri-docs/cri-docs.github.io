@@ -6,7 +6,7 @@
   width var(--w)
   margin-left clamp(var(--current-index-width),100vw, var(--l))
   padding-inline calc(var(--padding)) // update
-  padding-left calc(var(--padding) * 2)
+  padding-left calc(var(--padding) * 2.5)
   hyphens auto
   font-size var(--text-font-size)
   transition margin 0.5s, width 0.5s
@@ -111,11 +111,16 @@
     right 100%
     text-align right
     display inline
-    padding-right 1rem
+    padding-right 0.4ch
     @media _mobile
       position relative
       right unset
       padding unset
+  // :not(:global([data-number]))::before
+  //   content ""
+  //   width  30px
+  //   height 20px
+  //   background-color red  
   ol
   ul
     margin-top 0

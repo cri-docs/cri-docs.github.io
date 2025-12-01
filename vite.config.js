@@ -1,5 +1,11 @@
 import { sveltekit } from "@sveltejs/kit/vite"
 import { defineConfig, loadEnv } from 'vite'
+import { readFileSync } from 'fs';
+import { fileURLToPath } from 'url';
+
+const file = fileURLToPath(new URL('package.json', import.meta.url));
+const json = readFileSync(file, 'utf8');
+const pkg = JSON.parse(json);
 // import { injectStylusBreakpoints } from "@azt/responsive/vite"
 
 import path from 'path'
@@ -67,7 +73,10 @@ export default ({ mode })=> {
 		  alias: {
 			  '|': path.resolve(__dirname, 'src')
 		  }
-	  }
+	  },
+    define: {
+      PKG: pkg
+    }
   })
 }
 

@@ -82,6 +82,13 @@
     z-index 5
     overflow-y auto
     overscroll-behavior contain
+    .version
+      position absolute
+      bottom 0
+      font-size 0.7em
+      @media _mobile
+        position relative
+        bottom unset
     li
       &.extra
           margin-top 2rem

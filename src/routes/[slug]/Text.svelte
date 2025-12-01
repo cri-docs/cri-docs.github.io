@@ -4,8 +4,17 @@
   import { activeHeader, headerIsOpen } from "$lib/state.svelte"
   import CustomFootnotes from "./Footnotes/CustomFootnotes/CustomFootnotes.svelte"
   import CustomGlossary from "./Glossary/CustomGlossary.svelte"
+  import { markdown } from "$lib/markdownRenderer.js"
+  let { data } = $props()
 
-  const { mark } = $props()
+  const marked = markdown({
+    pageIndex: data?.site?.fields?.index,
+    data: data?.site?.fields,
+  })
+
+  const mark = $derived.by(() => {
+    return marked(data?.site?.content)
+  })
 
   let y = $state(0)
   let prevY = $state(0)

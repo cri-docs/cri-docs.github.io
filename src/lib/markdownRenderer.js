@@ -14,7 +14,6 @@ export function createMarkedRenderer(pageInfo) {
         </figure>`
     },
     heading({text, depth, raw, type}) {
-      const prefIndex = pageInfo?.pageIndex 
       const _depth = depth + 1
       const headingNumberMatch = text.match(/^[\d.]+/)
       let headingNumber = headingNumberMatch ? headingNumberMatch[0] : null
@@ -28,6 +27,7 @@ export function createMarkedRenderer(pageInfo) {
         ind = 0
       }
       headingNumber = headingNumber ? `${+chapter-1}${subChapter ? "." + ind : ""}` : null
+      if(pageInfo?.pageIndex === "extra") headingNumber = null
       const id = slugify(headingText)
       const plainText = headingText.replace(/(?<!\\)[#_*~`[\]()>#+\=|{}.]/g, "")
       const escapedText = plainText.replace(/[\\]/g, '')

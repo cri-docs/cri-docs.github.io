@@ -139,6 +139,7 @@
   {:else if activeSubPage === "about"}
     <div class={[styles.imprint, styles.otherSubContainer].join(" ")}>
       {@html markAbout}
+      <p class={[styles.version].join(" ")}>Website Version: {PKG.version}</p>
     </div>
   {:else if activeSubPage === "index"}
     <nav class={styles.menuSubContainer}>
