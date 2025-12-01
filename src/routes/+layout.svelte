@@ -83,9 +83,9 @@
     !$menuIsOpen ? styles.collapsed : "",
   ].join(" ")}
 >
-  {#if $page?.route?.id !== "/print"}
+  {#if $page?.route?.id !== "/print" && sites}
     <Header />
-    <Navigation {sites} />
+    <!-- <Navigation {sites} /> -->
   {/if}
   <button class={styles.print} onclick={printPDF}>
     <BiPrinter />

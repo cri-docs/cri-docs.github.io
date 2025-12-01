@@ -13,6 +13,7 @@
   })
 
   const mark = $derived.by(() => {
+    if (typeof window === "undefined") return undefined
     return marked(data?.site?.content)
   })
 
@@ -78,4 +79,4 @@
 
 <svelte:window bind:scrollY={y} />
 
-{@html mark}
+{#if mark}{@html mark}{/if}

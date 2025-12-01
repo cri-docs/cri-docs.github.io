@@ -10,14 +10,14 @@
   const isFullyCollapsed = $derived(!$headerIsOpen)
   const nextPost = $derived.by(() => {
     const currentIndex = sites.findIndex(
-      (site) => site.fields.slug === $page.data.site.fields.slug
+      (site) => site?.fields?.slug === $page.data?.site?.fields?.slug
     )
     return currentIndex < sites.length - 1 ? sites[currentIndex + 1] : undefined
   })
 
   const previousPost = $derived.by(() => {
     const currentIndex = sites.findIndex(
-      (site) => site.fields.slug === $page.data.site.fields.slug
+      (site) => site?.fields.slug === $page.data.site.fields.slug
     )
     return currentIndex > 0 ? sites[currentIndex - 1] : undefined
   })
