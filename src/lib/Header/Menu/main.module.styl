@@ -43,7 +43,10 @@
         text-orientation mixed
         border-right none
       &:global(.active)
-        border-right 2px solid #ffffff
+        border-color #ffffff
+        border-width 2px
+        @supports (-moz-appearance: none) // so firefox menu does not shift around
+          border-width 1px
         @media _mobile
           border-right none
           text-decoration underline
@@ -105,8 +108,9 @@
     a
       text-decoration underline
       text-underline-offset 0.2rem
-      &:hover
-        opacity 0.8
+      @media (hover:hover)
+        &:hover
+          opacity 0.8
     h2
       font-size inherit
     ul

@@ -6,6 +6,7 @@ import { fileURLToPath } from 'url';
 const file = fileURLToPath(new URL('package.json', import.meta.url));
 const json = readFileSync(file, 'utf8');
 const pkg = JSON.parse(json);
+console.log("PKG",pkg);
 // import { injectStylusBreakpoints } from "@azt/responsive/vite"
 
 import path from 'path'

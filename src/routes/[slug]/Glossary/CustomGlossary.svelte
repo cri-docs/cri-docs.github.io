@@ -103,7 +103,7 @@
     )}
   </span>
 </button>
-{#if showPopup}
+{#if showPopup && glossaryTerm?.name}
   <div
     class={styles.popup}
     style={`top: ${!$isMobile ? mousePosition.y + 20 : undefined}px; left: ${!$isMobile ? mousePosition.x : undefined}px`}
