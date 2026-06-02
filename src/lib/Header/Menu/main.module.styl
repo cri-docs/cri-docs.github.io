@@ -177,6 +177,11 @@
               width 3.1ch
 
   .otherSubContainer
+    :global(.event)
+      border-bottom white 1px solid
+      border-top white 1px solid
+      ~ :global(.event)
+        border-top 0
     ul
       li
         position relative

@@ -3,6 +3,7 @@
   import { activeHeader, headerIsOpen, menuIsOpen } from "$lib/state.svelte"
   import aboutData from "|/content/text/about.json"
   import disclaimerData from "|/content/text/infobox.json"
+  import eventData from "|/content/text/events.json"
   import { slugify } from "$lib/utils.js"
   import { page } from "$app/stores"
   import { goto, replaceState } from "$app/navigation"
@@ -40,6 +41,15 @@
       return undefined
     } else {
       return marked(aboutData?.about)
+    }
+  })
+
+  const markEvents = $derived.by(() => {
+    if (typeof window === "undefined") {
+      return undefined
+    } else {
+      console.log(eventData)
+      return marked(eventData?.events)
     }
   })
 
@@ -131,6 +141,10 @@
       class:active={activeSubPage === "about"}
       onclick={() => setSubPage("about")}>Über uns</button
     >
+    <button
+      class:active={activeSubPage === "events"}
+      onclick={() => setSubPage("events")}>Veranstaltungen</button
+    >
   </nav>
   {#if activeSubPage === "disclaimer"}
     <div class={[styles.disclaimer, styles.otherSubContainer].join(" ")}>
@@ -139,6 +153,11 @@
   {:else if activeSubPage === "about"}
     <div class={[styles.imprint, styles.otherSubContainer].join(" ")}>
       {@html markAbout}
+      <p class={[styles.version].join(" ")}>Website Version: {PKG.version}</p>
+    </div>
+  {:else if activeSubPage === "events"}
+    <div class={[styles.imprint, styles.otherSubContainer].join(" ")}>
+      {@html markEvents}
       <p class={[styles.version].join(" ")}>Website Version: {PKG.version}</p>
     </div>
   {:else if activeSubPage === "index"}
