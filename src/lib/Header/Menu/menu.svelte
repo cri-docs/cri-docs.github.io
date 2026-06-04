@@ -141,10 +141,12 @@
       class:active={activeSubPage === "about"}
       onclick={() => setSubPage("about")}>Über uns</button
     >
-    <button
-      class:active={activeSubPage === "activities"}
-      onclick={() => setSubPage("activities")}>Aktivitäten</button
-    >
+    {#if markActivities}
+      <button
+        class:active={activeSubPage === "activities"}
+        onclick={() => setSubPage("activities")}>Aktivitäten</button
+      >
+    {/if}
   </nav>
   {#if activeSubPage === "disclaimer"}
     <div class={[styles.disclaimer, styles.otherSubContainer].join(" ")}>
