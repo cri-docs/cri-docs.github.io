@@ -66,7 +66,7 @@ E-Pics, Bildarchiv ETH Zürich, <<https://ba.e-pics.ethz.ch/>>, Stand: 12.08.202
 
 E-Pics, Bildarchiv ETH Zürich: Dia\_006-074, <<http://doi.org/10.3932/ethz-a-000024423>/>, Stand: 08.07.2025.  
 
-E-Pics, Bildarchiv ETH Zürich: Koloniale Materialien: <[https://wil.e-pics.ethz.ch/#categories-node=e378612c-38a1-4908-ac27-8c309e2db10f&1602151120741\_0](https://wil.e-pics.ethz.ch/%22%20%5Cl%20%22categories-node%3De378612c-38a1-4908-ac27-8c309e2db10f%261602151120741_0)>, Stand: 12.08.2025.  
+E-Pics, Bildarchiv ETH Zürich: Koloniale Materialien: <<https://wil.e-pics.ethz.ch/#categories-node=e378612c-38a1-4908-ac27-8c309e2db10f&1602151120741_0>>, Stand: 12.08.2025.  
 
 Europeana (Hg.): DE-BIAS. Detecting and cur(at)ing harmful language in cultural heritage collections, <<https://pro.europeana.eu/project/de-bias>/>, Stand: 20.05.2025.  
 
@@ -168,7 +168,7 @@ o. A.: Ready for the Past? On the State of Decolonization in Swiss Museums [Tagu
 
 o. A.: Sensibel, problematisch, umstritten? Herausforderungen und Chancen im Umgang mit kulturellem Erbe in Museen [Tagung Zürich, 20.-22.11.2024], <<https://www.landesmuseum.ch/de/veranstaltung/internationale-konferenz-28655>/>, Stand: 22.04.2025.  
 
-o. A.: Sinti und Roma Antiziganismus. Definition Stereotype, Gedenkstätten in Baden-Württemberg, Landeszentrale für politische Bildung Baden-Württemberg, o. D., <[https://www.gedenkstaetten-bw.de/sinti-roma-antiziganismus#c38046](https://www.gedenkstaetten-bw.de/sinti-roma-antiziganismus%22%20%5Cl%20%22c38046)/>, Stand: 26.02.2025.  
+o. A.: Sinti und Roma Antiziganismus. Definition Stereotype, Gedenkstätten in Baden-Württemberg, Landeszentrale für politische Bildung Baden-Württemberg, o. D., <<https://www.gedenkstaetten-bw.de/sinti-roma-antiziganismus#c38046>/>, Stand: 26.02.2025.  
 
 o. A.: What’s in a Name?, AGOinsider, 23.05.2018, <<https://ago.ca/agoinsider/whats-name>>, Stand: 08.07.2025.  
 
@@ -218,9 +218,9 @@ Victoria and Albert Museum, London, Equality, Diversity and Inclusion (EDI) at t
 
 Victoria and Albert Museum, London, <<https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william>/>, Stand: 08.07.2025.  
 
-Virtueller Lesesaal, ETH Zürich, <[https://vls.hsa.ethz.ch/client/#/de/suche/einfach](https://vls.hsa.ethz.ch/client/%22%20%5Cl%20%22/de/suche/einfach)/>, Stand: 12.08.2025.  
+Virtueller Lesesaal, ETH Zürich, <<https://vls.hsa.ethz.ch/client/#/de/suche/einfach>/>, Stand: 12.08.2025.  
 
-Virtueller Lesesaal, Diskriminierungsfreie Verzeichnis, Virtueller Lesesaal, ETH Zürich, <[https://vls.hsa.ethz.ch/client/#/de/nutzungsbestimmungen-und-datenschutz](https://vls.hsa.ethz.ch/client/%22%20%5Cl%20%22/de/nutzungsbestimmungen-und-datenschutz)/> , Stand: 12.08.2025.  
+Virtueller Lesesaal, Diskriminierungsfreie Verzeichnis, Virtueller Lesesaal, ETH Zürich, <<https://vls.hsa.ethz.ch/client/#/de/nutzungsbestimmungen-und-datenschutz>/> , Stand: 12.08.2025.  
 
 Verband der Museen der Schweiz (Hg.): Webdossier: KI im Museum, museums.ch, <<https://www.museums.ch/de/unser-engagement/mitteilungen/aktuelles/webdossier-ki-im-museum-6966.html/>>, Stand: 18.08.2025.  
 
